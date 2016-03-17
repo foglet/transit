@@ -1,0 +1,1378 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-31T09:18:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/299063302",
+      "properties": {
+        "@id": "way/299063302",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.4009972,
+            20.6072194
+          ],
+          [
+            -103.3956849,
+            20.6137256
+          ],
+          [
+            -103.3894273,
+            20.6214045
+          ],
+          [
+            -103.3863159,
+            20.6252257
+          ],
+          [
+            -103.3850392,
+            20.6267695
+          ],
+          [
+            -103.380627,
+            20.6327814
+          ],
+          [
+            -103.3782374,
+            20.6360584
+          ],
+          [
+            -103.3769953,
+            20.638123
+          ],
+          [
+            -103.3766409,
+            20.6386479
+          ],
+          [
+            -103.3757826,
+            20.6397395
+          ],
+          [
+            -103.3728083,
+            20.6431004
+          ],
+          [
+            -103.3704124,
+            20.6458359
+          ],
+          [
+            -103.3691927,
+            20.6473422
+          ],
+          [
+            -103.3674652,
+            20.6495707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26810108",
+      "properties": {
+        "@id": "way/26810108",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3403902,
+            "reltags": {
+              "name": "Línea 2",
+              "ref": "2",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.2759828,
+            20.6597677
+          ],
+          [
+            -103.2774956,
+            20.6599223
+          ],
+          [
+            -103.2777358,
+            20.6600271
+          ],
+          [
+            -103.2781362,
+            20.6601822
+          ],
+          [
+            -103.2785577,
+            20.6604504
+          ],
+          [
+            -103.2788065,
+            20.6606142
+          ],
+          [
+            -103.2796808,
+            20.6612412
+          ],
+          [
+            -103.2800732,
+            20.6614766
+          ],
+          [
+            -103.2804706,
+            20.6616144
+          ],
+          [
+            -103.2809861,
+            20.6617001
+          ],
+          [
+            -103.2832481,
+            20.6620819
+          ],
+          [
+            -103.2855539,
+            20.6624136
+          ],
+          [
+            -103.2868158,
+            20.6625788
+          ],
+          [
+            -103.2884207,
+            20.6625844
+          ],
+          [
+            -103.2973043,
+            20.6638434
+          ],
+          [
+            -103.3006285,
+            20.6643247
+          ],
+          [
+            -103.3039636,
+            20.6646265
+          ],
+          [
+            -103.3043499,
+            20.6647068
+          ],
+          [
+            -103.3060701,
+            20.665218
+          ],
+          [
+            -103.3134117,
+            20.6674724
+          ],
+          [
+            -103.3225136,
+            20.670238
+          ],
+          [
+            -103.3314649,
+            20.67271
+          ],
+          [
+            -103.3404652,
+            20.675079
+          ],
+          [
+            -103.3413654,
+            20.6752675
+          ],
+          [
+            -103.3443782,
+            20.6752018
+          ],
+          [
+            -103.3480945,
+            20.6750926
+          ],
+          [
+            -103.354748,
+            20.674897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26810148",
+      "properties": {
+        "@id": "way/26810148",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.3548891,
+            20.7134366
+          ],
+          [
+            -103.3558001,
+            20.7111735
+          ],
+          [
+            -103.3558471,
+            20.7110442
+          ],
+          [
+            -103.3558864,
+            20.710914
+          ],
+          [
+            -103.3561522,
+            20.7096074
+          ],
+          [
+            -103.3561639,
+            20.7095222
+          ],
+          [
+            -103.3561695,
+            20.7094274
+          ],
+          [
+            -103.3561744,
+            20.709339
+          ],
+          [
+            -103.3561684,
+            20.7092361
+          ],
+          [
+            -103.3561527,
+            20.709127
+          ],
+          [
+            -103.3561319,
+            20.7090288
+          ],
+          [
+            -103.3561075,
+            20.7089425
+          ],
+          [
+            -103.3560743,
+            20.7088511
+          ],
+          [
+            -103.3554705,
+            20.7077003
+          ],
+          [
+            -103.3549382,
+            20.706677
+          ],
+          [
+            -103.3548531,
+            20.7064638
+          ],
+          [
+            -103.3547979,
+            20.7061684
+          ],
+          [
+            -103.3547876,
+            20.7056503
+          ],
+          [
+            -103.3547594,
+            20.7036887
+          ],
+          [
+            -103.3549928,
+            20.6981112
+          ],
+          [
+            -103.355061,
+            20.6966986
+          ],
+          [
+            -103.3550476,
+            20.6964268
+          ],
+          [
+            -103.3550138,
+            20.6961408
+          ],
+          [
+            -103.3549526,
+            20.6958578
+          ],
+          [
+            -103.3548569,
+            20.6955632
+          ],
+          [
+            -103.3540944,
+            20.6937041
+          ],
+          [
+            -103.354022,
+            20.6933984
+          ],
+          [
+            -103.3540083,
+            20.6931953
+          ],
+          [
+            -103.3539193,
+            20.6914928
+          ],
+          [
+            -103.3538494,
+            20.6896482
+          ],
+          [
+            -103.3538688,
+            20.6886563
+          ],
+          [
+            -103.3540291,
+            20.6837582
+          ],
+          [
+            -103.3540888,
+            20.6822147
+          ],
+          [
+            -103.354103,
+            20.6818565
+          ],
+          [
+            -103.3541207,
+            20.68138
+          ],
+          [
+            -103.3541745,
+            20.6800579
+          ],
+          [
+            -103.354233,
+            20.6786105
+          ],
+          [
+            -103.3542811,
+            20.6783765
+          ],
+          [
+            -103.3543618,
+            20.6781602
+          ],
+          [
+            -103.3544528,
+            20.67802
+          ],
+          [
+            -103.3545948,
+            20.6777516
+          ],
+          [
+            -103.354663,
+            20.677551
+          ],
+          [
+            -103.3547089,
+            20.6772825
+          ],
+          [
+            -103.354748,
+            20.674897
+          ],
+          [
+            -103.3547932,
+            20.6696715
+          ],
+          [
+            -103.3548448,
+            20.6689191
+          ],
+          [
+            -103.3553663,
+            20.6670228
+          ],
+          [
+            -103.3560895,
+            20.664429
+          ],
+          [
+            -103.3574675,
+            20.6610785
+          ],
+          [
+            -103.3577058,
+            20.6605119
+          ],
+          [
+            -103.3577724,
+            20.6603569
+          ],
+          [
+            -103.3579063,
+            20.6601123
+          ],
+          [
+            -103.3580294,
+            20.6599565
+          ],
+          [
+            -103.3581405,
+            20.6598586
+          ],
+          [
+            -103.3594585,
+            20.6592128
+          ],
+          [
+            -103.359652,
+            20.6590666
+          ],
+          [
+            -103.3597773,
+            20.6589535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128695747",
+      "properties": {
+        "@id": "way/128695747",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.3664175,
+            20.6508958
+          ],
+          [
+            -103.3674652,
+            20.6495707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26810143",
+      "properties": {
+        "@id": "way/26810143",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.3597773,
+            20.6589535
+          ],
+          [
+            -103.3614147,
+            20.6571045
+          ],
+          [
+            -103.3620933,
+            20.6563137
+          ],
+          [
+            -103.3637014,
+            20.6543066
+          ],
+          [
+            -103.3664175,
+            20.6508958
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26809929",
+      "properties": {
+        "@id": "way/26809929",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.3522347,
+            20.7308373
+          ],
+          [
+            -103.3529781,
+            20.7291592
+          ],
+          [
+            -103.3530811,
+            20.7288141
+          ],
+          [
+            -103.3531498,
+            20.7285331
+          ],
+          [
+            -103.3532185,
+            20.7281478
+          ],
+          [
+            -103.3532185,
+            20.7278508
+          ],
+          [
+            -103.3531248,
+            20.7224364
+          ],
+          [
+            -103.3531562,
+            20.7220567
+          ],
+          [
+            -103.3532471,
+            20.7214916
+          ],
+          [
+            -103.3533711,
+            20.720922
+          ],
+          [
+            -103.3536004,
+            20.7198463
+          ],
+          [
+            -103.3544221,
+            20.7159908
+          ],
+          [
+            -103.3545755,
+            20.7150495
+          ],
+          [
+            -103.3545755,
+            20.7145377
+          ],
+          [
+            -103.3546292,
+            20.7141362
+          ],
+          [
+            -103.3547794,
+            20.7137449
+          ],
+          [
+            -103.3548891,
+            20.7134366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294098507",
+      "properties": {
+        "@id": "node/294098507",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4009972,
+          20.6072194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294098506",
+      "properties": {
+        "@id": "node/294098506",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3956849,
+          20.6137256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294098504",
+      "properties": {
+        "@id": "node/294098504",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3850392,
+          20.6267695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294098505",
+      "properties": {
+        "@id": "node/294098505",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3894273,
+          20.6214045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294098503",
+      "properties": {
+        "@id": "node/294098503",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.380627,
+          20.6327814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294099622",
+      "properties": {
+        "@id": "node/294099622",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3769953,
+          20.638123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294098625",
+      "properties": {
+        "@id": "node/294098625",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3728083,
+          20.6431004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294099620",
+      "properties": {
+        "@id": "node/294099620",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3691927,
+          20.6473422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1442653798",
+      "properties": {
+        "@id": "node/1442653798",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3637014,
+          20.6543066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1347312520",
+      "properties": {
+        "@id": "node/1347312520",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3574675,
+          20.6610785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291260327",
+      "properties": {
+        "@id": "node/291260327",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3553663,
+          20.6670228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340135816",
+      "properties": {
+        "@id": "node/340135816",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403902,
+            "reltags": {
+              "name": "Línea 2",
+              "ref": "2",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3314649,
+          20.67271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340135815",
+      "properties": {
+        "@id": "node/340135815",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403902,
+            "reltags": {
+              "name": "Línea 2",
+              "ref": "2",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3225136,
+          20.670238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340135813",
+      "properties": {
+        "@id": "node/340135813",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403902,
+            "reltags": {
+              "name": "Línea 2",
+              "ref": "2",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3134117,
+          20.6674724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340135808",
+      "properties": {
+        "@id": "node/340135808",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403902,
+            "reltags": {
+              "name": "Línea 2",
+              "ref": "2",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3060701,
+          20.665218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340135807",
+      "properties": {
+        "@id": "node/340135807",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403902,
+            "reltags": {
+              "name": "Línea 2",
+              "ref": "2",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2973043,
+          20.6638434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340135806",
+      "properties": {
+        "@id": "node/340135806",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403902,
+            "reltags": {
+              "name": "Línea 2",
+              "ref": "2",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2855539,
+          20.6624136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294103851",
+      "properties": {
+        "@id": "node/294103851",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403902,
+            "reltags": {
+              "name": "Línea 2",
+              "ref": "2",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2759828,
+          20.6597677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/801551300",
+      "properties": {
+        "@id": "node/801551300",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 3403902,
+            "reltags": {
+              "name": "Línea 2",
+              "ref": "2",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.354748,
+          20.674897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294102690",
+      "properties": {
+        "@id": "node/294102690",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3540888,
+          20.6822147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1430300045",
+      "properties": {
+        "@id": "node/1430300045",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403902,
+            "reltags": {
+              "name": "Línea 2",
+              "ref": "2",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3480945,
+          20.6750926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340135817",
+      "properties": {
+        "@id": "node/340135817",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403902,
+            "reltags": {
+              "name": "Línea 2",
+              "ref": "2",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3404652,
+          20.675079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294102688",
+      "properties": {
+        "@id": "node/294102688",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3539193,
+          20.6914928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294101522",
+      "properties": {
+        "@id": "node/294101522",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3549928,
+          20.6981112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294101518",
+      "properties": {
+        "@id": "node/294101518",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3554705,
+          20.7077003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294102492",
+      "properties": {
+        "@id": "node/294102492",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3544221,
+          20.7159908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294102491",
+      "properties": {
+        "@id": "node/294102491",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3533711,
+          20.720922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/294102485",
+      "properties": {
+        "@id": "node/294102485",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3403901,
+            "reltags": {
+              "name": "Línea 1",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3522347,
+          20.7308373
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2388 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-11T21:00:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/125606165",
+      "properties": {
+        "@id": "way/125606165",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5177518,
+            55.8724527
+          ],
+          [
+            26.5164694,
+            55.8719766
+          ],
+          [
+            26.5151059,
+            55.8714703
+          ],
+          [
+            26.5149421,
+            55.8713318
+          ],
+          [
+            26.5149108,
+            55.8711544
+          ],
+          [
+            26.5150591,
+            55.8709707
+          ],
+          [
+            26.5154313,
+            55.8705991
+          ],
+          [
+            26.5162602,
+            55.8699789
+          ],
+          [
+            26.5164398,
+            55.869715
+          ],
+          [
+            26.5171504,
+            55.868989
+          ],
+          [
+            26.5171908,
+            55.8689272
+          ],
+          [
+            26.5173651,
+            55.8687719
+          ],
+          [
+            26.5181239,
+            55.8681157
+          ],
+          [
+            26.5182073,
+            55.8680345
+          ],
+          [
+            26.5190632,
+            55.8672427
+          ],
+          [
+            26.5199773,
+            55.8664135
+          ],
+          [
+            26.5207436,
+            55.86574
+          ],
+          [
+            26.5208644,
+            55.8656924
+          ],
+          [
+            26.5211473,
+            55.865693
+          ],
+          [
+            26.5216965,
+            55.8658629
+          ],
+          [
+            26.524711,
+            55.8665508
+          ],
+          [
+            26.5268179,
+            55.8670628
+          ],
+          [
+            26.528333,
+            55.8674694
+          ],
+          [
+            26.5285096,
+            55.867514
+          ],
+          [
+            26.5290559,
+            55.8676463
+          ],
+          [
+            26.5309738,
+            55.8680916
+          ],
+          [
+            26.5325942,
+            55.8683428
+          ],
+          [
+            26.5330846,
+            55.868458
+          ],
+          [
+            26.533913,
+            55.8686526
+          ],
+          [
+            26.5343413,
+            55.8686997
+          ],
+          [
+            26.5347862,
+            55.8687775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23750249",
+      "properties": {
+        "@id": "way/23750249",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5031951,
+            55.8787496
+          ],
+          [
+            26.5025478,
+            55.8788317
+          ],
+          [
+            26.5023395,
+            55.878855
+          ],
+          [
+            26.5021893,
+            55.8788805
+          ],
+          [
+            26.5021061,
+            55.8789136
+          ],
+          [
+            26.5020498,
+            55.8789618
+          ],
+          [
+            26.502023,
+            55.8790205
+          ],
+          [
+            26.5020129,
+            55.879092
+          ],
+          [
+            26.5020498,
+            55.8791634
+          ],
+          [
+            26.5021651,
+            55.8792176
+          ],
+          [
+            26.5022939,
+            55.8792522
+          ],
+          [
+            26.5024039,
+            55.8792522
+          ],
+          [
+            26.5024924,
+            55.8792266
+          ],
+          [
+            26.5027311,
+            55.8790776
+          ],
+          [
+            26.5029671,
+            55.8789046
+          ],
+          [
+            26.5030058,
+            55.8788783
+          ],
+          [
+            26.5031951,
+            55.8787496
+          ],
+          [
+            26.5036871,
+            55.8784474
+          ],
+          [
+            26.5039106,
+            55.8783932
+          ],
+          [
+            26.5040132,
+            55.8783885
+          ],
+          [
+            26.5051085,
+            55.8783408
+          ],
+          [
+            26.508549,
+            55.8782181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370852159",
+      "properties": {
+        "@id": "way/370852159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5087258,
+            55.878211
+          ],
+          [
+            26.5090558,
+            55.8781776
+          ],
+          [
+            26.510764,
+            55.8777366
+          ],
+          [
+            26.5111371,
+            55.8776377
+          ],
+          [
+            26.5120067,
+            55.877409
+          ],
+          [
+            26.5123426,
+            55.8773301
+          ],
+          [
+            26.5131233,
+            55.8771469
+          ],
+          [
+            26.5134122,
+            55.8770791
+          ],
+          [
+            26.5136374,
+            55.8769806
+          ],
+          [
+            26.5137756,
+            55.8769202
+          ],
+          [
+            26.5163006,
+            55.8744986
+          ],
+          [
+            26.5163675,
+            55.8744273
+          ],
+          [
+            26.5164499,
+            55.874335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370852158",
+      "properties": {
+        "@id": "way/370852158",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.508549,
+            55.8782181
+          ],
+          [
+            26.5087258,
+            55.878211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22766766",
+      "properties": {
+        "@id": "way/22766766",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5241349,
+            55.8754037
+          ],
+          [
+            26.5242566,
+            55.8755339
+          ],
+          [
+            26.5244467,
+            55.8757727
+          ],
+          [
+            26.5246525,
+            55.8763209
+          ],
+          [
+            26.5247452,
+            55.8763976
+          ],
+          [
+            26.5249007,
+            55.8764496
+          ],
+          [
+            26.5250388,
+            55.876452
+          ],
+          [
+            26.5251945,
+            55.8763976
+          ],
+          [
+            26.5255134,
+            55.8760345
+          ],
+          [
+            26.5254962,
+            55.875949
+          ],
+          [
+            26.5248502,
+            55.8756536
+          ],
+          [
+            26.5241349,
+            55.8754037
+          ],
+          [
+            26.5220001,
+            55.8744622
+          ],
+          [
+            26.5213867,
+            55.8741368
+          ],
+          [
+            26.5181591,
+            55.8726099
+          ],
+          [
+            26.5177518,
+            55.8724527
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367495299",
+      "properties": {
+        "@id": "way/367495299",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.51653,
+            55.8742446
+          ],
+          [
+            26.5179139,
+            55.872884
+          ],
+          [
+            26.5180052,
+            55.8727342
+          ],
+          [
+            26.5179584,
+            55.8725925
+          ],
+          [
+            26.5177518,
+            55.8724527
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125706517",
+      "properties": {
+        "@id": "way/125706517",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5580032,
+            55.8810969
+          ],
+          [
+            26.5582669,
+            55.8811809
+          ],
+          [
+            26.5591831,
+            55.8814086
+          ],
+          [
+            26.5602018,
+            55.881683
+          ],
+          [
+            26.5620657,
+            55.8822819
+          ],
+          [
+            26.5648695,
+            55.8832248
+          ],
+          [
+            26.5667306,
+            55.883856
+          ],
+          [
+            26.5686665,
+            55.8844704
+          ],
+          [
+            26.5695694,
+            55.8847486
+          ],
+          [
+            26.5704054,
+            55.8850062
+          ],
+          [
+            26.5736762,
+            55.8861388
+          ],
+          [
+            26.5748456,
+            55.8865119
+          ],
+          [
+            26.5796247,
+            55.888055
+          ],
+          [
+            26.580067,
+            55.8881977
+          ],
+          [
+            26.5800915,
+            55.8882724
+          ],
+          [
+            26.5803247,
+            55.8891057
+          ],
+          [
+            26.580767,
+            55.8905444
+          ],
+          [
+            26.5808527,
+            55.890823
+          ],
+          [
+            26.5819456,
+            55.8943776
+          ],
+          [
+            26.5846979,
+            55.9040275
+          ],
+          [
+            26.5847337,
+            55.9042175
+          ],
+          [
+            26.5847328,
+            55.9043678
+          ],
+          [
+            26.5847313,
+            55.9046312
+          ],
+          [
+            26.5847285,
+            55.9051259
+          ],
+          [
+            26.5846717,
+            55.9052416
+          ],
+          [
+            26.5845272,
+            55.9052966
+          ],
+          [
+            26.5843621,
+            55.905311
+          ],
+          [
+            26.5842279,
+            55.9052792
+          ],
+          [
+            26.5840937,
+            55.9052185
+          ],
+          [
+            26.5840369,
+            55.9051288
+          ],
+          [
+            26.5840421,
+            55.905042
+          ],
+          [
+            26.5841401,
+            55.9049726
+          ],
+          [
+            26.5845633,
+            55.9047903
+          ],
+          [
+            26.5846717,
+            55.9047151
+          ],
+          [
+            26.5847313,
+            55.9046312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22779067",
+      "properties": {
+        "@id": "way/22779067",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5454918,
+            55.8740099
+          ],
+          [
+            26.5452207,
+            55.8740336
+          ],
+          [
+            26.5437951,
+            55.8747732
+          ],
+          [
+            26.5424703,
+            55.8754662
+          ],
+          [
+            26.5411387,
+            55.8761969
+          ],
+          [
+            26.5403125,
+            55.8766292
+          ],
+          [
+            26.5401537,
+            55.876797
+          ],
+          [
+            26.5400761,
+            55.8772154
+          ],
+          [
+            26.5398422,
+            55.8787982
+          ],
+          [
+            26.5397314,
+            55.8802283
+          ],
+          [
+            26.5394719,
+            55.8816873
+          ],
+          [
+            26.5391368,
+            55.8836485
+          ],
+          [
+            26.539076,
+            55.8841054
+          ],
+          [
+            26.5388733,
+            55.8853457
+          ],
+          [
+            26.5388167,
+            55.885433
+          ],
+          [
+            26.5387366,
+            55.8854938
+          ],
+          [
+            26.5385857,
+            55.8855282
+          ],
+          [
+            26.5367993,
+            55.8854277
+          ],
+          [
+            26.5348285,
+            55.8853349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127382581",
+      "properties": {
+        "@id": "way/127382581",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5347862,
+            55.8687775
+          ],
+          [
+            26.5354409,
+            55.8689342
+          ],
+          [
+            26.5362114,
+            55.8691154
+          ],
+          [
+            26.5373878,
+            55.8694186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127382582",
+      "properties": {
+        "@id": "way/127382582",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5373878,
+            55.8694186
+          ],
+          [
+            26.538011,
+            55.8696398
+          ],
+          [
+            26.5396193,
+            55.8705342
+          ],
+          [
+            26.5399308,
+            55.8706936
+          ],
+          [
+            26.5415067,
+            55.8715097
+          ],
+          [
+            26.5434767,
+            55.8727579
+          ],
+          [
+            26.5454918,
+            55.8740099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125606161",
+      "properties": {
+        "@id": "way/125606161",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5454918,
+            55.8740099
+          ],
+          [
+            26.5457695,
+            55.8741755
+          ],
+          [
+            26.5474438,
+            55.8751685
+          ],
+          [
+            26.5494522,
+            55.876363
+          ],
+          [
+            26.5495178,
+            55.876403
+          ],
+          [
+            26.5512916,
+            55.8774853
+          ],
+          [
+            26.551442,
+            55.8775771
+          ],
+          [
+            26.5535901,
+            55.8788466
+          ],
+          [
+            26.5556636,
+            55.8800898
+          ],
+          [
+            26.5568787,
+            55.8807128
+          ],
+          [
+            26.5580032,
+            55.8810969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38785621",
+      "properties": {
+        "@id": "way/38785621",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5348285,
+            55.8853349
+          ],
+          [
+            26.5345606,
+            55.885416
+          ],
+          [
+            26.5344849,
+            55.8855009
+          ],
+          [
+            26.5344253,
+            55.886231
+          ],
+          [
+            26.5339425,
+            55.8890716
+          ],
+          [
+            26.5336601,
+            55.8909882
+          ],
+          [
+            26.5333537,
+            55.8926599
+          ],
+          [
+            26.5333286,
+            55.8927408
+          ],
+          [
+            26.5331907,
+            55.8928205
+          ],
+          [
+            26.5329775,
+            55.8929037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/115783123",
+      "properties": {
+        "@id": "way/115783123",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5580032,
+            55.8810969
+          ],
+          [
+            26.5579655,
+            55.8812275
+          ],
+          [
+            26.5578617,
+            55.8812852
+          ],
+          [
+            26.5535844,
+            55.8836635
+          ],
+          [
+            26.5510971,
+            55.8849542
+          ],
+          [
+            26.5508986,
+            55.8850656
+          ],
+          [
+            26.550739,
+            55.8852295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/366850281",
+      "properties": {
+        "@id": "way/366850281",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.552626,
+            55.8895181
+          ],
+          [
+            26.5526617,
+            55.8896578
+          ],
+          [
+            26.5526729,
+            55.8897016
+          ],
+          [
+            26.5533839,
+            55.8901332
+          ],
+          [
+            26.5556007,
+            55.891438
+          ],
+          [
+            26.5559626,
+            55.891651
+          ],
+          [
+            26.5562877,
+            55.8918881
+          ],
+          [
+            26.5573735,
+            55.8926797
+          ],
+          [
+            26.5595598,
+            55.8944064
+          ],
+          [
+            26.5597802,
+            55.8945617
+          ],
+          [
+            26.5601324,
+            55.8948315
+          ],
+          [
+            26.5615248,
+            55.8960114
+          ],
+          [
+            26.5616862,
+            55.8961481
+          ],
+          [
+            26.5619985,
+            55.8962756
+          ],
+          [
+            26.5621139,
+            55.8962932
+          ],
+          [
+            26.5621814,
+            55.8963035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/366850285",
+      "properties": {
+        "@id": "way/366850285",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.550739,
+            55.8852295
+          ],
+          [
+            26.5515104,
+            55.8857132
+          ],
+          [
+            26.5523518,
+            55.8862114
+          ],
+          [
+            26.5528157,
+            55.886486
+          ],
+          [
+            26.5529318,
+            55.8865548
+          ],
+          [
+            26.5531356,
+            55.8866932
+          ],
+          [
+            26.5531678,
+            55.8868166
+          ],
+          [
+            26.5531624,
+            55.886964
+          ],
+          [
+            26.5530927,
+            55.8872648
+          ],
+          [
+            26.5530794,
+            55.8873404
+          ],
+          [
+            26.5529371,
+            55.8881523
+          ],
+          [
+            26.5528284,
+            55.8886296
+          ],
+          [
+            26.552685,
+            55.8892592
+          ],
+          [
+            26.5526555,
+            55.8893888
+          ],
+          [
+            26.552626,
+            55.8895181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39227819",
+      "properties": {
+        "@id": "way/39227819",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5329775,
+            55.8929037
+          ],
+          [
+            26.5324621,
+            55.893026
+          ],
+          [
+            26.5318,
+            55.8932421
+          ],
+          [
+            26.5315289,
+            55.8933479
+          ],
+          [
+            26.5313891,
+            55.8934038
+          ],
+          [
+            26.5312847,
+            55.8934545
+          ],
+          [
+            26.5312345,
+            55.893532
+          ],
+          [
+            26.5312358,
+            55.89363
+          ],
+          [
+            26.531256,
+            55.8937091
+          ],
+          [
+            26.5313227,
+            55.8937834
+          ],
+          [
+            26.5313936,
+            55.893855
+          ],
+          [
+            26.5315392,
+            55.8939559
+          ],
+          [
+            26.5317127,
+            55.8940277
+          ],
+          [
+            26.5318809,
+            55.8940447
+          ],
+          [
+            26.5320475,
+            55.8940451
+          ],
+          [
+            26.5321833,
+            55.8940216
+          ],
+          [
+            26.5325031,
+            55.8939384
+          ],
+          [
+            26.532919,
+            55.893833
+          ],
+          [
+            26.5330736,
+            55.8937755
+          ],
+          [
+            26.533153,
+            55.893724
+          ],
+          [
+            26.5331802,
+            55.8936666
+          ],
+          [
+            26.5333286,
+            55.8927408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125706519",
+      "properties": {
+        "@id": "way/125706519",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5621814,
+            55.8963035
+          ],
+          [
+            26.5624135,
+            55.8963388
+          ],
+          [
+            26.5627855,
+            55.8962886
+          ],
+          [
+            26.5629854,
+            55.8962581
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125706522",
+      "properties": {
+        "@id": "way/125706522",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5629854,
+            55.8962581
+          ],
+          [
+            26.5631458,
+            55.8963063
+          ],
+          [
+            26.5632848,
+            55.8964092
+          ],
+          [
+            26.5633015,
+            55.8965245
+          ],
+          [
+            26.5631625,
+            55.8966523
+          ],
+          [
+            26.5629235,
+            55.8966835
+          ],
+          [
+            26.5626965,
+            55.8966091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125706520",
+      "properties": {
+        "@id": "way/125706520",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.5626965,
+            55.8966091
+          ],
+          [
+            26.5626344,
+            55.8965526
+          ],
+          [
+            26.5625732,
+            55.8965027
+          ],
+          [
+            26.5625203,
+            55.8964819
+          ],
+          [
+            26.562456,
+            55.8964684
+          ],
+          [
+            26.5623218,
+            55.8964519
+          ],
+          [
+            26.5620483,
+            55.8964067
+          ],
+          [
+            26.5619168,
+            55.8963601
+          ],
+          [
+            26.5616862,
+            55.8961481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/896468929",
+      "properties": {
+        "@id": "node/896468929",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5173651,
+          55.8687719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/896412225",
+      "properties": {
+        "@id": "node/896412225",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5290559,
+          55.8676463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1410181300",
+      "properties": {
+        "@id": "node/1410181300",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1707562,
+            "reltags": {
+              "from": "Cietoksnis",
+              "name": "tram 3: Cietoksnis => Stropi",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Stropi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1707563,
+            "reltags": {
+              "from": "Stropi",
+              "name": "tram 3: Stropi => Cietoksnis",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "3",
+              "route": "tram",
+              "to": "Cietoksnis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5457265,
+          55.8741864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/460001519",
+      "properties": {
+        "@id": "node/460001519",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5335487,
+          55.8912796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/469939623",
+      "properties": {
+        "@id": "node/469939623",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1707560,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 2: Butļerova iela => Forštadte",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Forštadte",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1707561,
+            "reltags": {
+              "from": "Forštadte",
+              "name": "tram 2: Forštadte => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "2",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1708349,
+            "reltags": {
+              "from": "Butļerova iela",
+              "name": "tram 1: Butļerova iela => Stacija",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Stacija",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1708350,
+            "reltags": {
+              "from": "Stacija",
+              "name": "tram 1: Stacija => Butļerova iela",
+              "operator": "Daugavpils Tramvaju uzņēmums",
+              "ref": "1",
+              "route": "tram",
+              "to": "Butļerova iela",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5324537,
+          55.894051
+        ]
+      }
+    }
+  ]
+}
