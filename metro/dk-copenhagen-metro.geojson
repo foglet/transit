@@ -1,0 +1,6087 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-27T19:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/4054540",
+      "properties": {
+        "@id": "way/4054540",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5756,
+            55.6191505
+          ],
+          [
+            12.5756773,
+            55.6193604
+          ],
+          [
+            12.5757737,
+            55.6196005
+          ],
+          [
+            12.576514,
+            55.621396
+          ],
+          [
+            12.5766896,
+            55.6218888
+          ],
+          [
+            12.5774556,
+            55.6238164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894302",
+      "properties": {
+        "@id": "way/148894302",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5772708,
+            55.6238332
+          ],
+          [
+            12.57702,
+            55.6232109
+          ],
+          [
+            12.5765025,
+            55.621908
+          ],
+          [
+            12.5758173,
+            55.6201478
+          ],
+          [
+            12.575586,
+            55.6196227
+          ],
+          [
+            12.575491,
+            55.6193815
+          ],
+          [
+            12.5754109,
+            55.6191727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894303",
+      "properties": {
+        "@id": "way/148894303",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5842075,
+            55.6415159
+          ],
+          [
+            12.5828496,
+            55.6380796
+          ],
+          [
+            12.5808678,
+            55.6330498
+          ],
+          [
+            12.5793539,
+            55.6291526
+          ],
+          [
+            12.5787325,
+            55.6276097
+          ],
+          [
+            12.5784962,
+            55.6270145
+          ],
+          [
+            12.578264,
+            55.6264286
+          ],
+          [
+            12.5781064,
+            55.6258842
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894304",
+      "properties": {
+        "@id": "way/148894304",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5782733,
+            55.6258508
+          ],
+          [
+            12.5786124,
+            55.6267484
+          ],
+          [
+            12.5786993,
+            55.6269832
+          ],
+          [
+            12.5788097,
+            55.6272871
+          ],
+          [
+            12.5789309,
+            55.6275897
+          ],
+          [
+            12.5795171,
+            55.629141
+          ],
+          [
+            12.5810615,
+            55.6330212
+          ],
+          [
+            12.5830023,
+            55.6380662
+          ],
+          [
+            12.5844023,
+            55.6414915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894296",
+      "properties": {
+        "@id": "way/148894296",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5774556,
+            55.6238164
+          ],
+          [
+            12.577605,
+            55.6242097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894297",
+      "properties": {
+        "@id": "way/148894297",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5781064,
+            55.6258842
+          ],
+          [
+            12.5774179,
+            55.6242286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894298",
+      "properties": {
+        "@id": "way/148894298",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5774179,
+            55.6242286
+          ],
+          [
+            12.5772708,
+            55.6238332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894299",
+      "properties": {
+        "@id": "way/148894299",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.577605,
+            55.6242097
+          ],
+          [
+            12.5782733,
+            55.6258508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254843",
+      "properties": {
+        "@id": "way/13254843",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4978892,
+            55.6862055
+          ],
+          [
+            12.4971771,
+            55.6863562
+          ],
+          [
+            12.4964472,
+            55.6865072
+          ],
+          [
+            12.4956303,
+            55.6866532
+          ],
+          [
+            12.4942068,
+            55.6869039
+          ],
+          [
+            12.4939204,
+            55.6869544
+          ],
+          [
+            12.4935563,
+            55.6870147
+          ],
+          [
+            12.4935004,
+            55.687024
+          ],
+          [
+            12.4928985,
+            55.6871284
+          ],
+          [
+            12.492658,
+            55.6871719
+          ],
+          [
+            12.4923902,
+            55.6872169
+          ],
+          [
+            12.4919037,
+            55.6873083
+          ],
+          [
+            12.4908603,
+            55.6875245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254844",
+      "properties": {
+        "@id": "way/13254844",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5000319,
+            55.6858452
+          ],
+          [
+            12.499521,
+            55.6859247
+          ],
+          [
+            12.4978892,
+            55.6862055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791009",
+      "properties": {
+        "@id": "way/105791009",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4977523,
+            55.6861231
+          ],
+          [
+            12.4982077,
+            55.6860375
+          ],
+          [
+            12.4994273,
+            55.6858312
+          ],
+          [
+            12.49987,
+            55.6857513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254838",
+      "properties": {
+        "@id": "way/13254838",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5120626,
+            55.6836935
+          ],
+          [
+            12.5102276,
+            55.6839889
+          ],
+          [
+            12.508941,
+            55.6842307
+          ],
+          [
+            12.5083244,
+            55.6843464
+          ],
+          [
+            12.5076651,
+            55.684478
+          ],
+          [
+            12.5063177,
+            55.6847658
+          ],
+          [
+            12.5049908,
+            55.6850601
+          ],
+          [
+            12.5044003,
+            55.6851757
+          ],
+          [
+            12.5038851,
+            55.68527
+          ],
+          [
+            12.503424,
+            55.6853403
+          ],
+          [
+            12.5014077,
+            55.6856265
+          ],
+          [
+            12.5007765,
+            55.6857204
+          ],
+          [
+            12.500493,
+            55.6857628
+          ],
+          [
+            12.5000319,
+            55.6858452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791003",
+      "properties": {
+        "@id": "way/105791003",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4914096,
+            55.6872941
+          ],
+          [
+            12.4922191,
+            55.6871435
+          ],
+          [
+            12.4926013,
+            55.687077
+          ],
+          [
+            12.4930169,
+            55.6870062
+          ],
+          [
+            12.4935041,
+            55.6869254
+          ],
+          [
+            12.4937966,
+            55.6868803
+          ],
+          [
+            12.4952039,
+            55.6866634
+          ],
+          [
+            12.4956114,
+            55.6865925
+          ],
+          [
+            12.4957042,
+            55.6865763
+          ],
+          [
+            12.4961859,
+            55.6864862
+          ],
+          [
+            12.49645,
+            55.6864348
+          ],
+          [
+            12.4968665,
+            55.6863436
+          ],
+          [
+            12.4975416,
+            55.6861853
+          ],
+          [
+            12.4977523,
+            55.6861231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791007",
+      "properties": {
+        "@id": "way/105791007",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.49987,
+            55.6857513
+          ],
+          [
+            12.5004335,
+            55.6856548
+          ],
+          [
+            12.5008705,
+            55.6855898
+          ],
+          [
+            12.5013076,
+            55.6855343
+          ],
+          [
+            12.5022412,
+            55.685421
+          ],
+          [
+            12.5032622,
+            55.6852952
+          ],
+          [
+            12.5041028,
+            55.6851746
+          ],
+          [
+            12.5049062,
+            55.6850289
+          ],
+          [
+            12.5056426,
+            55.6848727
+          ],
+          [
+            12.5064776,
+            55.6846871
+          ],
+          [
+            12.5083095,
+            55.6843045
+          ],
+          [
+            12.5089157,
+            55.6841849
+          ],
+          [
+            12.5102027,
+            55.6839417
+          ],
+          [
+            12.5119961,
+            55.683621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254836",
+      "properties": {
+        "@id": "way/13254836",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.521497,
+            55.6820166
+          ],
+          [
+            12.5160737,
+            55.6829706
+          ],
+          [
+            12.5131938,
+            55.6834967
+          ],
+          [
+            12.5127509,
+            55.6835759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105795581",
+      "properties": {
+        "@id": "way/105795581",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5126934,
+            55.6834788
+          ],
+          [
+            12.5131431,
+            55.683395
+          ],
+          [
+            12.5136091,
+            55.6833214
+          ],
+          [
+            12.5161105,
+            55.6829084
+          ],
+          [
+            12.5177997,
+            55.6826215
+          ],
+          [
+            12.521467,
+            55.6819509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4245710",
+      "properties": {
+        "@id": "way/4245710",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5230103,
+            55.6816922
+          ],
+          [
+            12.5242125,
+            55.6814577
+          ],
+          [
+            12.5251131,
+            55.68131
+          ],
+          [
+            12.5257569,
+            55.6812563
+          ],
+          [
+            12.5264054,
+            55.6812307
+          ],
+          [
+            12.5289777,
+            55.6811925
+          ],
+          [
+            12.5311209,
+            55.6811823
+          ],
+          [
+            12.5328129,
+            55.6811887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791014",
+      "properties": {
+        "@id": "way/105791014",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.521467,
+            55.6819509
+          ],
+          [
+            12.5230103,
+            55.6816922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193771495",
+      "properties": {
+        "@id": "way/193771495",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5230103,
+            55.6816922
+          ],
+          [
+            12.521497,
+            55.6820166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254837",
+      "properties": {
+        "@id": "way/13254837",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5127509,
+            55.6835759
+          ],
+          [
+            12.5120626,
+            55.6836935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105795591",
+      "properties": {
+        "@id": "way/105795591",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5119961,
+            55.683621
+          ],
+          [
+            12.5126934,
+            55.6834788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10075453",
+      "properties": {
+        "@id": "way/10075453",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5524491,
+            55.6818478
+          ],
+          [
+            12.5532429,
+            55.6816713
+          ],
+          [
+            12.5535795,
+            55.6815965
+          ],
+          [
+            12.5536828,
+            55.6815735
+          ],
+          [
+            12.5545257,
+            55.6813861
+          ],
+          [
+            12.5554698,
+            55.681357
+          ],
+          [
+            12.5564842,
+            55.6814117
+          ],
+          [
+            12.5578661,
+            55.681731
+          ],
+          [
+            12.5589717,
+            55.6822232
+          ],
+          [
+            12.5597,
+            55.6826748
+          ],
+          [
+            12.5608874,
+            55.6837247
+          ],
+          [
+            12.5624736,
+            55.6850781
+          ],
+          [
+            12.5627881,
+            55.6852732
+          ],
+          [
+            12.5635348,
+            55.6855151
+          ],
+          [
+            12.5642558,
+            55.6856506
+          ],
+          [
+            12.5654746,
+            55.6856119
+          ],
+          [
+            12.5666638,
+            55.6853989
+          ],
+          [
+            12.5704676,
+            55.684067
+          ],
+          [
+            12.570609,
+            55.6840361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10075451",
+      "properties": {
+        "@id": "way/10075451",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5328129,
+            55.6811887
+          ],
+          [
+            12.5354104,
+            55.6812079
+          ],
+          [
+            12.5355931,
+            55.6812133
+          ],
+          [
+            12.537756,
+            55.6814697
+          ],
+          [
+            12.540906,
+            55.6821278
+          ],
+          [
+            12.5432406,
+            55.6828246
+          ],
+          [
+            12.5457039,
+            55.6829988
+          ],
+          [
+            12.5458106,
+            55.6830022
+          ],
+          [
+            12.5472572,
+            55.6828209
+          ],
+          [
+            12.5473433,
+            55.6828101
+          ],
+          [
+            12.5487509,
+            55.6826214
+          ],
+          [
+            12.5505726,
+            55.6822467
+          ],
+          [
+            12.5524491,
+            55.6818478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289684208",
+      "properties": {
+        "@id": "way/289684208",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5716987,
+            55.6835994
+          ],
+          [
+            12.5729934,
+            55.6831635
+          ],
+          [
+            12.574646,
+            55.6826892
+          ],
+          [
+            12.5761137,
+            55.6824133
+          ],
+          [
+            12.5781651,
+            55.682302
+          ],
+          [
+            12.5799933,
+            55.6822343
+          ],
+          [
+            12.5811949,
+            55.6820988
+          ],
+          [
+            12.5821133,
+            55.6818762
+          ],
+          [
+            12.5832634,
+            55.6813294
+          ],
+          [
+            12.5839844,
+            55.6808358
+          ],
+          [
+            12.5846536,
+            55.6801986
+          ],
+          [
+            12.5849192,
+            55.6798661
+          ],
+          [
+            12.5851098,
+            55.6795124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289684207",
+      "properties": {
+        "@id": "way/289684207",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.570609,
+            55.6840361
+          ],
+          [
+            12.5706637,
+            55.6839938
+          ],
+          [
+            12.5711875,
+            55.6837794
+          ],
+          [
+            12.5716987,
+            55.6835994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289684209",
+      "properties": {
+        "@id": "way/289684209",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5716987,
+            55.6835994
+          ],
+          [
+            12.5715283,
+            55.6837116
+          ],
+          [
+            12.5712319,
+            55.6838245
+          ],
+          [
+            12.5707044,
+            55.6840254
+          ],
+          [
+            12.570609,
+            55.6840361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894291",
+      "properties": {
+        "@id": "way/148894291",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5844023,
+            55.6414915
+          ],
+          [
+            12.585212,
+            55.6436761
+          ],
+          [
+            12.5853515,
+            55.6439597
+          ],
+          [
+            12.5857166,
+            55.6449998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149059251",
+      "properties": {
+        "@id": "way/149059251",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5855366,
+            55.6450205
+          ],
+          [
+            12.5854577,
+            55.6448142
+          ],
+          [
+            12.5847537,
+            55.6429475
+          ],
+          [
+            12.5842075,
+            55.6415159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886099",
+      "properties": {
+        "@id": "way/148886099",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6491596,
+            55.6307105
+          ],
+          [
+            12.6492426,
+            55.630202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886105",
+      "properties": {
+        "@id": "way/148886105",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6494633,
+            55.630219
+          ],
+          [
+            12.6493712,
+            55.6307228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886098",
+      "properties": {
+        "@id": "way/148886098",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.648207,
+            55.6337776
+          ],
+          [
+            12.6482999,
+            55.6336541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254835",
+      "properties": {
+        "@id": "way/13254835",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6482999,
+            55.6336541
+          ],
+          [
+            12.64857,
+            55.6332107
+          ],
+          [
+            12.6487664,
+            55.6326005
+          ],
+          [
+            12.6489559,
+            55.6317726
+          ],
+          [
+            12.6489967,
+            55.6315723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254846",
+      "properties": {
+        "@id": "way/13254846",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6380506,
+            55.6455902
+          ],
+          [
+            12.6382463,
+            55.6451749
+          ],
+          [
+            12.638452,
+            55.6448469
+          ],
+          [
+            12.6387127,
+            55.6444113
+          ],
+          [
+            12.6391805,
+            55.6437824
+          ],
+          [
+            12.6395956,
+            55.6432034
+          ],
+          [
+            12.6400499,
+            55.6426852
+          ],
+          [
+            12.6407364,
+            55.6420704
+          ],
+          [
+            12.642469,
+            55.6410372
+          ],
+          [
+            12.6432761,
+            55.6405627
+          ],
+          [
+            12.6436737,
+            55.6403308
+          ],
+          [
+            12.6440772,
+            55.6400637
+          ],
+          [
+            12.6444596,
+            55.6397501
+          ],
+          [
+            12.6446507,
+            55.6395645
+          ],
+          [
+            12.6447963,
+            55.6393837
+          ],
+          [
+            12.6448997,
+            55.6392421
+          ],
+          [
+            12.6449861,
+            55.6390959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254848",
+      "properties": {
+        "@id": "way/13254848",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6450792,
+            55.6389418
+          ],
+          [
+            12.6456504,
+            55.6377859
+          ],
+          [
+            12.6459632,
+            55.6372574
+          ],
+          [
+            12.6464405,
+            55.6363986
+          ],
+          [
+            12.6469579,
+            55.6355766
+          ],
+          [
+            12.6472568,
+            55.6351261
+          ],
+          [
+            12.6476943,
+            55.6344621
+          ],
+          [
+            12.648207,
+            55.6337776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886092",
+      "properties": {
+        "@id": "way/148886092",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6450644,
+            55.6391065
+          ],
+          [
+            12.644961,
+            55.6392544
+          ],
+          [
+            12.6448664,
+            55.6393995
+          ],
+          [
+            12.6447285,
+            55.6395879
+          ],
+          [
+            12.6445397,
+            55.6397711
+          ],
+          [
+            12.644152,
+            55.6400954
+          ],
+          [
+            12.6437601,
+            55.6403628
+          ],
+          [
+            12.643365,
+            55.6405946
+          ],
+          [
+            12.6425541,
+            55.6410658
+          ],
+          [
+            12.6408379,
+            55.6421083
+          ],
+          [
+            12.6401134,
+            55.6427182
+          ],
+          [
+            12.6396627,
+            55.6432247
+          ],
+          [
+            12.6392555,
+            55.6438025
+          ],
+          [
+            12.6388282,
+            55.644436
+          ],
+          [
+            12.6386043,
+            55.6448561
+          ],
+          [
+            12.6384144,
+            55.6451983
+          ],
+          [
+            12.6382041,
+            55.6456036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886093",
+      "properties": {
+        "@id": "way/148886093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6484501,
+            55.6336785
+          ],
+          [
+            12.6483657,
+            55.6337948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886112",
+      "properties": {
+        "@id": "way/148886112",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6483657,
+            55.6337948
+          ],
+          [
+            12.64786,
+            55.6344963
+          ],
+          [
+            12.6474245,
+            55.6351583
+          ],
+          [
+            12.6471275,
+            55.6355995
+          ],
+          [
+            12.6465797,
+            55.6364245
+          ],
+          [
+            12.6460432,
+            55.6372654
+          ],
+          [
+            12.6457578,
+            55.637794
+          ],
+          [
+            12.6451534,
+            55.6389603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254845",
+      "properties": {
+        "@id": "way/13254845",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6449861,
+            55.6390959
+          ],
+          [
+            12.6450792,
+            55.6389418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886097",
+      "properties": {
+        "@id": "way/148886097",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6451534,
+            55.6389603
+          ],
+          [
+            12.6450644,
+            55.6391065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886102",
+      "properties": {
+        "@id": "way/148886102",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6489967,
+            55.6315723
+          ],
+          [
+            12.6490911,
+            55.6311048
+          ],
+          [
+            12.6491243,
+            55.630906
+          ],
+          [
+            12.6491596,
+            55.6307105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886104",
+      "properties": {
+        "@id": "way/148886104",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6493712,
+            55.6307228
+          ],
+          [
+            12.6493229,
+            55.6309166
+          ],
+          [
+            12.6492729,
+            55.6311121
+          ],
+          [
+            12.6492015,
+            55.6315884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886110",
+      "properties": {
+        "@id": "way/148886110",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6492015,
+            55.6315884
+          ],
+          [
+            12.6491763,
+            55.6316702
+          ],
+          [
+            12.649063,
+            55.63222
+          ],
+          [
+            12.6488552,
+            55.6328136
+          ],
+          [
+            12.6487041,
+            55.6332223
+          ],
+          [
+            12.6484501,
+            55.6336785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149059247",
+      "properties": {
+        "@id": "way/149059247",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5857022,
+            55.6454403
+          ],
+          [
+            12.585629,
+            55.6452602
+          ],
+          [
+            12.5855366,
+            55.6450205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149059248",
+      "properties": {
+        "@id": "way/149059248",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5857166,
+            55.6449998
+          ],
+          [
+            12.5858054,
+            55.645243
+          ],
+          [
+            12.5858765,
+            55.6454163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894290",
+      "properties": {
+        "@id": "way/148894290",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5891537,
+            55.6543815
+          ],
+          [
+            12.5890817,
+            55.6540773
+          ],
+          [
+            12.5887621,
+            55.6532253
+          ],
+          [
+            12.58823,
+            55.6518718
+          ],
+          [
+            12.5877075,
+            55.6505413
+          ],
+          [
+            12.58646,
+            55.6473763
+          ],
+          [
+            12.5857022,
+            55.6454403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894292",
+      "properties": {
+        "@id": "way/148894292",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5892934,
+            55.6543758
+          ],
+          [
+            12.5893276,
+            55.6546866
+          ],
+          [
+            12.5892477,
+            55.6551085
+          ],
+          [
+            12.5890786,
+            55.6557776
+          ],
+          [
+            12.5888422,
+            55.6567241
+          ],
+          [
+            12.588501,
+            55.6571616
+          ],
+          [
+            12.5881834,
+            55.6574763
+          ],
+          [
+            12.5877972,
+            55.6577378
+          ],
+          [
+            12.5871792,
+            55.6580719
+          ],
+          [
+            12.5859089,
+            55.658682
+          ],
+          [
+            12.5851536,
+            55.6592097
+          ],
+          [
+            12.5848135,
+            55.6596007
+          ],
+          [
+            12.5845835,
+            55.6599684
+          ],
+          [
+            12.5844892,
+            55.6603441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894293",
+      "properties": {
+        "@id": "way/148894293",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5843296,
+            55.6603319
+          ],
+          [
+            12.5844408,
+            55.6599407
+          ],
+          [
+            12.5846319,
+            55.6595782
+          ],
+          [
+            12.5850198,
+            55.6591625
+          ],
+          [
+            12.5857843,
+            55.658628
+          ],
+          [
+            12.5870614,
+            55.6580173
+          ],
+          [
+            12.5877118,
+            55.657676
+          ],
+          [
+            12.5880843,
+            55.6574269
+          ],
+          [
+            12.5883969,
+            55.6571099
+          ],
+          [
+            12.5886427,
+            55.6566968
+          ],
+          [
+            12.5889149,
+            55.6557626
+          ],
+          [
+            12.5890958,
+            55.6550998
+          ],
+          [
+            12.5891573,
+            55.6547114
+          ],
+          [
+            12.5891537,
+            55.6543815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149059253",
+      "properties": {
+        "@id": "way/149059253",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5858765,
+            55.6454163
+          ],
+          [
+            12.5862234,
+            55.6463715
+          ],
+          [
+            12.5865532,
+            55.6473614
+          ],
+          [
+            12.5877865,
+            55.6505337
+          ],
+          [
+            12.5883707,
+            55.6518415
+          ],
+          [
+            12.5889817,
+            55.6534157
+          ],
+          [
+            12.5892224,
+            55.6540565
+          ],
+          [
+            12.5892934,
+            55.6543758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26170044",
+      "properties": {
+        "@id": "way/26170044",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5930395,
+            55.6684262
+          ],
+          [
+            12.5935116,
+            55.6676711
+          ],
+          [
+            12.5944987,
+            55.667095
+          ],
+          [
+            12.5961037,
+            55.6663883
+          ],
+          [
+            12.5986014,
+            55.6655508
+          ],
+          [
+            12.6008587,
+            55.6646697
+          ],
+          [
+            12.6017083,
+            55.6641212
+          ],
+          [
+            12.6029115,
+            55.6633444
+          ],
+          [
+            12.6038885,
+            55.6625734
+          ],
+          [
+            12.6047898,
+            55.6618956
+          ],
+          [
+            12.606369,
+            55.6614163
+          ],
+          [
+            12.6079655,
+            55.6612178
+          ],
+          [
+            12.610343,
+            55.6611839
+          ],
+          [
+            12.6143356,
+            55.6617865
+          ],
+          [
+            12.6168318,
+            55.6621716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894300",
+      "properties": {
+        "@id": "way/148894300",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5844892,
+            55.6603441
+          ],
+          [
+            12.5844154,
+            55.6607349
+          ],
+          [
+            12.5844966,
+            55.6611555
+          ],
+          [
+            12.5847449,
+            55.6618711
+          ],
+          [
+            12.5850205,
+            55.662693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894301",
+      "properties": {
+        "@id": "way/148894301",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5848942,
+            55.662712
+          ],
+          [
+            12.5846019,
+            55.6618512
+          ],
+          [
+            12.5843537,
+            55.6611775
+          ],
+          [
+            12.5843038,
+            55.6607547
+          ],
+          [
+            12.5843296,
+            55.6603319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4317977",
+      "properties": {
+        "@id": "way/4317977",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5850205,
+            55.662693
+          ],
+          [
+            12.5852827,
+            55.6634044
+          ],
+          [
+            12.5854629,
+            55.6639058
+          ],
+          [
+            12.5860297,
+            55.6645529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10075455",
+      "properties": {
+        "@id": "way/10075455",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5911935,
+            55.6722645
+          ],
+          [
+            12.5920782,
+            55.6713402
+          ],
+          [
+            12.5927134,
+            55.6699462
+          ],
+          [
+            12.5930395,
+            55.6684262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894305",
+      "properties": {
+        "@id": "way/148894305",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5930395,
+            55.6684262
+          ],
+          [
+            12.5929307,
+            55.6677879
+          ],
+          [
+            12.5926468,
+            55.6674066
+          ],
+          [
+            12.5914771,
+            55.6666615
+          ],
+          [
+            12.589265,
+            55.6659957
+          ],
+          [
+            12.5878103,
+            55.6655483
+          ],
+          [
+            12.5860297,
+            55.6645529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193771494",
+      "properties": {
+        "@id": "way/193771494",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5860297,
+            55.6645529
+          ],
+          [
+            12.5852802,
+            55.6639026
+          ],
+          [
+            12.5851212,
+            55.66342
+          ],
+          [
+            12.5848942,
+            55.662712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254849",
+      "properties": {
+        "@id": "way/13254849",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6315094,
+            55.6566183
+          ],
+          [
+            12.6316469,
+            55.6563844
+          ],
+          [
+            12.6317921,
+            55.6561241
+          ],
+          [
+            12.6324101,
+            55.6551315
+          ],
+          [
+            12.6328178,
+            55.6544278
+          ],
+          [
+            12.633955,
+            55.6525552
+          ],
+          [
+            12.6348595,
+            55.6510153
+          ],
+          [
+            12.6360557,
+            55.6490635
+          ],
+          [
+            12.6367033,
+            55.6479572
+          ],
+          [
+            12.63699,
+            55.6474809
+          ],
+          [
+            12.6373143,
+            55.6469423
+          ],
+          [
+            12.6379659,
+            55.6457702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59576201",
+      "properties": {
+        "@id": "way/59576201",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6381087,
+            55.6457938
+          ],
+          [
+            12.6377424,
+            55.6464374
+          ],
+          [
+            12.6373961,
+            55.6469889
+          ],
+          [
+            12.6370895,
+            55.6475236
+          ],
+          [
+            12.636794,
+            55.6479754
+          ],
+          [
+            12.6361213,
+            55.6490732
+          ],
+          [
+            12.6349331,
+            55.6510341
+          ],
+          [
+            12.6340141,
+            55.6525626
+          ],
+          [
+            12.6328901,
+            55.6544431
+          ],
+          [
+            12.632517,
+            55.6551525
+          ],
+          [
+            12.6319355,
+            55.6561542
+          ],
+          [
+            12.6317826,
+            55.6564125
+          ],
+          [
+            12.6316383,
+            55.6566464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886107",
+      "properties": {
+        "@id": "way/148886107",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6224365,
+            55.6627719
+          ],
+          [
+            12.6208658,
+            55.6626848
+          ],
+          [
+            12.6186428,
+            55.662433
+          ],
+          [
+            12.6168318,
+            55.6621716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254851",
+      "properties": {
+        "@id": "way/13254851",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6285934,
+            55.6616756
+          ],
+          [
+            12.6283769,
+            55.6618979
+          ],
+          [
+            12.6282473,
+            55.6619913
+          ],
+          [
+            12.6281166,
+            55.6620739
+          ],
+          [
+            12.6279828,
+            55.6621428
+          ],
+          [
+            12.6278416,
+            55.6622011
+          ],
+          [
+            12.6276161,
+            55.6622789
+          ],
+          [
+            12.6273716,
+            55.6623396
+          ],
+          [
+            12.6270945,
+            55.6623931
+          ],
+          [
+            12.6267541,
+            55.6624472
+          ],
+          [
+            12.6262931,
+            55.6625027
+          ],
+          [
+            12.6244177,
+            55.6627669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886100",
+      "properties": {
+        "@id": "way/148886100",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6244177,
+            55.6627669
+          ],
+          [
+            12.6224365,
+            55.6627719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886113",
+      "properties": {
+        "@id": "way/148886113",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6243964,
+            55.6627088
+          ],
+          [
+            12.6250368,
+            55.6626217
+          ],
+          [
+            12.6256762,
+            55.6625405
+          ],
+          [
+            12.626653,
+            55.6624073
+          ],
+          [
+            12.6269797,
+            55.6623521
+          ],
+          [
+            12.6272642,
+            55.6622938
+          ],
+          [
+            12.6275223,
+            55.6622231
+          ],
+          [
+            12.6277236,
+            55.6621553
+          ],
+          [
+            12.6279122,
+            55.6620739
+          ],
+          [
+            12.6280861,
+            55.661974
+          ],
+          [
+            12.6282336,
+            55.6618742
+          ],
+          [
+            12.628463,
+            55.6616445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193771497",
+      "properties": {
+        "@id": "way/193771497",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6224365,
+            55.6627719
+          ],
+          [
+            12.6243964,
+            55.6627088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59576205",
+      "properties": {
+        "@id": "way/59576205",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.628463,
+            55.6616445
+          ],
+          [
+            12.6286057,
+            55.6614745
+          ],
+          [
+            12.6287407,
+            55.6613225
+          ],
+          [
+            12.6288811,
+            55.6611597
+          ],
+          [
+            12.6292384,
+            55.6607445
+          ],
+          [
+            12.6294476,
+            55.6603086
+          ],
+          [
+            12.6304401,
+            55.6584469
+          ],
+          [
+            12.6305542,
+            55.6582473
+          ],
+          [
+            12.6312938,
+            55.6569541
+          ],
+          [
+            12.6315094,
+            55.6566183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886114",
+      "properties": {
+        "@id": "way/148886114",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6316383,
+            55.6566464
+          ],
+          [
+            12.6314269,
+            55.6569951
+          ],
+          [
+            12.6306084,
+            55.658455
+          ],
+          [
+            12.6295998,
+            55.6603265
+          ],
+          [
+            12.6293332,
+            55.6608012
+          ],
+          [
+            12.6291753,
+            55.6610253
+          ],
+          [
+            12.629014,
+            55.6611967
+          ],
+          [
+            12.628889,
+            55.6613368
+          ],
+          [
+            12.6287386,
+            55.6615115
+          ],
+          [
+            12.6285934,
+            55.6616756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10075454",
+      "properties": {
+        "@id": "way/10075454",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5851098,
+            55.6795124
+          ],
+          [
+            12.5853381,
+            55.6789351
+          ],
+          [
+            12.5854776,
+            55.6785822
+          ],
+          [
+            12.5861387,
+            55.6772401
+          ],
+          [
+            12.5875721,
+            55.6758124
+          ],
+          [
+            12.5891943,
+            55.6743798
+          ],
+          [
+            12.5911935,
+            55.6722645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254850",
+      "properties": {
+        "@id": "way/13254850",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6379659,
+            55.6457702
+          ],
+          [
+            12.6380506,
+            55.6455902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886095",
+      "properties": {
+        "@id": "way/148886095",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6382041,
+            55.6456036
+          ],
+          [
+            12.6381087,
+            55.6457938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21484466",
+      "properties": {
+        "@id": "node/21484466",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5756773,
+          55.6193604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1619530692",
+      "properties": {
+        "@id": "node/1619530692",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.575491,
+          55.6193815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21484470",
+      "properties": {
+        "@id": "node/21484470",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5795171,
+          55.629141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1619530971",
+      "properties": {
+        "@id": "node/1619530971",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5793539,
+          55.6291526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1619530870",
+      "properties": {
+        "@id": "node/1619530870",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5828496,
+          55.6380796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2042811779",
+      "properties": {
+        "@id": "node/2042811779",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926013,
+          55.687077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2042811782",
+      "properties": {
+        "@id": "node/2042811782",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.492658,
+          55.6871719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2042811758",
+      "properties": {
+        "@id": "node/2042811758",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4994273,
+          55.6858312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2042811759",
+      "properties": {
+        "@id": "node/2042811759",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.499521,
+          55.6859247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25389833",
+      "properties": {
+        "@id": "node/25389833",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5230103,
+          55.6816922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2042811764",
+      "properties": {
+        "@id": "node/2042811764",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5131431,
+          55.683395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2042811768",
+      "properties": {
+        "@id": "node/2042811768",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5131938,
+          55.6834967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21701666",
+      "properties": {
+        "@id": "node/21701666",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5328129,
+          55.6811887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21701665",
+      "properties": {
+        "@id": "node/21701665",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5524491,
+          55.6818478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25389793",
+      "properties": {
+        "@id": "node/25389793",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5711875,
+          55.6837794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2932351383",
+      "properties": {
+        "@id": "node/2932351383",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5712319,
+          55.6838245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21484471",
+      "properties": {
+        "@id": "node/21484471",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5830023,
+          55.6380662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/103141823",
+      "properties": {
+        "@id": "node/103141823",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6469579,
+          55.6355766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1619442231",
+      "properties": {
+        "@id": "node/1619442231",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6471275,
+          55.6355995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2042811771",
+      "properties": {
+        "@id": "node/2042811771",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6491243,
+          55.630906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2042811775",
+      "properties": {
+        "@id": "node/2042811775",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6493229,
+          55.6309166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21484472",
+      "properties": {
+        "@id": "node/21484472",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5858054,
+          55.645243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1620882519",
+      "properties": {
+        "@id": "node/1620882519",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.585629,
+          55.6452602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21484475",
+      "properties": {
+        "@id": "node/21484475",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5890786,
+          55.6557776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1619530686",
+      "properties": {
+        "@id": "node/1619530686",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5889149,
+          55.6557626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21484483",
+      "properties": {
+        "@id": "node/21484483",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5852827,
+          55.6634044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2042811760",
+      "properties": {
+        "@id": "node/2042811760",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5851212,
+          55.66342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25389719",
+      "properties": {
+        "@id": "node/25389719",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6029115,
+          55.6633444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/122378444",
+      "properties": {
+        "@id": "node/122378444",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6317921,
+          55.6561241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2042811757",
+      "properties": {
+        "@id": "node/2042811757",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6319355,
+          55.6561542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25389663",
+      "properties": {
+        "@id": "node/25389663",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6168318,
+          55.6621716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1619442505",
+      "properties": {
+        "@id": "node/1619442505",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6287407,
+          55.6613225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/122378450",
+      "properties": {
+        "@id": "node/122378450",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.628889,
+          55.6613368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21698427",
+      "properties": {
+        "@id": "node/21698427",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5911935,
+          55.6722645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21701642",
+      "properties": {
+        "@id": "node/21701642",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152202,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vanløse",
+              "note:de": "M1 in forward direction",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vestamager",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152332,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#008060",
+              "from": "Vestamager",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M1",
+              "route": "subway",
+              "text_color": "green",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5851098,
+          55.6795124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/122378422",
+      "properties": {
+        "@id": "node/122378422",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152224,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "Forward direction of line M2",
+              "from": "Vanløse",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Lufthavnen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6382463,
+          55.6451749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1619442211",
+      "properties": {
+        "@id": "node/1619442211",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 152339,
+            "reltags": {
+              "by_night": "yes",
+              "colour": "#FDC110",
+              "comment": "backward direction of line M2",
+              "from": "Lufthavnen",
+              "operator": "Inmetro",
+              "public_transport:version": "2",
+              "ref": "M2",
+              "route": "subway",
+              "text_colour": "yellow",
+              "to": "Vanløse",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6384144,
+          55.6451983
+        ]
+      }
+    }
+  ]
+}
