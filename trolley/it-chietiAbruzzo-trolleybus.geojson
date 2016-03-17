@@ -1,0 +1,4404 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T08:58:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/59685754",
+      "properties": {
+        "@id": "way/59685754",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1389157,
+            42.3571017
+          ],
+          [
+            14.1388462,
+            42.3569963
+          ],
+          [
+            14.1388066,
+            42.3569438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59685756",
+      "properties": {
+        "@id": "way/59685756",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1392406,
+            42.3568565
+          ],
+          [
+            14.1389792,
+            42.3568879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59685768",
+      "properties": {
+        "@id": "way/59685768",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1389391,
+            42.3569243
+          ],
+          [
+            14.1389206,
+            42.3569995
+          ],
+          [
+            14.1389157,
+            42.3571017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59685774",
+      "properties": {
+        "@id": "way/59685774",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1389627,
+            42.3567682
+          ],
+          [
+            14.1392406,
+            42.3568565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869921",
+      "properties": {
+        "@id": "way/237869921",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1389792,
+            42.3568879
+          ],
+          [
+            14.1389391,
+            42.3569243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869930",
+      "properties": {
+        "@id": "way/237869930",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1388066,
+            42.3569438
+          ],
+          [
+            14.1387386,
+            42.356913
+          ],
+          [
+            14.1387012,
+            42.3568575
+          ],
+          [
+            14.1387086,
+            42.3567999
+          ],
+          [
+            14.1387504,
+            42.3567557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237873626",
+      "properties": {
+        "@id": "way/237873626",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1387504,
+            42.3567557
+          ],
+          [
+            14.1388087,
+            42.3567329
+          ],
+          [
+            14.1388793,
+            42.3567318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237882675",
+      "properties": {
+        "@id": "way/237882675",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1388793,
+            42.3567318
+          ],
+          [
+            14.1389627,
+            42.3567682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25964136",
+      "properties": {
+        "@id": "way/25964136",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.143713,
+            42.3570059
+          ],
+          [
+            14.1433577,
+            42.3569897
+          ],
+          [
+            14.1428953,
+            42.3569749
+          ],
+          [
+            14.1423159,
+            42.3569528
+          ],
+          [
+            14.1420879,
+            42.3569441
+          ],
+          [
+            14.1413126,
+            42.3569312
+          ],
+          [
+            14.1405327,
+            42.3569183
+          ],
+          [
+            14.1398886,
+            42.3568875
+          ],
+          [
+            14.1397751,
+            42.3568821
+          ],
+          [
+            14.1395708,
+            42.3568723
+          ],
+          [
+            14.1392406,
+            42.3568565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237873610",
+      "properties": {
+        "@id": "way/237873610",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1434452,
+            42.3719859
+          ],
+          [
+            14.1432987,
+            42.3715091
+          ],
+          [
+            14.1432809,
+            42.3714479
+          ],
+          [
+            14.1431139,
+            42.3708751
+          ],
+          [
+            14.1430991,
+            42.3708245
+          ],
+          [
+            14.1429959,
+            42.3704704
+          ],
+          [
+            14.1428512,
+            42.3699741
+          ],
+          [
+            14.142831,
+            42.3699049
+          ],
+          [
+            14.1427874,
+            42.3697655
+          ],
+          [
+            14.1425384,
+            42.3689688
+          ],
+          [
+            14.1422364,
+            42.3680025
+          ],
+          [
+            14.1422123,
+            42.3679228
+          ],
+          [
+            14.1417106,
+            42.3662652
+          ],
+          [
+            14.1416842,
+            42.3661778
+          ],
+          [
+            14.1412814,
+            42.364853
+          ],
+          [
+            14.1411655,
+            42.3644717
+          ],
+          [
+            14.1410666,
+            42.3641352
+          ],
+          [
+            14.1410453,
+            42.3640628
+          ],
+          [
+            14.1406787,
+            42.3628147
+          ],
+          [
+            14.1406577,
+            42.3627434
+          ],
+          [
+            14.1403862,
+            42.361913
+          ],
+          [
+            14.1400245,
+            42.360703
+          ],
+          [
+            14.1396671,
+            42.3595073
+          ],
+          [
+            14.1395324,
+            42.3590942
+          ],
+          [
+            14.1394346,
+            42.3587661
+          ],
+          [
+            14.1393193,
+            42.3583792
+          ],
+          [
+            14.1391629,
+            42.3578842
+          ],
+          [
+            14.1389157,
+            42.3571017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25964135",
+      "properties": {
+        "@id": "way/25964135",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1438253,
+            42.357003
+          ],
+          [
+            14.1438237,
+            42.3570204
+          ],
+          [
+            14.1438126,
+            42.3570357
+          ],
+          [
+            14.1437941,
+            42.3570464
+          ],
+          [
+            14.1437713,
+            42.3570506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869912",
+      "properties": {
+        "@id": "way/237869912",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.143713,
+            42.3570059
+          ],
+          [
+            14.1437195,
+            42.3569892
+          ],
+          [
+            14.1437346,
+            42.3569759
+          ],
+          [
+            14.1437557,
+            42.3569683
+          ],
+          [
+            14.1437792,
+            42.3569677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237873582",
+      "properties": {
+        "@id": "way/237873582",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1437792,
+            42.3569677
+          ],
+          [
+            14.143801,
+            42.3569742
+          ],
+          [
+            14.1438173,
+            42.3569867
+          ],
+          [
+            14.1438253,
+            42.357003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237873584",
+      "properties": {
+        "@id": "way/237873584",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1437713,
+            42.3570506
+          ],
+          [
+            14.1437481,
+            42.3570475
+          ],
+          [
+            14.1437287,
+            42.3570378
+          ],
+          [
+            14.1437162,
+            42.3570231
+          ],
+          [
+            14.143713,
+            42.3570059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142778531",
+      "properties": {
+        "@id": "way/142778531",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.158418,
+            42.3554968
+          ],
+          [
+            14.1583164,
+            42.3555377
+          ],
+          [
+            14.1581936,
+            42.3555474
+          ],
+          [
+            14.1580138,
+            42.3555176
+          ],
+          [
+            14.1578785,
+            42.355445
+          ],
+          [
+            14.1576376,
+            42.35531
+          ],
+          [
+            14.1573224,
+            42.3551636
+          ],
+          [
+            14.1569293,
+            42.3550456
+          ],
+          [
+            14.1568661,
+            42.3550332
+          ],
+          [
+            14.1547571,
+            42.3546129
+          ],
+          [
+            14.1535786,
+            42.3543887
+          ],
+          [
+            14.1535307,
+            42.3543852
+          ],
+          [
+            14.1533507,
+            42.3543719
+          ],
+          [
+            14.1531911,
+            42.3544519
+          ],
+          [
+            14.1531113,
+            42.3545866
+          ],
+          [
+            14.1531227,
+            42.3547467
+          ],
+          [
+            14.153231,
+            42.3548561
+          ],
+          [
+            14.1541046,
+            42.3551989
+          ],
+          [
+            14.1541815,
+            42.3552291
+          ],
+          [
+            14.1557212,
+            42.3558331
+          ],
+          [
+            14.1559206,
+            42.3559426
+          ],
+          [
+            14.1560346,
+            42.3560858
+          ],
+          [
+            14.1560403,
+            42.356271
+          ],
+          [
+            14.1559377,
+            42.3564184
+          ],
+          [
+            14.155744,
+            42.3565321
+          ],
+          [
+            14.1551893,
+            42.3567485
+          ],
+          [
+            14.1548636,
+            42.3568905
+          ],
+          [
+            14.1546538,
+            42.3569893
+          ],
+          [
+            14.1545242,
+            42.3570438
+          ],
+          [
+            14.153942,
+            42.3572714
+          ],
+          [
+            14.153542,
+            42.357319
+          ],
+          [
+            14.1528723,
+            42.3573203
+          ],
+          [
+            14.1509349,
+            42.3572335
+          ],
+          [
+            14.1509088,
+            42.3572323
+          ],
+          [
+            14.1502188,
+            42.3572093
+          ],
+          [
+            14.1500163,
+            42.3572044
+          ],
+          [
+            14.1497384,
+            42.3571955
+          ],
+          [
+            14.1488406,
+            42.3571656
+          ],
+          [
+            14.1484553,
+            42.3571532
+          ],
+          [
+            14.1448825,
+            42.3570388
+          ],
+          [
+            14.1441731,
+            42.3570179
+          ],
+          [
+            14.1438253,
+            42.357003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59686593",
+      "properties": {
+        "@id": "way/59686593",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1435184,
+            42.3722243
+          ],
+          [
+            14.1435076,
+            42.372189
+          ],
+          [
+            14.1434452,
+            42.3719859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142835725",
+      "properties": {
+        "@id": "way/142835725",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.148623,
+            42.3702128
+          ],
+          [
+            14.1484299,
+            42.3702742
+          ],
+          [
+            14.1483357,
+            42.3703161
+          ],
+          [
+            14.1482073,
+            42.3703733
+          ],
+          [
+            14.1479246,
+            42.3705884
+          ],
+          [
+            14.1479011,
+            42.3706063
+          ],
+          [
+            14.1475908,
+            42.3708626
+          ],
+          [
+            14.1469978,
+            42.3713287
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142835729",
+      "properties": {
+        "@id": "way/142835729",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.14913,
+            42.3700142
+          ],
+          [
+            14.1489905,
+            42.37008
+          ],
+          [
+            14.1488526,
+            42.3701407
+          ],
+          [
+            14.148623,
+            42.3702128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869916",
+      "properties": {
+        "@id": "way/237869916",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1468146,
+            42.3714874
+          ],
+          [
+            14.1464842,
+            42.3717665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238005482",
+      "properties": {
+        "@id": "way/238005482",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1469978,
+            42.3713287
+          ],
+          [
+            14.1468146,
+            42.3714874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/12345198",
+      "properties": {
+        "@id": "way/12345198",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1513843,
+            42.3682681
+          ],
+          [
+            14.1513626,
+            42.3682154
+          ],
+          [
+            14.1513692,
+            42.3681664
+          ],
+          [
+            14.1513902,
+            42.3681434
+          ],
+          [
+            14.1514634,
+            42.3681115
+          ],
+          [
+            14.1515228,
+            42.3681184
+          ],
+          [
+            14.1515668,
+            42.3681274
+          ],
+          [
+            14.1516106,
+            42.3681442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/12345200",
+      "properties": {
+        "@id": "way/12345200",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1516106,
+            42.3681442
+          ],
+          [
+            14.1518376,
+            42.3681045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25968008",
+      "properties": {
+        "@id": "way/25968008",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.152584,
+            42.3675959
+          ],
+          [
+            14.152496,
+            42.3675494
+          ],
+          [
+            14.1524457,
+            42.3675091
+          ],
+          [
+            14.152475,
+            42.3674286
+          ],
+          [
+            14.1525547,
+            42.3673573
+          ],
+          [
+            14.1526641,
+            42.3673525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62284353",
+      "properties": {
+        "@id": "way/62284353",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1512029,
+            42.3685124
+          ],
+          [
+            14.1513051,
+            42.368387
+          ],
+          [
+            14.1513843,
+            42.3682681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62284373",
+      "properties": {
+        "@id": "way/62284373",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1518376,
+            42.3681045
+          ],
+          [
+            14.1517009,
+            42.3681953
+          ],
+          [
+            14.1516259,
+            42.3682451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62284381",
+      "properties": {
+        "@id": "way/62284381",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1518376,
+            42.3681045
+          ],
+          [
+            14.152584,
+            42.3675959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62284386",
+      "properties": {
+        "@id": "way/62284386",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1515208,
+            42.3683041
+          ],
+          [
+            14.1513423,
+            42.3684384
+          ],
+          [
+            14.1512029,
+            42.3685124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869917",
+      "properties": {
+        "@id": "way/237869917",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.152584,
+            42.3675959
+          ],
+          [
+            14.1527308,
+            42.3675103
+          ],
+          [
+            14.1528104,
+            42.367441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869924",
+      "properties": {
+        "@id": "way/237869924",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1516259,
+            42.3682451
+          ],
+          [
+            14.1515697,
+            42.3682921
+          ],
+          [
+            14.1515208,
+            42.3683041
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869926",
+      "properties": {
+        "@id": "way/237869926",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1526641,
+            42.3673525
+          ],
+          [
+            14.1527516,
+            42.3673794
+          ],
+          [
+            14.1528104,
+            42.367441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59686589",
+      "properties": {
+        "@id": "way/59686589",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1464842,
+            42.3717665
+          ],
+          [
+            14.1463222,
+            42.3719445
+          ],
+          [
+            14.1461617,
+            42.3720779
+          ],
+          [
+            14.1458318,
+            42.3723342
+          ],
+          [
+            14.1454343,
+            42.3726193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59686591",
+      "properties": {
+        "@id": "way/59686591",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1444042,
+            42.3723785
+          ],
+          [
+            14.1447264,
+            42.3722268
+          ],
+          [
+            14.145178,
+            42.3720122
+          ],
+          [
+            14.1453928,
+            42.3719398
+          ],
+          [
+            14.1456739,
+            42.3718978
+          ],
+          [
+            14.1460245,
+            42.3718348
+          ],
+          [
+            14.1463814,
+            42.3717112
+          ],
+          [
+            14.1465867,
+            42.3716085
+          ],
+          [
+            14.1468146,
+            42.3714874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59686594",
+      "properties": {
+        "@id": "way/59686594",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1435184,
+            42.3722243
+          ],
+          [
+            14.1436269,
+            42.3723682
+          ],
+          [
+            14.1437304,
+            42.3724585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142835727",
+      "properties": {
+        "@id": "way/142835727",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1512029,
+            42.3685124
+          ],
+          [
+            14.1511488,
+            42.3685528
+          ],
+          [
+            14.1509404,
+            42.3687067
+          ],
+          [
+            14.1505757,
+            42.3689544
+          ],
+          [
+            14.1502162,
+            42.3691784
+          ],
+          [
+            14.1499829,
+            42.3693151
+          ],
+          [
+            14.1499299,
+            42.3693451
+          ],
+          [
+            14.1497764,
+            42.369432
+          ],
+          [
+            14.1496549,
+            42.3695188
+          ],
+          [
+            14.1496154,
+            42.369547
+          ],
+          [
+            14.1494438,
+            42.3697511
+          ],
+          [
+            14.1492292,
+            42.3699453
+          ],
+          [
+            14.14913,
+            42.3700142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237873573",
+      "properties": {
+        "@id": "way/237873573",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1435318,
+            42.3723277
+          ],
+          [
+            14.1435184,
+            42.3722243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/6059174",
+      "properties": {
+        "@id": "way/6059174",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1435275,
+            42.3725135
+          ],
+          [
+            14.1435393,
+            42.372386
+          ],
+          [
+            14.1435318,
+            42.3723277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/6059215",
+      "properties": {
+        "@id": "way/6059215",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.144258,
+            42.3725255
+          ],
+          [
+            14.1440164,
+            42.3725824
+          ],
+          [
+            14.1438526,
+            42.3726415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25964121",
+      "properties": {
+        "@id": "way/25964121",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1444243,
+            42.3725027
+          ],
+          [
+            14.1444042,
+            42.3723785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59686771",
+      "properties": {
+        "@id": "way/59686771",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.144258,
+            42.3725255
+          ],
+          [
+            14.1444243,
+            42.3725027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59686772",
+      "properties": {
+        "@id": "way/59686772",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1438194,
+            42.3725011
+          ],
+          [
+            14.1440142,
+            42.3725256
+          ],
+          [
+            14.144258,
+            42.3725255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869902",
+      "properties": {
+        "@id": "way/237869902",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1437304,
+            42.3724585
+          ],
+          [
+            14.1437764,
+            42.3724738
+          ],
+          [
+            14.1438194,
+            42.3725011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869904",
+      "properties": {
+        "@id": "way/237869904",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1438526,
+            42.3726415
+          ],
+          [
+            14.1437992,
+            42.372689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869925",
+      "properties": {
+        "@id": "way/237869925",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1454343,
+            42.3726193
+          ],
+          [
+            14.1453348,
+            42.3726559
+          ],
+          [
+            14.1451972,
+            42.372662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869927",
+      "properties": {
+        "@id": "way/237869927",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1444243,
+            42.3725027
+          ],
+          [
+            14.1446946,
+            42.372555
+          ],
+          [
+            14.1450299,
+            42.3726401
+          ],
+          [
+            14.1451972,
+            42.372662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237882657",
+      "properties": {
+        "@id": "way/237882657",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1437992,
+            42.372689
+          ],
+          [
+            14.143731,
+            42.3727094
+          ],
+          [
+            14.1436685,
+            42.3727101
+          ],
+          [
+            14.1436,
+            42.3727006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237882658",
+      "properties": {
+        "@id": "way/237882658",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1436,
+            42.3727006
+          ],
+          [
+            14.143549,
+            42.3726647
+          ],
+          [
+            14.1435285,
+            42.3726278
+          ],
+          [
+            14.1435175,
+            42.3725701
+          ],
+          [
+            14.1435275,
+            42.3725135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23653963",
+      "properties": {
+        "@id": "way/23653963",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1659596,
+            42.3540385
+          ],
+          [
+            14.1659287,
+            42.3539306
+          ],
+          [
+            14.1659163,
+            42.3538216
+          ],
+          [
+            14.1659248,
+            42.3536775
+          ],
+          [
+            14.1659826,
+            42.3534832
+          ],
+          [
+            14.1661762,
+            42.3532933
+          ],
+          [
+            14.1662407,
+            42.3532301
+          ],
+          [
+            14.1664858,
+            42.353053
+          ],
+          [
+            14.1666133,
+            42.3528422
+          ],
+          [
+            14.1666562,
+            42.3526889
+          ],
+          [
+            14.1667049,
+            42.3524933
+          ],
+          [
+            14.1666424,
+            42.3522069
+          ],
+          [
+            14.1666106,
+            42.3521524
+          ],
+          [
+            14.1665366,
+            42.3520258
+          ],
+          [
+            14.1663907,
+            42.3519118
+          ],
+          [
+            14.1661834,
+            42.3518012
+          ],
+          [
+            14.1656637,
+            42.3515422
+          ],
+          [
+            14.1654673,
+            42.351322
+          ],
+          [
+            14.1654359,
+            42.351187
+          ],
+          [
+            14.165535,
+            42.351065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59212275",
+      "properties": {
+        "@id": "way/59212275",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1636916,
+            42.3479882
+          ],
+          [
+            14.1632712,
+            42.3476921
+          ],
+          [
+            14.1630259,
+            42.3475291
+          ],
+          [
+            14.1628757,
+            42.3474503
+          ],
+          [
+            14.1624327,
+            42.347218
+          ],
+          [
+            14.1621944,
+            42.347093
+          ],
+          [
+            14.1620554,
+            42.3470587
+          ],
+          [
+            14.1619516,
+            42.3470488
+          ],
+          [
+            14.161756,
+            42.3470372
+          ],
+          [
+            14.1615713,
+            42.3470475
+          ],
+          [
+            14.1614025,
+            42.3470936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71377611",
+      "properties": {
+        "@id": "way/71377611",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1602161,
+            42.3492785
+          ],
+          [
+            14.1601764,
+            42.3493831
+          ],
+          [
+            14.1601823,
+            42.3494699
+          ],
+          [
+            14.1602035,
+            42.3496677
+          ],
+          [
+            14.1603866,
+            42.3513799
+          ],
+          [
+            14.1602415,
+            42.3516408
+          ],
+          [
+            14.1598783,
+            42.3521072
+          ],
+          [
+            14.1597057,
+            42.3521643
+          ],
+          [
+            14.1595212,
+            42.3521248
+          ],
+          [
+            14.1593842,
+            42.3520016
+          ],
+          [
+            14.1593472,
+            42.3516044
+          ],
+          [
+            14.159326,
+            42.3513762
+          ],
+          [
+            14.1593187,
+            42.3512977
+          ],
+          [
+            14.1591402,
+            42.3511613
+          ],
+          [
+            14.1589199,
+            42.3511481
+          ],
+          [
+            14.1587532,
+            42.3512757
+          ],
+          [
+            14.1586937,
+            42.3514692
+          ],
+          [
+            14.1586699,
+            42.3528331
+          ],
+          [
+            14.1585549,
+            42.3530209
+          ],
+          [
+            14.1584421,
+            42.3531363
+          ],
+          [
+            14.1582708,
+            42.353259
+          ],
+          [
+            14.1575745,
+            42.3537085
+          ],
+          [
+            14.1574387,
+            42.3539012
+          ],
+          [
+            14.1574257,
+            42.3539197
+          ],
+          [
+            14.1574322,
+            42.354024
+          ],
+          [
+            14.1574599,
+            42.3541664
+          ],
+          [
+            14.1574742,
+            42.3541905
+          ],
+          [
+            14.1575351,
+            42.3542929
+          ],
+          [
+            14.1576744,
+            42.3543898
+          ],
+          [
+            14.1580466,
+            42.3545387
+          ],
+          [
+            14.1582092,
+            42.3545909
+          ],
+          [
+            14.158627,
+            42.3547516
+          ],
+          [
+            14.158739,
+            42.354881
+          ],
+          [
+            14.1587636,
+            42.3550055
+          ],
+          [
+            14.1586952,
+            42.3551955
+          ],
+          [
+            14.1585625,
+            42.3553576
+          ],
+          [
+            14.158418,
+            42.3554968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137833465",
+      "properties": {
+        "@id": "way/137833465",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1614025,
+            42.3470936
+          ],
+          [
+            14.1613153,
+            42.3472006
+          ],
+          [
+            14.1612938,
+            42.3473297
+          ],
+          [
+            14.161353,
+            42.3474723
+          ],
+          [
+            14.1614579,
+            42.347541
+          ],
+          [
+            14.1615248,
+            42.3475707
+          ],
+          [
+            14.1616823,
+            42.3475922
+          ],
+          [
+            14.1623919,
+            42.3478102
+          ],
+          [
+            14.1625382,
+            42.3479202
+          ],
+          [
+            14.1626069,
+            42.3480543
+          ],
+          [
+            14.1628014,
+            42.3484338
+          ],
+          [
+            14.1629796,
+            42.348769
+          ],
+          [
+            14.1630023,
+            42.3488042
+          ],
+          [
+            14.1630807,
+            42.3489259
+          ],
+          [
+            14.1631562,
+            42.3490422
+          ],
+          [
+            14.1634437,
+            42.3493376
+          ],
+          [
+            14.1635839,
+            42.34946
+          ],
+          [
+            14.1636289,
+            42.3495157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869913",
+      "properties": {
+        "@id": "way/237869913",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.160794,
+            42.3491203
+          ],
+          [
+            14.1611279,
+            42.3491842
+          ],
+          [
+            14.16126,
+            42.3492099
+          ],
+          [
+            14.1622711,
+            42.3493409
+          ],
+          [
+            14.1626396,
+            42.3495419
+          ],
+          [
+            14.1628189,
+            42.3496683
+          ],
+          [
+            14.1630925,
+            42.3498586
+          ],
+          [
+            14.1631952,
+            42.3498938
+          ],
+          [
+            14.1632856,
+            42.3499012
+          ],
+          [
+            14.163383,
+            42.3498814
+          ],
+          [
+            14.1634707,
+            42.3498457
+          ],
+          [
+            14.1635351,
+            42.3497917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59530586",
+      "properties": {
+        "@id": "way/59530586",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.160794,
+            42.3491203
+          ],
+          [
+            14.1604557,
+            42.3491239
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59530593",
+      "properties": {
+        "@id": "way/59530593",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1604905,
+            42.3490131
+          ],
+          [
+            14.1606081,
+            42.3490506
+          ],
+          [
+            14.160794,
+            42.3491203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71377609",
+      "properties": {
+        "@id": "way/71377609",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1604557,
+            42.3491239
+          ],
+          [
+            14.1602161,
+            42.3492785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71377610",
+      "properties": {
+        "@id": "way/71377610",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1602161,
+            42.3492785
+          ],
+          [
+            14.1602384,
+            42.349176
+          ],
+          [
+            14.1602934,
+            42.3490846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869905",
+      "properties": {
+        "@id": "way/237869905",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1604003,
+            42.3489801
+          ],
+          [
+            14.1604905,
+            42.3490131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869906",
+      "properties": {
+        "@id": "way/237869906",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1602934,
+            42.3490846
+          ],
+          [
+            14.1602967,
+            42.349048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237912501",
+      "properties": {
+        "@id": "way/237912501",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1602967,
+            42.349048
+          ],
+          [
+            14.1603239,
+            42.3490147
+          ],
+          [
+            14.1604003,
+            42.3489801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38695233",
+      "properties": {
+        "@id": "way/38695233",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.165535,
+            42.351065
+          ],
+          [
+            14.1655946,
+            42.3509892
+          ],
+          [
+            14.1658145,
+            42.3508129
+          ],
+          [
+            14.1658422,
+            42.3507795
+          ],
+          [
+            14.1659215,
+            42.3507003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59530573",
+      "properties": {
+        "@id": "way/59530573",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1635351,
+            42.3497917
+          ],
+          [
+            14.1636236,
+            42.3496733
+          ],
+          [
+            14.1636289,
+            42.3495157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237875712",
+      "properties": {
+        "@id": "way/237875712",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1655667,
+            42.3494733
+          ],
+          [
+            14.1655024,
+            42.3494374
+          ],
+          [
+            14.1651213,
+            42.3492842
+          ],
+          [
+            14.1648633,
+            42.3491798
+          ],
+          [
+            14.1647792,
+            42.3491458
+          ],
+          [
+            14.1647301,
+            42.3491259
+          ],
+          [
+            14.1645996,
+            42.3490589
+          ],
+          [
+            14.1645245,
+            42.3489904
+          ],
+          [
+            14.1644363,
+            42.3488733
+          ],
+          [
+            14.1639892,
+            42.3483022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237878165",
+      "properties": {
+        "@id": "way/237878165",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1660936,
+            42.3501232
+          ],
+          [
+            14.1660567,
+            42.3500151
+          ],
+          [
+            14.1658986,
+            42.3497685
+          ],
+          [
+            14.1657127,
+            42.3495962
+          ],
+          [
+            14.1655667,
+            42.3494733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237878166",
+      "properties": {
+        "@id": "way/237878166",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1659215,
+            42.3507003
+          ],
+          [
+            14.1659521,
+            42.3506644
+          ],
+          [
+            14.1660136,
+            42.3505789
+          ],
+          [
+            14.1660547,
+            42.3504992
+          ],
+          [
+            14.1660936,
+            42.3504171
+          ],
+          [
+            14.1661211,
+            42.350271
+          ],
+          [
+            14.1660936,
+            42.3501232
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237880727",
+      "properties": {
+        "@id": "way/237880727",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1639892,
+            42.3483022
+          ],
+          [
+            14.1638402,
+            42.3481512
+          ],
+          [
+            14.1637734,
+            42.3480839
+          ],
+          [
+            14.1636916,
+            42.3479882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/12345204",
+      "properties": {
+        "@id": "way/12345204",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1725241,
+            42.353134
+          ],
+          [
+            14.1725248,
+            42.352939
+          ],
+          [
+            14.1725257,
+            42.3527395
+          ],
+          [
+            14.1725219,
+            42.3526145
+          ],
+          [
+            14.1725043,
+            42.3523553
+          ],
+          [
+            14.1724902,
+            42.3520123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57381031",
+      "properties": {
+        "@id": "way/57381031",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1732978,
+            42.3519864
+          ],
+          [
+            14.1733408,
+            42.3528532
+          ],
+          [
+            14.1733455,
+            42.3529249
+          ],
+          [
+            14.173355,
+            42.3530512
+          ],
+          [
+            14.1733567,
+            42.3530993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57674951",
+      "properties": {
+        "@id": "way/57674951",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1732978,
+            42.3519864
+          ],
+          [
+            14.1738765,
+            42.3518099
+          ],
+          [
+            14.174573,
+            42.3515315
+          ],
+          [
+            14.1746666,
+            42.3514971
+          ],
+          [
+            14.1748303,
+            42.3514379
+          ],
+          [
+            14.1750282,
+            42.3513663
+          ],
+          [
+            14.1768586,
+            42.3506585
+          ],
+          [
+            14.177284,
+            42.350599
+          ],
+          [
+            14.178407,
+            42.3506846
+          ],
+          [
+            14.1790304,
+            42.3507343
+          ],
+          [
+            14.1795513,
+            42.3507759
+          ],
+          [
+            14.1803439,
+            42.3508355
+          ],
+          [
+            14.1809796,
+            42.3508918
+          ],
+          [
+            14.1820384,
+            42.3510036
+          ],
+          [
+            14.1828755,
+            42.3512585
+          ],
+          [
+            14.1830797,
+            42.3513303
+          ],
+          [
+            14.1832743,
+            42.3513976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23653961",
+      "properties": {
+        "@id": "way/23653961",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1724902,
+            42.3520123
+          ],
+          [
+            14.1725516,
+            42.3520114
+          ],
+          [
+            14.1732978,
+            42.3519864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59212268",
+      "properties": {
+        "@id": "way/59212268",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1835588,
+            42.3517527
+          ],
+          [
+            14.183671,
+            42.3516577
+          ],
+          [
+            14.1837835,
+            42.3515693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62421279",
+      "properties": {
+        "@id": "way/62421279",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1832743,
+            42.3513976
+          ],
+          [
+            14.1835822,
+            42.351501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869908",
+      "properties": {
+        "@id": "way/237869908",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1835822,
+            42.351501
+          ],
+          [
+            14.1837835,
+            42.3515693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869910",
+      "properties": {
+        "@id": "way/237869910",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1832743,
+            42.3513976
+          ],
+          [
+            14.183399,
+            42.3515272
+          ],
+          [
+            14.1835588,
+            42.3517527
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23653962",
+      "properties": {
+        "@id": "way/23653962",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1659596,
+            42.3540385
+          ],
+          [
+            14.1660223,
+            42.3540508
+          ],
+          [
+            14.1660578,
+            42.3541022
+          ],
+          [
+            14.1660286,
+            42.3541511
+          ],
+          [
+            14.1659854,
+            42.3541666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137953193",
+      "properties": {
+        "@id": "way/137953193",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1688047,
+            42.3532307
+          ],
+          [
+            14.1687101,
+            42.3533212
+          ],
+          [
+            14.1687188,
+            42.353506
+          ],
+          [
+            14.1687287,
+            42.3536563
+          ],
+          [
+            14.1687729,
+            42.3543259
+          ],
+          [
+            14.1686523,
+            42.3544956
+          ],
+          [
+            14.1682091,
+            42.354929
+          ],
+          [
+            14.1680557,
+            42.3551
+          ],
+          [
+            14.1678875,
+            42.3551334
+          ],
+          [
+            14.1675904,
+            42.355134
+          ],
+          [
+            14.1672948,
+            42.3550749
+          ],
+          [
+            14.1662321,
+            42.3545284
+          ],
+          [
+            14.1661065,
+            42.3544555
+          ],
+          [
+            14.1660032,
+            42.3543008
+          ],
+          [
+            14.1659854,
+            42.3541666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237869929",
+      "properties": {
+        "@id": "way/237869929",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1659854,
+            42.3541666
+          ],
+          [
+            14.1659397,
+            42.3541635
+          ],
+          [
+            14.1658934,
+            42.3541341
+          ],
+          [
+            14.1658863,
+            42.3540898
+          ],
+          [
+            14.165905,
+            42.3540594
+          ],
+          [
+            14.1659596,
+            42.3540385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38696474",
+      "properties": {
+        "@id": "way/38696474",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3205526,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "Ospedale Clinicizzato",
+              "name": "1 (Ospedale Clinicizzato → P.le S.Anna)",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "P.le S.Anna",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1725241,
+            42.353134
+          ],
+          [
+            14.1721187,
+            42.3531516
+          ],
+          [
+            14.1719425,
+            42.3531523
+          ],
+          [
+            14.1711778,
+            42.353159
+          ],
+          [
+            14.1705903,
+            42.3531647
+          ],
+          [
+            14.1702857,
+            42.3531677
+          ],
+          [
+            14.1702495,
+            42.3531634
+          ],
+          [
+            14.1697968,
+            42.3531102
+          ],
+          [
+            14.1695627,
+            42.3530816
+          ],
+          [
+            14.1693349,
+            42.3530673
+          ],
+          [
+            14.169222,
+            42.3530602
+          ],
+          [
+            14.1690874,
+            42.3530765
+          ],
+          [
+            14.1689852,
+            42.3531107
+          ],
+          [
+            14.1688047,
+            42.3532307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232331644",
+      "properties": {
+        "@id": "way/232331644",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3205527,
+            "reltags": {
+              "colour": "#F9EB2A",
+              "from": "P.le S.Anna",
+              "name": "1 (P.le S.Anna → Ospedale Clinicizzato",
+              "operator": "La Panoramica",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Ospedale Clinicizzato",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1733567,
+            42.3530993
+          ],
+          [
+            14.1726075,
+            42.3531302
+          ],
+          [
+            14.1725241,
+            42.353134
+          ]
+        ]
+      }
+    }
+  ]
+}

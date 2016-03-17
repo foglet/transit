@@ -1,0 +1,3546 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T21:32:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/112969839",
+      "properties": {
+        "@id": "way/112969839",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3618134,
+            44.4506289
+          ],
+          [
+            11.3617141,
+            44.4505113
+          ],
+          [
+            11.3615158,
+            44.4502756
+          ],
+          [
+            11.361328,
+            44.4500477
+          ],
+          [
+            11.361208,
+            44.4499156
+          ],
+          [
+            11.3610546,
+            44.4497603
+          ],
+          [
+            11.3609374,
+            44.4496531
+          ],
+          [
+            11.3608293,
+            44.4495625
+          ],
+          [
+            11.3604995,
+            44.4493201
+          ],
+          [
+            11.3603844,
+            44.4492243
+          ],
+          [
+            11.3603039,
+            44.4491452
+          ],
+          [
+            11.3602044,
+            44.4490374
+          ],
+          [
+            11.3601511,
+            44.4489736
+          ],
+          [
+            11.3600353,
+            44.4488388
+          ],
+          [
+            11.3599276,
+            44.4487262
+          ],
+          [
+            11.35983,
+            44.4486319
+          ],
+          [
+            11.359645,
+            44.4484709
+          ],
+          [
+            11.3594713,
+            44.4483321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253841050",
+      "properties": {
+        "@id": "way/253841050",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3594074,
+            44.4502066
+          ],
+          [
+            11.3592102,
+            44.4500615
+          ],
+          [
+            11.3590993,
+            44.4499782
+          ],
+          [
+            11.359013,
+            44.4499083
+          ],
+          [
+            11.3585695,
+            44.4494768
+          ],
+          [
+            11.3585337,
+            44.4494247
+          ],
+          [
+            11.3585148,
+            44.4493697
+          ],
+          [
+            11.358507,
+            44.4493229
+          ],
+          [
+            11.3585114,
+            44.449275
+          ],
+          [
+            11.3585258,
+            44.4491992
+          ],
+          [
+            11.3585516,
+            44.4491447
+          ],
+          [
+            11.3585958,
+            44.4490887
+          ],
+          [
+            11.3588231,
+            44.44889
+          ],
+          [
+            11.3589696,
+            44.4487516
+          ],
+          [
+            11.3593343,
+            44.4484071
+          ],
+          [
+            11.3593886,
+            44.4483736
+          ],
+          [
+            11.3594713,
+            44.4483321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26346635",
+      "properties": {
+        "@id": "way/26346635",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3618134,
+            44.4506289
+          ],
+          [
+            11.3616508,
+            44.45069
+          ],
+          [
+            11.3614859,
+            44.4507395
+          ],
+          [
+            11.3613859,
+            44.4507665
+          ],
+          [
+            11.3612619,
+            44.45079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112957055",
+      "properties": {
+        "@id": "way/112957055",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3600167,
+            44.4506233
+          ],
+          [
+            11.3603698,
+            44.4507739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112957056",
+      "properties": {
+        "@id": "way/112957056",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3602106,
+            44.4506698
+          ],
+          [
+            11.360028,
+            44.4505908
+          ],
+          [
+            11.3598176,
+            44.4504761
+          ],
+          [
+            11.3596275,
+            44.4503564
+          ],
+          [
+            11.3594074,
+            44.4502066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253841049",
+      "properties": {
+        "@id": "way/253841049",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3612619,
+            44.45079
+          ],
+          [
+            11.3609924,
+            44.4508386
+          ],
+          [
+            11.3608273,
+            44.450855
+          ],
+          [
+            11.3607269,
+            44.4508504
+          ],
+          [
+            11.3606327,
+            44.4508343
+          ],
+          [
+            11.3605301,
+            44.4508047
+          ],
+          [
+            11.3603952,
+            44.4507497
+          ],
+          [
+            11.3602106,
+            44.4506698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112742546",
+      "properties": {
+        "@id": "way/112742546",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3654867,
+            44.4530275
+          ],
+          [
+            11.3653534,
+            44.4529417
+          ],
+          [
+            11.3653008,
+            44.4529132
+          ],
+          [
+            11.3651005,
+            44.4528046
+          ],
+          [
+            11.3648888,
+            44.4526929
+          ],
+          [
+            11.364853,
+            44.4526749
+          ],
+          [
+            11.3647795,
+            44.452638
+          ],
+          [
+            11.3646624,
+            44.4525711
+          ],
+          [
+            11.3644178,
+            44.4524224
+          ],
+          [
+            11.3641248,
+            44.4522306
+          ],
+          [
+            11.3638925,
+            44.4520785
+          ],
+          [
+            11.3638299,
+            44.4520382
+          ],
+          [
+            11.3637646,
+            44.4520058
+          ],
+          [
+            11.3636945,
+            44.4519779
+          ],
+          [
+            11.363424,
+            44.4518729
+          ],
+          [
+            11.3632395,
+            44.4517867
+          ],
+          [
+            11.363166,
+            44.4517458
+          ],
+          [
+            11.3631171,
+            44.4517149
+          ],
+          [
+            11.3630089,
+            44.4516294
+          ],
+          [
+            11.3628856,
+            44.4515167
+          ],
+          [
+            11.3627898,
+            44.4514112
+          ],
+          [
+            11.3626587,
+            44.4512668
+          ],
+          [
+            11.362598,
+            44.4512017
+          ],
+          [
+            11.3625157,
+            44.4511189
+          ],
+          [
+            11.3624307,
+            44.4510543
+          ],
+          [
+            11.3623306,
+            44.4509828
+          ],
+          [
+            11.3621745,
+            44.4508828
+          ],
+          [
+            11.3619903,
+            44.4507628
+          ],
+          [
+            11.3618134,
+            44.4506289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/98103268",
+      "properties": {
+        "@id": "way/98103268",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.366172,
+            44.4536397
+          ],
+          [
+            11.3656349,
+            44.4531499
+          ],
+          [
+            11.365561,
+            44.4530887
+          ],
+          [
+            11.3654867,
+            44.4530275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112742539",
+      "properties": {
+        "@id": "way/112742539",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.366172,
+            44.4536397
+          ],
+          [
+            11.3662458,
+            44.4537039
+          ],
+          [
+            11.3664795,
+            44.4539038
+          ],
+          [
+            11.3667385,
+            44.4541264
+          ],
+          [
+            11.3669577,
+            44.4542877
+          ],
+          [
+            11.3671542,
+            44.4544428
+          ],
+          [
+            11.3672048,
+            44.4544842
+          ],
+          [
+            11.3674271,
+            44.4546475
+          ],
+          [
+            11.3677586,
+            44.4548733
+          ],
+          [
+            11.3679993,
+            44.4550459
+          ],
+          [
+            11.3681436,
+            44.4551522
+          ],
+          [
+            11.3682894,
+            44.4552739
+          ],
+          [
+            11.3685036,
+            44.4554764
+          ],
+          [
+            11.3687676,
+            44.4557486
+          ],
+          [
+            11.3689033,
+            44.4559366
+          ],
+          [
+            11.3689393,
+            44.4559875
+          ],
+          [
+            11.3690725,
+            44.4562129
+          ],
+          [
+            11.3691178,
+            44.4562998
+          ],
+          [
+            11.3693519,
+            44.4567441
+          ],
+          [
+            11.3694443,
+            44.4569146
+          ],
+          [
+            11.369505,
+            44.4570319
+          ],
+          [
+            11.3695501,
+            44.4571144
+          ],
+          [
+            11.3696238,
+            44.4572829
+          ],
+          [
+            11.3696681,
+            44.4574084
+          ],
+          [
+            11.3697117,
+            44.4575444
+          ],
+          [
+            11.3697519,
+            44.4576947
+          ],
+          [
+            11.3698806,
+            44.4582571
+          ],
+          [
+            11.370156,
+            44.4594599
+          ],
+          [
+            11.3702063,
+            44.4597004
+          ],
+          [
+            11.3702302,
+            44.459837
+          ],
+          [
+            11.370316,
+            44.4602649
+          ],
+          [
+            11.3703727,
+            44.4605453
+          ],
+          [
+            11.3704504,
+            44.4609236
+          ],
+          [
+            11.3705417,
+            44.4613682
+          ],
+          [
+            11.370547,
+            44.4613942
+          ],
+          [
+            11.3706718,
+            44.4620011
+          ],
+          [
+            11.3707997,
+            44.4626236
+          ],
+          [
+            11.370861,
+            44.4629446
+          ],
+          [
+            11.370879,
+            44.4631744
+          ],
+          [
+            11.3708785,
+            44.4634277
+          ],
+          [
+            11.3708691,
+            44.4637729
+          ],
+          [
+            11.3708517,
+            44.4642022
+          ],
+          [
+            11.3708379,
+            44.4648205
+          ],
+          [
+            11.3708287,
+            44.4651099
+          ],
+          [
+            11.3707722,
+            44.4663777
+          ],
+          [
+            11.3707694,
+            44.4664746
+          ],
+          [
+            11.3707697,
+            44.4666499
+          ],
+          [
+            11.3707756,
+            44.466792
+          ],
+          [
+            11.3707912,
+            44.467267
+          ],
+          [
+            11.3708143,
+            44.4681452
+          ],
+          [
+            11.3708328,
+            44.4683016
+          ],
+          [
+            11.3708598,
+            44.4684418
+          ],
+          [
+            11.3709089,
+            44.4686329
+          ],
+          [
+            11.3710039,
+            44.4689522
+          ],
+          [
+            11.3710555,
+            44.4691515
+          ],
+          [
+            11.3710758,
+            44.4692748
+          ],
+          [
+            11.3710796,
+            44.469314
+          ],
+          [
+            11.3710926,
+            44.469448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112907657",
+      "properties": {
+        "@id": "way/112907657",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.370337,
+            44.4598815
+          ],
+          [
+            11.3703158,
+            44.4597764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112854695",
+      "properties": {
+        "@id": "way/112854695",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.370642,
+            44.4665275
+          ],
+          [
+            11.3706474,
+            44.4664226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112854698",
+      "properties": {
+        "@id": "way/112854698",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3708911,
+            44.4664267
+          ],
+          [
+            11.3708931,
+            44.4663196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112864504",
+      "properties": {
+        "@id": "way/112864504",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3710132,
+            44.4634791
+          ],
+          [
+            11.3710125,
+            44.4633733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207071240",
+      "properties": {
+        "@id": "way/207071240",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3710926,
+            44.469448
+          ],
+          [
+            11.3711068,
+            44.4696546
+          ],
+          [
+            11.3710782,
+            44.4699543
+          ],
+          [
+            11.3710692,
+            44.4700482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207071249",
+      "properties": {
+        "@id": "way/207071249",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3710692,
+            44.4700482
+          ],
+          [
+            11.3710479,
+            44.4701411
+          ],
+          [
+            11.3709941,
+            44.4703753
+          ],
+          [
+            11.3709064,
+            44.4706207
+          ],
+          [
+            11.3707302,
+            44.4709635
+          ],
+          [
+            11.3705473,
+            44.4712596
+          ],
+          [
+            11.3703605,
+            44.4714886
+          ],
+          [
+            11.370328,
+            44.4715285
+          ],
+          [
+            11.3701317,
+            44.4717354
+          ],
+          [
+            11.3698557,
+            44.4720118
+          ],
+          [
+            11.3697871,
+            44.4720845
+          ],
+          [
+            11.3697373,
+            44.4721534
+          ],
+          [
+            11.3696736,
+            44.472266
+          ],
+          [
+            11.369623,
+            44.4723923
+          ],
+          [
+            11.36962,
+            44.4724076
+          ],
+          [
+            11.3695854,
+            44.4725756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112805223",
+      "properties": {
+        "@id": "way/112805223",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3704532,
+            44.4715094
+          ],
+          [
+            11.3703725,
+            44.471603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23185863",
+      "properties": {
+        "@id": "way/23185863",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.33585,
+            44.4932172
+          ],
+          [
+            11.335976,
+            44.4934153
+          ],
+          [
+            11.3361084,
+            44.4936411
+          ],
+          [
+            11.3364639,
+            44.494397
+          ],
+          [
+            11.3364761,
+            44.4944337
+          ],
+          [
+            11.3367006,
+            44.4951015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95408277",
+      "properties": {
+        "@id": "way/95408277",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3398847,
+            44.4914054
+          ],
+          [
+            11.339604,
+            44.4914831
+          ],
+          [
+            11.3390179,
+            44.4916174
+          ],
+          [
+            11.3386926,
+            44.4917105
+          ],
+          [
+            11.3382468,
+            44.4919107
+          ],
+          [
+            11.3378735,
+            44.4921235
+          ],
+          [
+            11.3377688,
+            44.4921779
+          ],
+          [
+            11.3374295,
+            44.4923747
+          ],
+          [
+            11.3370844,
+            44.4925561
+          ],
+          [
+            11.3368153,
+            44.4927222
+          ],
+          [
+            11.3365709,
+            44.4928894
+          ],
+          [
+            11.3363204,
+            44.49301
+          ],
+          [
+            11.33585,
+            44.4932172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23271710",
+      "properties": {
+        "@id": "way/23271710",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3417537,
+            44.4913171
+          ],
+          [
+            11.3411527,
+            44.4913088
+          ],
+          [
+            11.3408225,
+            44.4913088
+          ],
+          [
+            11.3405369,
+            44.49133
+          ],
+          [
+            11.340134,
+            44.4913477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23271717",
+      "properties": {
+        "@id": "way/23271717",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.340134,
+            44.4913477
+          ],
+          [
+            11.3399656,
+            44.4913795
+          ],
+          [
+            11.3398847,
+            44.4914054
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33489760",
+      "properties": {
+        "@id": "way/33489760",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3417537,
+            44.4913171
+          ],
+          [
+            11.3427936,
+            44.4913566
+          ],
+          [
+            11.3429236,
+            44.4913625
+          ],
+          [
+            11.3429614,
+            44.4913642
+          ],
+          [
+            11.343674,
+            44.4913901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132262793",
+      "properties": {
+        "@id": "way/132262793",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3441333,
+            44.4914199
+          ],
+          [
+            11.343674,
+            44.4913901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23271701",
+      "properties": {
+        "@id": "way/23271701",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3490999,
+            44.4911121
+          ],
+          [
+            11.349014,
+            44.4911661
+          ],
+          [
+            11.3489348,
+            44.4912016
+          ],
+          [
+            11.3488772,
+            44.4912262
+          ],
+          [
+            11.3488137,
+            44.4912505
+          ],
+          [
+            11.348725,
+            44.4912792
+          ],
+          [
+            11.3486202,
+            44.4913053
+          ],
+          [
+            11.348493,
+            44.4913307
+          ],
+          [
+            11.3484514,
+            44.4913366
+          ],
+          [
+            11.3479562,
+            44.4914073
+          ],
+          [
+            11.3472432,
+            44.4914704
+          ],
+          [
+            11.3466234,
+            44.4914787
+          ],
+          [
+            11.3464593,
+            44.4914809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95408281",
+      "properties": {
+        "@id": "way/95408281",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3464593,
+            44.4914809
+          ],
+          [
+            11.3462767,
+            44.4914768
+          ],
+          [
+            11.3458855,
+            44.4914682
+          ],
+          [
+            11.3456439,
+            44.4914628
+          ],
+          [
+            11.3453024,
+            44.4914552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363501340",
+      "properties": {
+        "@id": "way/363501340",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3453024,
+            44.4914552
+          ],
+          [
+            11.3448978,
+            44.4914431
+          ],
+          [
+            11.3441333,
+            44.4914199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112951518",
+      "properties": {
+        "@id": "way/112951518",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3596564,
+            44.4822441
+          ],
+          [
+            11.3595507,
+            44.4823178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33748627",
+      "properties": {
+        "@id": "way/33748627",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.353362,
+            44.486879
+          ],
+          [
+            11.353435,
+            44.4867921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112954195",
+      "properties": {
+        "@id": "way/112954195",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3575264,
+            44.4839225
+          ],
+          [
+            11.3576333,
+            44.4838472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264576027",
+      "properties": {
+        "@id": "node/264576027",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.35983,
+          44.4486319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1134545214",
+      "properties": {
+        "@id": "node/1134545214",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3610546,
+          44.4497603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280200611",
+      "properties": {
+        "@id": "node/1280200611",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3598881,
+          44.4486016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280200614",
+      "properties": {
+        "@id": "node/1280200614",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.361116,
+          44.449729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2652863200",
+      "properties": {
+        "@id": "node/2652863200",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3602106,
+          44.4506698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632931481",
+      "properties": {
+        "@id": "node/632931481",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3687676,
+          44.4557486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1134545291",
+      "properties": {
+        "@id": "node/1134545291",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3669577,
+          44.4542877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1134545304",
+      "properties": {
+        "@id": "node/1134545304",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3647795,
+          44.452638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1134545321",
+      "properties": {
+        "@id": "node/1134545321",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3679993,
+          44.4550459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280191884",
+      "properties": {
+        "@id": "node/1280191884",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3678875,
+          44.4551274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280191895",
+      "properties": {
+        "@id": "node/1280191895",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3688837,
+          44.455704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280195793",
+      "properties": {
+        "@id": "node/1280195793",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3648181,
+          44.4526036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280195794",
+      "properties": {
+        "@id": "node/1280195794",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3670491,
+          44.4542467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280195795",
+      "properties": {
+        "@id": "node/1280195795",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3666419,
+          44.4541926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280195796",
+      "properties": {
+        "@id": "node/1280195796",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3643818,
+          44.4524496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280810599",
+      "properties": {
+        "@id": "node/1280810599",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3667385,
+          44.4541264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282221414",
+      "properties": {
+        "@id": "node/1282221414",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3644178,
+          44.4524224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268079555",
+      "properties": {
+        "@id": "node/268079555",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.369505,
+          44.4570319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1134158646",
+      "properties": {
+        "@id": "node/1134158646",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3696238,
+          44.4572829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280191875",
+      "properties": {
+        "@id": "node/1280191875",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3693762,
+          44.4570578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280191879",
+      "properties": {
+        "@id": "node/1280191879",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3702551,
+          44.4605591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280191894",
+      "properties": {
+        "@id": "node/1280191894",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3697615,
+          44.4572566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280810594",
+      "properties": {
+        "@id": "node/1280810594",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3702302,
+          44.459837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280810597",
+      "properties": {
+        "@id": "node/1280810597",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3703727,
+          44.4605453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632700238",
+      "properties": {
+        "@id": "node/632700238",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3709089,
+          44.4686329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632700264",
+      "properties": {
+        "@id": "node/632700264",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3708785,
+          44.4634277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280109141",
+      "properties": {
+        "@id": "node/1280109141",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3707486,
+          44.4686656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280109145",
+      "properties": {
+        "@id": "node/1280109145",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3711541,
+          44.4689302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280191896",
+      "properties": {
+        "@id": "node/1280191896",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3707598,
+          44.4637731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280191898",
+      "properties": {
+        "@id": "node/1280191898",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3707722,
+          44.4663777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280191908",
+      "properties": {
+        "@id": "node/1280191908",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3707694,
+          44.4664746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280810591",
+      "properties": {
+        "@id": "node/1280810591",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3710039,
+          44.4689522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280810600",
+      "properties": {
+        "@id": "node/1280810600",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3708691,
+          44.4637729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/258507569",
+      "properties": {
+        "@id": "node/258507569",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3684171,
+          44.4737981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297791509",
+      "properties": {
+        "@id": "node/297791509",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.370328,
+          44.4715285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1039092764",
+      "properties": {
+        "@id": "node/1039092764",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3685374,
+          44.4736107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1127950301",
+      "properties": {
+        "@id": "node/1127950301",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3697373,
+          44.4721534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280109142",
+      "properties": {
+        "@id": "node/1280109142",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3696148,
+          44.4721188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280810598",
+      "properties": {
+        "@id": "node/1280810598",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3685878,
+          44.4736706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704720076",
+      "properties": {
+        "@id": "node/1704720076",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3393755,
+          44.4914416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/985821941",
+      "properties": {
+        "@id": "node/985821941",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3635987,
+          44.4801064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1039092753",
+      "properties": {
+        "@id": "node/1039092753",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3597533,
+          44.4823936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1039092757",
+      "properties": {
+        "@id": "node/1039092757",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3613309,
+          44.4814812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282534237",
+      "properties": {
+        "@id": "node/1282534237",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3612801,
+          44.4814203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282534238",
+      "properties": {
+        "@id": "node/1282534238",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3636554,
+          44.4801405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282547271",
+      "properties": {
+        "@id": "node/1282547271",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3597158,
+          44.4823498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1039092785",
+      "properties": {
+        "@id": "node/1039092785",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3574453,
+          44.4837851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282569525",
+      "properties": {
+        "@id": "node/1282569525",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3575141,
+          44.4838538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/985821933",
+      "properties": {
+        "@id": "node/985821933",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3642117,
+          44.4797914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/985821950",
+      "properties": {
+        "@id": "node/985821950",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3664229,
+          44.4772489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/985821953",
+      "properties": {
+        "@id": "node/985821953",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3655758,
+          44.4779689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1039092761",
+      "properties": {
+        "@id": "node/1039092761",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3667963,
+          44.4762333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280810585",
+      "properties": {
+        "@id": "node/1280810585",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3669352,
+          44.4762595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1280810593",
+      "properties": {
+        "@id": "node/1280810593",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3663578,
+          44.4772114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282529687",
+      "properties": {
+        "@id": "node/1282529687",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321975,
+            "reltags": {
+              "from": "Pavese",
+              "name": "Bus 13: S. Ruffillo Pavese - Borgo Panigale Normandia",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Normandia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3641657,
+          44.479754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282529690",
+      "properties": {
+        "@id": "node/1282529690",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1321976,
+            "reltags": {
+              "from": "Normandia",
+              "name": "Bus 13: Borgo Panigale Normandia - S. Ruffillo Pavese",
+              "network": "ATC",
+              "operator": "ATC",
+              "ref": "13",
+              "route": "trolleybus",
+              "to": "Pavese",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3656624,
+          44.4780013
+        ]
+      }
+    }
+  ]
+}

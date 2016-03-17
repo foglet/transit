@@ -1,0 +1,5368 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T07:06:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/6216203",
+      "properties": {
+        "@id": "way/6216203",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Vytauto pr.",
+        "name:lt": "Vytauto pr.",
+        "name:ru": "проспект Витауто",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9310385,
+            54.8867578
+          ],
+          [
+            23.9308805,
+            54.8868555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/7909530",
+      "properties": {
+        "@id": "way/7909530",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "maxspeed": "50",
+        "name": "E. Ožeškienės g.",
+        "name:lt": "E. Ožeškienės g.",
+        "name:ru": "улица Е. Ожешкенес",
+        "official_name": "Elzės Ožeškienės gatvė",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9058012,
+            54.899327
+          ],
+          [
+            23.9051791,
+            54.8990992
+          ],
+          [
+            23.9044992,
+            54.8988503
+          ],
+          [
+            23.9044847,
+            54.898845
+          ],
+          [
+            23.9042342,
+            54.8987534
+          ],
+          [
+            23.903618,
+            54.8985314
+          ],
+          [
+            23.9035388,
+            54.8985025
+          ],
+          [
+            23.9034973,
+            54.8984864
+          ],
+          [
+            23.902768,
+            54.8982032
+          ],
+          [
+            23.9021309,
+            54.8979664
+          ],
+          [
+            23.902011,
+            54.8979261
+          ],
+          [
+            23.9019149,
+            54.8978989
+          ],
+          [
+            23.90184,
+            54.8978877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/7909601",
+      "properties": {
+        "@id": "way/7909601",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Vytauto pr.",
+        "name:lt": "Vytauto pr.",
+        "name:ru": "проспект Витауто",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9253029,
+            54.8977759
+          ],
+          [
+            23.9252916,
+            54.8975251
+          ],
+          [
+            23.9252767,
+            54.8971957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/7910070",
+      "properties": {
+        "@id": "way/7910070",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Tilto g.",
+        "name:lt": "Tilto g.",
+        "name:ru": "улица Тилто",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9562495,
+            54.8625744
+          ],
+          [
+            23.9566844,
+            54.8625747
+          ],
+          [
+            23.9571499,
+            54.862577
+          ],
+          [
+            23.9572759,
+            54.8625759
+          ],
+          [
+            23.9574813,
+            54.8625772
+          ],
+          [
+            23.9575304,
+            54.8625776
+          ],
+          [
+            23.9577709,
+            54.8625708
+          ],
+          [
+            23.9579542,
+            54.8625084
+          ],
+          [
+            23.9580706,
+            54.8623988
+          ],
+          [
+            23.9581715,
+            54.862301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8027154",
+      "properties": {
+        "@id": "way/8027154",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Kęstučio g.",
+        "name:lt": "Kęstučio g.",
+        "name:ru": "улица Кестучио",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9251131,
+            54.8952453
+          ],
+          [
+            23.9249233,
+            54.8952519
+          ],
+          [
+            23.9241148,
+            54.8952844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8027155",
+      "properties": {
+        "@id": "way/8027155",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "I. Kanto g.",
+        "name:lt": "I. Kanto g.",
+        "name:ru": "улица И. Канто",
+        "official_name": "Imanuelio Kanto gatvė",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9040417,
+            54.8960449
+          ],
+          [
+            23.9038442,
+            54.8958188
+          ],
+          [
+            23.903528,
+            54.8954568
+          ],
+          [
+            23.9029708,
+            54.8948859
+          ],
+          [
+            23.9029245,
+            54.8948358
+          ],
+          [
+            23.9028326,
+            54.8947443
+          ],
+          [
+            23.9026586,
+            54.894566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8067836",
+      "properties": {
+        "@id": "way/8067836",
+        "highway": "primary",
+        "maxspeed": "50",
+        "name": "Vaidoto g.",
+        "name:lt": "Vaidoto g.",
+        "name:ru": "улица Ваидото",
+        "source:maxspeed": "LT:urban",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9761736,
+            54.8697829
+          ],
+          [
+            23.9766349,
+            54.8699928
+          ],
+          [
+            23.9769353,
+            54.8701965
+          ],
+          [
+            23.977107,
+            54.8703509
+          ],
+          [
+            23.9772036,
+            54.8704991
+          ],
+          [
+            23.9772787,
+            54.8706719
+          ],
+          [
+            23.9773204,
+            54.8707872
+          ],
+          [
+            23.9774503,
+            54.8711466
+          ],
+          [
+            23.9775898,
+            54.8713695
+          ],
+          [
+            23.9777829,
+            54.8715115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8067879",
+      "properties": {
+        "@id": "way/8067879",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Utenos g.",
+        "name:lt": "Utenos g.",
+        "name:ru": "улица Утенос",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9287144,
+            54.908729
+          ],
+          [
+            23.9285993,
+            54.9088236
+          ],
+          [
+            23.9277882,
+            54.9094726
+          ],
+          [
+            23.9271727,
+            54.9099532
+          ],
+          [
+            23.926792,
+            54.9102312
+          ],
+          [
+            23.9260434,
+            54.9107866
+          ],
+          [
+            23.926019,
+            54.9108046
+          ],
+          [
+            23.9256894,
+            54.911051
+          ],
+          [
+            23.9254277,
+            54.9113171
+          ],
+          [
+            23.9252687,
+            54.9115452
+          ],
+          [
+            23.9252375,
+            54.9115963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8067888",
+      "properties": {
+        "@id": "way/8067888",
+        "highway": "tertiary",
+        "name": "Eivenių g.",
+        "name:lt": "Eivenių g.",
+        "name:ru": "улица Ейвеню",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.924188,
+            54.9159381
+          ],
+          [
+            23.9239319,
+            54.9160247
+          ],
+          [
+            23.9238982,
+            54.9160361
+          ],
+          [
+            23.9233524,
+            54.9162207
+          ],
+          [
+            23.9227163,
+            54.9164358
+          ],
+          [
+            23.9225625,
+            54.9164878
+          ],
+          [
+            23.9223608,
+            54.9165498
+          ],
+          [
+            23.9219429,
+            54.9166782
+          ],
+          [
+            23.9213868,
+            54.9168491
+          ],
+          [
+            23.9210885,
+            54.9169408
+          ],
+          [
+            23.9208869,
+            54.9169818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8105925",
+      "properties": {
+        "@id": "way/8105925",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Kaunakiemio g.",
+        "name:lt": "Kaunakiemio g.",
+        "name:ru": "улица Каунакемио",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9278219,
+            54.8852151
+          ],
+          [
+            23.9276518,
+            54.8851595
+          ],
+          [
+            23.927529,
+            54.8851239
+          ],
+          [
+            23.9274448,
+            54.8851091
+          ],
+          [
+            23.9273523,
+            54.8851044
+          ],
+          [
+            23.9272624,
+            54.8851079
+          ],
+          [
+            23.9271675,
+            54.8851192
+          ],
+          [
+            23.9270835,
+            54.8851401
+          ],
+          [
+            23.9269971,
+            54.8851718
+          ],
+          [
+            23.926903,
+            54.8852202
+          ],
+          [
+            23.9268738,
+            54.8852381
+          ],
+          [
+            23.9263998,
+            54.8855984
+          ],
+          [
+            23.9262688,
+            54.8856522
+          ],
+          [
+            23.92612,
+            54.8856848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8111686",
+      "properties": {
+        "@id": "way/8111686",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "K. Donelaičio g.",
+        "name:lt": "K. Donelaičio g.",
+        "name:ru": "улица К. Донелаичио",
+        "official_name": "Kristijono Donelaičio gatvė",
+        "oneway": "no",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9058012,
+            54.899327
+          ],
+          [
+            23.9059588,
+            54.8993374
+          ],
+          [
+            23.906096,
+            54.8993433
+          ],
+          [
+            23.9065228,
+            54.8993257
+          ],
+          [
+            23.9070202,
+            54.8993051
+          ],
+          [
+            23.9072269,
+            54.8992965
+          ],
+          [
+            23.9074431,
+            54.8992868
+          ],
+          [
+            23.9081565,
+            54.899256
+          ],
+          [
+            23.9085114,
+            54.8992414
+          ],
+          [
+            23.9089624,
+            54.8992229
+          ],
+          [
+            23.909865,
+            54.8991859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10059087",
+      "properties": {
+        "@id": "way/10059087",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Prietilčio g.",
+        "name:lt": "Prietilčio g.",
+        "name:ru": "улица Приетилчио",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9262687,
+            54.8835619
+          ],
+          [
+            23.9263527,
+            54.883602
+          ],
+          [
+            23.9273967,
+            54.8840996
+          ],
+          [
+            23.9275641,
+            54.8842013
+          ],
+          [
+            23.927653,
+            54.8842847
+          ],
+          [
+            23.9276951,
+            54.884356
+          ],
+          [
+            23.9277091,
+            54.8844449
+          ],
+          [
+            23.9276938,
+            54.8845363
+          ],
+          [
+            23.9276655,
+            54.8845908
+          ],
+          [
+            23.9276155,
+            54.8846871
+          ],
+          [
+            23.9276038,
+            54.8847625
+          ],
+          [
+            23.9276062,
+            54.8848338
+          ],
+          [
+            23.9276316,
+            54.8849035
+          ],
+          [
+            23.927733,
+            54.8850514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/16497273",
+      "properties": {
+        "@id": "way/16497273",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Gimnazijos g.",
+        "name:lt": "Gimnazijos g.",
+        "name:ru": "улица Гимназийос",
+        "ref": "130",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8961568,
+            54.8967114
+          ],
+          [
+            23.8961658,
+            54.8968318
+          ],
+          [
+            23.8961704,
+            54.8970049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/16497390",
+      "properties": {
+        "@id": "way/16497390",
+        "access": "private",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Nemuno g.",
+        "name:lt": "Nemuno g.",
+        "name:ru": "улица Немуно",
+        "oneway": "yes",
+        "psv": "yes",
+        "source:maxspeed": "LT:urban",
+        "taxi": "no",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9026586,
+            54.894566
+          ],
+          [
+            23.9022032,
+            54.8946407
+          ],
+          [
+            23.902112,
+            54.8946685
+          ],
+          [
+            23.9013931,
+            54.8949432
+          ],
+          [
+            23.9013449,
+            54.8949616
+          ],
+          [
+            23.900806,
+            54.8951611
+          ],
+          [
+            23.9005302,
+            54.8952633
+          ],
+          [
+            23.9004732,
+            54.8952839
+          ],
+          [
+            23.8993083,
+            54.8957472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23100042",
+      "properties": {
+        "@id": "way/23100042",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Sukilėlių pr.",
+        "name:lt": "Sukilėlių pr.",
+        "name:ru": "проспект Сукилелю",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9245289,
+            54.9131942
+          ],
+          [
+            23.9245095,
+            54.9132372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23100112",
+      "properties": {
+        "@id": "way/23100112",
+        "highway": "tertiary",
+        "name": "V. Lašo g.",
+        "name:lt": "V. Lašo g.",
+        "name:ru": "улица В. Лашо",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9208869,
+            54.9169818
+          ],
+          [
+            23.9208764,
+            54.9169056
+          ],
+          [
+            23.9207819,
+            54.9162224
+          ],
+          [
+            23.9207584,
+            54.9160527
+          ],
+          [
+            23.9207518,
+            54.9160051
+          ],
+          [
+            23.9206521,
+            54.915228
+          ],
+          [
+            23.9206462,
+            54.9151817
+          ],
+          [
+            23.9205774,
+            54.9145779
+          ],
+          [
+            23.9206029,
+            54.9144761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26297906",
+      "properties": {
+        "@id": "way/26297906",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Prietilčio g.",
+        "name:lt": "Prietilčio g.",
+        "name:ru": "улица Приетилчио",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.92612,
+            54.8856848
+          ],
+          [
+            23.9259739,
+            54.8856912
+          ],
+          [
+            23.9257806,
+            54.8856776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32342326",
+      "properties": {
+        "@id": "way/32342326",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "6",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Utenos g.",
+        "name:lt": "Utenos g.",
+        "name:ru": "улица Утенос",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "through|through|right",
+        "turn:lanes:forward": "through|through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.924848,
+            54.9124457
+          ],
+          [
+            23.9245289,
+            54.9131942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32453266",
+      "properties": {
+        "@id": "way/32453266",
+        "highway": "tertiary",
+        "name": "Tvirtovės al.",
+        "name:lt": "Tvirtovės al.",
+        "name:ru": "аллея Твиртовес",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9245095,
+            54.9132372
+          ],
+          [
+            23.9240535,
+            54.9134827
+          ],
+          [
+            23.9233028,
+            54.9136988
+          ],
+          [
+            23.9226964,
+            54.91387
+          ],
+          [
+            23.9206029,
+            54.9144761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32498795",
+      "properties": {
+        "@id": "way/32498795",
+        "access": "destination",
+        "highway": "unclassified",
+        "maxspeed": "50",
+        "name": "Baterijos pl.",
+        "name:lt": "Baterijos pl.",
+        "name:ru": "шоссе Батерийос",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9858697,
+            54.8754715
+          ],
+          [
+            23.9855717,
+            54.8759912
+          ],
+          [
+            23.9850561,
+            54.8763261
+          ],
+          [
+            23.9842756,
+            54.8767281
+          ],
+          [
+            23.9835785,
+            54.8769526
+          ],
+          [
+            23.981987,
+            54.8770714
+          ],
+          [
+            23.9803015,
+            54.8767579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32788856",
+      "properties": {
+        "@id": "way/32788856",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "A. Juozapavičiaus pr.",
+        "name:lt": "A. Juozapavičiaus pr.",
+        "name:ru": "проспект А. Юозапавичяус",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9518655,
+            54.8636702
+          ],
+          [
+            23.9517021,
+            54.8637098
+          ],
+          [
+            23.9513634,
+            54.8638039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32788860",
+      "properties": {
+        "@id": "way/32788860",
+        "access": "yes",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "4",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Panemunės tiltas",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9557021,
+            54.8626378
+          ],
+          [
+            23.9518655,
+            54.8636702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32802702",
+      "properties": {
+        "@id": "way/32802702",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "M. K. Čiurlionio g.",
+        "name:lt": "M. K. Čiurlionio g.",
+        "name:ru": "улица М. К. Чюрлионио",
+        "official_name": "Mikalojaus Konstantino Čiurlionio gatvė",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.927733,
+            54.8850514
+          ],
+          [
+            23.9280559,
+            54.8852276
+          ],
+          [
+            23.9292654,
+            54.8858877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36822672",
+      "properties": {
+        "@id": "way/36822672",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "K. Donelaičio g.",
+        "name:lt": "K. Donelaičio g.",
+        "name:ru": "улица К. Донелаичио",
+        "official_name": "Kristijono Donelaičio gatvė",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "left|left;right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.909865,
+            54.8991859
+          ],
+          [
+            23.9102533,
+            54.8991704
+          ],
+          [
+            23.9104758,
+            54.8991615
+          ],
+          [
+            23.9105008,
+            54.8991605
+          ],
+          [
+            23.9107119,
+            54.899152
+          ],
+          [
+            23.9108642,
+            54.899146
+          ],
+          [
+            23.9114303,
+            54.8991233
+          ],
+          [
+            23.9118582,
+            54.8991062
+          ],
+          [
+            23.9119345,
+            54.8991032
+          ],
+          [
+            23.9129295,
+            54.8990634
+          ],
+          [
+            23.9130796,
+            54.8990574
+          ],
+          [
+            23.9137492,
+            54.8990325
+          ],
+          [
+            23.9144943,
+            54.8990048
+          ],
+          [
+            23.9152154,
+            54.8989767
+          ],
+          [
+            23.9153527,
+            54.8989713
+          ],
+          [
+            23.915622,
+            54.8989608
+          ],
+          [
+            23.9165898,
+            54.8989176
+          ],
+          [
+            23.9177765,
+            54.8988621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37368760",
+      "properties": {
+        "@id": "way/37368760",
+        "highway": "tertiary",
+        "name": "Tvirtovės al.",
+        "name:lt": "Tvirtovės al.",
+        "name:ru": "аллея Твиртовес",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9206029,
+            54.9144761
+          ],
+          [
+            23.9206506,
+            54.9142475
+          ],
+          [
+            23.9210619,
+            54.9141275
+          ],
+          [
+            23.9215225,
+            54.913993
+          ],
+          [
+            23.9216346,
+            54.9139633
+          ],
+          [
+            23.9228816,
+            54.9136088
+          ],
+          [
+            23.9233305,
+            54.9134862
+          ],
+          [
+            23.9240404,
+            54.9132846
+          ],
+          [
+            23.9242882,
+            54.913247
+          ],
+          [
+            23.9245095,
+            54.9132372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37694074",
+      "properties": {
+        "@id": "way/37694074",
+        "highway": "service",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9210885,
+            54.9169408
+          ],
+          [
+            23.9211965,
+            54.9171171
+          ],
+          [
+            23.9212152,
+            54.9172142
+          ],
+          [
+            23.9211819,
+            54.9172743
+          ],
+          [
+            23.921154,
+            54.917309
+          ],
+          [
+            23.921056,
+            54.9173645
+          ],
+          [
+            23.9208219,
+            54.9173827
+          ],
+          [
+            23.9207199,
+            54.9173465
+          ],
+          [
+            23.9206602,
+            54.9173253
+          ],
+          [
+            23.9205832,
+            54.9172041
+          ],
+          [
+            23.9206379,
+            54.9170426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53505593",
+      "properties": {
+        "@id": "way/53505593",
+        "highway": "primary",
+        "lanes": "3",
+        "maxheight": "4.5",
+        "maxspeed": "50",
+        "name": "A. Juozapavičiaus pr.",
+        "name:lt": "A. Juozapavičiaus pr.",
+        "name:ru": "проспект А. Юозапавичяус",
+        "official_name": "Antano Juozapavičiaus prospektas",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.925948,
+            54.883146
+          ],
+          [
+            23.9268253,
+            54.8824588
+          ],
+          [
+            23.9271468,
+            54.8822726
+          ],
+          [
+            23.927275,
+            54.8821984
+          ],
+          [
+            23.9283552,
+            54.8815731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53505594",
+      "properties": {
+        "@id": "way/53505594",
+        "highway": "primary",
+        "lanes": "2",
+        "maxheight": "4.5",
+        "maxspeed": "50",
+        "name": "A. Juozapavičiaus pr.",
+        "name:lt": "A. Juozapavičiaus pr.",
+        "name:ru": "проспект А. Юозапавичяус",
+        "official_name": "Antano Juozapavičiaus prospektas",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9273623,
+            54.8822865
+          ],
+          [
+            23.9272096,
+            54.8824858
+          ],
+          [
+            23.9267508,
+            54.8828877
+          ],
+          [
+            23.9263176,
+            54.8832188
+          ],
+          [
+            23.9262624,
+            54.8832725
+          ],
+          [
+            23.9262169,
+            54.8833942
+          ],
+          [
+            23.9262687,
+            54.8835619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53505598",
+      "properties": {
+        "@id": "way/53505598",
+        "highway": "primary_link",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9236569,
+            54.8851234
+          ],
+          [
+            23.9236995,
+            54.8850334
+          ],
+          [
+            23.9237769,
+            54.8849368
+          ],
+          [
+            23.9240983,
+            54.884556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53505599",
+      "properties": {
+        "@id": "way/53505599",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Karaliaus Mindaugo pr.",
+        "name:lt": "Karaliaus Mindaugo pr.",
+        "name:ru": "проспект Каралиус Миндауго",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9247567,
+            54.8840509
+          ],
+          [
+            23.9255507,
+            54.8834264
+          ],
+          [
+            23.925948,
+            54.883146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53505600",
+      "properties": {
+        "@id": "way/53505600",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Karaliaus Mindaugo pr.",
+        "name:lt": "Karaliaus Mindaugo pr.",
+        "name:ru": "проспект Каралиус Миндауго",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9240983,
+            54.884556
+          ],
+          [
+            23.9247567,
+            54.8840509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58232218",
+      "properties": {
+        "@id": "way/58232218",
+        "access": "permissive",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "A. Juozapavičiaus pr.",
+        "name:lt": "A. Juozapavičiaus pr.",
+        "name:ru": "проспект А. Юозапавичяус",
+        "official_name": "Antano Juozapavičiaus prospektas",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9513634,
+            54.8638039
+          ],
+          [
+            23.9511927,
+            54.8638932
+          ],
+          [
+            23.9511003,
+            54.8639421
+          ],
+          [
+            23.9508214,
+            54.8641212
+          ],
+          [
+            23.9507277,
+            54.8641967
+          ],
+          [
+            23.9505616,
+            54.8643303
+          ],
+          [
+            23.9503362,
+            54.8645278
+          ],
+          [
+            23.950087,
+            54.8647535
+          ],
+          [
+            23.9500489,
+            54.864788
+          ],
+          [
+            23.9500223,
+            54.8648087
+          ],
+          [
+            23.9498343,
+            54.8649547
+          ],
+          [
+            23.9495628,
+            54.8651303
+          ],
+          [
+            23.9491517,
+            54.8653516
+          ],
+          [
+            23.9489103,
+            54.8654782
+          ],
+          [
+            23.94843,
+            54.8657514
+          ],
+          [
+            23.9480472,
+            54.8659691
+          ],
+          [
+            23.9475652,
+            54.8662251
+          ],
+          [
+            23.9470129,
+            54.8665318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58272472",
+      "properties": {
+        "@id": "way/58272472",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Tilto g.",
+        "name:lt": "Tilto g.",
+        "name:ru": "улица Тилто",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9590669,
+            54.8618722
+          ],
+          [
+            23.9589186,
+            54.8620172
+          ],
+          [
+            23.9588736,
+            54.8620624
+          ],
+          [
+            23.9587674,
+            54.8621676
+          ],
+          [
+            23.9584656,
+            54.8624676
+          ],
+          [
+            23.95829,
+            54.8626219
+          ],
+          [
+            23.9580651,
+            54.8627195
+          ],
+          [
+            23.9576794,
+            54.8627332
+          ],
+          [
+            23.9574481,
+            54.8627187
+          ],
+          [
+            23.9570266,
+            54.8626756
+          ],
+          [
+            23.9565955,
+            54.86263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58298812",
+      "properties": {
+        "@id": "way/58298812",
+        "highway": "service",
+        "source": "Kauno Bendrasis Planas",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9770888,
+            54.8719871
+          ],
+          [
+            23.9768358,
+            54.8719273
+          ],
+          [
+            23.9767908,
+            54.8718652
+          ],
+          [
+            23.9768448,
+            54.8717668
+          ],
+          [
+            23.9774024,
+            54.8714822
+          ],
+          [
+            23.9775898,
+            54.8713695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61974974",
+      "properties": {
+        "@id": "way/61974974",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "3",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9287144,
+            54.908729
+          ],
+          [
+            23.9278675,
+            54.9084051
+          ],
+          [
+            23.9276169,
+            54.9083144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61974975",
+      "properties": {
+        "@id": "way/61974975",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9206707,
+            54.9057667
+          ],
+          [
+            23.9204751,
+            54.9056948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62226934",
+      "properties": {
+        "@id": "way/62226934",
+        "highway": "service",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9429534,
+            54.9336306
+          ],
+          [
+            23.9433177,
+            54.9336204
+          ],
+          [
+            23.9437674,
+            54.9336079
+          ],
+          [
+            23.9439064,
+            54.933604
+          ],
+          [
+            23.9439512,
+            54.9336027
+          ],
+          [
+            23.9439909,
+            54.9336015
+          ],
+          [
+            23.9442388,
+            54.9335942
+          ],
+          [
+            23.9443669,
+            54.9335939
+          ],
+          [
+            23.9444849,
+            54.9335893
+          ],
+          [
+            23.9445744,
+            54.9336124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/64495245",
+      "properties": {
+        "@id": "way/64495245",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Kęstučio g.",
+        "name:lt": "Kęstučio g.",
+        "name:ru": "улица Кестучио",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9241148,
+            54.8952844
+          ],
+          [
+            23.9238132,
+            54.8952965
+          ],
+          [
+            23.9235255,
+            54.895308
+          ],
+          [
+            23.9233145,
+            54.8953165
+          ],
+          [
+            23.9228495,
+            54.8953351
+          ],
+          [
+            23.9228166,
+            54.8953364
+          ],
+          [
+            23.922719,
+            54.8953403
+          ],
+          [
+            23.9223378,
+            54.8953556
+          ],
+          [
+            23.9213027,
+            54.895397
+          ],
+          [
+            23.9211851,
+            54.8954017
+          ],
+          [
+            23.9206155,
+            54.8954201
+          ],
+          [
+            23.9205502,
+            54.8954222
+          ],
+          [
+            23.9202298,
+            54.8954325
+          ],
+          [
+            23.9193866,
+            54.8954597
+          ],
+          [
+            23.9187675,
+            54.8954796
+          ],
+          [
+            23.9187407,
+            54.8954805
+          ],
+          [
+            23.9182779,
+            54.8954954
+          ],
+          [
+            23.9180728,
+            54.895502
+          ],
+          [
+            23.9174091,
+            54.8955234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/65597721",
+      "properties": {
+        "@id": "way/65597721",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Vytauto pr.",
+        "name:lt": "Vytauto pr.",
+        "name:ru": "проспект Витауто",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9251753,
+            54.8959021
+          ],
+          [
+            23.9251673,
+            54.8958177
+          ],
+          [
+            23.9251211,
+            54.8953305
+          ],
+          [
+            23.9251131,
+            54.8952453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/65597767",
+      "properties": {
+        "@id": "way/65597767",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "M. K. Čiurlionio g.",
+        "name:lt": "M. K. Čiurlionio g.",
+        "name:ru": "улица М. К. Чюрлионио",
+        "official_name": "Mikalojaus Konstantino Čiurlionio gatvė",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9308805,
+            54.8868555
+          ],
+          [
+            23.930051,
+            54.8864417
+          ],
+          [
+            23.9299715,
+            54.886402
+          ],
+          [
+            23.9296596,
+            54.8862315
+          ],
+          [
+            23.9295359,
+            54.8861638
+          ],
+          [
+            23.9294677,
+            54.8861265
+          ],
+          [
+            23.9291873,
+            54.8859732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/65597844",
+      "properties": {
+        "@id": "way/65597844",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "3",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Šv. Gertrūdos g.",
+        "name:lt": "Šv. Gertrūdos g.",
+        "name:ru": "улица Шв. Гертрудос",
+        "official_name": "Šventosios Gertrūdos gatvė",
+        "ref": "141;222",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "left|left;through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8962509,
+            54.8982359
+          ],
+          [
+            23.8972484,
+            54.8981505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/67489860",
+      "properties": {
+        "@id": "way/67489860",
+        "access": "yes",
+        "construction": "primary",
+        "foot": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "lanes:forward": "1",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "width": "13"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9122849,
+            54.9027052
+          ],
+          [
+            23.9115083,
+            54.9024355
+          ],
+          [
+            23.9102822,
+            54.9019685
+          ],
+          [
+            23.9098046,
+            54.901791
+          ],
+          [
+            23.9097241,
+            54.9017611
+          ],
+          [
+            23.909187,
+            54.9015448
+          ],
+          [
+            23.9088652,
+            54.9014166
+          ],
+          [
+            23.9087466,
+            54.9013693
+          ],
+          [
+            23.9084926,
+            54.9012681
+          ],
+          [
+            23.9084369,
+            54.9012459
+          ],
+          [
+            23.9082038,
+            54.901153
+          ],
+          [
+            23.9080929,
+            54.9011088
+          ],
+          [
+            23.90785,
+            54.9010121
+          ],
+          [
+            23.9076624,
+            54.9009355
+          ],
+          [
+            23.9062056,
+            54.9003311
+          ],
+          [
+            23.9054048,
+            54.8999986
+          ],
+          [
+            23.9046842,
+            54.8996994
+          ],
+          [
+            23.9044046,
+            54.8995833
+          ],
+          [
+            23.9029891,
+            54.8989956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68688481",
+      "properties": {
+        "@id": "way/68688481",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Vaidoto g.",
+        "name:lt": "Vaidoto g.",
+        "name:ru": "улица Ваидото",
+        "source:maxspeed": "LT:urban",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9587152,
+            54.8617566
+          ],
+          [
+            23.9590669,
+            54.8618722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68688497",
+      "properties": {
+        "@id": "way/68688497",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Ašigalio g.",
+        "name:lt": "Ašigalio g.",
+        "name:ru": "улица Ашигалио",
+        "source:maxspeed": "LT:urban",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9429534,
+            54.9336306
+          ],
+          [
+            23.9429187,
+            54.9329401
+          ],
+          [
+            23.9429061,
+            54.9327788
+          ],
+          [
+            23.9428996,
+            54.9325469
+          ],
+          [
+            23.9428679,
+            54.9322923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68688515",
+      "properties": {
+        "@id": "way/68688515",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Šiaurės pr.",
+        "name:lt": "Šiaurės pr.",
+        "name:ru": "проспект Шяурес",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9282273,
+            54.9287288
+          ],
+          [
+            23.9292423,
+            54.9290401
+          ],
+          [
+            23.9294273,
+            54.9290998
+          ],
+          [
+            23.9296061,
+            54.9291575
+          ],
+          [
+            23.9304691,
+            54.9294249
+          ],
+          [
+            23.9312229,
+            54.9296727
+          ],
+          [
+            23.9312792,
+            54.9296912
+          ],
+          [
+            23.9313812,
+            54.9297251
+          ],
+          [
+            23.9322341,
+            54.9299871
+          ],
+          [
+            23.9339749,
+            54.9305295
+          ],
+          [
+            23.9341841,
+            54.9305927
+          ],
+          [
+            23.9357076,
+            54.9310427
+          ],
+          [
+            23.9361503,
+            54.9311462
+          ],
+          [
+            23.9363486,
+            54.9311799
+          ],
+          [
+            23.936886,
+            54.9312655
+          ],
+          [
+            23.9375529,
+            54.931354
+          ],
+          [
+            23.937738,
+            54.9313772
+          ],
+          [
+            23.938202,
+            54.931408
+          ],
+          [
+            23.9386473,
+            54.9314357
+          ],
+          [
+            23.9394951,
+            54.9314449
+          ],
+          [
+            23.940582,
+            54.9314067
+          ],
+          [
+            23.9413911,
+            54.9313865
+          ],
+          [
+            23.9416031,
+            54.9313528
+          ],
+          [
+            23.9418145,
+            54.931302
+          ],
+          [
+            23.9420592,
+            54.9312142
+          ],
+          [
+            23.9422903,
+            54.9311208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68688527",
+      "properties": {
+        "@id": "way/68688527",
+        "highway": "secondary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Sukilėlių pr.",
+        "name:lt": "Sukilėlių pr.",
+        "name:ru": "проспект Сукилелю",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.924188,
+            54.9159381
+          ],
+          [
+            23.9254278,
+            54.916679
+          ],
+          [
+            23.9254796,
+            54.91671
+          ],
+          [
+            23.9269756,
+            54.9176106
+          ],
+          [
+            23.9270145,
+            54.9176418
+          ],
+          [
+            23.9272445,
+            54.9178266
+          ],
+          [
+            23.9273513,
+            54.9179321
+          ],
+          [
+            23.9275206,
+            54.9181322
+          ],
+          [
+            23.9275974,
+            54.9182443
+          ],
+          [
+            23.9276814,
+            54.9184068
+          ],
+          [
+            23.927751,
+            54.9185716
+          ],
+          [
+            23.9277594,
+            54.9186035
+          ],
+          [
+            23.9277931,
+            54.918731
+          ],
+          [
+            23.9278166,
+            54.9189047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68692880",
+      "properties": {
+        "@id": "way/68692880",
+        "highway": "primary",
+        "lanes": "6",
+        "maxspeed": "50",
+        "name": "Vytauto pr.",
+        "name:lt": "Vytauto pr.",
+        "name:ru": "проспект Витауто",
+        "source:maxspeed": "LT:urban",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9252767,
+            54.8971957
+          ],
+          [
+            23.9252513,
+            54.8969134
+          ],
+          [
+            23.9252472,
+            54.8968587
+          ],
+          [
+            23.9252419,
+            54.8967677
+          ],
+          [
+            23.9252405,
+            54.8967546
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68692881",
+      "properties": {
+        "@id": "way/68692881",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Vaidoto g.",
+        "name:lt": "Vaidoto g.",
+        "name:ru": "улица Ваидото",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9625453,
+            54.8630035
+          ],
+          [
+            23.9627921,
+            54.8631059
+          ],
+          [
+            23.9629091,
+            54.8631604
+          ],
+          [
+            23.9641598,
+            54.8637495
+          ],
+          [
+            23.9647474,
+            54.86401
+          ],
+          [
+            23.9656035,
+            54.8644516
+          ],
+          [
+            23.9658846,
+            54.8645966
+          ],
+          [
+            23.9660848,
+            54.8647061
+          ],
+          [
+            23.9670797,
+            54.8652501
+          ],
+          [
+            23.968085,
+            54.8658567
+          ],
+          [
+            23.9682232,
+            54.8659401
+          ],
+          [
+            23.9688866,
+            54.866325
+          ],
+          [
+            23.9693901,
+            54.8665829
+          ],
+          [
+            23.9699981,
+            54.8668944
+          ],
+          [
+            23.9703357,
+            54.8670614
+          ],
+          [
+            23.9709169,
+            54.8673573
+          ],
+          [
+            23.9713101,
+            54.8675616
+          ],
+          [
+            23.9720021,
+            54.8679366
+          ],
+          [
+            23.9724272,
+            54.8681429
+          ],
+          [
+            23.9727664,
+            54.8683289
+          ],
+          [
+            23.9728906,
+            54.8683876
+          ],
+          [
+            23.9742961,
+            54.8690125
+          ],
+          [
+            23.9748754,
+            54.8692828
+          ],
+          [
+            23.9755279,
+            54.8695253
+          ],
+          [
+            23.9761736,
+            54.8697829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/75255457",
+      "properties": {
+        "@id": "way/75255457",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Gimnazijos g.",
+        "name:lt": "Gimnazijos g.",
+        "name:ru": "улица Гимназийос",
+        "ref": "130",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "left|left;through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8961872,
+            54.8977787
+          ],
+          [
+            23.8961982,
+            54.8978577
+          ],
+          [
+            23.8962509,
+            54.8982359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80798297",
+      "properties": {
+        "@id": "way/80798297",
+        "highway": "secondary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Sukilėlių pr.",
+        "name:lt": "Sukilėlių pr.",
+        "name:ru": "проспект Сукилелю",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9285609,
+            54.9239093
+          ],
+          [
+            23.9286885,
+            54.9249235
+          ],
+          [
+            23.9287007,
+            54.9250204
+          ],
+          [
+            23.9287218,
+            54.9251902
+          ],
+          [
+            23.9287795,
+            54.9256559
+          ],
+          [
+            23.9287919,
+            54.9257507
+          ],
+          [
+            23.9288004,
+            54.9258728
+          ],
+          [
+            23.9288242,
+            54.9260811
+          ],
+          [
+            23.9288703,
+            54.9264858
+          ],
+          [
+            23.9289314,
+            54.9269052
+          ],
+          [
+            23.9289326,
+            54.9270314
+          ],
+          [
+            23.9289298,
+            54.9270994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80798302",
+      "properties": {
+        "@id": "way/80798302",
+        "highway": "secondary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Sukilėlių pr.",
+        "name:lt": "Sukilėlių pr.",
+        "name:ru": "проспект Сукилелю",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9282447,
+            54.9217426
+          ],
+          [
+            23.9282824,
+            54.9220832
+          ],
+          [
+            23.9283054,
+            54.9222825
+          ],
+          [
+            23.9285336,
+            54.9237225
+          ],
+          [
+            23.928546,
+            54.9238075
+          ],
+          [
+            23.9285609,
+            54.9239093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143813231",
+      "properties": {
+        "@id": "way/143813231",
+        "access": "yes",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Nemuno g.",
+        "name:lt": "Nemuno g.",
+        "name:ru": "улица Немуно",
+        "oneway": "yes",
+        "psv": "yes",
+        "source:maxspeed": "LT:urban",
+        "taxi": "no",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8993083,
+            54.8957472
+          ],
+          [
+            23.8987431,
+            54.8959705
+          ],
+          [
+            23.8985172,
+            54.8960572
+          ],
+          [
+            23.8976616,
+            54.8963456
+          ],
+          [
+            23.8973073,
+            54.896432
+          ],
+          [
+            23.8966477,
+            54.8965929
+          ],
+          [
+            23.8964104,
+            54.8966508
+          ],
+          [
+            23.8961568,
+            54.8967114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144387312",
+      "properties": {
+        "@id": "way/144387312",
+        "hgv": "destination",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "3",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.917387,
+            54.9045624
+          ],
+          [
+            23.9168617,
+            54.9043708
+          ],
+          [
+            23.9165081,
+            54.9042419
+          ],
+          [
+            23.9160237,
+            54.9040653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166603808",
+      "properties": {
+        "@id": "way/166603808",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Tilto g.",
+        "name:lt": "Tilto g.",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9562495,
+            54.8625744
+          ],
+          [
+            23.9560075,
+            54.8625687
+          ],
+          [
+            23.9557021,
+            54.8626378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166603809",
+      "properties": {
+        "@id": "way/166603809",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "A. Juozapavičiaus pr.",
+        "name:lt": "A. Juozapavičiaus pr.",
+        "name:ru": "проспект А. Юозапавичяус",
+        "official_name": "Antano Juozapavičiaus prospektas",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9334244,
+            54.878597
+          ],
+          [
+            23.9333419,
+            54.8786562
+          ],
+          [
+            23.932681,
+            54.8791306
+          ],
+          [
+            23.932126,
+            54.8795268
+          ],
+          [
+            23.9318974,
+            54.8796779
+          ],
+          [
+            23.9317923,
+            54.8797474
+          ],
+          [
+            23.9317616,
+            54.8797677
+          ],
+          [
+            23.9314344,
+            54.879922
+          ],
+          [
+            23.9310687,
+            54.8800719
+          ],
+          [
+            23.930222,
+            54.8804189
+          ],
+          [
+            23.9301687,
+            54.8804455
+          ],
+          [
+            23.9297016,
+            54.8806781
+          ],
+          [
+            23.9292296,
+            54.8809497
+          ],
+          [
+            23.9286883,
+            54.8813356
+          ],
+          [
+            23.9283552,
+            54.8815731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167365002",
+      "properties": {
+        "@id": "way/167365002",
+        "highway": "primary",
+        "lanes": "6",
+        "maxspeed": "50",
+        "name": "Vytauto pr.",
+        "name:lt": "Vytauto pr.",
+        "name:ru": "проспект Витауто",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "through|through;right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9252405,
+            54.8967546
+          ],
+          [
+            23.9252249,
+            54.8965124
+          ],
+          [
+            23.9252117,
+            54.8962803
+          ],
+          [
+            23.9251987,
+            54.8961454
+          ],
+          [
+            23.9251937,
+            54.896093
+          ],
+          [
+            23.9251753,
+            54.8959021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169857556",
+      "properties": {
+        "@id": "way/169857556",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Sukilėlių pr.",
+        "name:lt": "Sukilėlių pr.",
+        "name:ru": "проспект Сукилелю",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9289298,
+            54.9270994
+          ],
+          [
+            23.9290192,
+            54.9273876
+          ],
+          [
+            23.9290077,
+            54.9275824
+          ],
+          [
+            23.9289398,
+            54.9278023
+          ],
+          [
+            23.9288497,
+            54.9280038
+          ],
+          [
+            23.9287784,
+            54.9281366
+          ],
+          [
+            23.9285757,
+            54.9283923
+          ],
+          [
+            23.9282273,
+            54.9287288
+          ],
+          [
+            23.9280804,
+            54.9288436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169857557",
+      "properties": {
+        "@id": "way/169857557",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Sukilėlių pr.",
+        "name:lt": "Sukilėlių pr.",
+        "name:ru": "проспект Сукилелю",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9279275,
+            54.9287911
+          ],
+          [
+            23.928026,
+            54.9286856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171229357",
+      "properties": {
+        "@id": "way/171229357",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Vytauto pr.",
+        "name:lt": "Vytauto pr.",
+        "name:ru": "проспект Витауто",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9308805,
+            54.8868555
+          ],
+          [
+            23.9303248,
+            54.887199
+          ],
+          [
+            23.9301422,
+            54.8873118
+          ],
+          [
+            23.92991,
+            54.8874598
+          ],
+          [
+            23.9297178,
+            54.8875855
+          ],
+          [
+            23.9288661,
+            54.8881373
+          ],
+          [
+            23.9287912,
+            54.8881867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171229851",
+      "properties": {
+        "@id": "way/171229851",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Vytauto pr.",
+        "name:lt": "Vytauto pr.",
+        "name:ru": "проспект Витауто",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "left|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9250698,
+            54.8946423
+          ],
+          [
+            23.9250792,
+            54.8947734
+          ],
+          [
+            23.9251131,
+            54.8952453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176820422",
+      "properties": {
+        "@id": "way/176820422",
+        "highway": "primary",
+        "lanes": "1",
+        "name": "Šiaurės pr.",
+        "name:lt": "Šiaurės pr.",
+        "name:ru": "проспект Шяурес",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9422567,
+            54.931682
+          ],
+          [
+            23.941768,
+            54.931556
+          ],
+          [
+            23.9416997,
+            54.9315506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177576189",
+      "properties": {
+        "@id": "way/177576189",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Utenos g.",
+        "name:lt": "Utenos g.",
+        "name:ru": "улица Утенос",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9248936,
+            54.9123486
+          ],
+          [
+            23.924848,
+            54.9124457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177576190",
+      "properties": {
+        "@id": "way/177576190",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Utenos g.",
+        "name:lt": "Utenos g.",
+        "name:ru": "улица Утенос",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9250307,
+            54.9120775
+          ],
+          [
+            23.9248936,
+            54.9123486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185996228",
+      "properties": {
+        "@id": "way/185996228",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Vytauto pr.",
+        "name:lt": "Vytauto pr.",
+        "name:ru": "проспект Витауто",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9263071,
+            54.889748
+          ],
+          [
+            23.9257853,
+            54.8900764
+          ],
+          [
+            23.9256555,
+            54.8901643
+          ],
+          [
+            23.9252662,
+            54.8904055
+          ],
+          [
+            23.924903,
+            54.8906801
+          ],
+          [
+            23.924844,
+            54.8908375
+          ],
+          [
+            23.9248359,
+            54.8909069
+          ],
+          [
+            23.9248601,
+            54.8912771
+          ],
+          [
+            23.9249003,
+            54.8919235
+          ],
+          [
+            23.9249379,
+            54.8925482
+          ],
+          [
+            23.9249946,
+            54.8935019
+          ],
+          [
+            23.9250015,
+            54.8935868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199983191",
+      "properties": {
+        "@id": "way/199983191",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Vytauto pr.",
+        "name:lt": "Vytauto pr.",
+        "name:ru": "проспект Витауто",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9250015,
+            54.8935868
+          ],
+          [
+            23.9250069,
+            54.8936669
+          ],
+          [
+            23.9250296,
+            54.8940189
+          ],
+          [
+            23.9250698,
+            54.8946423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262743600",
+      "properties": {
+        "@id": "way/262743600",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "M. K. Čiurlionio g.",
+        "name:lt": "M. K. Čiurlionio g.",
+        "name:ru": "улица М. К. Чюрлионио",
+        "official_name": "Mikalojaus Konstantino Čiurlionio gatvė",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "left|left|none|none"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9299264,
+            54.8861774
+          ],
+          [
+            23.9310385,
+            54.8867578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262754117",
+      "properties": {
+        "@id": "way/262754117",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Šv. Gertrūdos g.",
+        "name:lt": "Šv. Gertrūdos g.",
+        "name:ru": "улица Шв. Гертрудос",
+        "official_name": "Šventosios Gertrūdos gatvė",
+        "ref": "141;222",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8972484,
+            54.8981505
+          ],
+          [
+            23.8982118,
+            54.8980773
+          ],
+          [
+            23.8983898,
+            54.8980628
+          ],
+          [
+            23.8989182,
+            54.8980217
+          ],
+          [
+            23.8989463,
+            54.8980201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262760427",
+      "properties": {
+        "@id": "way/262760427",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Šiaurės pr.",
+        "name:lt": "Šiaurės pr.",
+        "name:ru": "проспект Шяурес",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9416997,
+            54.9315506
+          ],
+          [
+            23.9414917,
+            54.9315341
+          ],
+          [
+            23.9404935,
+            54.9315404
+          ],
+          [
+            23.9389021,
+            54.9315621
+          ],
+          [
+            23.9382959,
+            54.9315436
+          ],
+          [
+            23.938076,
+            54.9315313
+          ],
+          [
+            23.9377101,
+            54.9315096
+          ],
+          [
+            23.9375154,
+            54.9314866
+          ],
+          [
+            23.937355,
+            54.9314666
+          ],
+          [
+            23.9365263,
+            54.9313427
+          ],
+          [
+            23.9364892,
+            54.9313372
+          ],
+          [
+            23.9358321,
+            54.9312078
+          ],
+          [
+            23.9350504,
+            54.9310119
+          ],
+          [
+            23.9340929,
+            54.9307222
+          ],
+          [
+            23.9338649,
+            54.9306528
+          ],
+          [
+            23.9320905,
+            54.9301017
+          ],
+          [
+            23.9314964,
+            54.9299198
+          ],
+          [
+            23.9312655,
+            54.9298491
+          ],
+          [
+            23.9310663,
+            54.9297881
+          ],
+          [
+            23.9293009,
+            54.9292322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262765290",
+      "properties": {
+        "@id": "way/262765290",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "width": "13"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9009666,
+            54.898163
+          ],
+          [
+            23.9006997,
+            54.8980603
+          ],
+          [
+            23.9003584,
+            54.897929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266690220",
+      "properties": {
+        "@id": "way/266690220",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Vytauto pr.",
+        "name:lt": "Vytauto pr.",
+        "name:ru": "проспект Витауто",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9287912,
+            54.8881867
+          ],
+          [
+            23.9286938,
+            54.8882442
+          ],
+          [
+            23.9282061,
+            54.8885319
+          ],
+          [
+            23.9274246,
+            54.8890338
+          ],
+          [
+            23.9273918,
+            54.8890548
+          ],
+          [
+            23.9273118,
+            54.8891059
+          ],
+          [
+            23.9272644,
+            54.8891362
+          ],
+          [
+            23.9269982,
+            54.8893063
+          ],
+          [
+            23.9269222,
+            54.889352
+          ],
+          [
+            23.9263071,
+            54.889748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271389803",
+      "properties": {
+        "@id": "way/271389803",
+        "highway": "primary",
+        "lanes": "2",
+        "lanes:forward": "1",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "left|through",
+        "width": "13"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9029891,
+            54.8989956
+          ],
+          [
+            23.9024377,
+            54.8987528
+          ],
+          [
+            23.9021748,
+            54.8986463
+          ],
+          [
+            23.9009666,
+            54.898163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/310095616",
+      "properties": {
+        "@id": "way/310095616",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Utenos g.",
+        "name:lt": "Utenos g.",
+        "name:ru": "улица Утенос",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9252375,
+            54.9115963
+          ],
+          [
+            23.9251994,
+            54.9116883
+          ],
+          [
+            23.9250732,
+            54.9119925
+          ],
+          [
+            23.9250307,
+            54.9120775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312120940",
+      "properties": {
+        "@id": "way/312120940",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "M. K. Čiurlionio g.",
+        "name:lt": "M. K. Čiurlionio g.",
+        "name:ru": "улица М. К. Чюрлионио",
+        "official_name": "Mikalojaus Konstantino Čiurlionio gatvė",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "through|through;right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9291873,
+            54.8859732
+          ],
+          [
+            23.928198,
+            54.8854324
+          ],
+          [
+            23.9278219,
+            54.8852151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312120941",
+      "properties": {
+        "@id": "way/312120941",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "M. K. Čiurlionio g.",
+        "name:lt": "M. K. Čiurlionio g.",
+        "name:ru": "улица М. К. Чюрлионио",
+        "official_name": "Mikalojaus Konstantino Čiurlionio gatvė",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9292654,
+            54.8858877
+          ],
+          [
+            23.9298236,
+            54.8861324
+          ],
+          [
+            23.9299264,
+            54.8861774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315211303",
+      "properties": {
+        "@id": "way/315211303",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Gimnazijos g.",
+        "name:lt": "Gimnazijos g.",
+        "name:ru": "улица Гимназийос",
+        "ref": "130",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8961704,
+            54.8970049
+          ],
+          [
+            23.8961867,
+            54.897556
+          ],
+          [
+            23.8961872,
+            54.8977787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315879069",
+      "properties": {
+        "@id": "way/315879069",
+        "highway": "secondary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Sukilėlių pr.",
+        "name:lt": "Sukilėlių pr.",
+        "name:ru": "проспект Сукилелю",
+        "source:maxspeed": "LT:urban",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9278166,
+            54.9189047
+          ],
+          [
+            23.9278261,
+            54.9189605
+          ],
+          [
+            23.92802,
+            54.9202646
+          ],
+          [
+            23.9280397,
+            54.920368
+          ],
+          [
+            23.9282447,
+            54.9217426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317620127",
+      "properties": {
+        "@id": "way/317620127",
+        "access": "permissive",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "A. Juozapavičiaus pr.",
+        "name:lt": "A. Juozapavičiaus pr.",
+        "name:ru": "проспект А. Юозапавичяус",
+        "official_name": "Antano Juozapavičiaus prospektas",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9349288,
+            54.8766342
+          ],
+          [
+            23.9346897,
+            54.8769629
+          ],
+          [
+            23.9346662,
+            54.8769952
+          ],
+          [
+            23.9343346,
+            54.877451
+          ],
+          [
+            23.9342998,
+            54.8774988
+          ],
+          [
+            23.9340295,
+            54.8778703
+          ],
+          [
+            23.9339771,
+            54.8779424
+          ],
+          [
+            23.9339054,
+            54.878041
+          ],
+          [
+            23.9338054,
+            54.8781784
+          ],
+          [
+            23.9337053,
+            54.8783147
+          ],
+          [
+            23.9335479,
+            54.8784931
+          ],
+          [
+            23.9334244,
+            54.878597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318397970",
+      "properties": {
+        "@id": "way/318397970",
+        "access": "permissive",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "A. Juozapavičiaus pr.",
+        "name:lt": "A. Juozapavičiaus pr.",
+        "name:ru": "проспект А. Юозапавичяус",
+        "official_name": "Antano Juozapavičiaus prospektas",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9470129,
+            54.8665318
+          ],
+          [
+            23.9467678,
+            54.866667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/331597121",
+      "properties": {
+        "@id": "way/331597121",
+        "highway": "service",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9449715,
+            54.9336032
+          ],
+          [
+            23.9445744,
+            54.9336124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337060219",
+      "properties": {
+        "@id": "way/337060219",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9276169,
+            54.9083144
+          ],
+          [
+            23.927278,
+            54.9081888
+          ],
+          [
+            23.9266239,
+            54.9079463
+          ],
+          [
+            23.9265486,
+            54.9079184
+          ],
+          [
+            23.9264371,
+            54.9078771
+          ],
+          [
+            23.9251752,
+            54.9074128
+          ],
+          [
+            23.9247533,
+            54.9072576
+          ],
+          [
+            23.924161,
+            54.9070397
+          ],
+          [
+            23.9241409,
+            54.9070324
+          ],
+          [
+            23.9239546,
+            54.9069644
+          ],
+          [
+            23.9235074,
+            54.9068013
+          ],
+          [
+            23.9230889,
+            54.9066488
+          ],
+          [
+            23.9227021,
+            54.9065076
+          ],
+          [
+            23.9224802,
+            54.9064265
+          ],
+          [
+            23.9221852,
+            54.906319
+          ],
+          [
+            23.9220253,
+            54.9062608
+          ],
+          [
+            23.9216515,
+            54.9061244
+          ],
+          [
+            23.9214294,
+            54.9060434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337060221",
+      "properties": {
+        "@id": "way/337060221",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9214294,
+            54.9060434
+          ],
+          [
+            23.9211873,
+            54.9059576
+          ],
+          [
+            23.9206707,
+            54.9057667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337060223",
+      "properties": {
+        "@id": "way/337060223",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "3",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9204751,
+            54.9056948
+          ],
+          [
+            23.9201268,
+            54.9055668
+          ],
+          [
+            23.9199808,
+            54.9055132
+          ],
+          [
+            23.9195469,
+            54.9053537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337060224",
+      "properties": {
+        "@id": "way/337060224",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9195469,
+            54.9053537
+          ],
+          [
+            23.9193762,
+            54.905291
+          ],
+          [
+            23.9188773,
+            54.9051096
+          ],
+          [
+            23.9181452,
+            54.9048395
+          ],
+          [
+            23.9180156,
+            54.9047922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337060225",
+      "properties": {
+        "@id": "way/337060225",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "left|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9180156,
+            54.9047922
+          ],
+          [
+            23.9177232,
+            54.9046853
+          ],
+          [
+            23.917387,
+            54.9045624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337060228",
+      "properties": {
+        "@id": "way/337060228",
+        "hgv": "destination",
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9160237,
+            54.9040653
+          ],
+          [
+            23.9151619,
+            54.9037591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337060230",
+      "properties": {
+        "@id": "way/337060230",
+        "hgv": "destination",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9151619,
+            54.9037591
+          ],
+          [
+            23.9142986,
+            54.9034435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337064310",
+      "properties": {
+        "@id": "way/337064310",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Prietilčio g.",
+        "name:lt": "Prietilčio g.",
+        "name:ru": "улица Приетилчио",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "left|left|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9257806,
+            54.8856776
+          ],
+          [
+            23.9239418,
+            54.8851939
+          ],
+          [
+            23.9236569,
+            54.8851234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337064317",
+      "properties": {
+        "@id": "way/337064317",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Kęstučio g.",
+        "name:lt": "Kęstučio g.",
+        "name:ru": "улица Кестучио",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9174091,
+            54.8955234
+          ],
+          [
+            23.916062,
+            54.8955729
+          ],
+          [
+            23.9159418,
+            54.8955773
+          ],
+          [
+            23.9157465,
+            54.8955845
+          ],
+          [
+            23.9155112,
+            54.8955959
+          ],
+          [
+            23.9148354,
+            54.8956286
+          ],
+          [
+            23.9141227,
+            54.8956636
+          ],
+          [
+            23.9134248,
+            54.8956976
+          ],
+          [
+            23.9133824,
+            54.8956996
+          ],
+          [
+            23.9126833,
+            54.8957258
+          ],
+          [
+            23.9124127,
+            54.8957359
+          ],
+          [
+            23.9121173,
+            54.895747
+          ],
+          [
+            23.9111664,
+            54.8957826
+          ],
+          [
+            23.9106002,
+            54.8958038
+          ],
+          [
+            23.9102573,
+            54.8958167
+          ],
+          [
+            23.9094179,
+            54.8958477
+          ],
+          [
+            23.9087403,
+            54.8958731
+          ],
+          [
+            23.907158,
+            54.8959325
+          ],
+          [
+            23.9069312,
+            54.8959411
+          ],
+          [
+            23.9061949,
+            54.8959676
+          ],
+          [
+            23.9055791,
+            54.8959897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337064318",
+      "properties": {
+        "@id": "way/337064318",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Kęstučio g.",
+        "name:lt": "Kęstučio g.",
+        "name:ru": "улица Кестучио",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "trolley_wire": "yes",
+        "turn:lanes": "left|left|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9055791,
+            54.8959897
+          ],
+          [
+            23.9051621,
+            54.8960047
+          ],
+          [
+            23.9047572,
+            54.8960192
+          ],
+          [
+            23.9045465,
+            54.8960268
+          ],
+          [
+            23.9042479,
+            54.8960375
+          ],
+          [
+            23.9040417,
+            54.8960449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337064319",
+      "properties": {
+        "@id": "way/337064319",
+        "highway": "primary",
+        "lanes": "4",
+        "maxspeed": "50",
+        "name": "Šv. Gertrūdos g.",
+        "name:lt": "Šv. Gertrūdos g.",
+        "name:ru": "улица Шв. Гертрудос",
+        "official_name": "Šventosios Gertrūdos gatvė",
+        "ref": "141;222",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "left|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8989463,
+            54.8980201
+          ],
+          [
+            23.899571,
+            54.8979664
+          ],
+          [
+            23.900211,
+            54.8979207
+          ],
+          [
+            23.9003584,
+            54.897929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337455697",
+      "properties": {
+        "@id": "way/337455697",
+        "highway": "residential",
+        "name": "Eivenių g.",
+        "name:lt": "Eivenių g.",
+        "name:ru": "улица Ейвеню",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9208869,
+            54.9169818
+          ],
+          [
+            23.9206379,
+            54.9170426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337455704",
+      "properties": {
+        "@id": "way/337455704",
+        "highway": "secondary",
+        "lanes": "6",
+        "maxspeed": "50",
+        "name": "Sukilėlių pr.",
+        "name:lt": "Sukilėlių pr.",
+        "name:ru": "проспект Сукилелю",
+        "source:maxspeed": "LT:urban",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "left;through|through|right;through",
+        "turn:lanes:forward": "through|through|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9245095,
+            54.9132372
+          ],
+          [
+            23.9237344,
+            54.9150068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337462141",
+      "properties": {
+        "@id": "way/337462141",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Sukilėlių pr.",
+        "name:lt": "Sukilėlių pr.",
+        "name:ru": "проспект Сукилелю",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.928026,
+            54.9286856
+          ],
+          [
+            23.9283764,
+            54.9283262
+          ],
+          [
+            23.9285053,
+            54.9281813
+          ],
+          [
+            23.9286302,
+            54.9279711
+          ],
+          [
+            23.9287309,
+            54.9275646
+          ],
+          [
+            23.9287899,
+            54.9273322
+          ],
+          [
+            23.9289298,
+            54.9270994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337463413",
+      "properties": {
+        "@id": "way/337463413",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Šiaurės pr.",
+        "name:lt": "Šiaurės pr.",
+        "name:ru": "проспект Шяурес",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "left|through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9293009,
+            54.9292322
+          ],
+          [
+            23.9291602,
+            54.9291879
+          ],
+          [
+            23.9287699,
+            54.9290617
+          ],
+          [
+            23.9280804,
+            54.9288436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337469339",
+      "properties": {
+        "@id": "way/337469339",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "K. Donelaičio g.",
+        "name:lt": "K. Donelaičio g.",
+        "name:ru": "улица К. Донелаичио",
+        "official_name": "Kristijono Donelaičio gatvė",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "left|left;right|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9177765,
+            54.8988621
+          ],
+          [
+            23.9186235,
+            54.8988308
+          ],
+          [
+            23.9186619,
+            54.8988295
+          ],
+          [
+            23.9191759,
+            54.8988039
+          ],
+          [
+            23.9194433,
+            54.898792
+          ],
+          [
+            23.9201961,
+            54.8987635
+          ],
+          [
+            23.9202525,
+            54.8987613
+          ],
+          [
+            23.9209742,
+            54.8987286
+          ],
+          [
+            23.9215445,
+            54.8987027
+          ],
+          [
+            23.922019,
+            54.8986855
+          ],
+          [
+            23.9226428,
+            54.8986629
+          ],
+          [
+            23.9230513,
+            54.8986498
+          ],
+          [
+            23.9232597,
+            54.8986436
+          ],
+          [
+            23.9235136,
+            54.8986298
+          ],
+          [
+            23.9236789,
+            54.8986203
+          ],
+          [
+            23.9238756,
+            54.898597
+          ],
+          [
+            23.9239576,
+            54.8985697
+          ],
+          [
+            23.9240822,
+            54.8985106
+          ],
+          [
+            23.9242247,
+            54.8984299
+          ],
+          [
+            23.9242693,
+            54.8984042
+          ],
+          [
+            23.9244527,
+            54.8982988
+          ],
+          [
+            23.924923,
+            54.8980245
+          ],
+          [
+            23.9249773,
+            54.8979928
+          ],
+          [
+            23.925024,
+            54.8979656
+          ],
+          [
+            23.9251822,
+            54.8978684
+          ],
+          [
+            23.9253029,
+            54.8977759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/338668616",
+      "properties": {
+        "@id": "way/338668616",
+        "highway": "secondary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "Sukilėlių pr.",
+        "name:lt": "Sukilėlių pr.",
+        "name:ru": "проспект Сукилелю",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9237344,
+            54.9150068
+          ],
+          [
+            23.9236888,
+            54.9151425
+          ],
+          [
+            23.9236727,
+            54.9152627
+          ],
+          [
+            23.9236727,
+            54.9153398
+          ],
+          [
+            23.9237022,
+            54.9154585
+          ],
+          [
+            23.9237666,
+            54.9155896
+          ],
+          [
+            23.923839,
+            54.915679
+          ],
+          [
+            23.9238564,
+            54.9156939
+          ],
+          [
+            23.9239597,
+            54.9157823
+          ],
+          [
+            23.9240232,
+            54.9158318
+          ],
+          [
+            23.9240683,
+            54.9158669
+          ],
+          [
+            23.924188,
+            54.9159381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/346837730",
+      "properties": {
+        "@id": "way/346837730",
+        "hgv": "destination",
+        "highway": "primary",
+        "lanes": "2",
+        "lanes:forward": "1",
+        "maxspeed": "50",
+        "name": "Savanorių pr.",
+        "name:lt": "Savanorių pr.",
+        "name:ru": "проспект Саванорю",
+        "ref": "A6",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9142986,
+            54.9034435
+          ],
+          [
+            23.9137955,
+            54.9032516
+          ],
+          [
+            23.9133426,
+            54.9030953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353476927",
+      "properties": {
+        "@id": "way/353476927",
+        "access": "permissive",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "A. Juozapavičiaus pr.",
+        "name:lt": "A. Juozapavičiaus pr.",
+        "name:ru": "проспект А. Юозапавичяус",
+        "official_name": "Antano Juozapavičiaus prospektas",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9467678,
+            54.866667
+          ],
+          [
+            23.9465727,
+            54.8667762
+          ],
+          [
+            23.9464195,
+            54.866856
+          ],
+          [
+            23.9461217,
+            54.8670111
+          ],
+          [
+            23.9457849,
+            54.8671914
+          ],
+          [
+            23.9444323,
+            54.8679153
+          ],
+          [
+            23.9443208,
+            54.8679758
+          ],
+          [
+            23.9436316,
+            54.8683498
+          ],
+          [
+            23.9433919,
+            54.8684798
+          ],
+          [
+            23.942966,
+            54.8687087
+          ],
+          [
+            23.9424838,
+            54.8689678
+          ],
+          [
+            23.9421922,
+            54.8691251
+          ],
+          [
+            23.9415574,
+            54.8694675
+          ],
+          [
+            23.9414392,
+            54.8695292
+          ],
+          [
+            23.9407541,
+            54.8698867
+          ],
+          [
+            23.940296,
+            54.8701258
+          ],
+          [
+            23.9396438,
+            54.8704668
+          ],
+          [
+            23.9390785,
+            54.870761
+          ],
+          [
+            23.9384924,
+            54.8710668
+          ],
+          [
+            23.9383421,
+            54.8711452
+          ],
+          [
+            23.9376835,
+            54.8715184
+          ],
+          [
+            23.9368777,
+            54.871975
+          ],
+          [
+            23.9366132,
+            54.8721249
+          ],
+          [
+            23.9363402,
+            54.8722783
+          ],
+          [
+            23.9362552,
+            54.872326
+          ],
+          [
+            23.9361626,
+            54.872378
+          ],
+          [
+            23.936023,
+            54.8725009
+          ],
+          [
+            23.9359802,
+            54.8725385
+          ],
+          [
+            23.9358531,
+            54.8727009
+          ],
+          [
+            23.9357442,
+            54.8729151
+          ],
+          [
+            23.9357732,
+            54.8733329
+          ],
+          [
+            23.9358444,
+            54.8738099
+          ],
+          [
+            23.9359677,
+            54.8745207
+          ],
+          [
+            23.9360875,
+            54.8752115
+          ],
+          [
+            23.9360883,
+            54.8752359
+          ],
+          [
+            23.9360907,
+            54.875305
+          ],
+          [
+            23.9360746,
+            54.875379
+          ],
+          [
+            23.9360357,
+            54.8754417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377872365",
+      "properties": {
+        "@id": "way/377872365",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Tilto g.",
+        "name:lt": "Tilto g.",
+        "name:ru": "улица Тилто",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9565955,
+            54.86263
+          ],
+          [
+            23.9562495,
+            54.8625744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377872378",
+      "properties": {
+        "@id": "way/377872378",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Tilto g.",
+        "name:lt": "Tilto g.",
+        "name:ru": "улица Тилто",
+        "oneway": "yes",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes": "left|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9581715,
+            54.862301
+          ],
+          [
+            23.9585661,
+            54.8619058
+          ],
+          [
+            23.9587152,
+            54.8617566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377872381",
+      "properties": {
+        "@id": "way/377872381",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "maxspeed": "50",
+        "name": "Vaidoto g.",
+        "name:lt": "Vaidoto g.",
+        "name:ru": "улица Ваидото",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "left;through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9590669,
+            54.8618722
+          ],
+          [
+            23.9592553,
+            54.8619294
+          ],
+          [
+            23.9593413,
+            54.8619569
+          ],
+          [
+            23.9598503,
+            54.8621196
+          ],
+          [
+            23.9600595,
+            54.8621864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377872384",
+      "properties": {
+        "@id": "way/377872384",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "Vaidoto g.",
+        "name:lt": "Vaidoto g.",
+        "name:ru": "улица Ваидото",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9600595,
+            54.8621864
+          ],
+          [
+            23.9605536,
+            54.8623443
+          ],
+          [
+            23.9622165,
+            54.8628756
+          ],
+          [
+            23.9625453,
+            54.8630035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/382402481",
+      "properties": {
+        "@id": "way/382402481",
+        "access": "permissive",
+        "highway": "primary",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "maxspeed": "50",
+        "name": "A. Juozapavičiaus pr.",
+        "name:lt": "A. Juozapavičiaus pr.",
+        "name:ru": "проспект А. Юозапавичяус",
+        "official_name": "Antano Juozapavičiaus prospektas",
+        "source:maxspeed": "LT:urban",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9360357,
+            54.8754417
+          ],
+          [
+            23.9360209,
+            54.8754655
+          ],
+          [
+            23.9359695,
+            54.8755263
+          ],
+          [
+            23.935889,
+            54.875614
+          ],
+          [
+            23.935267,
+            54.8762292
+          ],
+          [
+            23.9349617,
+            54.876589
+          ],
+          [
+            23.9349288,
+            54.8766342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/390820398",
+      "properties": {
+        "@id": "way/390820398",
+        "highway": "unclassified",
+        "maxspeed": "50",
+        "name": "Baterijos pl.",
+        "name:lt": "Baterijos pl.",
+        "name:ru": "шоссе Батерийос",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9803015,
+            54.8767579
+          ],
+          [
+            23.9780818,
+            54.8753924
+          ],
+          [
+            23.9771272,
+            54.8743378
+          ],
+          [
+            23.9770668,
+            54.8742041
+          ],
+          [
+            23.9769236,
+            54.8738159
+          ],
+          [
+            23.9768538,
+            54.8733884
+          ],
+          [
+            23.9767951,
+            54.8728108
+          ],
+          [
+            23.976773,
+            54.872378
+          ],
+          [
+            23.9768886,
+            54.8722126
+          ],
+          [
+            23.9770578,
+            54.8720193
+          ],
+          [
+            23.9770888,
+            54.8719871
+          ],
+          [
+            23.9777829,
+            54.8715115
+          ]
+        ]
+      }
+    }
+  ]
+}

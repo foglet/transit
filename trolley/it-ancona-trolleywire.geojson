@@ -1,0 +1,5501 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T09:06:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/11112811",
+      "properties": {
+        "@id": "way/11112811",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Piazzale della Libertà",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.515574,
+            43.6092668
+          ],
+          [
+            13.5157037,
+            43.6091537
+          ],
+          [
+            13.515774,
+            43.6091014
+          ],
+          [
+            13.515901,
+            43.6089894
+          ],
+          [
+            13.5159922,
+            43.6089272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11661633",
+      "properties": {
+        "@id": "way/11661633",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via 29 settembre",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5057199,
+            43.6158926
+          ],
+          [
+            13.5054451,
+            43.6157644
+          ],
+          [
+            13.5053382,
+            43.6156767
+          ],
+          [
+            13.5052634,
+            43.6155795
+          ],
+          [
+            13.505123,
+            43.6152782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11679552",
+      "properties": {
+        "@id": "way/11679552",
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "Via della Ricostruzione",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5086915,
+            43.6048963
+          ],
+          [
+            13.5099746,
+            43.6066451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11679568",
+      "properties": {
+        "@id": "way/11679568",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via della Ricostruzione",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5099746,
+            43.6066451
+          ],
+          [
+            13.5101233,
+            43.6068646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11679726",
+      "properties": {
+        "@id": "way/11679726",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via della Ricostruzione",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5080585,
+            43.604046
+          ],
+          [
+            13.508116,
+            43.604117
+          ],
+          [
+            13.5082943,
+            43.6043456
+          ],
+          [
+            13.5084161,
+            43.6045017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/12650143",
+      "properties": {
+        "@id": "way/12650143",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Via Alessandro Bocconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5144093,
+            43.6066919
+          ],
+          [
+            13.5143462,
+            43.606461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13660780",
+      "properties": {
+        "@id": "way/13660780",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via San Martino",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5174947,
+            43.6151573
+          ],
+          [
+            13.5181781,
+            43.6149867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13661461",
+      "properties": {
+        "@id": "way/13661461",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Largo Michele Gustavo Bevilacqua",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.518329,
+            43.6147431
+          ],
+          [
+            13.5182377,
+            43.6145619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13972648",
+      "properties": {
+        "@id": "way/13972648",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Mario Torresi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5089488,
+            43.6016973
+          ],
+          [
+            13.5088516,
+            43.6017693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13973031",
+      "properties": {
+        "@id": "way/13973031",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Mario Torresi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5089488,
+            43.6016973
+          ],
+          [
+            13.5095516,
+            43.6015821
+          ],
+          [
+            13.5103069,
+            43.6015199
+          ],
+          [
+            13.5107035,
+            43.6014918
+          ],
+          [
+            13.511373,
+            43.601423
+          ],
+          [
+            13.5115468,
+            43.6013985
+          ],
+          [
+            13.5119433,
+            43.6013281
+          ],
+          [
+            13.5120228,
+            43.601314
+          ],
+          [
+            13.5127188,
+            43.6011905
+          ],
+          [
+            13.5136357,
+            43.6009821
+          ],
+          [
+            13.5137909,
+            43.6009468
+          ],
+          [
+            13.5143324,
+            43.6008238
+          ],
+          [
+            13.5145212,
+            43.600743
+          ],
+          [
+            13.5145583,
+            43.6007067
+          ],
+          [
+            13.5146156,
+            43.6006311
+          ],
+          [
+            13.5147096,
+            43.6002194
+          ],
+          [
+            13.5148474,
+            43.5996428
+          ],
+          [
+            13.5148131,
+            43.5994191
+          ],
+          [
+            13.5146782,
+            43.5992725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13973534",
+      "properties": {
+        "@id": "way/13973534",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via delle Tavernelle",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5166327,
+            43.5983935
+          ],
+          [
+            13.5167809,
+            43.5982509
+          ],
+          [
+            13.5169029,
+            43.5980021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/15217766",
+      "properties": {
+        "@id": "way/15217766",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5071901,
+            43.6028737
+          ],
+          [
+            13.5072143,
+            43.6030823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/15218415",
+      "properties": {
+        "@id": "way/15218415",
+        "highway": "tertiary",
+        "name": "Via Alessandro Bocconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5149657,
+            43.6059546
+          ],
+          [
+            13.5147964,
+            43.6060206
+          ],
+          [
+            13.5146631,
+            43.6061222
+          ],
+          [
+            13.5145686,
+            43.6062449
+          ],
+          [
+            13.5145005,
+            43.6063559
+          ],
+          [
+            13.5144609,
+            43.6064587
+          ],
+          [
+            13.5144093,
+            43.6066919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22970382",
+      "properties": {
+        "@id": "way/22970382",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Antonio Giannelli",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5184303,
+            43.6149151
+          ],
+          [
+            13.5187054,
+            43.6154342
+          ],
+          [
+            13.5188833,
+            43.6157858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23037488",
+      "properties": {
+        "@id": "way/23037488",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Corso Stamira",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5149964,
+            43.6167446
+          ],
+          [
+            13.5146894,
+            43.6168254
+          ],
+          [
+            13.5146425,
+            43.6168361
+          ],
+          [
+            13.5143752,
+            43.6168971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29274057",
+      "properties": {
+        "@id": "way/29274057",
+        "access": "no",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.517926,
+            43.6165555
+          ],
+          [
+            13.5181789,
+            43.6164837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29274060",
+      "properties": {
+        "@id": "way/29274060",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5171394,
+            43.6162165
+          ],
+          [
+            13.5170289,
+            43.616242
+          ],
+          [
+            13.5166161,
+            43.6163443
+          ],
+          [
+            13.5164174,
+            43.6163939
+          ],
+          [
+            13.5161161,
+            43.6164712
+          ],
+          [
+            13.5157108,
+            43.6165648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29274108",
+      "properties": {
+        "@id": "way/29274108",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5180081,
+            43.6167028
+          ],
+          [
+            13.5179688,
+            43.6166286
+          ],
+          [
+            13.517926,
+            43.6165555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29274128",
+      "properties": {
+        "@id": "way/29274128",
+        "access": "no",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5180081,
+            43.6167028
+          ],
+          [
+            13.5179569,
+            43.6169669
+          ],
+          [
+            13.5179402,
+            43.6170531
+          ],
+          [
+            13.5179132,
+            43.6171924
+          ],
+          [
+            13.5177753,
+            43.6173242
+          ],
+          [
+            13.5177064,
+            43.61739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31867619",
+      "properties": {
+        "@id": "way/31867619",
+        "access": "no",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5179151,
+            43.6160164
+          ],
+          [
+            13.5171394,
+            43.6162165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36852976",
+      "properties": {
+        "@id": "way/36852976",
+        "highway": "secondary",
+        "maxspeed": "40",
+        "name": "Piazzale della Libertà",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5148981,
+            43.6093451
+          ],
+          [
+            13.5148285,
+            43.6093256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36852992",
+      "properties": {
+        "@id": "way/36852992",
+        "highway": "secondary",
+        "maxspeed": "40",
+        "name": "Piazzale della Libertà",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5158756,
+            43.6096051
+          ],
+          [
+            13.5158536,
+            43.6097273
+          ],
+          [
+            13.5158593,
+            43.6098193
+          ],
+          [
+            13.5158772,
+            43.6099101
+          ],
+          [
+            13.5158702,
+            43.6099911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36853005",
+      "properties": {
+        "@id": "way/36853005",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Via Alessandro Bocconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5159922,
+            43.6089272
+          ],
+          [
+            13.516027,
+            43.6088068
+          ],
+          [
+            13.5160217,
+            43.6086942
+          ],
+          [
+            13.515968,
+            43.6085796
+          ],
+          [
+            13.5159036,
+            43.608498
+          ],
+          [
+            13.5157494,
+            43.6083233
+          ],
+          [
+            13.5153442,
+            43.6079113
+          ],
+          [
+            13.5148666,
+            43.6074348
+          ],
+          [
+            13.5146824,
+            43.6072066
+          ],
+          [
+            13.5145846,
+            43.6070774
+          ],
+          [
+            13.5144569,
+            43.6068658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36853011",
+      "properties": {
+        "@id": "way/36853011",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Piazzale della Libertà",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5159922,
+            43.6089272
+          ],
+          [
+            13.5158517,
+            43.6091742
+          ],
+          [
+            13.5158453,
+            43.6092686
+          ],
+          [
+            13.5158496,
+            43.609315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38725088",
+      "properties": {
+        "@id": "way/38725088",
+        "highway": "residential",
+        "name": "Viale della Vittoria",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5322474,
+            43.6149548
+          ],
+          [
+            13.5322737,
+            43.615032
+          ],
+          [
+            13.5323092,
+            43.6151164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39040957",
+      "properties": {
+        "@id": "way/39040957",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Largo 24 maggio",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5181789,
+            43.6164837
+          ],
+          [
+            13.5182729,
+            43.616456
+          ],
+          [
+            13.5183891,
+            43.6164217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39040958",
+      "properties": {
+        "@id": "way/39040958",
+        "access": "no",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5182557,
+            43.6166325
+          ],
+          [
+            13.5181966,
+            43.6166493
+          ],
+          [
+            13.5180081,
+            43.6167028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39041195",
+      "properties": {
+        "@id": "way/39041195",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Terenzio Frediani",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5191774,
+            43.6170108
+          ],
+          [
+            13.5188269,
+            43.6171029
+          ],
+          [
+            13.5185285,
+            43.6171814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39041295",
+      "properties": {
+        "@id": "way/39041295",
+        "highway": "residential",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5185285,
+            43.6171814
+          ],
+          [
+            13.5178933,
+            43.6173385
+          ],
+          [
+            13.5177064,
+            43.61739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39041296",
+      "properties": {
+        "@id": "way/39041296",
+        "access": "no",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5162366,
+            43.6177305
+          ],
+          [
+            13.5162018,
+            43.6176539
+          ],
+          [
+            13.5161225,
+            43.6174793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39041549",
+      "properties": {
+        "@id": "way/39041549",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Piazza John Fitzgerald Kennedy",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5090874,
+            43.6186417
+          ],
+          [
+            13.5093759,
+            43.61844
+          ],
+          [
+            13.5095303,
+            43.618353
+          ],
+          [
+            13.5096677,
+            43.6183681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39041550",
+      "properties": {
+        "@id": "way/39041550",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza John Fitzgerald Kennedy",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5096677,
+            43.6183681
+          ],
+          [
+            13.5094201,
+            43.6185222
+          ],
+          [
+            13.5090874,
+            43.6186417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39176177",
+      "properties": {
+        "@id": "way/39176177",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.505123,
+            43.6152782
+          ],
+          [
+            13.5050691,
+            43.6150805
+          ],
+          [
+            13.5050823,
+            43.6149865
+          ],
+          [
+            13.5051256,
+            43.6147606
+          ],
+          [
+            13.5052368,
+            43.614536
+          ],
+          [
+            13.5052609,
+            43.6144188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39176180",
+      "properties": {
+        "@id": "way/39176180",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5054462,
+            43.6145156
+          ],
+          [
+            13.5053567,
+            43.6145676
+          ],
+          [
+            13.5052674,
+            43.6146595
+          ],
+          [
+            13.5052104,
+            43.614786
+          ],
+          [
+            13.5051733,
+            43.6149917
+          ],
+          [
+            13.5051839,
+            43.615117
+          ],
+          [
+            13.5052362,
+            43.6152706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39176181",
+      "properties": {
+        "@id": "way/39176181",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via 29 settembre",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5090874,
+            43.6186417
+          ],
+          [
+            13.5086733,
+            43.6182333
+          ],
+          [
+            13.5085081,
+            43.6180798
+          ],
+          [
+            13.5084154,
+            43.6179952
+          ],
+          [
+            13.5079146,
+            43.6175377
+          ],
+          [
+            13.5078394,
+            43.6174666
+          ],
+          [
+            13.5074478,
+            43.6170984
+          ],
+          [
+            13.5068644,
+            43.6165485
+          ],
+          [
+            13.5067757,
+            43.6164753
+          ],
+          [
+            13.5065476,
+            43.6163524
+          ],
+          [
+            13.5059936,
+            43.6160426
+          ],
+          [
+            13.5057199,
+            43.6158926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39176183",
+      "properties": {
+        "@id": "way/39176183",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via 29 settembre",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5052362,
+            43.6152706
+          ],
+          [
+            13.5053869,
+            43.615569
+          ],
+          [
+            13.5054794,
+            43.6157153
+          ],
+          [
+            13.5055469,
+            43.6157843
+          ],
+          [
+            13.5057199,
+            43.6158926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39238506",
+      "properties": {
+        "@id": "way/39238506",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Arturo Vecchini",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5179151,
+            43.6160164
+          ],
+          [
+            13.5177356,
+            43.6156683
+          ],
+          [
+            13.517685,
+            43.6155262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39274005",
+      "properties": {
+        "@id": "way/39274005",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Antonio Giannelli",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5188833,
+            43.6157858
+          ],
+          [
+            13.5191031,
+            43.6162111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39274761",
+      "properties": {
+        "@id": "way/39274761",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Largo 24 maggio",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5191801,
+            43.6163601
+          ],
+          [
+            13.5189586,
+            43.6164254
+          ],
+          [
+            13.5187014,
+            43.6165012
+          ],
+          [
+            13.5184234,
+            43.616583
+          ],
+          [
+            13.5182557,
+            43.6166325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39443307",
+      "properties": {
+        "@id": "way/39443307",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Largo Michele Gustavo Bevilacqua",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5181781,
+            43.6149867
+          ],
+          [
+            13.5182636,
+            43.6149366
+          ],
+          [
+            13.5182946,
+            43.6148885
+          ],
+          [
+            13.518329,
+            43.6147431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39443308",
+      "properties": {
+        "@id": "way/39443308",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Largo Michele Gustavo Bevilacqua",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.518329,
+            43.6147431
+          ],
+          [
+            13.5184303,
+            43.6149151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39560737",
+      "properties": {
+        "@id": "way/39560737",
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Via Alessandro Bocconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5143462,
+            43.606461
+          ],
+          [
+            13.5143939,
+            43.6061914
+          ],
+          [
+            13.5144658,
+            43.6060572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39560738",
+      "properties": {
+        "@id": "way/39560738",
+        "highway": "tertiary",
+        "name": "Via Alessandro Bocconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5147594,
+            43.6059625
+          ],
+          [
+            13.5149657,
+            43.6059546
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39560739",
+      "properties": {
+        "@id": "way/39560739",
+        "highway": "residential",
+        "name": "Via Alessandro Bocconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5154807,
+            43.6057981
+          ],
+          [
+            13.5160439,
+            43.6052831
+          ],
+          [
+            13.5162024,
+            43.6052174
+          ],
+          [
+            13.5164715,
+            43.6051166
+          ],
+          [
+            13.5166891,
+            43.6049314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39560902",
+      "properties": {
+        "@id": "way/39560902",
+        "highway": "secondary",
+        "maxspeed": "40",
+        "name": "Via Martiri della Resistenza",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5148285,
+            43.6093256
+          ],
+          [
+            13.5147742,
+            43.6093092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39560903",
+      "properties": {
+        "@id": "way/39560903",
+        "highway": "service",
+        "name": "Piazzale della Libertà",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5148981,
+            43.6093451
+          ],
+          [
+            13.515174,
+            43.6093094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39563025",
+      "properties": {
+        "@id": "way/39563025",
+        "highway": "secondary",
+        "maxspeed": "30",
+        "name": "Piazzale Europa",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5106927,
+            43.6071624
+          ],
+          [
+            13.5105505,
+            43.6071764
+          ],
+          [
+            13.5104239,
+            43.607195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39611875",
+      "properties": {
+        "@id": "way/39611875",
+        "highway": "tertiary",
+        "is_in:city": "Ancona",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5033547,
+            43.6106576
+          ],
+          [
+            13.5034192,
+            43.6107002
+          ],
+          [
+            13.5034381,
+            43.6107356
+          ],
+          [
+            13.503457,
+            43.6107711
+          ],
+          [
+            13.5034488,
+            43.6108247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39611879",
+      "properties": {
+        "@id": "way/39611879",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.502162,
+            43.6083352
+          ],
+          [
+            13.5021655,
+            43.6084323
+          ],
+          [
+            13.5021991,
+            43.6086069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39611880",
+      "properties": {
+        "@id": "way/39611880",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5021991,
+            43.6086069
+          ],
+          [
+            13.5020431,
+            43.6083317
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39611881",
+      "properties": {
+        "@id": "way/39611881",
+        "highway": "tertiary",
+        "is_in:city": "Ancona",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5052784,
+            43.6143221
+          ],
+          [
+            13.505262,
+            43.6142172
+          ],
+          [
+            13.5052366,
+            43.614097
+          ],
+          [
+            13.5051785,
+            43.6139734
+          ],
+          [
+            13.5050511,
+            43.6136976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39611882",
+      "properties": {
+        "@id": "way/39611882",
+        "highway": "tertiary",
+        "is_in:city": "Ancona",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5050511,
+            43.6136976
+          ],
+          [
+            13.5051985,
+            43.6138788
+          ],
+          [
+            13.5053081,
+            43.6140797
+          ],
+          [
+            13.5053961,
+            43.6141873
+          ],
+          [
+            13.5054762,
+            43.6142599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39612662",
+      "properties": {
+        "@id": "way/39612662",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Carlo e Nello Rosselli",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.498493,
+            43.6073987
+          ],
+          [
+            13.4983327,
+            43.6073933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39612663",
+      "properties": {
+        "@id": "way/39612663",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Carlo e Nello Rosselli",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4983327,
+            43.6073933
+          ],
+          [
+            13.4979751,
+            43.6073059
+          ],
+          [
+            13.4975946,
+            43.607213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39612668",
+      "properties": {
+        "@id": "way/39612668",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Piazza Carlo e Nello Rosselli",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4972671,
+            43.60693
+          ],
+          [
+            13.4975644,
+            43.6069138
+          ],
+          [
+            13.4984558,
+            43.6071358
+          ],
+          [
+            13.4986169,
+            43.6071748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39612675",
+      "properties": {
+        "@id": "way/39612675",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Giordano Bruno",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4999693,
+            43.6072721
+          ],
+          [
+            13.5008607,
+            43.6068611
+          ],
+          [
+            13.5009379,
+            43.6068235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39612678",
+      "properties": {
+        "@id": "way/39612678",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5019337,
+            43.6082292
+          ],
+          [
+            13.5016432,
+            43.6081234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39612679",
+      "properties": {
+        "@id": "way/39612679",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5016432,
+            43.6081234
+          ],
+          [
+            13.5019059,
+            43.6081363
+          ],
+          [
+            13.5019786,
+            43.6081264
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39612683",
+      "properties": {
+        "@id": "way/39612683",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5021991,
+            43.6086069
+          ],
+          [
+            13.5022378,
+            43.6086756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39706228",
+      "properties": {
+        "@id": "way/39706228",
+        "highway": "secondary",
+        "maxspeed": "30",
+        "name": "Piazzale Europa",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.510189,
+            43.6070731
+          ],
+          [
+            13.5101914,
+            43.6069651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39846916",
+      "properties": {
+        "@id": "way/39846916",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.507411,
+            43.6036039
+          ],
+          [
+            13.5073245,
+            43.6036423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39846929",
+      "properties": {
+        "@id": "way/39846929",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5074739,
+            43.6035759
+          ],
+          [
+            13.5075046,
+            43.6036419
+          ],
+          [
+            13.50762,
+            43.6037289
+          ],
+          [
+            13.5079225,
+            43.6039523
+          ],
+          [
+            13.5080585,
+            43.604046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39846961",
+      "properties": {
+        "@id": "way/39846961",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5070458,
+            43.6037647
+          ],
+          [
+            13.5070115,
+            43.6035517
+          ],
+          [
+            13.5070493,
+            43.6034485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39847626",
+      "properties": {
+        "@id": "way/39847626",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5072143,
+            43.6030823
+          ],
+          [
+            13.5073153,
+            43.603183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39860328",
+      "properties": {
+        "@id": "way/39860328",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Giordano Bruno",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5009379,
+            43.6068235
+          ],
+          [
+            13.5015066,
+            43.6065383
+          ],
+          [
+            13.5023053,
+            43.6061302
+          ],
+          [
+            13.502434,
+            43.6060635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39993419",
+      "properties": {
+        "@id": "way/39993419",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Giordano Bruno",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5066617,
+            43.6039447
+          ],
+          [
+            13.5069413,
+            43.6038137
+          ],
+          [
+            13.5070458,
+            43.6037647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44404070",
+      "properties": {
+        "@id": "way/44404070",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Mario Torresi",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5088516,
+            43.6017693
+          ],
+          [
+            13.508289,
+            43.6020883
+          ],
+          [
+            13.5076802,
+            43.6024262
+          ],
+          [
+            13.5071901,
+            43.6028737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50105271",
+      "properties": {
+        "@id": "way/50105271",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via delle Tavernelle",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5177515,
+            43.5898691
+          ],
+          [
+            13.5176997,
+            43.5899195
+          ],
+          [
+            13.5175978,
+            43.590005
+          ],
+          [
+            13.5175556,
+            43.5900288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50105285",
+      "properties": {
+        "@id": "way/50105285",
+        "access": "no",
+        "foot": "yes",
+        "highway": "service",
+        "name": "Via delle Tavernelle",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5177515,
+            43.5898691
+          ],
+          [
+            13.5179144,
+            43.5900429
+          ],
+          [
+            13.5177037,
+            43.5901656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692633",
+      "properties": {
+        "@id": "way/50692633",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via delle Tavernelle",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5173072,
+            43.590308
+          ],
+          [
+            13.5174913,
+            43.5900969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692634",
+      "properties": {
+        "@id": "way/50692634",
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Viale della Vittoria",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5323092,
+            43.6151164
+          ],
+          [
+            13.5318038,
+            43.615161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692636",
+      "properties": {
+        "@id": "way/50692636",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5074739,
+            43.6035759
+          ],
+          [
+            13.507411,
+            43.6036039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692637",
+      "properties": {
+        "@id": "way/50692637",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Piazza Italia",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5019786,
+            43.6081264
+          ],
+          [
+            13.5019947,
+            43.6081152
+          ],
+          [
+            13.5020227,
+            43.6081011
+          ],
+          [
+            13.5020489,
+            43.6080924
+          ],
+          [
+            13.5020859,
+            43.6080858
+          ],
+          [
+            13.5021262,
+            43.6080853
+          ],
+          [
+            13.5021758,
+            43.6080941
+          ],
+          [
+            13.5022122,
+            43.6081086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692642",
+      "properties": {
+        "@id": "way/50692642",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Carlo e Nello Rosselli",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.497494,
+            43.6071492
+          ],
+          [
+            13.497391,
+            43.607057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692643",
+      "properties": {
+        "@id": "way/50692643",
+        "highway": "service",
+        "name": "Piazza Carlo e Nello Rosselli",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.497391,
+            43.607057
+          ],
+          [
+            13.4972671,
+            43.60693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692644",
+      "properties": {
+        "@id": "way/50692644",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Piazza Italia",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5020431,
+            43.6083317
+          ],
+          [
+            13.502023,
+            43.6083248
+          ],
+          [
+            13.5019921,
+            43.6083089
+          ],
+          [
+            13.5019759,
+            43.6082971
+          ],
+          [
+            13.5019549,
+            43.6082756
+          ],
+          [
+            13.5019439,
+            43.6082586
+          ],
+          [
+            13.5019337,
+            43.6082292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692647",
+      "properties": {
+        "@id": "way/50692647",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5052609,
+            43.6144188
+          ],
+          [
+            13.5052589,
+            43.6143595
+          ],
+          [
+            13.5052784,
+            43.6143221
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692648",
+      "properties": {
+        "@id": "way/50692648",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5054762,
+            43.6142599
+          ],
+          [
+            13.5055554,
+            43.6142903
+          ],
+          [
+            13.5056021,
+            43.6143402
+          ],
+          [
+            13.5056137,
+            43.6143851
+          ],
+          [
+            13.5056031,
+            43.61443
+          ],
+          [
+            13.5055594,
+            43.6144791
+          ],
+          [
+            13.5055012,
+            43.6145065
+          ],
+          [
+            13.5054462,
+            43.6145156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692651",
+      "properties": {
+        "@id": "way/50692651",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Piazzale della Libertà",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5158496,
+            43.609315
+          ],
+          [
+            13.5158993,
+            43.6093586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692653",
+      "properties": {
+        "@id": "way/50692653",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Piazzale della Libertà",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.515546,
+            43.6096664
+          ],
+          [
+            13.5154595,
+            43.6096282
+          ],
+          [
+            13.515384,
+            43.6095526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692654",
+      "properties": {
+        "@id": "way/50692654",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Piazzale della Libertà",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5155147,
+            43.609284
+          ],
+          [
+            13.515574,
+            43.6092668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692655",
+      "properties": {
+        "@id": "way/50692655",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Piazzale della Libertà",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.515384,
+            43.6095526
+          ],
+          [
+            13.5153626,
+            43.6094464
+          ],
+          [
+            13.5153768,
+            43.6094009
+          ],
+          [
+            13.5154166,
+            43.6093458
+          ],
+          [
+            13.5155147,
+            43.609284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692658",
+      "properties": {
+        "@id": "way/50692658",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.517926,
+            43.6165555
+          ],
+          [
+            13.5176991,
+            43.6164235
+          ],
+          [
+            13.5176362,
+            43.6163869
+          ],
+          [
+            13.5174118,
+            43.6162564
+          ],
+          [
+            13.5171394,
+            43.6162165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50692659",
+      "properties": {
+        "@id": "way/50692659",
+        "highway": "residential",
+        "is_in:city": "Ancona",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5177064,
+            43.61739
+          ],
+          [
+            13.5172413,
+            43.6174955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51114934",
+      "properties": {
+        "@id": "way/51114934",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Piazza Italia",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5022852,
+            43.6082265
+          ],
+          [
+            13.5022777,
+            43.6082522
+          ],
+          [
+            13.5022616,
+            43.6082781
+          ],
+          [
+            13.5022415,
+            43.608298
+          ],
+          [
+            13.50221,
+            43.6083182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51114937",
+      "properties": {
+        "@id": "way/51114937",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Piazza Italia",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.50221,
+            43.6083182
+          ],
+          [
+            13.50219,
+            43.6083269
+          ],
+          [
+            13.502162,
+            43.6083352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51114943",
+      "properties": {
+        "@id": "way/51114943",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Piazzale della Libertà",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5159292,
+            43.6095345
+          ],
+          [
+            13.5158756,
+            43.6096051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51114947",
+      "properties": {
+        "@id": "way/51114947",
+        "highway": "primary",
+        "junction": "roundabout",
+        "lanes": "1",
+        "maxspeed": "40",
+        "name": "Piazzale della Libertà",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5158993,
+            43.6093586
+          ],
+          [
+            13.5159421,
+            43.6094518
+          ],
+          [
+            13.5159292,
+            43.6095345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51691401",
+      "properties": {
+        "@id": "way/51691401",
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Viale della Vittoria",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5295037,
+            43.6153724
+          ],
+          [
+            13.5291709,
+            43.6154042
+          ],
+          [
+            13.5283163,
+            43.615486
+          ],
+          [
+            13.5282102,
+            43.6154961
+          ],
+          [
+            13.5273832,
+            43.6155752
+          ],
+          [
+            13.5272686,
+            43.6155862
+          ],
+          [
+            13.5257581,
+            43.6157308
+          ],
+          [
+            13.5256445,
+            43.6157416
+          ],
+          [
+            13.5245711,
+            43.6158443
+          ],
+          [
+            13.5244834,
+            43.6158527
+          ],
+          [
+            13.5230871,
+            43.6159863
+          ],
+          [
+            13.5229967,
+            43.615995
+          ],
+          [
+            13.5223747,
+            43.6160545
+          ],
+          [
+            13.5208625,
+            43.6161992
+          ],
+          [
+            13.5207609,
+            43.6162089
+          ],
+          [
+            13.5192913,
+            43.6163495
+          ],
+          [
+            13.5191801,
+            43.6163601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51691407",
+      "properties": {
+        "@id": "way/51691407",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Antonio Giannelli",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5191031,
+            43.6162111
+          ],
+          [
+            13.5191416,
+            43.6162856
+          ],
+          [
+            13.5191801,
+            43.6163601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52049878",
+      "properties": {
+        "@id": "way/52049878",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5071222,
+            43.603249
+          ],
+          [
+            13.5072143,
+            43.6030823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52049879",
+      "properties": {
+        "@id": "way/52049879",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "50",
+        "name": "Piazza Italia",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5022122,
+            43.6081086
+          ],
+          [
+            13.5022336,
+            43.6081216
+          ],
+          [
+            13.5022562,
+            43.6081414
+          ],
+          [
+            13.5022718,
+            43.6081622
+          ],
+          [
+            13.502282,
+            43.6081851
+          ],
+          [
+            13.5022852,
+            43.6082265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52094452",
+      "properties": {
+        "@id": "way/52094452",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5028786,
+            43.6098169
+          ],
+          [
+            13.5029395,
+            43.6098594
+          ],
+          [
+            13.5029584,
+            43.6098949
+          ],
+          [
+            13.5029773,
+            43.6099303
+          ],
+          [
+            13.5029727,
+            43.609984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52094467",
+      "properties": {
+        "@id": "way/52094467",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5033169,
+            43.6105876
+          ],
+          [
+            13.5033547,
+            43.6106576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52135659",
+      "properties": {
+        "@id": "way/52135659",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via delle Tavernelle",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5169029,
+            43.5980021
+          ],
+          [
+            13.517249,
+            43.5971569
+          ],
+          [
+            13.5173491,
+            43.5967327
+          ],
+          [
+            13.5173911,
+            43.5963037
+          ],
+          [
+            13.5173893,
+            43.5961975
+          ],
+          [
+            13.5173816,
+            43.5960877
+          ],
+          [
+            13.5173725,
+            43.5959956
+          ],
+          [
+            13.5173156,
+            43.5954195
+          ],
+          [
+            13.5172943,
+            43.5947415
+          ],
+          [
+            13.51733,
+            43.5941997
+          ],
+          [
+            13.5173507,
+            43.5940365
+          ],
+          [
+            13.5173727,
+            43.5938632
+          ],
+          [
+            13.5173874,
+            43.593747
+          ],
+          [
+            13.5173606,
+            43.5933281
+          ],
+          [
+            13.5173431,
+            43.5932181
+          ],
+          [
+            13.5173268,
+            43.5931153
+          ],
+          [
+            13.5170383,
+            43.5920729
+          ],
+          [
+            13.5169783,
+            43.5918559
+          ],
+          [
+            13.5169451,
+            43.5917406
+          ],
+          [
+            13.5169204,
+            43.5916481
+          ],
+          [
+            13.5168368,
+            43.5913352
+          ],
+          [
+            13.5168202,
+            43.5912527
+          ],
+          [
+            13.5167937,
+            43.5911095
+          ],
+          [
+            13.5167846,
+            43.5909252
+          ],
+          [
+            13.5171108,
+            43.5905677
+          ],
+          [
+            13.5173072,
+            43.590308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52135661",
+      "properties": {
+        "@id": "way/52135661",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via della Ricostruzione",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5084161,
+            43.6045017
+          ],
+          [
+            13.5086915,
+            43.6048963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52135664",
+      "properties": {
+        "@id": "way/52135664",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Giordano Bruno",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.502434,
+            43.6060635
+          ],
+          [
+            13.5030589,
+            43.6057402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52135668",
+      "properties": {
+        "@id": "way/52135668",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5070493,
+            43.6034485
+          ],
+          [
+            13.50709,
+            43.603337
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52135669",
+      "properties": {
+        "@id": "way/52135669",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5073153,
+            43.603183
+          ],
+          [
+            13.5073726,
+            43.6032687
+          ],
+          [
+            13.5074435,
+            43.6034736
+          ],
+          [
+            13.5074739,
+            43.6035759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52135671",
+      "properties": {
+        "@id": "way/52135671",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Giordano Bruno",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5053351,
+            43.6046209
+          ],
+          [
+            13.5058737,
+            43.6043449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52135673",
+      "properties": {
+        "@id": "way/52135673",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5073245,
+            43.6036423
+          ],
+          [
+            13.5072402,
+            43.6036798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52135675",
+      "properties": {
+        "@id": "way/52135675",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Mario Torresi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5146782,
+            43.5992725
+          ],
+          [
+            13.5145041,
+            43.5990834
+          ],
+          [
+            13.5144083,
+            43.598928
+          ],
+          [
+            13.5144233,
+            43.5986992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52135676",
+      "properties": {
+        "@id": "way/52135676",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Mario Torresi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5145209,
+            43.5985807
+          ],
+          [
+            13.51463,
+            43.5985319
+          ],
+          [
+            13.5147787,
+            43.5985037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61600063",
+      "properties": {
+        "@id": "way/61600063",
+        "highway": "tertiary",
+        "name": "Via Alessandro Bocconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5144658,
+            43.6060572
+          ],
+          [
+            13.5145984,
+            43.6060009
+          ],
+          [
+            13.5147594,
+            43.6059625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61600064",
+      "properties": {
+        "@id": "way/61600064",
+        "highway": "secondary",
+        "maxspeed": "40",
+        "name": "Via Martiri della Resistenza",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5147742,
+            43.6093092
+          ],
+          [
+            13.5139888,
+            43.608963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61600067",
+      "properties": {
+        "@id": "way/61600067",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "40",
+        "name": "Via Alessandro Bocconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5144569,
+            43.6068658
+          ],
+          [
+            13.5144093,
+            43.6066919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61600068",
+      "properties": {
+        "@id": "way/61600068",
+        "highway": "tertiary",
+        "is_in:city": "Ancona",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.504736,
+            43.613118
+          ],
+          [
+            13.5050511,
+            43.6136976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62048736",
+      "properties": {
+        "@id": "way/62048736",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via delle Tavernelle",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5174913,
+            43.5900969
+          ],
+          [
+            13.5175556,
+            43.5900288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62048763",
+      "properties": {
+        "@id": "way/62048763",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5004945,
+            43.6078344
+          ],
+          [
+            13.5009425,
+            43.6079467
+          ],
+          [
+            13.5015773,
+            43.6081058
+          ],
+          [
+            13.5016432,
+            43.6081234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62048765",
+      "properties": {
+        "@id": "way/62048765",
+        "highway": "tertiary",
+        "name": "Via Alessandro Bocconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5149657,
+            43.6059546
+          ],
+          [
+            13.515073,
+            43.6059259
+          ],
+          [
+            13.5153138,
+            43.6058682
+          ],
+          [
+            13.5154807,
+            43.6057981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86174394",
+      "properties": {
+        "@id": "way/86174394",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Arturo Vecchini",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.517685,
+            43.6155262
+          ],
+          [
+            13.5174947,
+            43.6151573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86174396",
+      "properties": {
+        "@id": "way/86174396",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Corso Stamira",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5139434,
+            43.6169887
+          ],
+          [
+            13.5138527,
+            43.6170113
+          ],
+          [
+            13.5130645,
+            43.6172076
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86197966",
+      "properties": {
+        "@id": "way/86197966",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Corso Stamira",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5110031,
+            43.6178453
+          ],
+          [
+            13.5103404,
+            43.6180727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86293122",
+      "properties": {
+        "@id": "way/86293122",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Antonio Giannelli",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5191801,
+            43.6163601
+          ],
+          [
+            13.5194758,
+            43.6169323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112164666",
+      "properties": {
+        "@id": "way/112164666",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Corso Stamira",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5125689,
+            43.6173599
+          ],
+          [
+            13.5125155,
+            43.6173755
+          ],
+          [
+            13.5118611,
+            43.6175672
+          ],
+          [
+            13.5117979,
+            43.6175857
+          ],
+          [
+            13.5114044,
+            43.6177093
+          ],
+          [
+            13.5113644,
+            43.6177219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113531869",
+      "properties": {
+        "@id": "way/113531869",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazzale della Libertà",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.515174,
+            43.6093094
+          ],
+          [
+            13.5155147,
+            43.609284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/117299687",
+      "properties": {
+        "@id": "way/117299687",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Martiri della Resistenza",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5139888,
+            43.608963
+          ],
+          [
+            13.5136835,
+            43.6088276
+          ],
+          [
+            13.5134616,
+            43.6086708
+          ],
+          [
+            13.5132953,
+            43.608501
+          ],
+          [
+            13.5130832,
+            43.6082684
+          ],
+          [
+            13.5127622,
+            43.6079035
+          ],
+          [
+            13.5126201,
+            43.6077477
+          ],
+          [
+            13.5125156,
+            43.6076331
+          ],
+          [
+            13.5123503,
+            43.6074562
+          ],
+          [
+            13.512246,
+            43.6073796
+          ],
+          [
+            13.512099,
+            43.607281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988230",
+      "properties": {
+        "@id": "way/125988230",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5030153,
+            43.6100554
+          ],
+          [
+            13.5030882,
+            43.6101848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988231",
+      "properties": {
+        "@id": "way/125988231",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5029727,
+            43.609984
+          ],
+          [
+            13.5030153,
+            43.6100554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988233",
+      "properties": {
+        "@id": "way/125988233",
+        "highway": "tertiary",
+        "is_in:city": "Ancona",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5034488,
+            43.6108247
+          ],
+          [
+            13.5034693,
+            43.610861
+          ],
+          [
+            13.5038777,
+            43.6115859
+          ],
+          [
+            13.503915,
+            43.6116521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988234",
+      "properties": {
+        "@id": "way/125988234",
+        "highway": "tertiary",
+        "is_in:city": "Ancona",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5046364,
+            43.6129383
+          ],
+          [
+            13.5046761,
+            43.6129684
+          ],
+          [
+            13.5047394,
+            43.6130702
+          ],
+          [
+            13.504736,
+            43.613118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988235",
+      "properties": {
+        "@id": "way/125988235",
+        "highway": "tertiary",
+        "is_in:city": "Ancona",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.504008,
+            43.6118171
+          ],
+          [
+            13.5040362,
+            43.6118672
+          ],
+          [
+            13.5044371,
+            43.6125788
+          ],
+          [
+            13.5046364,
+            43.6129383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988236",
+      "properties": {
+        "@id": "way/125988236",
+        "highway": "tertiary",
+        "is_in:city": "Ancona",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.504736,
+            43.613118
+          ],
+          [
+            13.5046949,
+            43.6130786
+          ],
+          [
+            13.5046363,
+            43.6129786
+          ],
+          [
+            13.5046364,
+            43.6129383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988237",
+      "properties": {
+        "@id": "way/125988237",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5030882,
+            43.6101848
+          ],
+          [
+            13.5031816,
+            43.610254
+          ],
+          [
+            13.5033075,
+            43.6104724
+          ],
+          [
+            13.5033169,
+            43.6105876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988238",
+      "properties": {
+        "@id": "way/125988238",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5028786,
+            43.6098169
+          ],
+          [
+            13.5025979,
+            43.6093147
+          ],
+          [
+            13.5025326,
+            43.6091989
+          ],
+          [
+            13.5022378,
+            43.6086756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988239",
+      "properties": {
+        "@id": "way/125988239",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5033169,
+            43.6105876
+          ],
+          [
+            13.5031845,
+            43.6104639
+          ],
+          [
+            13.5031526,
+            43.6104058
+          ],
+          [
+            13.5030937,
+            43.6102986
+          ],
+          [
+            13.5030882,
+            43.6101848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988240",
+      "properties": {
+        "@id": "way/125988240",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5029727,
+            43.609984
+          ],
+          [
+            13.502916,
+            43.6099475
+          ],
+          [
+            13.5028971,
+            43.609912
+          ],
+          [
+            13.5028782,
+            43.6098765
+          ],
+          [
+            13.5028786,
+            43.6098169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988241",
+      "properties": {
+        "@id": "way/125988241",
+        "highway": "tertiary",
+        "is_in:city": "Ancona",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.503915,
+            43.6116521
+          ],
+          [
+            13.5039764,
+            43.6116965
+          ],
+          [
+            13.5039931,
+            43.6117278
+          ],
+          [
+            13.5040098,
+            43.611759
+          ],
+          [
+            13.504008,
+            43.6118171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988242",
+      "properties": {
+        "@id": "way/125988242",
+        "highway": "tertiary",
+        "is_in:city": "Ancona",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5034488,
+            43.6108247
+          ],
+          [
+            13.5033957,
+            43.6107882
+          ],
+          [
+            13.5033768,
+            43.6107528
+          ],
+          [
+            13.5033579,
+            43.6107173
+          ],
+          [
+            13.5033547,
+            43.6106576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125988243",
+      "properties": {
+        "@id": "way/125988243",
+        "highway": "tertiary",
+        "is_in:city": "Ancona",
+        "maxspeed": "50",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.504008,
+            43.6118171
+          ],
+          [
+            13.5039525,
+            43.6117773
+          ],
+          [
+            13.5039358,
+            43.6117461
+          ],
+          [
+            13.5039191,
+            43.6117148
+          ],
+          [
+            13.503915,
+            43.6116521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146836419",
+      "properties": {
+        "@id": "way/146836419",
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Viale della Vittoria",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5191031,
+            43.6162111
+          ],
+          [
+            13.5192534,
+            43.6161808
+          ],
+          [
+            13.5201491,
+            43.6161059
+          ],
+          [
+            13.5205729,
+            43.6160705
+          ],
+          [
+            13.5206921,
+            43.6160591
+          ],
+          [
+            13.5228197,
+            43.6158557
+          ],
+          [
+            13.522919,
+            43.6158462
+          ],
+          [
+            13.5243643,
+            43.615708
+          ],
+          [
+            13.5245236,
+            43.6156927
+          ],
+          [
+            13.5254947,
+            43.6155999
+          ],
+          [
+            13.5256349,
+            43.6155865
+          ],
+          [
+            13.5270864,
+            43.6154477
+          ],
+          [
+            13.5272265,
+            43.6154343
+          ],
+          [
+            13.5290261,
+            43.6152622
+          ],
+          [
+            13.5291361,
+            43.6152517
+          ],
+          [
+            13.5306362,
+            43.6151082
+          ],
+          [
+            13.5307252,
+            43.6150997
+          ],
+          [
+            13.5313569,
+            43.6150396
+          ],
+          [
+            13.531493,
+            43.6150266
+          ],
+          [
+            13.5322474,
+            43.6149548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147001056",
+      "properties": {
+        "@id": "way/147001056",
+        "highway": "residential",
+        "is_in:city": "Ancona",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5165755,
+            43.6176528
+          ],
+          [
+            13.5163784,
+            43.617698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147001057",
+      "properties": {
+        "@id": "way/147001057",
+        "access": "no",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5158791,
+            43.6169435
+          ],
+          [
+            13.5158408,
+            43.6168483
+          ],
+          [
+            13.5157539,
+            43.6166625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147001058",
+      "properties": {
+        "@id": "way/147001058",
+        "access": "no",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5160167,
+            43.6172463
+          ],
+          [
+            13.5159918,
+            43.6171915
+          ],
+          [
+            13.5159551,
+            43.6171108
+          ],
+          [
+            13.5158791,
+            43.6169435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147001059",
+      "properties": {
+        "@id": "way/147001059",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Carlo e Nello Rosselli",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4975946,
+            43.607213
+          ],
+          [
+            13.497494,
+            43.6071492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147001061",
+      "properties": {
+        "@id": "way/147001061",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Carlo e Nello Rosselli",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4983327,
+            43.6073933
+          ],
+          [
+            13.4981183,
+            43.607387
+          ],
+          [
+            13.4980668,
+            43.6073746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147001067",
+      "properties": {
+        "@id": "way/147001067",
+        "access": "no",
+        "foot": "yes",
+        "highway": "service",
+        "name": "Via delle Tavernelle",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5177037,
+            43.5901656
+          ],
+          [
+            13.5175853,
+            43.5902346
+          ],
+          [
+            13.5174242,
+            43.590302
+          ],
+          [
+            13.5173072,
+            43.590308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147001068",
+      "properties": {
+        "@id": "way/147001068",
+        "highway": "tertiary",
+        "maxspeed": "40",
+        "name": "Viale della Vittoria",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5318038,
+            43.615161
+          ],
+          [
+            13.5315157,
+            43.6151864
+          ],
+          [
+            13.5307532,
+            43.6152537
+          ],
+          [
+            13.5306371,
+            43.615264
+          ],
+          [
+            13.5299439,
+            43.6153303
+          ],
+          [
+            13.5295037,
+            43.6153724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147109245",
+      "properties": {
+        "@id": "way/147109245",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Corso Stamira",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5103404,
+            43.6180727
+          ],
+          [
+            13.5097657,
+            43.618324
+          ],
+          [
+            13.5096677,
+            43.6183681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147109246",
+      "properties": {
+        "@id": "way/147109246",
+        "highway": "residential",
+        "is_in:city": "Ancona",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5172413,
+            43.6174955
+          ],
+          [
+            13.51717,
+            43.6175117
+          ],
+          [
+            13.516906,
+            43.6175744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147109247",
+      "properties": {
+        "@id": "way/147109247",
+        "highway": "residential",
+        "is_in:city": "Ancona",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.516906,
+            43.6175744
+          ],
+          [
+            13.5168418,
+            43.6175896
+          ],
+          [
+            13.5167456,
+            43.6176124
+          ],
+          [
+            13.5165755,
+            43.6176528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147109249",
+      "properties": {
+        "@id": "way/147109249",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Carlo e Nello Rosselli",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4980668,
+            43.6073746
+          ],
+          [
+            13.4979534,
+            43.6073472
+          ],
+          [
+            13.4977743,
+            43.607304
+          ],
+          [
+            13.4977063,
+            43.6072876
+          ],
+          [
+            13.4975946,
+            43.607213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147109250",
+      "properties": {
+        "@id": "way/147109250",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Piazza Roma",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5130645,
+            43.6172076
+          ],
+          [
+            13.512697,
+            43.6173205
+          ],
+          [
+            13.5125689,
+            43.6173599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147227183",
+      "properties": {
+        "@id": "way/147227183",
+        "access": "no",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5157539,
+            43.6166625
+          ],
+          [
+            13.5157339,
+            43.6166172
+          ],
+          [
+            13.5157108,
+            43.6165648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147227240",
+      "properties": {
+        "@id": "way/147227240",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Giordano Bruno",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5058737,
+            43.6043449
+          ],
+          [
+            13.5061786,
+            43.604192
+          ],
+          [
+            13.506555,
+            43.6040002
+          ],
+          [
+            13.5066617,
+            43.6039447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147523320",
+      "properties": {
+        "@id": "way/147523320",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.50709,
+            43.603337
+          ],
+          [
+            13.5071222,
+            43.603249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147523322",
+      "properties": {
+        "@id": "way/147523322",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5072402,
+            43.6036798
+          ],
+          [
+            13.5071807,
+            43.6037063
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148170638",
+      "properties": {
+        "@id": "way/148170638",
+        "access": "no",
+        "highway": "service",
+        "name": "Piazza Ugo Bassi",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5071807,
+            43.6037063
+          ],
+          [
+            13.5070458,
+            43.6037647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148170641",
+      "properties": {
+        "@id": "way/148170641",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Via Giordano Bruno",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5030589,
+            43.6057402
+          ],
+          [
+            13.5034156,
+            43.6055516
+          ],
+          [
+            13.50343,
+            43.6055445
+          ],
+          [
+            13.5046084,
+            43.6049653
+          ],
+          [
+            13.5046547,
+            43.6049425
+          ],
+          [
+            13.5053351,
+            43.6046209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148288252",
+      "properties": {
+        "@id": "way/148288252",
+        "access": "no",
+        "highway": "service",
+        "name": "Via Guglielmo Marconi",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4985856,
+            43.6074151
+          ],
+          [
+            13.4985433,
+            43.6074049
+          ],
+          [
+            13.498493,
+            43.6073987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148415803",
+      "properties": {
+        "@id": "way/148415803",
+        "access": "no",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5161225,
+            43.6174793
+          ],
+          [
+            13.5160912,
+            43.6174105
+          ],
+          [
+            13.5160167,
+            43.6172463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188284418",
+      "properties": {
+        "@id": "way/188284418",
+        "highway": "residential",
+        "is_in:city": "Ancona",
+        "name": "Piazza Camillo Benso Cavour",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5163784,
+            43.617698
+          ],
+          [
+            13.5162366,
+            43.6177305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208369031",
+      "properties": {
+        "@id": "way/208369031",
+        "highway": "secondary",
+        "maxspeed": "30",
+        "name": "Piazzale Europa",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5104255,
+            43.607104
+          ],
+          [
+            13.5105471,
+            43.6071376
+          ],
+          [
+            13.5106927,
+            43.6071624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208369033",
+      "properties": {
+        "@id": "way/208369033",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "30",
+        "name": "Piazzale Europa",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5104239,
+            43.607195
+          ],
+          [
+            13.5103962,
+            43.6072231
+          ],
+          [
+            13.5103521,
+            43.6072452
+          ],
+          [
+            13.5102929,
+            43.6072544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208369035",
+      "properties": {
+        "@id": "way/208369035",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "30",
+        "name": "Piazzale Europa",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5102929,
+            43.6072544
+          ],
+          [
+            13.5102374,
+            43.6072466
+          ],
+          [
+            13.5101891,
+            43.6072236
+          ],
+          [
+            13.5101681,
+            43.6072044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208369037",
+      "properties": {
+        "@id": "way/208369037",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "30",
+        "name": "Piazzale Europa",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5101681,
+            43.6072044
+          ],
+          [
+            13.5101515,
+            43.6071775
+          ],
+          [
+            13.5101458,
+            43.6071484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/214752057",
+      "properties": {
+        "@id": "way/214752057",
+        "highway": "secondary",
+        "maxspeed": "30",
+        "name": "Piazzale Europa",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5101914,
+            43.6069651
+          ],
+          [
+            13.5103105,
+            43.607043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/214752059",
+      "properties": {
+        "@id": "way/214752059",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "30",
+        "name": "Piazzale Europa",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5101458,
+            43.6071484
+          ],
+          [
+            13.5101546,
+            43.6071121
+          ],
+          [
+            13.510189,
+            43.6070731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/214752060",
+      "properties": {
+        "@id": "way/214752060",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "maxspeed": "30",
+        "name": "Piazzale Europa",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5103105,
+            43.607043
+          ],
+          [
+            13.5103532,
+            43.6070518
+          ],
+          [
+            13.5103964,
+            43.6070735
+          ],
+          [
+            13.5104255,
+            43.607104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/214752065",
+      "properties": {
+        "@id": "way/214752065",
+        "highway": "secondary",
+        "maxspeed": "30",
+        "name": "Via Martiri della Resistenza",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.512099,
+            43.607281
+          ],
+          [
+            13.5118729,
+            43.6072009
+          ],
+          [
+            13.511702,
+            43.6071556
+          ],
+          [
+            13.5115072,
+            43.6071274
+          ],
+          [
+            13.5113287,
+            43.6071131
+          ],
+          [
+            13.5111251,
+            43.6071223
+          ],
+          [
+            13.5106927,
+            43.6071624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/214752068",
+      "properties": {
+        "@id": "way/214752068",
+        "highway": "secondary",
+        "maxspeed": "30",
+        "name": "Via della Ricostruzione",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5101233,
+            43.6068646
+          ],
+          [
+            13.5101914,
+            43.6069651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227227319",
+      "properties": {
+        "@id": "way/227227319",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Corso Stamira",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5143752,
+            43.6168971
+          ],
+          [
+            13.5139434,
+            43.6169887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229234700",
+      "properties": {
+        "@id": "way/229234700",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Corso Stamira",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5113644,
+            43.6177219
+          ],
+          [
+            13.5111891,
+            43.6177818
+          ],
+          [
+            13.5110031,
+            43.6178453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388349898",
+      "properties": {
+        "@id": "way/388349898",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Corso Stamira",
+        "oneway": "yes",
+        "psv": "opposite_lane",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5157108,
+            43.6165648
+          ],
+          [
+            13.5155939,
+            43.6165945
+          ],
+          [
+            13.5149964,
+            43.6167446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388349899",
+      "properties": {
+        "@id": "way/388349899",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Largo 24 maggio",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5183891,
+            43.6164217
+          ],
+          [
+            13.5191031,
+            43.6162111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388349903",
+      "properties": {
+        "@id": "way/388349903",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Terenzio Frediani",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5194758,
+            43.6169323
+          ],
+          [
+            13.5191774,
+            43.6170108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388553994",
+      "properties": {
+        "@id": "way/388553994",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Mario Torresi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5144233,
+            43.5986992
+          ],
+          [
+            13.5145209,
+            43.5985807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388553995",
+      "properties": {
+        "@id": "way/388553995",
+        "highway": "tertiary",
+        "maxspeed": "50",
+        "name": "Via Mario Torresi",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5147787,
+            43.5985037
+          ],
+          [
+            13.5161864,
+            43.5984867
+          ],
+          [
+            13.5166327,
+            43.5983935
+          ]
+        ]
+      }
+    }
+  ]
+}

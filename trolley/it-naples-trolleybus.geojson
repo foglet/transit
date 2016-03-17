@@ -1,0 +1,2217 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T08:58:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/136196124",
+      "properties": {
+        "@id": "way/136196124",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2690932,
+            40.8463826
+          ],
+          [
+            14.2691258,
+            40.8463332
+          ],
+          [
+            14.2691809,
+            40.8462871
+          ],
+          [
+            14.2692557,
+            40.8462391
+          ],
+          [
+            14.269324,
+            40.8462128
+          ],
+          [
+            14.2693922,
+            40.8461985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267312001",
+      "properties": {
+        "@id": "way/267312001",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2689314,
+            40.8474057
+          ],
+          [
+            14.2688641,
+            40.8478589
+          ],
+          [
+            14.2688511,
+            40.8479507
+          ],
+          [
+            14.2688344,
+            40.8480543
+          ],
+          [
+            14.2687827,
+            40.8483753
+          ],
+          [
+            14.2687574,
+            40.848535
+          ],
+          [
+            14.2687313,
+            40.8487
+          ],
+          [
+            14.2686718,
+            40.8490752
+          ],
+          [
+            14.2686136,
+            40.8494423
+          ],
+          [
+            14.268588,
+            40.8496042
+          ],
+          [
+            14.2684924,
+            40.8500773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267312002",
+      "properties": {
+        "@id": "way/267312002",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2690156,
+            40.8468833
+          ],
+          [
+            14.2689991,
+            40.8469893
+          ],
+          [
+            14.2689341,
+            40.8473894
+          ],
+          [
+            14.2689314,
+            40.8474057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267312018",
+      "properties": {
+        "@id": "way/267312018",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2684924,
+            40.8500773
+          ],
+          [
+            14.2684656,
+            40.8502326
+          ],
+          [
+            14.2684031,
+            40.8505806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267312060",
+      "properties": {
+        "@id": "way/267312060",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2681662,
+            40.851685
+          ],
+          [
+            14.2682239,
+            40.8515599
+          ],
+          [
+            14.2682333,
+            40.8515156
+          ],
+          [
+            14.2682375,
+            40.8514966
+          ],
+          [
+            14.2683148,
+            40.8511009
+          ],
+          [
+            14.2683177,
+            40.8510836
+          ],
+          [
+            14.2684015,
+            40.8505902
+          ],
+          [
+            14.2684031,
+            40.8505806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321026472",
+      "properties": {
+        "@id": "way/321026472",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2690932,
+            40.8463826
+          ],
+          [
+            14.2690156,
+            40.8468833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19726952",
+      "properties": {
+        "@id": "way/19726952",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2680791,
+            40.8527096
+          ],
+          [
+            14.2680898,
+            40.8526421
+          ],
+          [
+            14.2681178,
+            40.8525183
+          ],
+          [
+            14.2681293,
+            40.852447
+          ],
+          [
+            14.2681572,
+            40.8522028
+          ],
+          [
+            14.2681993,
+            40.851834
+          ],
+          [
+            14.2681919,
+            40.851765
+          ],
+          [
+            14.2681662,
+            40.851685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287897737",
+      "properties": {
+        "@id": "way/287897737",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.266618,
+            40.8608097
+          ],
+          [
+            14.2666893,
+            40.8603917
+          ],
+          [
+            14.2667414,
+            40.8600866
+          ],
+          [
+            14.2668167,
+            40.8596454
+          ],
+          [
+            14.2668313,
+            40.8595598
+          ],
+          [
+            14.266899,
+            40.8591633
+          ],
+          [
+            14.266921,
+            40.859034
+          ],
+          [
+            14.2669959,
+            40.8586629
+          ],
+          [
+            14.2670627,
+            40.8582036
+          ],
+          [
+            14.2670914,
+            40.8580358
+          ],
+          [
+            14.2670989,
+            40.8579916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19055156",
+      "properties": {
+        "@id": "way/19055156",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2680791,
+            40.8527096
+          ],
+          [
+            14.2680621,
+            40.8527979
+          ],
+          [
+            14.2680449,
+            40.8528875
+          ],
+          [
+            14.2680398,
+            40.8529139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/236534569",
+      "properties": {
+        "@id": "way/236534569",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2680398,
+            40.8529139
+          ],
+          [
+            14.2680321,
+            40.8529478
+          ],
+          [
+            14.2679131,
+            40.8535802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287891012",
+      "properties": {
+        "@id": "way/287891012",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2679131,
+            40.8535802
+          ],
+          [
+            14.2679076,
+            40.8536074
+          ],
+          [
+            14.2678996,
+            40.8536353
+          ],
+          [
+            14.2678875,
+            40.8536724
+          ],
+          [
+            14.2678775,
+            40.8537008
+          ],
+          [
+            14.2678614,
+            40.8537434
+          ],
+          [
+            14.2678366,
+            40.8538073
+          ],
+          [
+            14.2677588,
+            40.8540132
+          ],
+          [
+            14.267738,
+            40.8540685
+          ],
+          [
+            14.2677279,
+            40.854105
+          ],
+          [
+            14.2677085,
+            40.8541836
+          ],
+          [
+            14.2677045,
+            40.8542019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287891606",
+      "properties": {
+        "@id": "way/287891606",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2677045,
+            40.8542019
+          ],
+          [
+            14.2677102,
+            40.8542341
+          ],
+          [
+            14.2677246,
+            40.8542546
+          ],
+          [
+            14.2677299,
+            40.854279
+          ],
+          [
+            14.2677299,
+            40.8543033
+          ],
+          [
+            14.2676621,
+            40.8547983
+          ],
+          [
+            14.2675678,
+            40.8553961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287892760",
+      "properties": {
+        "@id": "way/287892760",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2672284,
+            40.8572398
+          ],
+          [
+            14.2672395,
+            40.8571818
+          ],
+          [
+            14.2673217,
+            40.8567511
+          ],
+          [
+            14.2673656,
+            40.8565211
+          ],
+          [
+            14.2673781,
+            40.8564555
+          ],
+          [
+            14.2673834,
+            40.8564276
+          ],
+          [
+            14.2674541,
+            40.8560571
+          ],
+          [
+            14.2674596,
+            40.8560285
+          ],
+          [
+            14.2674659,
+            40.8559953
+          ],
+          [
+            14.2675678,
+            40.8553961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/135736696",
+      "properties": {
+        "@id": "way/135736696",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3307038,
+            40.818067
+          ],
+          [
+            14.3306034,
+            40.818124
+          ],
+          [
+            14.330003,
+            40.8184648
+          ],
+          [
+            14.32878,
+            40.819159
+          ],
+          [
+            14.327876,
+            40.8199519
+          ],
+          [
+            14.3275336,
+            40.8202387
+          ],
+          [
+            14.3267381,
+            40.8208837
+          ],
+          [
+            14.325739,
+            40.8213047
+          ],
+          [
+            14.3251485,
+            40.821585
+          ],
+          [
+            14.3245445,
+            40.8219077
+          ],
+          [
+            14.3230707,
+            40.8227395
+          ],
+          [
+            14.3229661,
+            40.8227986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19997617",
+      "properties": {
+        "@id": "way/19997617",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3392279,
+            40.8141453
+          ],
+          [
+            14.3405568,
+            40.8148336
+          ],
+          [
+            14.340853,
+            40.8149874
+          ],
+          [
+            14.3408646,
+            40.8149947
+          ],
+          [
+            14.3413817,
+            40.8152847
+          ],
+          [
+            14.3414319,
+            40.8153166
+          ],
+          [
+            14.3423044,
+            40.8157931
+          ],
+          [
+            14.3428519,
+            40.8160525
+          ],
+          [
+            14.3432136,
+            40.816242
+          ],
+          [
+            14.3456069,
+            40.8174956
+          ],
+          [
+            14.3456449,
+            40.8175148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136111620",
+      "properties": {
+        "@id": "way/136111620",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.335934,
+            40.8145027
+          ],
+          [
+            14.3358007,
+            40.8145563
+          ],
+          [
+            14.3354125,
+            40.8148811
+          ],
+          [
+            14.3351191,
+            40.8151405
+          ],
+          [
+            14.334629,
+            40.8155737
+          ],
+          [
+            14.333847,
+            40.8162316
+          ],
+          [
+            14.3333132,
+            40.8165726
+          ],
+          [
+            14.3320203,
+            40.8173029
+          ],
+          [
+            14.3312896,
+            40.8177142
+          ],
+          [
+            14.3308446,
+            40.8179822
+          ],
+          [
+            14.3307038,
+            40.818067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171536444",
+      "properties": {
+        "@id": "way/171536444",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3400665,
+            40.8198345
+          ],
+          [
+            14.3397906,
+            40.819815
+          ],
+          [
+            14.3373233,
+            40.819646
+          ],
+          [
+            14.3369848,
+            40.8196274
+          ],
+          [
+            14.3369346,
+            40.8196201
+          ],
+          [
+            14.3368716,
+            40.8196109
+          ],
+          [
+            14.3366675,
+            40.8195771
+          ],
+          [
+            14.3364467,
+            40.8195262
+          ],
+          [
+            14.3363496,
+            40.8195039
+          ],
+          [
+            14.3358316,
+            40.8193736
+          ],
+          [
+            14.3355336,
+            40.8192935
+          ],
+          [
+            14.3353249,
+            40.8192456
+          ],
+          [
+            14.3343034,
+            40.8190113
+          ],
+          [
+            14.3334208,
+            40.8188397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171536461",
+      "properties": {
+        "@id": "way/171536461",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3334208,
+            40.8188397
+          ],
+          [
+            14.3331195,
+            40.8187599
+          ],
+          [
+            14.3314122,
+            40.8183723
+          ],
+          [
+            14.3307038,
+            40.818067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/135875849",
+      "properties": {
+        "@id": "way/135875849",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3387252,
+            40.8140778
+          ],
+          [
+            14.338733,
+            40.8140139
+          ],
+          [
+            14.3387622,
+            40.8139614
+          ],
+          [
+            14.3388203,
+            40.8139102
+          ],
+          [
+            14.3389119,
+            40.8138731
+          ],
+          [
+            14.339007,
+            40.813865
+          ],
+          [
+            14.3390765,
+            40.8138761
+          ],
+          [
+            14.3391628,
+            40.8139145
+          ],
+          [
+            14.3392244,
+            40.8139754
+          ],
+          [
+            14.3392424,
+            40.8140174
+          ],
+          [
+            14.3392482,
+            40.8140309
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136096724",
+      "properties": {
+        "@id": "way/136096724",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3367024,
+            40.8142643
+          ],
+          [
+            14.3367002,
+            40.8142663
+          ],
+          [
+            14.335934,
+            40.8145027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171536446",
+      "properties": {
+        "@id": "way/171536446",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3387252,
+            40.8140778
+          ],
+          [
+            14.3382535,
+            40.8141204
+          ],
+          [
+            14.3367024,
+            40.8142643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/135860060",
+      "properties": {
+        "@id": "way/135860060",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3442203,
+            40.8201516
+          ],
+          [
+            14.343078,
+            40.8200612
+          ],
+          [
+            14.3422653,
+            40.8199994
+          ],
+          [
+            14.3410461,
+            40.8199066
+          ],
+          [
+            14.3400665,
+            40.8198345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136098401",
+      "properties": {
+        "@id": "way/136098401",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3444219,
+            40.8201578
+          ],
+          [
+            14.3443862,
+            40.8201575
+          ],
+          [
+            14.3442203,
+            40.8201516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19997620",
+      "properties": {
+        "@id": "way/19997620",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3517078,
+            40.8206061
+          ],
+          [
+            14.3513588,
+            40.8209533
+          ],
+          [
+            14.3508529,
+            40.8213811
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19997629",
+      "properties": {
+        "@id": "way/19997629",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3490519,
+            40.8202585
+          ],
+          [
+            14.3482877,
+            40.8202562
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/135875855",
+      "properties": {
+        "@id": "way/135875855",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.351704,
+            40.8204728
+          ],
+          [
+            14.3517078,
+            40.8206061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207990767",
+      "properties": {
+        "@id": "way/207990767",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3508529,
+            40.8213811
+          ],
+          [
+            14.3507938,
+            40.8212872
+          ],
+          [
+            14.3506603,
+            40.8210645
+          ],
+          [
+            14.3505933,
+            40.8209687
+          ],
+          [
+            14.3502599,
+            40.8207599
+          ],
+          [
+            14.3490519,
+            40.8202585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207990775",
+      "properties": {
+        "@id": "way/207990775",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3482877,
+            40.8202562
+          ],
+          [
+            14.3482703,
+            40.8202419
+          ],
+          [
+            14.3481765,
+            40.8202562
+          ],
+          [
+            14.3479717,
+            40.8202545
+          ],
+          [
+            14.3474384,
+            40.8202471
+          ],
+          [
+            14.3456827,
+            40.8201951
+          ],
+          [
+            14.3444219,
+            40.8201578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19065922",
+      "properties": {
+        "@id": "way/19065922",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2664011,
+            40.8620673
+          ],
+          [
+            14.2664497,
+            40.8617917
+          ],
+          [
+            14.2664738,
+            40.861655
+          ],
+          [
+            14.2665366,
+            40.8612985
+          ],
+          [
+            14.2665799,
+            40.8610528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321307304",
+      "properties": {
+        "@id": "way/321307304",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2661477,
+            40.8628171
+          ],
+          [
+            14.2659103,
+            40.8626252
+          ],
+          [
+            14.2658153,
+            40.8625368
+          ],
+          [
+            14.2651743,
+            40.8619468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/329352732",
+      "properties": {
+        "@id": "way/329352732",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2665799,
+            40.8610528
+          ],
+          [
+            14.2666095,
+            40.8608638
+          ],
+          [
+            14.266618,
+            40.8608097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/330083667",
+      "properties": {
+        "@id": "way/330083667",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2651743,
+            40.8619468
+          ],
+          [
+            14.2649022,
+            40.8616836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108323676",
+      "properties": {
+        "@id": "way/108323676",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2672596,
+            40.8698067
+          ],
+          [
+            14.266682,
+            40.8708067
+          ],
+          [
+            14.2660217,
+            40.8718055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/330083471",
+      "properties": {
+        "@id": "way/330083471",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2686074,
+            40.8650098
+          ],
+          [
+            14.2683416,
+            40.86482
+          ],
+          [
+            14.2679294,
+            40.8644449
+          ],
+          [
+            14.267838,
+            40.8643617
+          ],
+          [
+            14.2677311,
+            40.8642634
+          ],
+          [
+            14.2670314,
+            40.863619
+          ],
+          [
+            14.2667036,
+            40.8633082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8041414",
+      "properties": {
+        "@id": "way/8041414",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2680693,
+            40.8685402
+          ],
+          [
+            14.2680129,
+            40.8684773
+          ],
+          [
+            14.2679885,
+            40.8684001
+          ],
+          [
+            14.2680113,
+            40.8682247
+          ],
+          [
+            14.2681025,
+            40.8668933
+          ],
+          [
+            14.2681403,
+            40.8666318
+          ],
+          [
+            14.268209,
+            40.8663397
+          ],
+          [
+            14.268293,
+            40.8660359
+          ],
+          [
+            14.2683544,
+            40.8658185
+          ],
+          [
+            14.268372,
+            40.8657555
+          ],
+          [
+            14.2685396,
+            40.8651308
+          ],
+          [
+            14.2686074,
+            40.8650098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108323647",
+      "properties": {
+        "@id": "way/108323647",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1829254,
+            "reltags": {
+              "name": "Via Nicolini Portici",
+              "network": "ANM",
+              "operator": "ANM",
+              "ref": "254",
+              "route": "trolleybus",
+              "source": "Napoli Via Nicolini",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2673286,
+            40.8695943
+          ],
+          [
+            14.2675825,
+            40.8691233
+          ],
+          [
+            14.2678262,
+            40.8686947
+          ],
+          [
+            14.2680693,
+            40.8685402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108323663",
+      "properties": {
+        "@id": "way/108323663",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2692519,
+            40.8654999
+          ],
+          [
+            14.269232,
+            40.8656385
+          ],
+          [
+            14.2690961,
+            40.8660718
+          ],
+          [
+            14.26897,
+            40.866431
+          ],
+          [
+            14.2685083,
+            40.8676762
+          ],
+          [
+            14.2682717,
+            40.8682467
+          ],
+          [
+            14.2681864,
+            40.8684368
+          ],
+          [
+            14.2680693,
+            40.8685402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108323673",
+      "properties": {
+        "@id": "way/108323673",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1827071,
+            "reltags": {
+              "name": "254 Portici via Nicolini",
+              "network": "ANM",
+              "ref": "254 Portici Via Nicolini",
+              "route": "trolleybus",
+              "source": "Portici Piazza Poli",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2686074,
+            40.8650098
+          ],
+          [
+            14.2690632,
+            40.8653982
+          ],
+          [
+            14.2692519,
+            40.8654999
+          ]
+        ]
+      }
+    }
+  ]
+}
