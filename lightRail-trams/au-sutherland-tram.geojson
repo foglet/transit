@@ -1,0 +1,550 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T10:06:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/55890347",
+      "properties": {
+        "@id": "way/55890347",
+        "electrified": "yes",
+        "frequency": "0",
+        "gauge": "1435",
+        "operator": "South Pacific Electric Railway",
+        "railway": "tram",
+        "route": "tram",
+        "source": "knowledge",
+        "usage": "tourism",
+        "voltage": "600",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 964800,
+            "reltags": {
+              "from": "Sutherland",
+              "operator": "South Pacific Electric Railway",
+              "route": "tram",
+              "to": "Royal National Park",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.0519252,
+            -34.0466583
+          ],
+          [
+            151.0519222,
+            -34.0465589
+          ],
+          [
+            151.0521512,
+            -34.0457051
+          ],
+          [
+            151.0521895,
+            -34.0455622
+          ],
+          [
+            151.0523453,
+            -34.0449815
+          ],
+          [
+            151.0524115,
+            -34.0447347
+          ],
+          [
+            151.0525692,
+            -34.0443153
+          ],
+          [
+            151.0527331,
+            -34.0438593
+          ],
+          [
+            151.0529562,
+            -34.0433328
+          ],
+          [
+            151.0531641,
+            -34.0424798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55890350",
+      "properties": {
+        "@id": "way/55890350",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 964800,
+            "reltags": {
+              "from": "Sutherland",
+              "operator": "South Pacific Electric Railway",
+              "route": "tram",
+              "to": "Royal National Park",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.0569648,
+            -34.0630192
+          ],
+          [
+            151.0567712,
+            -34.0627307
+          ],
+          [
+            151.0560292,
+            -34.0616043
+          ],
+          [
+            151.055509,
+            -34.060868
+          ],
+          [
+            151.0552502,
+            -34.0602707
+          ],
+          [
+            151.0551709,
+            -34.0598764
+          ],
+          [
+            151.0551611,
+            -34.0595164
+          ],
+          [
+            151.0552588,
+            -34.0589324
+          ],
+          [
+            151.0552449,
+            -34.0582096
+          ],
+          [
+            151.0549685,
+            -34.0576722
+          ],
+          [
+            151.0546413,
+            -34.0572593
+          ],
+          [
+            151.0541368,
+            -34.0569037
+          ],
+          [
+            151.0535863,
+            -34.0565514
+          ],
+          [
+            151.0532881,
+            -34.0563176
+          ],
+          [
+            151.0529989,
+            -34.0560248
+          ],
+          [
+            151.0527246,
+            -34.0555619
+          ],
+          [
+            151.0525099,
+            -34.0549538
+          ],
+          [
+            151.052489,
+            -34.0544436
+          ],
+          [
+            151.0525992,
+            -34.0538852
+          ],
+          [
+            151.0526202,
+            -34.053455
+          ],
+          [
+            151.0525863,
+            -34.0531057
+          ],
+          [
+            151.0524684,
+            -34.0526401
+          ],
+          [
+            151.0522093,
+            -34.0517364
+          ],
+          [
+            151.0520987,
+            -34.0512236
+          ],
+          [
+            151.0518268,
+            -34.0504937
+          ],
+          [
+            151.0517102,
+            -34.0499282
+          ],
+          [
+            151.051669,
+            -34.0497876
+          ],
+          [
+            151.0515907,
+            -34.049521
+          ],
+          [
+            151.0515377,
+            -34.0493535
+          ],
+          [
+            151.0515122,
+            -34.0492093
+          ],
+          [
+            151.0515082,
+            -34.0491104
+          ],
+          [
+            151.0515216,
+            -34.0490112
+          ],
+          [
+            151.0515404,
+            -34.0488868
+          ],
+          [
+            151.0516964,
+            -34.0483806
+          ],
+          [
+            151.0517749,
+            -34.0478552
+          ],
+          [
+            151.0518921,
+            -34.0467797
+          ],
+          [
+            151.0519252,
+            -34.0466583
+          ],
+          [
+            151.0521646,
+            -34.0457722
+          ],
+          [
+            151.0521759,
+            -34.0457303
+          ],
+          [
+            151.0522195,
+            -34.0455691
+          ],
+          [
+            151.0523743,
+            -34.0449961
+          ],
+          [
+            151.0524434,
+            -34.0447403
+          ],
+          [
+            151.0526046,
+            -34.044327
+          ],
+          [
+            151.0527292,
+            -34.0439891
+          ],
+          [
+            151.0527716,
+            -34.0438742
+          ],
+          [
+            151.052938,
+            -34.0434589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148910836",
+      "properties": {
+        "@id": "way/148910836",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 964800,
+            "reltags": {
+              "from": "Sutherland",
+              "operator": "South Pacific Electric Railway",
+              "route": "tram",
+              "to": "Royal National Park",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.0527331,
+            -34.0438593
+          ],
+          [
+            151.0527292,
+            -34.0439891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55890347",
+      "properties": {
+        "@id": "way/55890347",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 964800,
+            "reltags": {
+              "from": "Sutherland",
+              "operator": "South Pacific Electric Railway",
+              "route": "tram",
+              "to": "Royal National Park",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.0519252,
+            -34.0466583
+          ],
+          [
+            151.0519222,
+            -34.0465589
+          ],
+          [
+            151.0521512,
+            -34.0457051
+          ],
+          [
+            151.0521895,
+            -34.0455622
+          ],
+          [
+            151.0523453,
+            -34.0449815
+          ],
+          [
+            151.0524115,
+            -34.0447347
+          ],
+          [
+            151.0525692,
+            -34.0443153
+          ],
+          [
+            151.0527331,
+            -34.0438593
+          ],
+          [
+            151.0529562,
+            -34.0433328
+          ],
+          [
+            151.0531641,
+            -34.0424798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148910835",
+      "properties": {
+        "@id": "way/148910835",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 964800,
+            "reltags": {
+              "from": "Sutherland",
+              "operator": "South Pacific Electric Railway",
+              "route": "tram",
+              "to": "Royal National Park",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.0531641,
+            -34.0424798
+          ],
+          [
+            151.0534392,
+            -34.0411309
+          ],
+          [
+            151.053483,
+            -34.0409244
+          ],
+          [
+            151.0538299,
+            -34.0393552
+          ],
+          [
+            151.0540506,
+            -34.0384244
+          ],
+          [
+            151.054426,
+            -34.0368214
+          ],
+          [
+            151.0545603,
+            -34.0362481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1025792553",
+      "properties": {
+        "@id": "node/1025792553",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 964800,
+            "reltags": {
+              "from": "Sutherland",
+              "operator": "South Pacific Electric Railway",
+              "route": "tram",
+              "to": "Royal National Park",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0567712,
+          -34.0627307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1025748131",
+      "properties": {
+        "@id": "node/1025748131",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 964800,
+            "reltags": {
+              "from": "Sutherland",
+              "operator": "South Pacific Electric Railway",
+              "route": "tram",
+              "to": "Royal National Park",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0520987,
+          -34.0512236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/249062847",
+      "properties": {
+        "@id": "node/249062847",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 964800,
+            "reltags": {
+              "from": "Sutherland",
+              "operator": "South Pacific Electric Railway",
+              "route": "tram",
+              "to": "Royal National Park",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0523743,
+          -34.0449961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/774441622",
+      "properties": {
+        "@id": "node/774441622",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 964800,
+            "reltags": {
+              "from": "Sutherland",
+              "operator": "South Pacific Electric Railway",
+              "route": "tram",
+              "to": "Royal National Park",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0545603,
+          -34.0362481
+        ]
+      }
+    }
+  ]
+}

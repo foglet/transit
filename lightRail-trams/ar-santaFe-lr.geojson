@@ -1,0 +1,1394 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-31T09:03:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/65074185",
+      "properties": {
+        "@id": "way/65074185",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.7024873,
+            -31.6040131
+          ],
+          [
+            -60.7024483,
+            -31.6041183
+          ],
+          [
+            -60.7022055,
+            -31.6047893
+          ],
+          [
+            -60.701836,
+            -31.6058384
+          ],
+          [
+            -60.7014018,
+            -31.6068918
+          ],
+          [
+            -60.700991,
+            -31.6079626
+          ],
+          [
+            -60.7007161,
+            -31.6086712
+          ],
+          [
+            -60.7006122,
+            -31.6089999
+          ],
+          [
+            -60.7002079,
+            -31.6100609
+          ],
+          [
+            -60.6998641,
+            -31.6110062
+          ],
+          [
+            -60.6994395,
+            -31.6121697
+          ],
+          [
+            -60.6990685,
+            -31.6131865
+          ],
+          [
+            -60.6985615,
+            -31.6145759
+          ],
+          [
+            -60.6985324,
+            -31.6146555
+          ],
+          [
+            -60.6984898,
+            -31.6147829
+          ],
+          [
+            -60.6981185,
+            -31.6158936
+          ],
+          [
+            -60.6980622,
+            -31.616062
+          ],
+          [
+            -60.6980152,
+            -31.6161623
+          ],
+          [
+            -60.6979108,
+            -31.6163851
+          ],
+          [
+            -60.6978235,
+            -31.6165713
+          ],
+          [
+            -60.6977323,
+            -31.616866
+          ],
+          [
+            -60.6975323,
+            -31.6173347
+          ],
+          [
+            -60.6970993,
+            -31.6184717
+          ],
+          [
+            -60.697079,
+            -31.6185744
+          ],
+          [
+            -60.697051,
+            -31.6187161
+          ],
+          [
+            -60.6970198,
+            -31.6189715
+          ],
+          [
+            -60.6969083,
+            -31.6194398
+          ],
+          [
+            -60.6968722,
+            -31.6195912
+          ],
+          [
+            -60.6968588,
+            -31.6201462
+          ],
+          [
+            -60.6968675,
+            -31.6203676
+          ],
+          [
+            -60.6968712,
+            -31.6204628
+          ],
+          [
+            -60.6968883,
+            -31.6208977
+          ],
+          [
+            -60.6969434,
+            -31.6214146
+          ],
+          [
+            -60.6970385,
+            -31.6223069
+          ],
+          [
+            -60.6971217,
+            -31.6231266
+          ],
+          [
+            -60.6971353,
+            -31.6232605
+          ],
+          [
+            -60.6971421,
+            -31.6233274
+          ],
+          [
+            -60.6971594,
+            -31.6235023
+          ],
+          [
+            -60.6972235,
+            -31.6241295
+          ],
+          [
+            -60.6972375,
+            -31.6242217
+          ],
+          [
+            -60.6973469,
+            -31.6249402
+          ],
+          [
+            -60.6973754,
+            -31.6249691
+          ],
+          [
+            -60.697473,
+            -31.6250681
+          ],
+          [
+            -60.6974709,
+            -31.6254334
+          ],
+          [
+            -60.6974703,
+            -31.6255363
+          ],
+          [
+            -60.6978911,
+            -31.6268574
+          ],
+          [
+            -60.6980094,
+            -31.6272287
+          ],
+          [
+            -60.6982117,
+            -31.6279086
+          ],
+          [
+            -60.6982669,
+            -31.6280943
+          ],
+          [
+            -60.6984949,
+            -31.6283158
+          ],
+          [
+            -60.69895,
+            -31.6296592
+          ],
+          [
+            -60.6992623,
+            -31.6305811
+          ],
+          [
+            -60.6994998,
+            -31.6312822
+          ],
+          [
+            -60.6995482,
+            -31.6314252
+          ],
+          [
+            -60.6995919,
+            -31.6315542
+          ],
+          [
+            -60.6998239,
+            -31.6323175
+          ],
+          [
+            -60.700102,
+            -31.6332326
+          ],
+          [
+            -60.7003603,
+            -31.6340824
+          ],
+          [
+            -60.7005414,
+            -31.6346783
+          ],
+          [
+            -60.7005672,
+            -31.6347631
+          ],
+          [
+            -60.7006758,
+            -31.6350889
+          ],
+          [
+            -60.7007572,
+            -31.6353376
+          ],
+          [
+            -60.7007828,
+            -31.6354159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74637261",
+      "properties": {
+        "@id": "way/74637261",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.7006009,
+            -31.6354483
+          ],
+          [
+            -60.700489,
+            -31.6351275
+          ],
+          [
+            -60.7001948,
+            -31.6341219
+          ],
+          [
+            -60.6999979,
+            -31.63338
+          ],
+          [
+            -60.6999616,
+            -31.6332666
+          ],
+          [
+            -60.6999013,
+            -31.6330786
+          ],
+          [
+            -60.6996975,
+            -31.6327041
+          ],
+          [
+            -60.6996143,
+            -31.6323628
+          ],
+          [
+            -60.6995258,
+            -31.6321834
+          ],
+          [
+            -60.699311,
+            -31.6314728
+          ],
+          [
+            -60.6990164,
+            -31.6306317
+          ],
+          [
+            -60.6989679,
+            -31.6304934
+          ],
+          [
+            -60.6987419,
+            -31.6300295
+          ],
+          [
+            -60.6986549,
+            -31.6298436
+          ],
+          [
+            -60.69861,
+            -31.629716
+          ],
+          [
+            -60.6985342,
+            -31.6293459
+          ],
+          [
+            -60.698109,
+            -31.6279307
+          ],
+          [
+            -60.698032,
+            -31.6274886
+          ],
+          [
+            -60.6979594,
+            -31.6271773
+          ],
+          [
+            -60.6978631,
+            -31.6268642
+          ],
+          [
+            -60.6977985,
+            -31.6266566
+          ],
+          [
+            -60.6975732,
+            -31.6260171
+          ],
+          [
+            -60.697423,
+            -31.6255421
+          ],
+          [
+            -60.6973923,
+            -31.625475
+          ],
+          [
+            -60.6973417,
+            -31.6254121
+          ],
+          [
+            -60.6972411,
+            -31.6253385
+          ],
+          [
+            -60.6971796,
+            -31.6252638
+          ],
+          [
+            -60.69718,
+            -31.6251877
+          ],
+          [
+            -60.6972623,
+            -31.6250764
+          ],
+          [
+            -60.6973754,
+            -31.6249691
+          ],
+          [
+            -60.6974551,
+            -31.6249026
+          ],
+          [
+            -60.6974002,
+            -31.6241863
+          ],
+          [
+            -60.6973071,
+            -31.6232921
+          ],
+          [
+            -60.6973001,
+            -31.6232242
+          ],
+          [
+            -60.6972908,
+            -31.6231224
+          ],
+          [
+            -60.6971232,
+            -31.6213765
+          ],
+          [
+            -60.6971213,
+            -31.6213567
+          ],
+          [
+            -60.6970485,
+            -31.620427
+          ],
+          [
+            -60.6970453,
+            -31.6203857
+          ],
+          [
+            -60.697054,
+            -31.6197495
+          ],
+          [
+            -60.6970854,
+            -31.6193721
+          ],
+          [
+            -60.6971248,
+            -31.6189653
+          ],
+          [
+            -60.6971502,
+            -31.6185609
+          ],
+          [
+            -60.6975361,
+            -31.617509
+          ],
+          [
+            -60.6975976,
+            -31.6173256
+          ],
+          [
+            -60.6978396,
+            -31.6165864
+          ],
+          [
+            -60.6979232,
+            -31.6164079
+          ],
+          [
+            -60.6980469,
+            -31.6161415
+          ],
+          [
+            -60.6981385,
+            -31.6159481
+          ],
+          [
+            -60.6981185,
+            -31.6158936
+          ],
+          [
+            -60.6980801,
+            -31.615789
+          ],
+          [
+            -60.6984731,
+            -31.6146668
+          ],
+          [
+            -60.6985191,
+            -31.614584
+          ],
+          [
+            -60.6985615,
+            -31.6145759
+          ],
+          [
+            -60.6986658,
+            -31.6145558
+          ],
+          [
+            -60.6991552,
+            -31.6131704
+          ],
+          [
+            -60.6992887,
+            -31.6127926
+          ],
+          [
+            -60.6995197,
+            -31.6121547
+          ],
+          [
+            -60.6999303,
+            -31.6110207
+          ],
+          [
+            -60.7000177,
+            -31.6107792
+          ],
+          [
+            -60.7002927,
+            -31.6100421
+          ],
+          [
+            -60.7006877,
+            -31.608983
+          ],
+          [
+            -60.700826,
+            -31.6086664
+          ],
+          [
+            -60.7010811,
+            -31.6079432
+          ],
+          [
+            -60.7014808,
+            -31.6068769
+          ],
+          [
+            -60.7018863,
+            -31.6058314
+          ],
+          [
+            -60.7021023,
+            -31.6052663
+          ],
+          [
+            -60.7022706,
+            -31.6047764
+          ],
+          [
+            -60.702509,
+            -31.6040947
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391209868",
+      "properties": {
+        "@id": "way/391209868",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.7007273,
+            -31.6354042
+          ],
+          [
+            -60.7006894,
+            -31.635292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391209873",
+      "properties": {
+        "@id": "way/391209873",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.6995526,
+            -31.631626
+          ],
+          [
+            -60.6995147,
+            -31.6315138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391209876",
+      "properties": {
+        "@id": "way/391209876",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.698201,
+            -31.6280552
+          ],
+          [
+            -60.6982109,
+            -31.6280998
+          ],
+          [
+            -60.6982717,
+            -31.6281672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391209869",
+      "properties": {
+        "@id": "way/391209869",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.6972472,
+            -31.6234349
+          ],
+          [
+            -60.6972622,
+            -31.6235623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391209875",
+      "properties": {
+        "@id": "way/391209875",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.6970828,
+            -31.6189174
+          ],
+          [
+            -60.6970753,
+            -31.6189815
+          ],
+          [
+            -60.6970596,
+            -31.6190515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391209871",
+      "properties": {
+        "@id": "way/391209871",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.6984705,
+            -31.6147235
+          ],
+          [
+            -60.6984329,
+            -31.6148499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391209872",
+      "properties": {
+        "@id": "way/391209872",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.7007961,
+            -31.6086227
+          ],
+          [
+            -60.7007585,
+            -31.6087454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391209870",
+      "properties": {
+        "@id": "way/391209870",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.7024189,
+            -31.6040326
+          ],
+          [
+            -60.7023709,
+            -31.6041528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3926173808",
+      "properties": {
+        "@id": "node/3926173808",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6995919,
+          -31.6315542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3944068009",
+      "properties": {
+        "@id": "node/3944068009",
+        "@relations": [
+          {
+            "role": "station",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6995606,
+          -31.6315623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3944068010",
+      "properties": {
+        "@id": "node/3944068010",
+        "@relations": [
+          {
+            "role": "station",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7007294,
+          -31.6353423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3944092601",
+      "properties": {
+        "@id": "node/3944092601",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7007572,
+          -31.6353376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3926173806",
+      "properties": {
+        "@id": "node/3926173806",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6982669,
+          -31.6280943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3928460619",
+      "properties": {
+        "@id": "node/3928460619",
+        "@relations": [
+          {
+            "role": "station",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6982412,
+          -31.6280998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3926173796",
+      "properties": {
+        "@id": "node/3926173796",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6970198,
+          -31.6189715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3928460620",
+      "properties": {
+        "@id": "node/3928460620",
+        "@relations": [
+          {
+            "role": "station",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6972096,
+          -31.6234972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3928460621",
+      "properties": {
+        "@id": "node/3928460621",
+        "@relations": [
+          {
+            "role": "station",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6970511,
+          -31.6189772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3944092593",
+      "properties": {
+        "@id": "node/3944092593",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6971594,
+          -31.6235023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3928460622",
+      "properties": {
+        "@id": "node/3928460622",
+        "@relations": [
+          {
+            "role": "station",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.698471,
+          -31.6147816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3944092565",
+      "properties": {
+        "@id": "node/3944092565",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6984898,
+          -31.6147829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/796717467",
+      "properties": {
+        "@id": "node/796717467",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7007161,
+          -31.6086712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3928460623",
+      "properties": {
+        "@id": "node/3928460623",
+        "@relations": [
+          {
+            "role": "station",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7007517,
+          -31.6086784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3928460624",
+      "properties": {
+        "@id": "node/3928460624",
+        "@relations": [
+          {
+            "role": "station",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7024192,
+          -31.6041065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3944068020",
+      "properties": {
+        "@id": "node/3944068020",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5669946,
+            "reltags": {
+              "capacity": "80",
+              "distance": "3.7 km",
+              "name": "Tren Urbano de Santa Fe",
+              "network": "Belgrano",
+              "opening_hours": "08:00-12:15,16:00-20:15",
+              "operator": "Ciudad de Santa Fe",
+              "route": "light_rail",
+              "source": "http://www.santafeciudad.gov.ar/servicios/transporte/proyecto_tren_urbano_santafe.html; http://www.ellitoral.com/index.php/id_um/124857-tren-urbano-se-puso-en-marcha-con-20-viajes-diarios",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7024483,
+          -31.6041183
+        ]
+      }
+    }
+  ]
+}
