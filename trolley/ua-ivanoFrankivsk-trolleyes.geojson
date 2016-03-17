@@ -1,0 +1,968 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-19T00:50:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/123331725",
+      "properties": {
+        "@id": "way/123331725",
+        "highway": "tertiary",
+        "name": "Василя Стуса вулиця",
+        "name:en": "Vasylia Stusa Street",
+        "name:ru": "Василия Стуса улица",
+        "name:uk": "Василя Стуса вулиця",
+        "sidewalk": "both",
+        "source": "Bing Aerial",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7435439,
+            48.9360859
+          ],
+          [
+            24.7439555,
+            48.9359245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133749653",
+      "properties": {
+        "@id": "way/133749653",
+        "highway": "residential",
+        "lanes": "4",
+        "name": "Василя Симоненка вулиця",
+        "name:en": "Vasylia Symonenka Street",
+        "name:ru": "Василия Симоненко улица",
+        "name:uk": "Василя Симоненка вулиця",
+        "source": "Bing Aerial",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7510114,
+            48.9383528
+          ],
+          [
+            24.7512025,
+            48.9382964
+          ],
+          [
+            24.7526923,
+            48.9375965
+          ],
+          [
+            24.7532707,
+            48.9373336
+          ],
+          [
+            24.7537109,
+            48.9371295
+          ],
+          [
+            24.7538922,
+            48.9370476
+          ],
+          [
+            24.7550488,
+            48.9364771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153191994",
+      "properties": {
+        "@id": "way/153191994",
+        "highway": "residential",
+        "name": "Тролейбусна вулиця",
+        "name:en": "Troleibusna Street",
+        "name:ru": "Троллейбусная улица",
+        "name:uk": "Тролейбусна вулиця",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7103869,
+            48.9494135
+          ],
+          [
+            24.7107521,
+            48.9494727
+          ],
+          [
+            24.710941,
+            48.9495071
+          ],
+          [
+            24.7111346,
+            48.9495344
+          ],
+          [
+            24.7114028,
+            48.9496331
+          ],
+          [
+            24.7115407,
+            48.9497634
+          ],
+          [
+            24.7115085,
+            48.9498762
+          ],
+          [
+            24.7114334,
+            48.9499537
+          ],
+          [
+            24.7113062,
+            48.9500065
+          ],
+          [
+            24.7111668,
+            48.9500135
+          ],
+          [
+            24.7110064,
+            48.9499783
+          ],
+          [
+            24.7108991,
+            48.9499149
+          ],
+          [
+            24.7106815,
+            48.9497032
+          ],
+          [
+            24.7104544,
+            48.9494798
+          ],
+          [
+            24.7103869,
+            48.9494135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239434586",
+      "properties": {
+        "@id": "way/239434586",
+        "highway": "residential",
+        "junction": "roundabout",
+        "maxspeed": "20",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7558077,
+            48.9364158
+          ],
+          [
+            24.7557643,
+            48.9363518
+          ],
+          [
+            24.7557512,
+            48.9362827
+          ],
+          [
+            24.7558091,
+            48.9362067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/342843926",
+      "properties": {
+        "@id": "way/342843926",
+        "highway": "primary",
+        "highway_1": "street_lamp",
+        "name": "Володимира Івасюка вулиця",
+        "name:en": "Volodymyra Ivasiuka Street",
+        "name:ru": "Владимира Ивасюка улица",
+        "name:uk": "Володимира Івасюка вулиця",
+        "oneway": "no",
+        "sidewalk": "both",
+        "source": "Bing Aerial",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7430219,
+            48.9320896
+          ],
+          [
+            24.7430144,
+            48.9323166
+          ],
+          [
+            24.7429951,
+            48.9330605
+          ],
+          [
+            24.7429714,
+            48.9337224
+          ],
+          [
+            24.7429443,
+            48.9344782
+          ],
+          [
+            24.7429153,
+            48.9352147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/342843930",
+      "properties": {
+        "@id": "way/342843930",
+        "highway": "primary",
+        "name": "Володимира Івасюка вулиця",
+        "name:en": "Volodymyra Ivasiuka Street",
+        "name:ru": "Владимира Ивасюка улица",
+        "name:uk": "Володимира Івасюка вулиця",
+        "oneway": "no",
+        "source": "Bing Aerial",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7433094,
+            48.9225489
+          ],
+          [
+            24.7432805,
+            48.9234618
+          ],
+          [
+            24.7432577,
+            48.924275
+          ],
+          [
+            24.743253,
+            48.9244416
+          ],
+          [
+            24.7432132,
+            48.9254352
+          ],
+          [
+            24.7431989,
+            48.9260501
+          ],
+          [
+            24.7431846,
+            48.9266674
+          ],
+          [
+            24.7431436,
+            48.9279399
+          ],
+          [
+            24.7431127,
+            48.9289994
+          ],
+          [
+            24.7430975,
+            48.9295216
+          ],
+          [
+            24.7430929,
+            48.929674
+          ],
+          [
+            24.7430616,
+            48.9307044
+          ],
+          [
+            24.7430346,
+            48.9319111
+          ],
+          [
+            24.7430219,
+            48.9320896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/344318801",
+      "properties": {
+        "@id": "way/344318801",
+        "highway": "service",
+        "maxspeed": "5",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7109858,
+            48.9488573
+          ],
+          [
+            24.7108606,
+            48.9491871
+          ],
+          [
+            24.7108158,
+            48.9493049
+          ],
+          [
+            24.7107521,
+            48.9494727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362548078",
+      "properties": {
+        "@id": "way/362548078",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "automatic",
+        "maxspeed": "60",
+        "name": "Івана Миколайчука вулиця",
+        "name:en": "Ivana Mykolaichuka Street",
+        "name:ru": "Ивана Миколайчука улица",
+        "name:uk": "Івана Миколайчука вулиця",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7466962,
+            48.9345503
+          ],
+          [
+            24.7469083,
+            48.9347362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362577954",
+      "properties": {
+        "@id": "way/362577954",
+        "highway": "residential",
+        "maxspeed": "20",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7554145,
+            48.9363294
+          ],
+          [
+            24.7558091,
+            48.9362067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363811063",
+      "properties": {
+        "@id": "way/363811063",
+        "highway": "primary",
+        "name": "Володимира Івасюка вулиця",
+        "name:en": "Volodymyra Ivasiuka Street",
+        "name:ru": "Владимира Ивасюка улица",
+        "name:uk": "Володимира Івасюка вулиця",
+        "oneway": "no",
+        "sidewalk": "both",
+        "source": "Bing Aerial",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7429153,
+            48.9352147
+          ],
+          [
+            24.7428761,
+            48.9352966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363811064",
+      "properties": {
+        "@id": "way/363811064",
+        "highway": "primary",
+        "name": "Володимира Івасюка вулиця",
+        "name:en": "Volodymyra Ivasiuka Street",
+        "name:ru": "Владимира Ивасюка улица",
+        "name:uk": "Володимира Івасюка вулиця",
+        "oneway": "no",
+        "sidewalk": "both",
+        "source": "Bing Aerial",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7426034,
+            48.9358395
+          ],
+          [
+            24.7423887,
+            48.9362352
+          ],
+          [
+            24.7422217,
+            48.9364376
+          ],
+          [
+            24.7419496,
+            48.9366939
+          ],
+          [
+            24.7416451,
+            48.9369519
+          ],
+          [
+            24.7413085,
+            48.9371808
+          ],
+          [
+            24.7407195,
+            48.9375177
+          ],
+          [
+            24.7405683,
+            48.937593
+          ],
+          [
+            24.7402904,
+            48.9377353
+          ],
+          [
+            24.7399743,
+            48.9378888
+          ],
+          [
+            24.7399311,
+            48.9379102
+          ],
+          [
+            24.738377,
+            48.9386814
+          ],
+          [
+            24.7381081,
+            48.9388148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363811065",
+      "properties": {
+        "@id": "way/363811065",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "automatic",
+        "maxspeed": "60",
+        "name": "Івана Миколайчука вулиця",
+        "name:en": "Ivana Mykolaichuka Street",
+        "name:ru": "Ивана Миколайчука улица",
+        "name:uk": "Івана Миколайчука вулиця",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7478206,
+            48.9355358
+          ],
+          [
+            24.7484049,
+            48.936048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363811066",
+      "properties": {
+        "@id": "way/363811066",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "automatic",
+        "maxspeed": "60",
+        "name": "Івана Миколайчука вулиця",
+        "name:en": "Ivana Mykolaichuka Street",
+        "name:ru": "Ивана Миколайчука улица",
+        "name:uk": "Івана Миколайчука вулиця",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7484049,
+            48.936048
+          ],
+          [
+            24.7485673,
+            48.9361863
+          ],
+          [
+            24.7489245,
+            48.9364977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363811067",
+      "properties": {
+        "@id": "way/363811067",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "automatic",
+        "maxspeed": "60",
+        "name": "Івана Миколайчука вулиця",
+        "name:en": "Ivana Mykolaichuka Street",
+        "name:ru": "Ивана Миколайчука улица",
+        "name:uk": "Івана Миколайчука вулиця",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7489245,
+            48.9364977
+          ],
+          [
+            24.7491171,
+            48.9366697
+          ],
+          [
+            24.7491486,
+            48.9366952
+          ],
+          [
+            24.7492565,
+            48.9367878
+          ],
+          [
+            24.7498385,
+            48.937293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363811068",
+      "properties": {
+        "@id": "way/363811068",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "automatic",
+        "maxspeed": "60",
+        "name": "Івана Миколайчука вулиця",
+        "name:en": "Ivana Mykolaichuka Street",
+        "name:ru": "Ивана Миколайчука улица",
+        "name:uk": "Івана Миколайчука вулиця",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7498385,
+            48.937293
+          ],
+          [
+            24.7504306,
+            48.9378299
+          ],
+          [
+            24.7508404,
+            48.9382015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363811069",
+      "properties": {
+        "@id": "way/363811069",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "automatic",
+        "maxspeed": "60",
+        "name": "Івана Миколайчука вулиця",
+        "name:en": "Ivana Mykolaichuka Street",
+        "name:ru": "Ивана Миколайчука улица",
+        "name:uk": "Івана Миколайчука вулиця",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7508404,
+            48.9382015
+          ],
+          [
+            24.7510114,
+            48.9383528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363811824",
+      "properties": {
+        "@id": "way/363811824",
+        "highway": "tertiary",
+        "name": "Василя Стуса вулиця",
+        "name:en": "Vasylia Stusa Street",
+        "name:ru": "Василия Стуса улица",
+        "name:uk": "Василя Стуса вулиця",
+        "sidewalk": "both",
+        "source": "Bing Aerial",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.745365,
+            48.9352102
+          ],
+          [
+            24.7466962,
+            48.9345503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/364097385",
+      "properties": {
+        "@id": "way/364097385",
+        "highway": "primary",
+        "name": "Володимира Івасюка вулиця",
+        "name:en": "Volodymyra Ivasiuka Street",
+        "name:ru": "Владимира Ивасюка улица",
+        "name:uk": "Володимира Івасюка вулиця",
+        "oneway": "no",
+        "sidewalk": "both",
+        "source": "Bing Aerial",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7428761,
+            48.9352966
+          ],
+          [
+            24.7426034,
+            48.9358395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368106805",
+      "properties": {
+        "@id": "way/368106805",
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lit": "automatic",
+        "maxspeed": "60",
+        "name": "Івана Миколайчука вулиця",
+        "name:en": "Ivana Mykolaichuka Street",
+        "name:ru": "Ивана Миколайчука улица",
+        "name:uk": "Івана Миколайчука вулиця",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7469083,
+            48.9347362
+          ],
+          [
+            24.7478206,
+            48.9355358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368115374",
+      "properties": {
+        "@id": "way/368115374",
+        "highway": "residential",
+        "maxspeed": "20",
+        "oneway": "no",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7554145,
+            48.9363294
+          ],
+          [
+            24.7550488,
+            48.9364771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368115377",
+      "properties": {
+        "@id": "way/368115377",
+        "highway": "residential",
+        "junction": "roundabout",
+        "maxspeed": "20",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7558091,
+            48.9362067
+          ],
+          [
+            24.7559897,
+            48.9361571
+          ],
+          [
+            24.7561193,
+            48.9361539
+          ],
+          [
+            24.7561931,
+            48.9361738
+          ],
+          [
+            24.7562563,
+            48.9362067
+          ],
+          [
+            24.7563402,
+            48.9362864
+          ],
+          [
+            24.7563852,
+            48.9363907
+          ],
+          [
+            24.7563917,
+            48.9364486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368115385",
+      "properties": {
+        "@id": "way/368115385",
+        "highway": "residential",
+        "junction": "roundabout",
+        "maxspeed": "20",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7563018,
+            48.9365482
+          ],
+          [
+            24.7561839,
+            48.9365791
+          ],
+          [
+            24.7560541,
+            48.9365685
+          ],
+          [
+            24.7559117,
+            48.9364918
+          ],
+          [
+            24.7558077,
+            48.9364158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368115389",
+      "properties": {
+        "@id": "way/368115389",
+        "highway": "residential",
+        "junction": "roundabout",
+        "maxspeed": "20",
+        "surface": "asphalt",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7563917,
+            48.9364486
+          ],
+          [
+            24.7563536,
+            48.9365108
+          ],
+          [
+            24.7563018,
+            48.9365482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368131205",
+      "properties": {
+        "@id": "way/368131205",
+        "highway": "tertiary",
+        "name": "Василя Стуса вулиця",
+        "name:en": "Vasylia Stusa Street",
+        "name:ru": "Василия Стуса улица",
+        "name:uk": "Василя Стуса вулиця",
+        "sidewalk": "both",
+        "source": "Bing Aerial",
+        "trolley_wire": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7439555,
+            48.9359245
+          ],
+          [
+            24.745365,
+            48.9352102
+          ]
+        ]
+      }
+    }
+  ]
+}
