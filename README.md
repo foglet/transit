@@ -2,6 +2,8 @@
 
 This repository contains transit routes from the world's cities; most are from OpenStreetMap (OSM). It is divided by system type: metro (i.e., subway or U-Bahn), tram and light rail (S-Bahn), cable car and funicular, trolley bus, monorail and maglev, and ferries. No systems are represented for North Korea (KP), outside of Pyongyang. No bus systems of any type.
 
+# naming convention
+
 Most files are labeled by two-letter country code, city/location, and the query parameter in overpass-turbo.eu. For example,
 
 	ch-lausanne-lr		(Switzerland, Lausanne, search: route=light_rail)
@@ -13,5 +15,3 @@ Most files are labeled by two-letter country code, city/location, and the query 
 	ua2-donezVuhlehirsk-trolleybus	(Ukraine/two cities, Donez/Vulehirsk, search: route=trolleybus)
 	ru-smolensk-trolleywire (Russia, Smolensk, search: trolley_wire=yes)
 	au-australiaEast-ferry	(Australia, the east side of, search: route=ferry)
-
-# test
