@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-27T21:24:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/312295876",
+      "properties": {
+        "@id": "way/312295876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2820589,
+            "reltags": {
+              "name": "Проспект Космонавтов - Ботаническая",
+              "name:en": "Prospekt Kosmonavtov - Botanicheskaya",
+              "name:ru": "Проспект Космонавтов - Ботаническая",
+              "operator": "ЕМУП «Екатеринбургский метрополитен»",
+              "ref": "Проспект Космонавтов - Ботаническая",
+              "route": "subway",
+              "type": "route",
+              "website": "http://www.metro-ektb.ru/node/12",
+              "wikipedia": "ru:Екатеринбургский метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6139826,
+            56.9017282
+          ],
+          [
+            60.6143987,
+            56.8986205
+          ],
+          [
+            60.6144709,
+            56.8967426
+          ],
+          [
+            60.6144466,
+            56.8952526
+          ],
+          [
+            60.6141606,
+            56.8932267
+          ],
+          [
+            60.6134649,
+            56.889205
+          ],
+          [
+            60.6134217,
+            56.8886825
+          ],
+          [
+            60.6132853,
+            56.8873096
+          ],
+          [
+            60.6139624,
+            56.8848916
+          ],
+          [
+            60.6126664,
+            56.8815763
+          ],
+          [
+            60.6121085,
+            56.8772851
+          ],
+          [
+            60.6121682,
+            56.8762781
+          ],
+          [
+            60.6118677,
+            56.8758555
+          ],
+          [
+            60.6077539,
+            56.8700705
+          ],
+          [
+            60.6075457,
+            56.8697777
+          ],
+          [
+            60.6003419,
+            56.8579086
+          ],
+          [
+            60.5997804,
+            56.8517168
+          ],
+          [
+            60.5994407,
+            56.8476306
+          ],
+          [
+            60.5977185,
+            56.8415265
+          ],
+          [
+            60.5977637,
+            56.8410217
+          ],
+          [
+            60.5992689,
+            56.8368333
+          ],
+          [
+            60.6025984,
+            56.8267858
+          ],
+          [
+            60.6033709,
+            56.8247991
+          ],
+          [
+            60.609927,
+            56.8080964
+          ],
+          [
+            60.6100623,
+            56.8076917
+          ],
+          [
+            60.6114291,
+            56.8050882
+          ],
+          [
+            60.6139396,
+            56.8023569
+          ],
+          [
+            60.6194971,
+            56.799706
+          ],
+          [
+            60.6297595,
+            56.7977493
+          ],
+          [
+            60.6325913,
+            56.7972432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297003665",
+      "properties": {
+        "@id": "node/297003665",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2820589,
+            "reltags": {
+              "name": "Проспект Космонавтов - Ботаническая",
+              "name:en": "Prospekt Kosmonavtov - Botanicheskaya",
+              "name:ru": "Проспект Космонавтов - Ботаническая",
+              "operator": "ЕМУП «Екатеринбургский метрополитен»",
+              "ref": "Проспект Космонавтов - Ботаническая",
+              "route": "subway",
+              "type": "route",
+              "website": "http://www.metro-ektb.ru/node/12",
+              "wikipedia": "ru:Екатеринбургский метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6025984,
+          56.8267858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297003728",
+      "properties": {
+        "@id": "node/297003728",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2820589,
+            "reltags": {
+              "name": "Проспект Космонавтов - Ботаническая",
+              "name:en": "Prospekt Kosmonavtov - Botanicheskaya",
+              "name:ru": "Проспект Космонавтов - Ботаническая",
+              "operator": "ЕМУП «Екатеринбургский метрополитен»",
+              "ref": "Проспект Космонавтов - Ботаническая",
+              "route": "subway",
+              "type": "route",
+              "website": "http://www.metro-ektb.ru/node/12",
+              "wikipedia": "ru:Екатеринбургский метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5992689,
+          56.8368333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297003658",
+      "properties": {
+        "@id": "node/297003658",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2820589,
+            "reltags": {
+              "name": "Проспект Космонавтов - Ботаническая",
+              "name:en": "Prospekt Kosmonavtov - Botanicheskaya",
+              "name:ru": "Проспект Космонавтов - Ботаническая",
+              "operator": "ЕМУП «Екатеринбургский метрополитен»",
+              "ref": "Проспект Космонавтов - Ботаническая",
+              "route": "subway",
+              "type": "route",
+              "website": "http://www.metro-ektb.ru/node/12",
+              "wikipedia": "ru:Екатеринбургский метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5994407,
+          56.8476306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1843452826",
+      "properties": {
+        "@id": "node/1843452826",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2820589,
+            "reltags": {
+              "name": "Проспект Космонавтов - Ботаническая",
+              "name:en": "Prospekt Kosmonavtov - Botanicheskaya",
+              "name:ru": "Проспект Космонавтов - Ботаническая",
+              "operator": "ЕМУП «Екатеринбургский метрополитен»",
+              "ref": "Проспект Космонавтов - Ботаническая",
+              "route": "subway",
+              "type": "route",
+              "website": "http://www.metro-ektb.ru/node/12",
+              "wikipedia": "ru:Екатеринбургский метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.609927,
+          56.8080964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3710668604",
+      "properties": {
+        "@id": "node/3710668604",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2820589,
+            "reltags": {
+              "name": "Проспект Космонавтов - Ботаническая",
+              "name:en": "Prospekt Kosmonavtov - Botanicheskaya",
+              "name:ru": "Проспект Космонавтов - Ботаническая",
+              "operator": "ЕМУП «Екатеринбургский метрополитен»",
+              "ref": "Проспект Космонавтов - Ботаническая",
+              "route": "subway",
+              "type": "route",
+              "website": "http://www.metro-ektb.ru/node/12",
+              "wikipedia": "ru:Екатеринбургский метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.622593,
+          56.7981771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1521302664",
+      "properties": {
+        "@id": "node/1521302664",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2820589,
+            "reltags": {
+              "name": "Проспект Космонавтов - Ботаническая",
+              "name:en": "Prospekt Kosmonavtov - Botanicheskaya",
+              "name:ru": "Проспект Космонавтов - Ботаническая",
+              "operator": "ЕМУП «Екатеринбургский метрополитен»",
+              "ref": "Проспект Космонавтов - Ботаническая",
+              "route": "subway",
+              "type": "route",
+              "website": "http://www.metro-ektb.ru/node/12",
+              "wikipedia": "ru:Екатеринбургский метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6325913,
+          56.7972432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297003656",
+      "properties": {
+        "@id": "node/297003656",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2820589,
+            "reltags": {
+              "name": "Проспект Космонавтов - Ботаническая",
+              "name:en": "Prospekt Kosmonavtov - Botanicheskaya",
+              "name:ru": "Проспект Космонавтов - Ботаническая",
+              "operator": "ЕМУП «Екатеринбургский метрополитен»",
+              "ref": "Проспект Космонавтов - Ботаническая",
+              "route": "subway",
+              "type": "route",
+              "website": "http://www.metro-ektb.ru/node/12",
+              "wikipedia": "ru:Екатеринбургский метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6003419,
+          56.8579086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297003727",
+      "properties": {
+        "@id": "node/297003727",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2820589,
+            "reltags": {
+              "name": "Проспект Космонавтов - Ботаническая",
+              "name:en": "Prospekt Kosmonavtov - Botanicheskaya",
+              "name:ru": "Проспект Космонавтов - Ботаническая",
+              "operator": "ЕМУП «Екатеринбургский метрополитен»",
+              "ref": "Проспект Космонавтов - Ботаническая",
+              "route": "subway",
+              "type": "route",
+              "website": "http://www.metro-ektb.ru/node/12",
+              "wikipedia": "ru:Екатеринбургский метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6121085,
+          56.8772851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297004189",
+      "properties": {
+        "@id": "node/297004189",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2820589,
+            "reltags": {
+              "name": "Проспект Космонавтов - Ботаническая",
+              "name:en": "Prospekt Kosmonavtov - Botanicheskaya",
+              "name:ru": "Проспект Космонавтов - Ботаническая",
+              "operator": "ЕМУП «Екатеринбургский метрополитен»",
+              "ref": "Проспект Космонавтов - Ботаническая",
+              "route": "subway",
+              "type": "route",
+              "website": "http://www.metro-ektb.ru/node/12",
+              "wikipedia": "ru:Екатеринбургский метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6134217,
+          56.8886825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297004188",
+      "properties": {
+        "@id": "node/297004188",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2820589,
+            "reltags": {
+              "name": "Проспект Космонавтов - Ботаническая",
+              "name:en": "Prospekt Kosmonavtov - Botanicheskaya",
+              "name:ru": "Проспект Космонавтов - Ботаническая",
+              "operator": "ЕМУП «Екатеринбургский метрополитен»",
+              "ref": "Проспект Космонавтов - Ботаническая",
+              "route": "subway",
+              "type": "route",
+              "website": "http://www.metro-ektb.ru/node/12",
+              "wikipedia": "ru:Екатеринбургский метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6139826,
+          56.9017282
+        ]
+      }
+    }
+  ]
+}
