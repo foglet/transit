@@ -4,18 +4,18 @@ This repository contains transit routes from the world's cities. It is divided b
 
 #### Data Source
 
-Most files were queried are from OpenStreetMap (OSM) via overpass-turbo.eu.
+Most files are from OpenStreetMap (OSM) queried via overpass-turbo.eu. Search parameters:
+
+	route=subway (metro) or railway=subway
+	route=light_rail or (lr) railway=light_rail (raillight)
+	route=tram (tram) or railway=tram (railtram)
+	route=monorail (monorail) or railway=monorail (railmono)
+	route=ferry (ferry)
+	trolley_wire=yes (trolleyes)
 
 #### Naming Convention
 
-Most files are labeled by two-letter country code, city/location, and the query parameter in overpass-turbo.eu. For example,
+Most files are labeled by two-letter country code, city/location, and the query parameter tag from above. For example,
 
-	ch-lausanne-lr		(Switzerland, Lausanne, search: route=light_rail)
-	fi-helsinki-tram	(Finland, Helsinki, search: route=tram)
-	kz-oskemen-railtram	(Kazakhstan, Oskemen, search: railway=tram)
-	mx-mxc-raillight	(Mexico, Mexico City, search: railway=light_rail)
-	ir-listowel-monorail	(Ireland, Listowel, search: route=monorail)
-	uk-LHR-monorai	 	(Ukraine, LHR (IATA airport code), search: route=monorail)
-	ua2-donezVuhlehirsk-trolleybus	(Ukraine/two cities, Donez/Vulehirsk, search: route=trolleybus)
-	ru-smolensk-trolleywire (Russia, Smolensk, search: trolley_wire=yes)
-	au-australiaEast-ferry	(Australia, the east side of, search: route=ferry)
+	ch-lausanne-lr.geojson		(Switzerland, Lausanne, lightrail)
+	fi-helsinki-tram.geojson	(Finland, Helsinki, tram)
