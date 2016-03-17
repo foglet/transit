@@ -1,0 +1,360 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-27T21:51:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/79430383",
+      "properties": {
+        "@id": "way/79430383",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1202305,
+            "reltags": {
+              "name": "Дніпропетровський метрополітен",
+              "name:ru": "Днепропетровский метрополитен",
+              "public_transport:version": "1",
+              "route": "subway",
+              "type": "route",
+              "wikipedia": "uk:Дніпропетровський_метрополітен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.0646075,
+            48.4547445
+          ],
+          [
+            35.0471104,
+            48.4639239
+          ],
+          [
+            35.0350649,
+            48.4702609
+          ],
+          [
+            35.0160051,
+            48.475375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/79859581",
+      "properties": {
+        "@id": "way/79859581",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1202305,
+            "reltags": {
+              "name": "Дніпропетровський метрополітен",
+              "name:ru": "Днепропетровский метрополитен",
+              "public_transport:version": "1",
+              "route": "subway",
+              "type": "route",
+              "wikipedia": "uk:Дніпропетровський_метрополітен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.0160051,
+            48.475375
+          ],
+          [
+            34.9954563,
+            48.4753798
+          ],
+          [
+            34.9799108,
+            48.4770399
+          ],
+          [
+            34.9597032,
+            48.4756171
+          ],
+          [
+            34.9513627,
+            48.4780485
+          ],
+          [
+            34.9429764,
+            48.4803142
+          ],
+          [
+            34.9357426,
+            48.4798757
+          ],
+          [
+            34.9266914,
+            48.4793254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/932168777",
+      "properties": {
+        "@id": "node/932168777",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1202305,
+            "reltags": {
+              "name": "Дніпропетровський метрополітен",
+              "name:ru": "Днепропетровский метрополитен",
+              "public_transport:version": "1",
+              "route": "subway",
+              "type": "route",
+              "wikipedia": "uk:Дніпропетровський_метрополітен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0646075,
+          48.4547445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/927301279",
+      "properties": {
+        "@id": "node/927301279",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1202305,
+            "reltags": {
+              "name": "Дніпропетровський метрополітен",
+              "name:ru": "Днепропетровский метрополитен",
+              "public_transport:version": "1",
+              "route": "subway",
+              "type": "route",
+              "wikipedia": "uk:Дніпропетровський_метрополітен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9266914,
+          48.4793254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/927301378",
+      "properties": {
+        "@id": "node/927301378",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1202305,
+            "reltags": {
+              "name": "Дніпропетровський метрополітен",
+              "name:ru": "Днепропетровский метрополитен",
+              "public_transport:version": "1",
+              "route": "subway",
+              "type": "route",
+              "wikipedia": "uk:Дніпропетровський_метрополітен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9429764,
+          48.4803142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/927301101",
+      "properties": {
+        "@id": "node/927301101",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1202305,
+            "reltags": {
+              "name": "Дніпропетровський метрополітен",
+              "name:ru": "Днепропетровский метрополитен",
+              "public_transport:version": "1",
+              "route": "subway",
+              "type": "route",
+              "wikipedia": "uk:Дніпропетровський_метрополітен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9597032,
+          48.4756171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/927301134",
+      "properties": {
+        "@id": "node/927301134",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1202305,
+            "reltags": {
+              "name": "Дніпропетровський метрополітен",
+              "name:ru": "Днепропетровский метрополитен",
+              "public_transport:version": "1",
+              "route": "subway",
+              "type": "route",
+              "wikipedia": "uk:Дніпропетровський_метрополітен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9799108,
+          48.4770399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/927301172",
+      "properties": {
+        "@id": "node/927301172",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1202305,
+            "reltags": {
+              "name": "Дніпропетровський метрополітен",
+              "name:ru": "Днепропетровский метрополитен",
+              "public_transport:version": "1",
+              "route": "subway",
+              "type": "route",
+              "wikipedia": "uk:Дніпропетровський_метрополітен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9954563,
+          48.4753798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/927301152",
+      "properties": {
+        "@id": "node/927301152",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1202305,
+            "reltags": {
+              "name": "Дніпропетровський метрополітен",
+              "name:ru": "Днепропетровский метрополитен",
+              "public_transport:version": "1",
+              "route": "subway",
+              "type": "route",
+              "wikipedia": "uk:Дніпропетровський_метрополітен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0160051,
+          48.475375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/932168794",
+      "properties": {
+        "@id": "node/932168794",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1202305,
+            "reltags": {
+              "name": "Дніпропетровський метрополітен",
+              "name:ru": "Днепропетровский метрополитен",
+              "public_transport:version": "1",
+              "route": "subway",
+              "type": "route",
+              "wikipedia": "uk:Дніпропетровський_метрополітен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0350649,
+          48.4702609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/932168758",
+      "properties": {
+        "@id": "node/932168758",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1202305,
+            "reltags": {
+              "name": "Дніпропетровський метрополітен",
+              "name:ru": "Днепропетровский метрополитен",
+              "public_transport:version": "1",
+              "route": "subway",
+              "type": "route",
+              "wikipedia": "uk:Дніпропетровський_метрополітен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0471104,
+          48.4639239
+        ]
+      }
+    }
+  ]
+}

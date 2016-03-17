@@ -1,0 +1,854 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-27T21:33:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/39900031",
+      "properties": {
+        "@id": "way/39900031",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2551723,
+            55.8575955
+          ],
+          [
+            -4.2549652,
+            55.8581628
+          ],
+          [
+            -4.2534334,
+            55.8623575
+          ],
+          [
+            -4.2529429,
+            55.8636741
+          ],
+          [
+            -4.2528203,
+            55.8642175
+          ],
+          [
+            -4.253631,
+            55.8653217
+          ],
+          [
+            -4.253812,
+            55.8655122
+          ],
+          [
+            -4.2541418,
+            55.8657871
+          ],
+          [
+            -4.2544474,
+            55.8659921
+          ],
+          [
+            -4.254719,
+            55.8661509
+          ],
+          [
+            -4.2550067,
+            55.8662897
+          ],
+          [
+            -4.2552579,
+            55.8664003
+          ],
+          [
+            -4.2557869,
+            55.866578
+          ],
+          [
+            -4.2560719,
+            55.8666429
+          ],
+          [
+            -4.2562239,
+            55.8666758
+          ],
+          [
+            -4.2563575,
+            55.8666981
+          ],
+          [
+            -4.2570744,
+            55.8667895
+          ],
+          [
+            -4.2572808,
+            55.8668258
+          ],
+          [
+            -4.2577076,
+            55.8669227
+          ],
+          [
+            -4.2581519,
+            55.8670715
+          ],
+          [
+            -4.2587479,
+            55.8673763
+          ],
+          [
+            -4.2595033,
+            55.86779
+          ],
+          [
+            -4.2598383,
+            55.8680591
+          ],
+          [
+            -4.2603471,
+            55.868308
+          ],
+          [
+            -4.2692549,
+            55.8712272
+          ],
+          [
+            -4.2765365,
+            55.8736487
+          ],
+          [
+            -4.2777552,
+            55.874043
+          ],
+          [
+            -4.2780889,
+            55.8741617
+          ],
+          [
+            -4.2788111,
+            55.8742468
+          ],
+          [
+            -4.2797888,
+            55.8743255
+          ],
+          [
+            -4.2805914,
+            55.8742197
+          ],
+          [
+            -4.2811936,
+            55.8742393
+          ],
+          [
+            -4.2818056,
+            55.8743011
+          ],
+          [
+            -4.2869376,
+            55.8754975
+          ],
+          [
+            -4.2890125,
+            55.8758068
+          ],
+          [
+            -4.2901514,
+            55.875839
+          ],
+          [
+            -4.291337,
+            55.8757785
+          ],
+          [
+            -4.2922874,
+            55.8756573
+          ],
+          [
+            -4.2933447,
+            55.8752964
+          ],
+          [
+            -4.2937132,
+            55.8751528
+          ],
+          [
+            -4.2948919,
+            55.8741408
+          ],
+          [
+            -4.2975685,
+            55.8718839
+          ],
+          [
+            -4.2984306,
+            55.8714212
+          ],
+          [
+            -4.2993223,
+            55.8710962
+          ],
+          [
+            -4.2999795,
+            55.8709685
+          ],
+          [
+            -4.3005411,
+            55.8708637
+          ],
+          [
+            -4.3043502,
+            55.870839
+          ],
+          [
+            -4.3065303,
+            55.8705886
+          ],
+          [
+            -4.3075228,
+            55.870285
+          ],
+          [
+            -4.3079807,
+            55.8700568
+          ],
+          [
+            -4.3085431,
+            55.8696992
+          ],
+          [
+            -4.3090636,
+            55.8693409
+          ],
+          [
+            -4.3100412,
+            55.8682067
+          ],
+          [
+            -4.3117067,
+            55.8662063
+          ],
+          [
+            -4.3119612,
+            55.8656275
+          ],
+          [
+            -4.3120574,
+            55.8652511
+          ],
+          [
+            -4.3119975,
+            55.8644774
+          ],
+          [
+            -4.3116699,
+            55.8637245
+          ],
+          [
+            -4.3105841,
+            55.8622444
+          ],
+          [
+            -4.3096886,
+            55.8607332
+          ],
+          [
+            -4.3091695,
+            55.8600315
+          ],
+          [
+            -4.3090095,
+            55.8598152
+          ],
+          [
+            -4.3083735,
+            55.8588638
+          ],
+          [
+            -4.3078571,
+            55.8580914
+          ],
+          [
+            -4.3066434,
+            55.8560769
+          ],
+          [
+            -4.3059201,
+            55.8553746
+          ],
+          [
+            -4.3053807,
+            55.8549953
+          ],
+          [
+            -4.3051109,
+            55.8548229
+          ],
+          [
+            -4.3046328,
+            55.8546643
+          ],
+          [
+            -4.3025364,
+            55.8541126
+          ],
+          [
+            -4.2990179,
+            55.8534299
+          ],
+          [
+            -4.2967008,
+            55.8529058
+          ],
+          [
+            -4.2944327,
+            55.8522161
+          ],
+          [
+            -4.2895778,
+            55.8506438
+          ],
+          [
+            -4.2876776,
+            55.8504161
+          ],
+          [
+            -4.2784923,
+            55.8498911
+          ],
+          [
+            -4.275383,
+            55.8499055
+          ],
+          [
+            -4.268776,
+            55.8498581
+          ],
+          [
+            -4.2659239,
+            55.8495646
+          ],
+          [
+            -4.265122,
+            55.8496307
+          ],
+          [
+            -4.2648283,
+            55.849673
+          ],
+          [
+            -4.2644318,
+            55.8497462
+          ],
+          [
+            -4.2641896,
+            55.8498133
+          ],
+          [
+            -4.2625249,
+            55.8503674
+          ],
+          [
+            -4.2606969,
+            55.8509155
+          ],
+          [
+            -4.2597527,
+            55.8512343
+          ],
+          [
+            -4.2583218,
+            55.8520204
+          ],
+          [
+            -4.2581041,
+            55.8521516
+          ],
+          [
+            -4.2578041,
+            55.8525493
+          ],
+          [
+            -4.2573927,
+            55.8535
+          ],
+          [
+            -4.2561005,
+            55.8557785
+          ],
+          [
+            -4.2551723,
+            55.8575955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29580729",
+      "properties": {
+        "@id": "node/29580729",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3046328,
+          55.8546643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29580730",
+      "properties": {
+        "@id": "node/29580730",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3105841,
+          55.8622444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26766905",
+      "properties": {
+        "@id": "node/26766905",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2999795,
+          55.8709685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29750749",
+      "properties": {
+        "@id": "node/29750749",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2944327,
+          55.8522161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29776247",
+      "properties": {
+        "@id": "node/29776247",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2876776,
+          55.8504161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/30004634",
+      "properties": {
+        "@id": "node/30004634",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.275383,
+          55.8499055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/30004633",
+      "properties": {
+        "@id": "node/30004633",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2659239,
+          55.8495646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29751011",
+      "properties": {
+        "@id": "node/29751011",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2583218,
+          55.8520204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26997597",
+      "properties": {
+        "@id": "node/26997597",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2933447,
+          55.8752964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26997547",
+      "properties": {
+        "@id": "node/26997547",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2797888,
+          55.8743255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29751009",
+      "properties": {
+        "@id": "node/29751009",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2551723,
+          55.8575955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29751010",
+      "properties": {
+        "@id": "node/29751010",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2534334,
+          55.8623575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29751012",
+      "properties": {
+        "@id": "node/29751012",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2692549,
+          55.8712272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/30238672",
+      "properties": {
+        "@id": "node/30238672",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 225658,
+            "reltags": {
+              "color": "#FF6600",
+              "colour": "#FF6600",
+              "name": "Glasgow Subway",
+              "network": "SPT",
+              "operator": "Strathclyde Partnership for Transport",
+              "ref": "Subway",
+              "route": "subway",
+              "type": "route",
+              "wheelchair": "no",
+              "wikipedia": "en:Glasgow Subway"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2598383,
+          55.8680591
+        ]
+      }
+    }
+  ]
+}
