@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-24T20:38:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/224833346",
+      "properties": {
+        "@id": "way/224833346",
+        "bridge": "viaduct",
+        "disused": "yes",
+        "layer": "1",
+        "railway": "monorail",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.3745516,
+            36.3773061
+          ],
+          [
+            127.375549,
+            36.3771443
+          ],
+          [
+            127.3759871,
+            36.3770364
+          ],
+          [
+            127.3765283,
+            36.3768704
+          ],
+          [
+            127.3771314,
+            36.3766463
+          ],
+          [
+            127.3786132,
+            36.3760549
+          ],
+          [
+            127.3789431,
+            36.3759429
+          ],
+          [
+            127.3792395,
+            36.3758495
+          ],
+          [
+            127.3797575,
+            36.3757022
+          ],
+          [
+            127.3816774,
+            36.3753183
+          ],
+          [
+            127.3830459,
+            36.3750444
+          ],
+          [
+            127.385288,
+            36.3746024
+          ]
+        ]
+      }
+    }
+  ]
+}
