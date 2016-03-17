@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-24T20:51:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/175691801",
+      "properties": {
+        "@id": "way/175691801",
+        "cutting": "yes",
+        "designation": "Kranbahn1 NO",
+        "layer": "-3",
+        "railway": "monorail",
+        "source": "BBG"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.7512535,
+            52.1392655
+          ],
+          [
+            11.7463531,
+            52.1429767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175691982",
+      "properties": {
+        "@id": "way/175691982",
+        "cutting": "yes",
+        "designation": "Kranbahn1 SW",
+        "layer": "-3",
+        "railway": "monorail",
+        "source": "BBG"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.7459535,
+            52.1428022
+          ],
+          [
+            11.7508512,
+            52.139091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175692757",
+      "properties": {
+        "@id": "way/175692757",
+        "cutting": "yes",
+        "layer": "-3",
+        "railway": "monorail",
+        "source": "Tyssen"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.7509652,
+            52.1419833
+          ],
+          [
+            11.7553224,
+            52.1386877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175707219",
+      "properties": {
+        "@id": "way/175707219",
+        "cutting": "yes",
+        "designation": "Kranbahn Tyssen",
+        "layer": "-3",
+        "railway": "monorail",
+        "source": "Tyssen"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.7514817,
+            52.1422446
+          ],
+          [
+            11.7527048,
+            52.141313
+          ],
+          [
+            11.7540646,
+            52.1402841
+          ],
+          [
+            11.7543153,
+            52.1400911
+          ],
+          [
+            11.7558404,
+            52.1389401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188076897",
+      "properties": {
+        "@id": "way/188076897",
+        "bridge": "yes",
+        "layer": "1",
+        "railway": "monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3060764,
+            51.9523955
+          ],
+          [
+            11.3058675,
+            51.9524217
+          ]
+        ]
+      }
+    }
+  ]
+}

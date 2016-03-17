@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-24T20:47:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/22926511",
+      "properties": {
+        "@id": "way/22926511",
+        "aerialway": "cable_car",
+        "colour": "#008000",
+        "layer": "1",
+        "name": "Schwebebahn",
+        "operator": "Dresdner Verkehrsbetriebe",
+        "railway": "monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8165544,
+            51.0535789
+          ],
+          [
+            13.8168472,
+            51.053719
+          ],
+          [
+            13.8171289,
+            51.0538142
+          ],
+          [
+            13.8174382,
+            51.053871
+          ],
+          [
+            13.8187487,
+            51.0541531
+          ],
+          [
+            13.8193413,
+            51.0542861
+          ],
+          [
+            13.8199004,
+            51.054398
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266579277",
+      "properties": {
+        "@id": "way/266579277",
+        "bridge": "yes",
+        "electrified": "no",
+        "layer": "1",
+        "railway": "monorail",
+        "service": "spur"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.9289333,
+            50.9608778
+          ],
+          [
+            13.928986,
+            50.9607182
+          ]
+        ]
+      }
+    }
+  ]
+}
