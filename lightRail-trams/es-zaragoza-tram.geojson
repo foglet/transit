@@ -1,0 +1,7518 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T10:06:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/101854526",
+      "properties": {
+        "@id": "way/101854526",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9377527,
+            41.6249535
+          ],
+          [
+            -0.9377589,
+            41.6248542
+          ],
+          [
+            -0.9377366,
+            41.624764
+          ],
+          [
+            -0.9376825,
+            41.624682
+          ],
+          [
+            -0.9376132,
+            41.6246288
+          ],
+          [
+            -0.9374014,
+            41.6245289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700640",
+      "properties": {
+        "@id": "way/107700640",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9253337,
+            41.6220205
+          ],
+          [
+            -0.9255764,
+            41.6221083
+          ],
+          [
+            -0.9266626,
+            41.622482
+          ],
+          [
+            -0.9295021,
+            41.623441
+          ],
+          [
+            -0.9299797,
+            41.6235603
+          ],
+          [
+            -0.9329886,
+            41.6242504
+          ],
+          [
+            -0.9346147,
+            41.6246198
+          ],
+          [
+            -0.9360676,
+            41.6249586
+          ],
+          [
+            -0.9363947,
+            41.6250322
+          ],
+          [
+            -0.9371305,
+            41.6251986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367991695",
+      "properties": {
+        "@id": "way/367991695",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9374014,
+            41.6245289
+          ],
+          [
+            -0.9366557,
+            41.6243593
+          ],
+          [
+            -0.9363309,
+            41.6242879
+          ],
+          [
+            -0.9351039,
+            41.6240106
+          ],
+          [
+            -0.933254,
+            41.6235924
+          ],
+          [
+            -0.9303443,
+            41.6229235
+          ],
+          [
+            -0.9298818,
+            41.6228191
+          ],
+          [
+            -0.9270445,
+            41.6218624
+          ],
+          [
+            -0.9260358,
+            41.621524
+          ],
+          [
+            -0.925773,
+            41.6214407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367996763",
+      "properties": {
+        "@id": "way/367996763",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9371305,
+            41.6251986
+          ],
+          [
+            -0.9373108,
+            41.6252001
+          ],
+          [
+            -0.9374604,
+            41.6251887
+          ],
+          [
+            -0.9375408,
+            41.6251657
+          ],
+          [
+            -0.9376079,
+            41.6251327
+          ],
+          [
+            -0.9376977,
+            41.6250608
+          ],
+          [
+            -0.9377527,
+            41.6249535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/79212927",
+      "properties": {
+        "@id": "way/79212927",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9183106,
+            41.6230797
+          ],
+          [
+            -0.9187573,
+            41.6226553
+          ],
+          [
+            -0.9189199,
+            41.6225037
+          ],
+          [
+            -0.9193682,
+            41.6220828
+          ],
+          [
+            -0.9195565,
+            41.6218986
+          ],
+          [
+            -0.9202016,
+            41.6212993
+          ],
+          [
+            -0.9208153,
+            41.6207247
+          ],
+          [
+            -0.9212423,
+            41.6203129
+          ],
+          [
+            -0.9213254,
+            41.6202728
+          ],
+          [
+            -0.921373,
+            41.6202561
+          ],
+          [
+            -0.9214649,
+            41.6202307
+          ],
+          [
+            -0.9215293,
+            41.6202247
+          ],
+          [
+            -0.9215945,
+            41.6202284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/79213651",
+      "properties": {
+        "@id": "way/79213651",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9220686,
+            41.6195926
+          ],
+          [
+            -0.9219587,
+            41.6195773
+          ],
+          [
+            -0.9218505,
+            41.6195792
+          ],
+          [
+            -0.9217051,
+            41.6196162
+          ],
+          [
+            -0.9215742,
+            41.6196882
+          ],
+          [
+            -0.9212305,
+            41.6200114
+          ],
+          [
+            -0.9206322,
+            41.6206119
+          ],
+          [
+            -0.9199919,
+            41.6211829
+          ],
+          [
+            -0.9193552,
+            41.621781
+          ],
+          [
+            -0.9188409,
+            41.6222416
+          ],
+          [
+            -0.9187135,
+            41.6223709
+          ],
+          [
+            -0.9185485,
+            41.6225297
+          ],
+          [
+            -0.918102,
+            41.6229519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/60981684",
+      "properties": {
+        "@id": "way/60981684",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.918102,
+            41.6229519
+          ],
+          [
+            -0.9178638,
+            41.6231861
+          ],
+          [
+            -0.9178257,
+            41.6232166
+          ],
+          [
+            -0.9177809,
+            41.6232488
+          ],
+          [
+            -0.9177102,
+            41.6232942
+          ],
+          [
+            -0.9176644,
+            41.623319
+          ],
+          [
+            -0.9176186,
+            41.6233388
+          ],
+          [
+            -0.9175595,
+            41.623357
+          ],
+          [
+            -0.9175038,
+            41.6233699
+          ],
+          [
+            -0.9174395,
+            41.6233779
+          ],
+          [
+            -0.9173557,
+            41.6233852
+          ],
+          [
+            -0.9172354,
+            41.6233775
+          ],
+          [
+            -0.9171718,
+            41.6233681
+          ],
+          [
+            -0.9170992,
+            41.6233501
+          ],
+          [
+            -0.9170144,
+            41.623324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700644",
+      "properties": {
+        "@id": "way/107700644",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.925773,
+            41.6214407
+          ],
+          [
+            -0.9253522,
+            41.6213258
+          ],
+          [
+            -0.924985,
+            41.6212192
+          ],
+          [
+            -0.9247002,
+            41.6211036
+          ],
+          [
+            -0.9244337,
+            41.6209683
+          ],
+          [
+            -0.9240574,
+            41.6207568
+          ],
+          [
+            -0.9232684,
+            41.6202846
+          ],
+          [
+            -0.9222936,
+            41.6196784
+          ],
+          [
+            -0.9222214,
+            41.619643
+          ],
+          [
+            -0.9221381,
+            41.6196085
+          ],
+          [
+            -0.9220686,
+            41.6195926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700646",
+      "properties": {
+        "@id": "way/107700646",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9215945,
+            41.6202284
+          ],
+          [
+            -0.921666,
+            41.6202387
+          ],
+          [
+            -0.9217894,
+            41.6202828
+          ],
+          [
+            -0.9227202,
+            41.6208335
+          ],
+          [
+            -0.923472,
+            41.6212908
+          ],
+          [
+            -0.9238687,
+            41.6215261
+          ],
+          [
+            -0.9242068,
+            41.6216816
+          ],
+          [
+            -0.924457,
+            41.6217664
+          ],
+          [
+            -0.9249118,
+            41.6218907
+          ],
+          [
+            -0.9253337,
+            41.6220205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700656",
+      "properties": {
+        "@id": "way/107700656",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.917222,
+            41.6234309
+          ],
+          [
+            -0.9172899,
+            41.623444
+          ],
+          [
+            -0.9173737,
+            41.6234543
+          ],
+          [
+            -0.9174671,
+            41.6234569
+          ],
+          [
+            -0.9175409,
+            41.6234533
+          ],
+          [
+            -0.9176213,
+            41.6234461
+          ],
+          [
+            -0.9177021,
+            41.6234314
+          ],
+          [
+            -0.9177787,
+            41.6234119
+          ],
+          [
+            -0.9178538,
+            41.6233863
+          ],
+          [
+            -0.9179096,
+            41.6233632
+          ],
+          [
+            -0.9179615,
+            41.6233384
+          ],
+          [
+            -0.918019,
+            41.6233058
+          ],
+          [
+            -0.9180698,
+            41.6232762
+          ],
+          [
+            -0.9181153,
+            41.6232449
+          ],
+          [
+            -0.9181608,
+            41.6232095
+          ],
+          [
+            -0.9183106,
+            41.6230797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700651",
+      "properties": {
+        "@id": "way/107700651",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9128429,
+            41.6229075
+          ],
+          [
+            -0.9131163,
+            41.6227942
+          ],
+          [
+            -0.9132357,
+            41.6227448
+          ],
+          [
+            -0.9134728,
+            41.6226691
+          ],
+          [
+            -0.9135371,
+            41.6226411
+          ],
+          [
+            -0.91368,
+            41.6225944
+          ],
+          [
+            -0.9137254,
+            41.6225761
+          ],
+          [
+            -0.913915,
+            41.6224994
+          ],
+          [
+            -0.9141065,
+            41.6224077
+          ],
+          [
+            -0.9141749,
+            41.6223813
+          ],
+          [
+            -0.914271,
+            41.6223474
+          ],
+          [
+            -0.9143936,
+            41.6223177
+          ],
+          [
+            -0.9144968,
+            41.6223001
+          ],
+          [
+            -0.9146175,
+            41.6222892
+          ],
+          [
+            -0.9147548,
+            41.6222896
+          ],
+          [
+            -0.9148951,
+            41.6223012
+          ],
+          [
+            -0.9149942,
+            41.6223166
+          ],
+          [
+            -0.9151303,
+            41.6223491
+          ],
+          [
+            -0.9152496,
+            41.6223871
+          ],
+          [
+            -0.9153557,
+            41.6224284
+          ],
+          [
+            -0.9154716,
+            41.622482
+          ],
+          [
+            -0.915772,
+            41.6226433
+          ],
+          [
+            -0.9168261,
+            41.6232716
+          ],
+          [
+            -0.9169089,
+            41.6233165
+          ],
+          [
+            -0.916996,
+            41.6233577
+          ],
+          [
+            -0.9170366,
+            41.6233735
+          ],
+          [
+            -0.917115,
+            41.6234012
+          ],
+          [
+            -0.917222,
+            41.6234309
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700655",
+      "properties": {
+        "@id": "way/107700655",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9170144,
+            41.623324
+          ],
+          [
+            -0.91697,
+            41.6233068
+          ],
+          [
+            -0.9169385,
+            41.6232923
+          ],
+          [
+            -0.9169137,
+            41.6232802
+          ],
+          [
+            -0.9155269,
+            41.6224729
+          ],
+          [
+            -0.9153976,
+            41.6224044
+          ],
+          [
+            -0.9153049,
+            41.6223648
+          ],
+          [
+            -0.9152121,
+            41.6223334
+          ],
+          [
+            -0.9151027,
+            41.6223029
+          ],
+          [
+            -0.9149757,
+            41.6222779
+          ],
+          [
+            -0.9148774,
+            41.6222649
+          ],
+          [
+            -0.9147548,
+            41.6222583
+          ],
+          [
+            -0.9146421,
+            41.6222591
+          ],
+          [
+            -0.9145339,
+            41.6222698
+          ],
+          [
+            -0.9143661,
+            41.6222945
+          ],
+          [
+            -0.9142423,
+            41.6223309
+          ],
+          [
+            -0.9141617,
+            41.6223565
+          ],
+          [
+            -0.9140855,
+            41.6223871
+          ],
+          [
+            -0.9138775,
+            41.6224814
+          ],
+          [
+            -0.9137336,
+            41.6225344
+          ],
+          [
+            -0.9135887,
+            41.62259
+          ],
+          [
+            -0.9135387,
+            41.6226132
+          ],
+          [
+            -0.913229,
+            41.6227095
+          ],
+          [
+            -0.9130946,
+            41.6227592
+          ],
+          [
+            -0.9128124,
+            41.6228713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/60981682",
+      "properties": {
+        "@id": "way/60981682",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9049415,
+            41.6324218
+          ],
+          [
+            -0.905024,
+            41.6323176
+          ],
+          [
+            -0.9051911,
+            41.6321037
+          ],
+          [
+            -0.9053056,
+            41.6319124
+          ],
+          [
+            -0.9053312,
+            41.6318641
+          ],
+          [
+            -0.9054755,
+            41.6316478
+          ],
+          [
+            -0.9059019,
+            41.6310086
+          ],
+          [
+            -0.9061721,
+            41.6306193
+          ],
+          [
+            -0.9068059,
+            41.6297468
+          ],
+          [
+            -0.9070699,
+            41.629428
+          ],
+          [
+            -0.9071013,
+            41.6293881
+          ],
+          [
+            -0.9081621,
+            41.6281044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96003878",
+      "properties": {
+        "@id": "way/96003878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9128124,
+            41.6228713
+          ],
+          [
+            -0.9125404,
+            41.6229838
+          ],
+          [
+            -0.9124848,
+            41.6230178
+          ],
+          [
+            -0.912409,
+            41.623062
+          ],
+          [
+            -0.9122455,
+            41.6231727
+          ],
+          [
+            -0.9105449,
+            41.625178
+          ],
+          [
+            -0.9098837,
+            41.6259097
+          ],
+          [
+            -0.9096299,
+            41.6262201
+          ],
+          [
+            -0.9094469,
+            41.6264439
+          ],
+          [
+            -0.9089017,
+            41.627165
+          ],
+          [
+            -0.9083192,
+            41.6278533
+          ],
+          [
+            -0.9082447,
+            41.6279288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700639",
+      "properties": {
+        "@id": "way/107700639",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9081208,
+            41.628084
+          ],
+          [
+            -0.9070637,
+            41.6293622
+          ],
+          [
+            -0.9069824,
+            41.6294491
+          ],
+          [
+            -0.9067586,
+            41.6297332
+          ],
+          [
+            -0.9058804,
+            41.6309663
+          ],
+          [
+            -0.9054359,
+            41.6316367
+          ],
+          [
+            -0.9052883,
+            41.6318429
+          ],
+          [
+            -0.9052545,
+            41.6318902
+          ],
+          [
+            -0.90512,
+            41.6320956
+          ],
+          [
+            -0.9049904,
+            41.6322805
+          ],
+          [
+            -0.9048868,
+            41.632417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700642",
+      "properties": {
+        "@id": "way/107700642",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9082872,
+            41.6279427
+          ],
+          [
+            -0.908352,
+            41.6278684
+          ],
+          [
+            -0.9089268,
+            41.6271889
+          ],
+          [
+            -0.9096785,
+            41.6262388
+          ],
+          [
+            -0.9106896,
+            41.6250696
+          ],
+          [
+            -0.9122855,
+            41.6231957
+          ],
+          [
+            -0.9123932,
+            41.6231303
+          ],
+          [
+            -0.9124355,
+            41.6231015
+          ],
+          [
+            -0.9125467,
+            41.6230368
+          ],
+          [
+            -0.9128429,
+            41.6229075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700649",
+      "properties": {
+        "@id": "way/107700649",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9082447,
+            41.6279288
+          ],
+          [
+            -0.9081208,
+            41.628084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700653",
+      "properties": {
+        "@id": "way/107700653",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9081621,
+            41.6281044
+          ],
+          [
+            -0.9082872,
+            41.6279427
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700643",
+      "properties": {
+        "@id": "way/107700643",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.898008,
+            41.6377407
+          ],
+          [
+            -0.8980685,
+            41.6376685
+          ],
+          [
+            -0.8981202,
+            41.6376068
+          ],
+          [
+            -0.8981953,
+            41.6375244
+          ],
+          [
+            -0.8982695,
+            41.6374457
+          ],
+          [
+            -0.8994869,
+            41.6365371
+          ],
+          [
+            -0.9007916,
+            41.6355863
+          ],
+          [
+            -0.9015671,
+            41.6349977
+          ],
+          [
+            -0.9036749,
+            41.6334362
+          ],
+          [
+            -0.9038144,
+            41.6333329
+          ],
+          [
+            -0.90445,
+            41.632862
+          ],
+          [
+            -0.9045952,
+            41.6327663
+          ],
+          [
+            -0.9046815,
+            41.632696
+          ],
+          [
+            -0.9048471,
+            41.6325305
+          ],
+          [
+            -0.9049415,
+            41.6324218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107700647",
+      "properties": {
+        "@id": "way/107700647",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9048868,
+            41.632417
+          ],
+          [
+            -0.9047753,
+            41.6325427
+          ],
+          [
+            -0.9046484,
+            41.632658
+          ],
+          [
+            -0.9044191,
+            41.632849
+          ],
+          [
+            -0.9037433,
+            41.6333319
+          ],
+          [
+            -0.9036243,
+            41.6334181
+          ],
+          [
+            -0.9015394,
+            41.6349695
+          ],
+          [
+            -0.9015185,
+            41.6349868
+          ],
+          [
+            -0.9007255,
+            41.6355612
+          ],
+          [
+            -0.8994413,
+            41.636522
+          ],
+          [
+            -0.8981315,
+            41.6374422
+          ],
+          [
+            -0.8980304,
+            41.6375001
+          ],
+          [
+            -0.8979062,
+            41.6375863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107693087",
+      "properties": {
+        "@id": "way/107693087",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8979062,
+            41.6375863
+          ],
+          [
+            -0.8977631,
+            41.6377213
+          ],
+          [
+            -0.897726,
+            41.6377705
+          ],
+          [
+            -0.8975561,
+            41.6379469
+          ],
+          [
+            -0.8967306,
+            41.6388229
+          ],
+          [
+            -0.8952475,
+            41.6404273
+          ],
+          [
+            -0.8952084,
+            41.6404684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107693091",
+      "properties": {
+        "@id": "way/107693091",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8912569,
+            41.6449483
+          ],
+          [
+            -0.8913226,
+            41.6449083
+          ],
+          [
+            -0.8913761,
+            41.6448704
+          ],
+          [
+            -0.8917738,
+            41.6444582
+          ],
+          [
+            -0.8918318,
+            41.6443948
+          ],
+          [
+            -0.8919552,
+            41.6442739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107693107",
+      "properties": {
+        "@id": "way/107693107",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8954018,
+            41.6405673
+          ],
+          [
+            -0.8954441,
+            41.6405271
+          ],
+          [
+            -0.8969177,
+            41.6389246
+          ],
+          [
+            -0.8977467,
+            41.6380184
+          ],
+          [
+            -0.8978971,
+            41.6378586
+          ],
+          [
+            -0.897942,
+            41.6378109
+          ],
+          [
+            -0.898008,
+            41.6377407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367998880",
+      "properties": {
+        "@id": "way/367998880",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8917688,
+            41.6441703
+          ],
+          [
+            -0.8916427,
+            41.6442982
+          ],
+          [
+            -0.8915811,
+            41.6443613
+          ],
+          [
+            -0.8911841,
+            41.6447254
+          ],
+          [
+            -0.8910957,
+            41.6447808
+          ],
+          [
+            -0.8910016,
+            41.6448238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107693080",
+      "properties": {
+        "@id": "way/107693080",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8946202,
+            41.6414079
+          ],
+          [
+            -0.8946683,
+            41.641347
+          ],
+          [
+            -0.8951919,
+            41.640788
+          ],
+          [
+            -0.8953402,
+            41.640632
+          ],
+          [
+            -0.8954018,
+            41.6405673
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107693104",
+      "properties": {
+        "@id": "way/107693104",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8952084,
+            41.6404684
+          ],
+          [
+            -0.8951542,
+            41.6405286
+          ],
+          [
+            -0.8950034,
+            41.6406962
+          ],
+          [
+            -0.8944779,
+            41.6412482
+          ],
+          [
+            -0.8944284,
+            41.6413085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107693106",
+      "properties": {
+        "@id": "way/107693106",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8944284,
+            41.6413085
+          ],
+          [
+            -0.8940165,
+            41.6417427
+          ],
+          [
+            -0.8939134,
+            41.6418614
+          ],
+          [
+            -0.8937989,
+            41.64199
+          ],
+          [
+            -0.8928892,
+            41.6429767
+          ],
+          [
+            -0.8928106,
+            41.6430609
+          ],
+          [
+            -0.8926972,
+            41.6431825
+          ],
+          [
+            -0.892075,
+            41.643873
+          ],
+          [
+            -0.8919737,
+            41.6439699
+          ],
+          [
+            -0.8919256,
+            41.6440168
+          ],
+          [
+            -0.8919028,
+            41.6440408
+          ],
+          [
+            -0.8917688,
+            41.6441703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367998879",
+      "properties": {
+        "@id": "way/367998879",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8919552,
+            41.6442739
+          ],
+          [
+            -0.8920853,
+            41.644138
+          ],
+          [
+            -0.892106,
+            41.6441171
+          ],
+          [
+            -0.8921563,
+            41.6440629
+          ],
+          [
+            -0.8923046,
+            41.6439085
+          ],
+          [
+            -0.8929204,
+            41.6432376
+          ],
+          [
+            -0.8929945,
+            41.6431579
+          ],
+          [
+            -0.8930955,
+            41.6430491
+          ],
+          [
+            -0.8940193,
+            41.6420547
+          ],
+          [
+            -0.8940678,
+            41.642
+          ],
+          [
+            -0.8941063,
+            41.6419611
+          ],
+          [
+            -0.8942094,
+            41.6418438
+          ],
+          [
+            -0.8946202,
+            41.6414079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107693103",
+      "properties": {
+        "@id": "way/107693103",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8910016,
+            41.6448238
+          ],
+          [
+            -0.8903952,
+            41.6450663
+          ],
+          [
+            -0.8894701,
+            41.6454362
+          ],
+          [
+            -0.88774,
+            41.6461256
+          ],
+          [
+            -0.8868833,
+            41.6464595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96005782",
+      "properties": {
+        "@id": "way/96005782",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.885993,
+            41.6470354
+          ],
+          [
+            -0.8860896,
+            41.6469974
+          ],
+          [
+            -0.8873293,
+            41.6465099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107693085",
+      "properties": {
+        "@id": "way/107693085",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8861284,
+            41.6467462
+          ],
+          [
+            -0.8859685,
+            41.6468147
+          ],
+          [
+            -0.885874,
+            41.6468497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107693099",
+      "properties": {
+        "@id": "way/107693099",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8868833,
+            41.6464595
+          ],
+          [
+            -0.8861284,
+            41.6467462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120916863",
+      "properties": {
+        "@id": "way/120916863",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8873293,
+            41.6465099
+          ],
+          [
+            -0.8878283,
+            41.6463137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120916864",
+      "properties": {
+        "@id": "way/120916864",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8878283,
+            41.6463137
+          ],
+          [
+            -0.8887694,
+            41.6459436
+          ],
+          [
+            -0.8897412,
+            41.6455688
+          ],
+          [
+            -0.8905079,
+            41.6452549
+          ],
+          [
+            -0.8912569,
+            41.6449483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22814873",
+      "properties": {
+        "@id": "way/22814873",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8817135,
+            41.658054
+          ],
+          [
+            -0.8817207,
+            41.6580108
+          ],
+          [
+            -0.881725,
+            41.6579853
+          ],
+          [
+            -0.881736,
+            41.6579051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167461487",
+      "properties": {
+        "@id": "way/167461487",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8812093,
+            41.6518735
+          ],
+          [
+            -0.8812403,
+            41.6518447
+          ],
+          [
+            -0.8815371,
+            41.6515554
+          ],
+          [
+            -0.884516,
+            41.6486513
+          ],
+          [
+            -0.8847088,
+            41.6485052
+          ],
+          [
+            -0.8850805,
+            41.6481487
+          ],
+          [
+            -0.8855455,
+            41.6477028
+          ],
+          [
+            -0.8856694,
+            41.6475728
+          ],
+          [
+            -0.8857496,
+            41.6474356
+          ],
+          [
+            -0.8857871,
+            41.6473434
+          ],
+          [
+            -0.8858139,
+            41.6472512
+          ],
+          [
+            -0.8858407,
+            41.647171
+          ],
+          [
+            -0.8858729,
+            41.6471028
+          ],
+          [
+            -0.8859239,
+            41.6470637
+          ],
+          [
+            -0.885993,
+            41.6470354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167461488",
+      "properties": {
+        "@id": "way/167461488",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.885874,
+            41.6468497
+          ],
+          [
+            -0.8857925,
+            41.6469064
+          ],
+          [
+            -0.8857442,
+            41.6469666
+          ],
+          [
+            -0.8856905,
+            41.6470507
+          ],
+          [
+            -0.885653,
+            41.6471269
+          ],
+          [
+            -0.8856318,
+            41.6472401
+          ],
+          [
+            -0.8856238,
+            41.6473423
+          ],
+          [
+            -0.8855862,
+            41.6474385
+          ],
+          [
+            -0.8855541,
+            41.6475027
+          ],
+          [
+            -0.8855037,
+            41.6475776
+          ],
+          [
+            -0.8854603,
+            41.6476445
+          ],
+          [
+            -0.8849845,
+            41.6481036
+          ],
+          [
+            -0.8846273,
+            41.6484482
+          ],
+          [
+            -0.8844888,
+            41.6486392
+          ],
+          [
+            -0.8815094,
+            41.6515484
+          ],
+          [
+            -0.8812168,
+            41.6518328
+          ],
+          [
+            -0.8811874,
+            41.6518614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197364518",
+      "properties": {
+        "@id": "way/197364518",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8817134,
+            41.6577265
+          ],
+          [
+            -0.8816951,
+            41.65781
+          ],
+          [
+            -0.8816859,
+            41.6578624
+          ],
+          [
+            -0.8816798,
+            41.6579034
+          ],
+          [
+            -0.8816713,
+            41.657983
+          ],
+          [
+            -0.8816686,
+            41.6580075
+          ],
+          [
+            -0.8816611,
+            41.658048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23938899",
+      "properties": {
+        "@id": "way/23938899",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8834253,
+            41.6558369
+          ],
+          [
+            -0.8835431,
+            41.6557143
+          ],
+          [
+            -0.8836088,
+            41.6556377
+          ],
+          [
+            -0.8837986,
+            41.6554417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23938904",
+      "properties": {
+        "@id": "way/23938904",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8835363,
+            41.6556477
+          ],
+          [
+            -0.8834707,
+            41.6557159
+          ],
+          [
+            -0.8833566,
+            41.6558391
+          ],
+          [
+            -0.8825884,
+            41.6567004
+          ],
+          [
+            -0.8825206,
+            41.6567586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23957943",
+      "properties": {
+        "@id": "way/23957943",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8825698,
+            41.6567707
+          ],
+          [
+            -0.8827072,
+            41.6566299
+          ],
+          [
+            -0.8830684,
+            41.6562313
+          ],
+          [
+            -0.8834253,
+            41.6558369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47453273",
+      "properties": {
+        "@id": "way/47453273",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.881736,
+            41.6579051
+          ],
+          [
+            -0.8817426,
+            41.6578663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80728206",
+      "properties": {
+        "@id": "way/80728206",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8825206,
+            41.6567586
+          ],
+          [
+            -0.8823798,
+            41.6568938
+          ],
+          [
+            -0.8820476,
+            41.6572514
+          ],
+          [
+            -0.8817626,
+            41.6575556
+          ],
+          [
+            -0.881748,
+            41.6575872
+          ],
+          [
+            -0.8817382,
+            41.6576176
+          ],
+          [
+            -0.8817286,
+            41.657646
+          ],
+          [
+            -0.8817134,
+            41.6577265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93052912",
+      "properties": {
+        "@id": "way/93052912",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8817426,
+            41.6578663
+          ],
+          [
+            -0.8817529,
+            41.6577991
+          ],
+          [
+            -0.8817635,
+            41.6577347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122523259",
+      "properties": {
+        "@id": "way/122523259",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8840794,
+            41.6541773
+          ],
+          [
+            -0.8841491,
+            41.6542675
+          ],
+          [
+            -0.8842013,
+            41.6544159
+          ],
+          [
+            -0.8842242,
+            41.65453
+          ],
+          [
+            -0.8842141,
+            41.654641
+          ],
+          [
+            -0.884189,
+            41.6547376
+          ],
+          [
+            -0.8841202,
+            41.6549163
+          ],
+          [
+            -0.8840337,
+            41.6550558
+          ],
+          [
+            -0.8839213,
+            41.6552134
+          ],
+          [
+            -0.8837579,
+            41.6554093
+          ],
+          [
+            -0.8835363,
+            41.6556477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122523263",
+      "properties": {
+        "@id": "way/122523263",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8817635,
+            41.6577347
+          ],
+          [
+            -0.88178,
+            41.6576454
+          ],
+          [
+            -0.8817947,
+            41.6576102
+          ],
+          [
+            -0.8818256,
+            41.6575712
+          ],
+          [
+            -0.8821057,
+            41.6572719
+          ],
+          [
+            -0.8825698,
+            41.6567707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122523280",
+      "properties": {
+        "@id": "way/122523280",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8811249,
+            41.6524227
+          ],
+          [
+            -0.8811256,
+            41.6523539
+          ],
+          [
+            -0.8811351,
+            41.6522773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159634732",
+      "properties": {
+        "@id": "way/159634732",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8838939,
+            41.6539879
+          ],
+          [
+            -0.8834834,
+            41.6537333
+          ],
+          [
+            -0.8829157,
+            41.6533908
+          ],
+          [
+            -0.8826456,
+            41.6532609
+          ],
+          [
+            -0.8822669,
+            41.6530788
+          ],
+          [
+            -0.8821271,
+            41.6530116
+          ],
+          [
+            -0.8812981,
+            41.6526129
+          ],
+          [
+            -0.8812432,
+            41.6525796
+          ],
+          [
+            -0.881225,
+            41.6525686
+          ],
+          [
+            -0.8812019,
+            41.6525546
+          ],
+          [
+            -0.8811548,
+            41.6525037
+          ],
+          [
+            -0.8811508,
+            41.6524928
+          ],
+          [
+            -0.8811249,
+            41.6524227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167461485",
+      "properties": {
+        "@id": "way/167461485",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8834632,
+            41.6537485
+          ],
+          [
+            -0.8838767,
+            41.6540089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167461486",
+      "properties": {
+        "@id": "way/167461486",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8838767,
+            41.6540089
+          ],
+          [
+            -0.883941,
+            41.654052
+          ],
+          [
+            -0.8839697,
+            41.6540703
+          ],
+          [
+            -0.8840102,
+            41.654096
+          ],
+          [
+            -0.8840271,
+            41.6541135
+          ],
+          [
+            -0.8840794,
+            41.6541773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167461489",
+      "properties": {
+        "@id": "way/167461489",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8811351,
+            41.6522773
+          ],
+          [
+            -0.8811668,
+            41.6519749
+          ],
+          [
+            -0.8811782,
+            41.6519272
+          ],
+          [
+            -0.8812093,
+            41.6518735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168300784",
+      "properties": {
+        "@id": "way/168300784",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8811843,
+            41.6525727
+          ],
+          [
+            -0.8812097,
+            41.6525878
+          ],
+          [
+            -0.8812275,
+            41.6525984
+          ],
+          [
+            -0.8812794,
+            41.6526294
+          ],
+          [
+            -0.8821107,
+            41.6530282
+          ],
+          [
+            -0.8822504,
+            41.6530952
+          ],
+          [
+            -0.8826302,
+            41.6532773
+          ],
+          [
+            -0.8829013,
+            41.6534074
+          ],
+          [
+            -0.8832859,
+            41.6536409
+          ],
+          [
+            -0.8834632,
+            41.6537485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175272366",
+      "properties": {
+        "@id": "way/175272366",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8837986,
+            41.6554417
+          ],
+          [
+            -0.8839044,
+            41.655317
+          ],
+          [
+            -0.883981,
+            41.6552248
+          ],
+          [
+            -0.884047,
+            41.655128
+          ],
+          [
+            -0.8841667,
+            41.6549257
+          ],
+          [
+            -0.8842344,
+            41.654739
+          ],
+          [
+            -0.8842612,
+            41.6546467
+          ],
+          [
+            -0.8842681,
+            41.6545278
+          ],
+          [
+            -0.8842415,
+            41.6544074
+          ],
+          [
+            -0.8842001,
+            41.6542695
+          ],
+          [
+            -0.8841357,
+            41.6541613
+          ],
+          [
+            -0.8840767,
+            41.6540972
+          ],
+          [
+            -0.8840101,
+            41.6540534
+          ],
+          [
+            -0.8839329,
+            41.6540099
+          ],
+          [
+            -0.8838939,
+            41.6539879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191228670",
+      "properties": {
+        "@id": "way/191228670",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8811874,
+            41.6518614
+          ],
+          [
+            -0.8811604,
+            41.6518917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371153878",
+      "properties": {
+        "@id": "way/371153878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8811604,
+            41.6518917
+          ],
+          [
+            -0.8811421,
+            41.6519183
+          ],
+          [
+            -0.8811341,
+            41.6519509
+          ],
+          [
+            -0.8811288,
+            41.6520299
+          ],
+          [
+            -0.8811012,
+            41.6522911
+          ],
+          [
+            -0.8810941,
+            41.6523545
+          ],
+          [
+            -0.8810926,
+            41.6524238
+          ],
+          [
+            -0.8811255,
+            41.6525149
+          ],
+          [
+            -0.8811843,
+            41.6525727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22814872",
+      "properties": {
+        "@id": "way/22814872",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8814378,
+            41.6597233
+          ],
+          [
+            -0.8817135,
+            41.658054
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167463731",
+      "properties": {
+        "@id": "way/167463731",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8816611,
+            41.658048
+          ],
+          [
+            -0.8813846,
+            41.6597208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175260915",
+      "properties": {
+        "@id": "way/175260915",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8813846,
+            41.6597208
+          ],
+          [
+            -0.8813259,
+            41.6601183
+          ],
+          [
+            -0.881307,
+            41.6602317
+          ],
+          [
+            -0.8812991,
+            41.6603173
+          ],
+          [
+            -0.8813035,
+            41.6604148
+          ],
+          [
+            -0.8813148,
+            41.6604989
+          ],
+          [
+            -0.881356,
+            41.6606324
+          ],
+          [
+            -0.8814594,
+            41.6608038
+          ],
+          [
+            -0.8815538,
+            41.6609049
+          ],
+          [
+            -0.8816199,
+            41.66095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175260916",
+      "properties": {
+        "@id": "way/175260916",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8816199,
+            41.66095
+          ],
+          [
+            -0.8817618,
+            41.661043
+          ],
+          [
+            -0.88191,
+            41.66113
+          ],
+          [
+            -0.8820624,
+            41.6611752
+          ],
+          [
+            -0.8821768,
+            41.6611918
+          ],
+          [
+            -0.882625,
+            41.6612062
+          ],
+          [
+            -0.8832281,
+            41.6612428
+          ],
+          [
+            -0.8838803,
+            41.6612824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175260917",
+      "properties": {
+        "@id": "way/175260917",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8816407,
+            41.6609125
+          ],
+          [
+            -0.8815746,
+            41.6608504
+          ],
+          [
+            -0.8814958,
+            41.6607578
+          ],
+          [
+            -0.8814022,
+            41.6606039
+          ],
+          [
+            -0.881358,
+            41.6605011
+          ],
+          [
+            -0.8813513,
+            41.660426
+          ],
+          [
+            -0.8813499,
+            41.6603322
+          ],
+          [
+            -0.881355,
+            41.6602356
+          ],
+          [
+            -0.881372,
+            41.6601235
+          ],
+          [
+            -0.8814378,
+            41.6597233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175261429",
+      "properties": {
+        "@id": "way/175261429",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8838803,
+            41.6612824
+          ],
+          [
+            -0.8839476,
+            41.6613026
+          ],
+          [
+            -0.8839878,
+            41.6613348
+          ],
+          [
+            -0.8840308,
+            41.6613687
+          ],
+          [
+            -0.8840576,
+            41.6614028
+          ],
+          [
+            -0.8840844,
+            41.6614509
+          ],
+          [
+            -0.8840952,
+            41.661495
+          ],
+          [
+            -0.8840978,
+            41.6615471
+          ],
+          [
+            -0.8840898,
+            41.6615891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/111206139",
+      "properties": {
+        "@id": "way/111206139",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8853673,
+            41.665932
+          ],
+          [
+            -0.8856562,
+            41.6662506
+          ],
+          [
+            -0.8857379,
+            41.6663407
+          ],
+          [
+            -0.8857808,
+            41.6663888
+          ],
+          [
+            -0.8861509,
+            41.6667589
+          ],
+          [
+            -0.8862509,
+            41.6668589
+          ],
+          [
+            -0.886615,
+            41.667223
+          ],
+          [
+            -0.886703,
+            41.66731
+          ],
+          [
+            -0.887044,
+            41.6676421
+          ],
+          [
+            -0.8871113,
+            41.6677116
+          ],
+          [
+            -0.887224,
+            41.6678224
+          ],
+          [
+            -0.8875072,
+            41.6681009
+          ],
+          [
+            -0.8876157,
+            41.6682076
+          ],
+          [
+            -0.8880734,
+            41.6686577
+          ],
+          [
+            -0.8881727,
+            41.6687549
+          ],
+          [
+            -0.8882672,
+            41.6688453
+          ],
+          [
+            -0.8883933,
+            41.6689675
+          ],
+          [
+            -0.88864,
+            41.6692117
+          ],
+          [
+            -0.888737,
+            41.6693413
+          ],
+          [
+            -0.888877,
+            41.6695282
+          ],
+          [
+            -0.8889352,
+            41.669606
+          ],
+          [
+            -0.8891309,
+            41.6699573
+          ],
+          [
+            -0.8892246,
+            41.6701537
+          ],
+          [
+            -0.8892721,
+            41.6703115
+          ],
+          [
+            -0.8893324,
+            41.6705115
+          ],
+          [
+            -0.8893648,
+            41.6706914
+          ],
+          [
+            -0.8893775,
+            41.6708885
+          ],
+          [
+            -0.8893732,
+            41.6714152
+          ],
+          [
+            -0.889372,
+            41.6715594
+          ],
+          [
+            -0.8893666,
+            41.6722013
+          ],
+          [
+            -0.8893636,
+            41.6725696
+          ],
+          [
+            -0.8893621,
+            41.6727535
+          ],
+          [
+            -0.8893615,
+            41.6728397
+          ],
+          [
+            -0.8893571,
+            41.6733463
+          ],
+          [
+            -0.8893565,
+            41.6734227
+          ],
+          [
+            -0.8893551,
+            41.6735996
+          ],
+          [
+            -0.8893531,
+            41.6738379
+          ],
+          [
+            -0.8893492,
+            41.6739554
+          ],
+          [
+            -0.8893428,
+            41.6741486
+          ],
+          [
+            -0.8893407,
+            41.6743508
+          ],
+          [
+            -0.8893404,
+            41.6744708
+          ],
+          [
+            -0.8893401,
+            41.6745934
+          ],
+          [
+            -0.8893401,
+            41.6747036
+          ],
+          [
+            -0.8893374,
+            41.6751103
+          ],
+          [
+            -0.8893259,
+            41.6759481
+          ],
+          [
+            -0.8893222,
+            41.676114
+          ],
+          [
+            -0.8893102,
+            41.6762769
+          ],
+          [
+            -0.8893044,
+            41.6769152
+          ],
+          [
+            -0.8892984,
+            41.6771854
+          ],
+          [
+            -0.8892946,
+            41.6773544
+          ],
+          [
+            -0.8892925,
+            41.6774531
+          ],
+          [
+            -0.8892921,
+            41.6774705
+          ],
+          [
+            -0.8892833,
+            41.677864
+          ],
+          [
+            -0.8892832,
+            41.6779973
+          ],
+          [
+            -0.8892831,
+            41.6782107
+          ],
+          [
+            -0.889281,
+            41.6782805
+          ],
+          [
+            -0.8893027,
+            41.6784056
+          ],
+          [
+            -0.8893857,
+            41.6785326
+          ],
+          [
+            -0.8894401,
+            41.6785996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175260918",
+      "properties": {
+        "@id": "way/175260918",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8848405,
+            41.66159
+          ],
+          [
+            -0.8848117,
+            41.6615306
+          ],
+          [
+            -0.884784,
+            41.6614759
+          ],
+          [
+            -0.8847574,
+            41.6614451
+          ],
+          [
+            -0.8846883,
+            41.6614002
+          ],
+          [
+            -0.8846084,
+            41.6613603
+          ],
+          [
+            -0.8845399,
+            41.6613379
+          ],
+          [
+            -0.8844676,
+            41.6613215
+          ],
+          [
+            -0.8840174,
+            41.6612485
+          ],
+          [
+            -0.8838886,
+            41.6612325
+          ],
+          [
+            -0.8832368,
+            41.6611949
+          ],
+          [
+            -0.8826331,
+            41.6611601
+          ],
+          [
+            -0.8822114,
+            41.6611503
+          ],
+          [
+            -0.8821222,
+            41.6611395
+          ],
+          [
+            -0.8819756,
+            41.6610973
+          ],
+          [
+            -0.8818139,
+            41.6610249
+          ],
+          [
+            -0.8816407,
+            41.6609125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175265624",
+      "properties": {
+        "@id": "way/175265624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8861502,
+            41.6654329
+          ],
+          [
+            -0.8861173,
+            41.6654013
+          ],
+          [
+            -0.8860459,
+            41.6653358
+          ],
+          [
+            -0.8859341,
+            41.6652338
+          ],
+          [
+            -0.8858634,
+            41.6651718
+          ],
+          [
+            -0.8858345,
+            41.6651448
+          ],
+          [
+            -0.8857827,
+            41.6650981
+          ],
+          [
+            -0.8856084,
+            41.6649457
+          ],
+          [
+            -0.8851228,
+            41.664521
+          ],
+          [
+            -0.8849455,
+            41.6643695
+          ],
+          [
+            -0.8848259,
+            41.6642673
+          ],
+          [
+            -0.8847773,
+            41.6642235
+          ],
+          [
+            -0.8847473,
+            41.6641964
+          ],
+          [
+            -0.8845059,
+            41.6639319
+          ],
+          [
+            -0.8844313,
+            41.6638052
+          ],
+          [
+            -0.8843844,
+            41.6636811
+          ],
+          [
+            -0.8843559,
+            41.6635558
+          ],
+          [
+            -0.8843519,
+            41.6634366
+          ],
+          [
+            -0.884361,
+            41.6633136
+          ],
+          [
+            -0.884394,
+            41.6631854
+          ],
+          [
+            -0.8844433,
+            41.6630372
+          ],
+          [
+            -0.8846031,
+            41.6625493
+          ],
+          [
+            -0.8847151,
+            41.6622086
+          ],
+          [
+            -0.8848319,
+            41.6617557
+          ],
+          [
+            -0.8848419,
+            41.661645
+          ],
+          [
+            -0.8848405,
+            41.66159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175266451",
+      "properties": {
+        "@id": "way/175266451",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8840898,
+            41.6615891
+          ],
+          [
+            -0.8840128,
+            41.6618523
+          ],
+          [
+            -0.8839591,
+            41.6620447
+          ],
+          [
+            -0.8839229,
+            41.6621642
+          ],
+          [
+            -0.8838897,
+            41.6622741
+          ],
+          [
+            -0.8838572,
+            41.6623813
+          ],
+          [
+            -0.8836158,
+            41.6631227
+          ],
+          [
+            -0.8835755,
+            41.6633643
+          ],
+          [
+            -0.8835522,
+            41.6634855
+          ],
+          [
+            -0.8835487,
+            41.6635114
+          ],
+          [
+            -0.8835461,
+            41.6637639
+          ],
+          [
+            -0.8835595,
+            41.663806
+          ],
+          [
+            -0.8836319,
+            41.6639823
+          ],
+          [
+            -0.883648,
+            41.6640124
+          ],
+          [
+            -0.883778,
+            41.6641913
+          ],
+          [
+            -0.8839728,
+            41.6644188
+          ],
+          [
+            -0.8841737,
+            41.6646416
+          ],
+          [
+            -0.8846645,
+            41.6651465
+          ],
+          [
+            -0.8849086,
+            41.665409
+          ],
+          [
+            -0.88504,
+            41.6655492
+          ],
+          [
+            -0.8852117,
+            41.6657456
+          ],
+          [
+            -0.885279,
+            41.6658262
+          ],
+          [
+            -0.8853673,
+            41.665932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194690460",
+      "properties": {
+        "@id": "way/194690460",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8905598,
+            41.6785976
+          ],
+          [
+            -0.8906686,
+            41.6784564
+          ],
+          [
+            -0.8907269,
+            41.678309
+          ],
+          [
+            -0.8907456,
+            41.6779611
+          ],
+          [
+            -0.8907473,
+            41.6778597
+          ],
+          [
+            -0.8907448,
+            41.6776585
+          ],
+          [
+            -0.8907429,
+            41.6775003
+          ],
+          [
+            -0.8907402,
+            41.6774682
+          ],
+          [
+            -0.8907536,
+            41.6762883
+          ],
+          [
+            -0.8907616,
+            41.6760919
+          ],
+          [
+            -0.890759,
+            41.6759417
+          ],
+          [
+            -0.8907773,
+            41.6749501
+          ],
+          [
+            -0.8907838,
+            41.6745955
+          ],
+          [
+            -0.8907925,
+            41.6741052
+          ],
+          [
+            -0.8907921,
+            41.674031
+          ],
+          [
+            -0.8907928,
+            41.673983
+          ],
+          [
+            -0.8907993,
+            41.6735561
+          ],
+          [
+            -0.8908005,
+            41.6733086
+          ],
+          [
+            -0.8908009,
+            41.6732325
+          ],
+          [
+            -0.8908082,
+            41.6727448
+          ],
+          [
+            -0.8908107,
+            41.6726664
+          ],
+          [
+            -0.8908163,
+            41.6724904
+          ],
+          [
+            -0.8908216,
+            41.6721959
+          ],
+          [
+            -0.8908217,
+            41.6711987
+          ],
+          [
+            -0.8908233,
+            41.670572
+          ],
+          [
+            -0.8908133,
+            41.6704694
+          ],
+          [
+            -0.8907858,
+            41.670334
+          ],
+          [
+            -0.8907143,
+            41.6700622
+          ],
+          [
+            -0.8905732,
+            41.6696877
+          ],
+          [
+            -0.8903799,
+            41.6693586
+          ],
+          [
+            -0.8899121,
+            41.6687902
+          ],
+          [
+            -0.8898279,
+            41.6687187
+          ],
+          [
+            -0.8897067,
+            41.66863
+          ],
+          [
+            -0.8896242,
+            41.6685735
+          ],
+          [
+            -0.8884851,
+            41.6675735
+          ],
+          [
+            -0.8879406,
+            41.6670879
+          ],
+          [
+            -0.8877427,
+            41.6669114
+          ],
+          [
+            -0.8874176,
+            41.6666148
+          ],
+          [
+            -0.8868825,
+            41.6661442
+          ],
+          [
+            -0.8867206,
+            41.6659876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175263453",
+      "properties": {
+        "@id": "way/175263453",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8867206,
+            41.6659876
+          ],
+          [
+            -0.8865986,
+            41.6658661
+          ],
+          [
+            -0.8863182,
+            41.6655869
+          ],
+          [
+            -0.8861502,
+            41.6654329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192074712",
+      "properties": {
+        "@id": "way/192074712",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8894401,
+            41.6785996
+          ],
+          [
+            -0.8895408,
+            41.6787205
+          ],
+          [
+            -0.8896728,
+            41.6788851
+          ],
+          [
+            -0.8897231,
+            41.6789583
+          ],
+          [
+            -0.8898805,
+            41.679155
+          ],
+          [
+            -0.8899092,
+            41.6792296
+          ],
+          [
+            -0.8899298,
+            41.6792938
+          ],
+          [
+            -0.889937,
+            41.679368
+          ],
+          [
+            -0.889895,
+            41.6806976
+          ],
+          [
+            -0.88989,
+            41.6808581
+          ],
+          [
+            -0.8898777,
+            41.6813647
+          ],
+          [
+            -0.8898734,
+            41.6814995
+          ],
+          [
+            -0.8898382,
+            41.6826523
+          ],
+          [
+            -0.8898243,
+            41.6827418
+          ],
+          [
+            -0.8897723,
+            41.6828822
+          ],
+          [
+            -0.8897361,
+            41.6829743
+          ],
+          [
+            -0.8897039,
+            41.6831086
+          ],
+          [
+            -0.8897005,
+            41.6831251
+          ],
+          [
+            -0.8896927,
+            41.6831758
+          ],
+          [
+            -0.8896835,
+            41.6835716
+          ],
+          [
+            -0.8896764,
+            41.6839361
+          ],
+          [
+            -0.8896703,
+            41.684259
+          ],
+          [
+            -0.8896657,
+            41.6843384
+          ],
+          [
+            -0.8896025,
+            41.6857938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197169094",
+      "properties": {
+        "@id": "way/197169094",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8896721,
+            41.6857972
+          ],
+          [
+            -0.8897257,
+            41.684343
+          ],
+          [
+            -0.8897288,
+            41.6840002
+          ],
+          [
+            -0.8897304,
+            41.6839369
+          ],
+          [
+            -0.8897396,
+            41.6835779
+          ],
+          [
+            -0.8897488,
+            41.6831764
+          ],
+          [
+            -0.8897473,
+            41.6831251
+          ],
+          [
+            -0.8897589,
+            41.6830531
+          ],
+          [
+            -0.8897909,
+            41.6829368
+          ],
+          [
+            -0.8898186,
+            41.6828752
+          ],
+          [
+            -0.8898689,
+            41.6827497
+          ],
+          [
+            -0.889879,
+            41.6826497
+          ],
+          [
+            -0.8899224,
+            41.6815
+          ],
+          [
+            -0.8899273,
+            41.6813685
+          ],
+          [
+            -0.889942,
+            41.6808556
+          ],
+          [
+            -0.8899464,
+            41.6806983
+          ],
+          [
+            -0.8899609,
+            41.680192
+          ],
+          [
+            -0.8899944,
+            41.6792945
+          ],
+          [
+            -0.8900088,
+            41.6792301
+          ],
+          [
+            -0.8900562,
+            41.6791553
+          ],
+          [
+            -0.8902129,
+            41.6789349
+          ],
+          [
+            -0.8903693,
+            41.6787805
+          ],
+          [
+            -0.8905598,
+            41.6785976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197168741",
+      "properties": {
+        "@id": "way/197168741",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8851379,
+            41.6868716
+          ],
+          [
+            -0.8854295,
+            41.6868723
+          ],
+          [
+            -0.8854475,
+            41.6868723
+          ],
+          [
+            -0.885726,
+            41.686873
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197169095",
+      "properties": {
+        "@id": "way/197169095",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8896025,
+            41.6857938
+          ],
+          [
+            -0.8895819,
+            41.686084
+          ],
+          [
+            -0.8895526,
+            41.6862566
+          ],
+          [
+            -0.8894802,
+            41.6863866
+          ],
+          [
+            -0.8894081,
+            41.686478
+          ],
+          [
+            -0.8893534,
+            41.6865573
+          ],
+          [
+            -0.8892729,
+            41.6866479
+          ],
+          [
+            -0.889177,
+            41.6867156
+          ],
+          [
+            -0.8889724,
+            41.6868124
+          ],
+          [
+            -0.8887024,
+            41.6869149
+          ],
+          [
+            -0.8885758,
+            41.6869498
+          ],
+          [
+            -0.8884184,
+            41.6869776
+          ],
+          [
+            -0.8879297,
+            41.686979
+          ],
+          [
+            -0.8863686,
+            41.6868787
+          ],
+          [
+            -0.8860219,
+            41.686859
+          ],
+          [
+            -0.8860021,
+            41.6868579
+          ],
+          [
+            -0.8857264,
+            41.6868423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367998882",
+      "properties": {
+        "@id": "way/367998882",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.885726,
+            41.686873
+          ],
+          [
+            -0.8860062,
+            41.686892
+          ],
+          [
+            -0.8863519,
+            41.6869155
+          ],
+          [
+            -0.8879332,
+            41.6870141
+          ],
+          [
+            -0.888457,
+            41.6870256
+          ],
+          [
+            -0.8886138,
+            41.6869976
+          ],
+          [
+            -0.8887221,
+            41.6869649
+          ],
+          [
+            -0.8890596,
+            41.686841
+          ],
+          [
+            -0.8892315,
+            41.6867414
+          ],
+          [
+            -0.8893256,
+            41.6866674
+          ],
+          [
+            -0.8893996,
+            41.6865912
+          ],
+          [
+            -0.8894746,
+            41.6864853
+          ],
+          [
+            -0.8895387,
+            41.6863946
+          ],
+          [
+            -0.8896004,
+            41.6862623
+          ],
+          [
+            -0.8896389,
+            41.6860771
+          ],
+          [
+            -0.8896721,
+            41.6857972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367998883",
+      "properties": {
+        "@id": "way/367998883",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8857264,
+            41.6868423
+          ],
+          [
+            -0.8854608,
+            41.6868415
+          ],
+          [
+            -0.8854317,
+            41.6868414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197168245",
+      "properties": {
+        "@id": "way/197168245",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8732201,
+            41.6867274
+          ],
+          [
+            -0.8752339,
+            41.6867584
+          ],
+          [
+            -0.8753043,
+            41.6867583
+          ],
+          [
+            -0.8759378,
+            41.6867719
+          ],
+          [
+            -0.8773459,
+            41.6867997
+          ],
+          [
+            -0.8774209,
+            41.6868014
+          ],
+          [
+            -0.8778991,
+            41.6868015
+          ],
+          [
+            -0.8780042,
+            41.6868027
+          ],
+          [
+            -0.8786151,
+            41.6868151
+          ],
+          [
+            -0.8798727,
+            41.6868404
+          ],
+          [
+            -0.8801358,
+            41.6868425
+          ],
+          [
+            -0.8802078,
+            41.6868388
+          ],
+          [
+            -0.8809502,
+            41.6868508
+          ],
+          [
+            -0.88154,
+            41.686861
+          ],
+          [
+            -0.8847977,
+            41.6868626
+          ],
+          [
+            -0.8851379,
+            41.6868716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197168735",
+      "properties": {
+        "@id": "way/197168735",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8854317,
+            41.6868414
+          ],
+          [
+            -0.8851356,
+            41.6868395
+          ],
+          [
+            -0.8848,
+            41.6868294
+          ],
+          [
+            -0.8815352,
+            41.6868265
+          ],
+          [
+            -0.8809443,
+            41.6868157
+          ],
+          [
+            -0.8802035,
+            41.6868025
+          ],
+          [
+            -0.8801381,
+            41.6868017
+          ],
+          [
+            -0.8798721,
+            41.6868064
+          ],
+          [
+            -0.8786162,
+            41.6867827
+          ],
+          [
+            -0.8780052,
+            41.6867709
+          ],
+          [
+            -0.8779001,
+            41.6867681
+          ],
+          [
+            -0.8774224,
+            41.6867659
+          ],
+          [
+            -0.8773463,
+            41.6867655
+          ],
+          [
+            -0.875939,
+            41.6867318
+          ],
+          [
+            -0.8758034,
+            41.6867325
+          ],
+          [
+            -0.875303,
+            41.6867168
+          ],
+          [
+            -0.8752359,
+            41.6867157
+          ],
+          [
+            -0.8732439,
+            41.686682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197168241",
+      "properties": {
+        "@id": "way/197168241",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8732439,
+            41.686682
+          ],
+          [
+            -0.8724816,
+            41.6866696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197168243",
+      "properties": {
+        "@id": "way/197168243",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8724455,
+            41.686713
+          ],
+          [
+            -0.8732201,
+            41.6867274
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/111206105",
+      "properties": {
+        "@id": "way/111206105",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8708034,
+            41.6888663
+          ],
+          [
+            -0.8708371,
+            41.6879603
+          ],
+          [
+            -0.8708389,
+            41.6879058
+          ],
+          [
+            -0.8708482,
+            41.6878464
+          ],
+          [
+            -0.8708888,
+            41.6877223
+          ],
+          [
+            -0.8708951,
+            41.6876626
+          ],
+          [
+            -0.870899,
+            41.6876073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197168734",
+      "properties": {
+        "@id": "way/197168734",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8708354,
+            41.6869334
+          ],
+          [
+            -0.8708298,
+            41.6870629
+          ],
+          [
+            -0.8708253,
+            41.6871692
+          ],
+          [
+            -0.8708173,
+            41.687609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367998884",
+      "properties": {
+        "@id": "way/367998884",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8708173,
+            41.687609
+          ],
+          [
+            -0.8707902,
+            41.6879915
+          ],
+          [
+            -0.870783,
+            41.6881598
+          ],
+          [
+            -0.870753,
+            41.6888612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367998885",
+      "properties": {
+        "@id": "way/367998885",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.870899,
+            41.6876073
+          ],
+          [
+            -0.8709204,
+            41.6871743
+          ],
+          [
+            -0.8709221,
+            41.68707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197168254",
+      "properties": {
+        "@id": "way/197168254",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8724816,
+            41.6866696
+          ],
+          [
+            -0.871792,
+            41.686658
+          ],
+          [
+            -0.8713179,
+            41.6866518
+          ],
+          [
+            -0.8712728,
+            41.6866512
+          ],
+          [
+            -0.871248,
+            41.6866509
+          ],
+          [
+            -0.8711001,
+            41.6866721
+          ],
+          [
+            -0.8710515,
+            41.6866874
+          ],
+          [
+            -0.871006,
+            41.6867125
+          ],
+          [
+            -0.8709547,
+            41.686746
+          ],
+          [
+            -0.870947,
+            41.6867522
+          ],
+          [
+            -0.8709141,
+            41.6867797
+          ],
+          [
+            -0.8708864,
+            41.6868114
+          ],
+          [
+            -0.8708615,
+            41.6868463
+          ],
+          [
+            -0.8708469,
+            41.686886
+          ],
+          [
+            -0.8708354,
+            41.6869334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197168738",
+      "properties": {
+        "@id": "way/197168738",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8709221,
+            41.68707
+          ],
+          [
+            -0.8709314,
+            41.6869356
+          ],
+          [
+            -0.8709337,
+            41.6869029
+          ],
+          [
+            -0.8709437,
+            41.6868675
+          ],
+          [
+            -0.8709586,
+            41.6868387
+          ],
+          [
+            -0.8709724,
+            41.6868203
+          ],
+          [
+            -0.8710156,
+            41.6867765
+          ],
+          [
+            -0.8710614,
+            41.686742
+          ],
+          [
+            -0.8711193,
+            41.6867201
+          ],
+          [
+            -0.8711776,
+            41.6867013
+          ],
+          [
+            -0.8712505,
+            41.68669
+          ],
+          [
+            -0.8712721,
+            41.6866904
+          ],
+          [
+            -0.871317,
+            41.6866913
+          ],
+          [
+            -0.8715032,
+            41.6866951
+          ],
+          [
+            -0.8724455,
+            41.686713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847113",
+      "properties": {
+        "@id": "node/1240847113",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9363947,
+          41.6250322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847133",
+      "properties": {
+        "@id": "node/1240847133",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9366557,
+          41.6243593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847147",
+      "properties": {
+        "@id": "node/1240847147",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9303443,
+          41.6229235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847164",
+      "properties": {
+        "@id": "node/1240847164",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9299797,
+          41.6235603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1153069152",
+      "properties": {
+        "@id": "node/1153069152",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.923472,
+          41.6212908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847161",
+      "properties": {
+        "@id": "node/1240847161",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9187573,
+          41.6226553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847175",
+      "properties": {
+        "@id": "node/1240847175",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9185485,
+          41.6225297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847182",
+      "properties": {
+        "@id": "node/1240847182",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9240574,
+          41.6207568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1112369213",
+      "properties": {
+        "@id": "node/1112369213",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9096785,
+          41.6262388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1112409988",
+      "properties": {
+        "@id": "node/1112409988",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9054359,
+          41.6316367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1112410078",
+      "properties": {
+        "@id": "node/1112410078",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9054755,
+          41.6316478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847180",
+      "properties": {
+        "@id": "node/1240847180",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9096299,
+          41.6262201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847126",
+      "properties": {
+        "@id": "node/1240847126",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9007255,
+          41.6355612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847193",
+      "properties": {
+        "@id": "node/1240847193",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9007916,
+          41.6355863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847118",
+      "properties": {
+        "@id": "node/1240847118",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8977467,
+          41.6380184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847139",
+      "properties": {
+        "@id": "node/1240847139",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8975561,
+          41.6379469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1237218041",
+      "properties": {
+        "@id": "node/1237218041",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8923046,
+          41.6439085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1237218064",
+      "properties": {
+        "@id": "node/1237218064",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.892075,
+          41.643873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847159",
+      "properties": {
+        "@id": "node/1240847159",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8951919,
+          41.640788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1240847174",
+      "properties": {
+        "@id": "node/1240847174",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8950034,
+          41.6406962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1237218086",
+      "properties": {
+        "@id": "node/1237218086",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8878283,
+          41.6463137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1858621478",
+      "properties": {
+        "@id": "node/1858621478",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8849845,
+          41.6481036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1858621489",
+      "properties": {
+        "@id": "node/1858621489",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8850805,
+          41.6481487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1858621530",
+      "properties": {
+        "@id": "node/1858621530",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.88774,
+          41.6461256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/245443176",
+      "properties": {
+        "@id": "node/245443176",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8839213,
+          41.6552134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1976513159",
+      "properties": {
+        "@id": "node/1976513159",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8815094,
+          41.6515484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1976513160",
+      "properties": {
+        "@id": "node/1976513160",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8815371,
+          41.6515554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2076161401",
+      "properties": {
+        "@id": "node/2076161401",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8820476,
+          41.6572514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2076161409",
+      "properties": {
+        "@id": "node/2076161409",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8821057,
+          41.6572719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2081286497",
+      "properties": {
+        "@id": "node/2081286497",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.883981,
+          41.6552248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1858821858",
+      "properties": {
+        "@id": "node/1858821858",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8838572,
+          41.6623813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2311695952",
+      "properties": {
+        "@id": "node/2311695952",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8832368,
+          41.6611949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2311695953",
+      "properties": {
+        "@id": "node/2311695953",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8832281,
+          41.6612428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2311695956",
+      "properties": {
+        "@id": "node/2311695956",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8846031,
+          41.6625493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/34756870",
+      "properties": {
+        "@id": "node/34756870",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8907143,
+          41.6700622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1596999997",
+      "properties": {
+        "@id": "node/1596999997",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.888877,
+          41.6695282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2076138806",
+      "properties": {
+        "@id": "node/2076138806",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8874176,
+          41.6666148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2081717746",
+      "properties": {
+        "@id": "node/2081717746",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.886615,
+          41.667223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2081717747",
+      "properties": {
+        "@id": "node/2081717747",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8893404,
+          41.6744708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2081717748",
+      "properties": {
+        "@id": "node/2081717748",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8892984,
+          41.6771854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2311695954",
+      "properties": {
+        "@id": "node/2311695954",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8907773,
+          41.6749501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2081717742",
+      "properties": {
+        "@id": "node/2081717742",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8896835,
+          41.6835716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2081717743",
+      "properties": {
+        "@id": "node/2081717743",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8897396,
+          41.6835779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2311695955",
+      "properties": {
+        "@id": "node/2311695955",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8907448,
+          41.6776585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2035154586",
+      "properties": {
+        "@id": "node/2035154586",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8848,
+          41.6868294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2035154593",
+      "properties": {
+        "@id": "node/2035154593",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8847977,
+          41.6868626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2306153948",
+      "properties": {
+        "@id": "node/2306153948",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8786162,
+          41.6867827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2306153949",
+      "properties": {
+        "@id": "node/2306153949",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8786151,
+          41.6868151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2311695950",
+      "properties": {
+        "@id": "node/2311695950",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658866,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Mago de Oz",
+              "name": "L1: Mago de Oz => Avenida de la Academia",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Avenida de la Academia",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8708253,
+          41.6871692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2311695951",
+      "properties": {
+        "@id": "node/2311695951",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2658867,
+            "reltags": {
+              "colour": "#E52422",
+              "from": "Avenida de la Academia",
+              "name": "L1: Avenida de la Academia => Mago de Oz",
+              "network": "Tranvía de Zaragoza",
+              "operator": "Sociedad de Economía Mixta Los Tranvías de Zaragoza",
+              "public_transport:version": "2",
+              "ref": "L1",
+              "route": "tram",
+              "to": "Mago de Oz",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8709204,
+          41.6871743
+        ]
+      }
+    }
+  ]
+}
