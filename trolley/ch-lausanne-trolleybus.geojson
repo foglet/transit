@@ -1,0 +1,4793 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T10:59:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/305613712",
+      "properties": {
+        "@id": "way/305613712",
+        "access": "no",
+        "highway": "service",
+        "oneway": "yes",
+        "route": "trolleybus",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.5770588,
+            46.536385
+          ],
+          [
+            6.5766989,
+            46.5363467
+          ],
+          [
+            6.5765193,
+            46.5363014
+          ],
+          [
+            6.5760881,
+            46.5361925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24779260",
+      "properties": {
+        "@id": "way/24779260",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6231454,
+            46.5211854
+          ],
+          [
+            6.6230601,
+            46.5210458
+          ],
+          [
+            6.6225367,
+            46.5203073
+          ],
+          [
+            6.6225212,
+            46.520211
+          ],
+          [
+            6.6225233,
+            46.5201253
+          ],
+          [
+            6.622533,
+            46.5200782
+          ],
+          [
+            6.6225611,
+            46.5200298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30277508",
+      "properties": {
+        "@id": "way/30277508",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6225611,
+            46.5200298
+          ],
+          [
+            6.6226557,
+            46.5199542
+          ],
+          [
+            6.6228733,
+            46.5198688
+          ],
+          [
+            6.6238927,
+            46.5194388
+          ],
+          [
+            6.6240325,
+            46.5193798
+          ],
+          [
+            6.624069,
+            46.5193629
+          ],
+          [
+            6.6243655,
+            46.5192401
+          ],
+          [
+            6.6248248,
+            46.51905
+          ],
+          [
+            6.6249957,
+            46.518978
+          ],
+          [
+            6.6256953,
+            46.5186796
+          ],
+          [
+            6.6258418,
+            46.5186172
+          ],
+          [
+            6.6259788,
+            46.5185563
+          ],
+          [
+            6.6261647,
+            46.5184881
+          ],
+          [
+            6.6278336,
+            46.5178204
+          ],
+          [
+            6.6280174,
+            46.5177301
+          ],
+          [
+            6.6280977,
+            46.5176811
+          ],
+          [
+            6.6282073,
+            46.5176061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24969087",
+      "properties": {
+        "@id": "way/24969087",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6281226,
+            46.5175307
+          ],
+          [
+            6.6281238,
+            46.5174977
+          ],
+          [
+            6.628141,
+            46.5174668
+          ],
+          [
+            6.6281614,
+            46.5174486
+          ],
+          [
+            6.6281875,
+            46.5174343
+          ],
+          [
+            6.6282177,
+            46.5174245
+          ],
+          [
+            6.6282658,
+            46.5174195
+          ],
+          [
+            6.62831,
+            46.5174253
+          ],
+          [
+            6.6283494,
+            46.5174403
+          ],
+          [
+            6.6283799,
+            46.5174631
+          ],
+          [
+            6.6283985,
+            46.5174913
+          ],
+          [
+            6.6284031,
+            46.5175221
+          ],
+          [
+            6.6283935,
+            46.5175524
+          ],
+          [
+            6.6283706,
+            46.5175789
+          ],
+          [
+            6.6283368,
+            46.5175991
+          ],
+          [
+            6.6282955,
+            46.517611
+          ],
+          [
+            6.6282508,
+            46.5176134
+          ],
+          [
+            6.6282073,
+            46.5176061
+          ],
+          [
+            6.6281669,
+            46.5175882
+          ],
+          [
+            6.6281375,
+            46.5175621
+          ],
+          [
+            6.6281226,
+            46.5175307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28358583",
+      "properties": {
+        "@id": "way/28358583",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6304295,
+            46.5171497
+          ],
+          [
+            6.6304529,
+            46.5171779
+          ],
+          [
+            6.6304614,
+            46.5172099
+          ],
+          [
+            6.6304541,
+            46.5172421
+          ],
+          [
+            6.6304317,
+            46.5172707
+          ],
+          [
+            6.6303968,
+            46.5172927
+          ],
+          [
+            6.6303429,
+            46.517308
+          ],
+          [
+            6.6303164,
+            46.5173081
+          ],
+          [
+            6.6302749,
+            46.5173029
+          ],
+          [
+            6.6302374,
+            46.5172895
+          ],
+          [
+            6.6302055,
+            46.5172673
+          ],
+          [
+            6.6301856,
+            46.5172392
+          ],
+          [
+            6.6301796,
+            46.5172083
+          ],
+          [
+            6.6301882,
+            46.5171776
+          ],
+          [
+            6.6302106,
+            46.5171504
+          ],
+          [
+            6.6302287,
+            46.5171376
+          ],
+          [
+            6.6302498,
+            46.5171272
+          ],
+          [
+            6.6302851,
+            46.5171173
+          ],
+          [
+            6.630323,
+            46.5171142
+          ],
+          [
+            6.6303607,
+            46.5171182
+          ],
+          [
+            6.6303954,
+            46.517129
+          ],
+          [
+            6.6304295,
+            46.5171497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28358589",
+      "properties": {
+        "@id": "way/28358589",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6302374,
+            46.5172895
+          ],
+          [
+            6.6300608,
+            46.5173149
+          ],
+          [
+            6.6293114,
+            46.5174218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29001078",
+      "properties": {
+        "@id": "way/29001078",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6293114,
+            46.5174218
+          ],
+          [
+            6.6291204,
+            46.5174485
+          ],
+          [
+            6.6290945,
+            46.5174521
+          ],
+          [
+            6.6290106,
+            46.5174638
+          ],
+          [
+            6.6284463,
+            46.5175426
+          ],
+          [
+            6.6283935,
+            46.5175524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29001079",
+      "properties": {
+        "@id": "way/29001079",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6292682,
+            46.5172808
+          ],
+          [
+            6.6294507,
+            46.5172584
+          ],
+          [
+            6.6301675,
+            46.517158
+          ],
+          [
+            6.6302106,
+            46.5171504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59688021",
+      "properties": {
+        "@id": "way/59688021",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6282658,
+            46.5174195
+          ],
+          [
+            6.628516,
+            46.5173845
+          ],
+          [
+            6.6292682,
+            46.5172808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30277856",
+      "properties": {
+        "@id": "way/30277856",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6197261,
+            46.5333557
+          ],
+          [
+            6.6191316,
+            46.5330206
+          ],
+          [
+            6.6188881,
+            46.5328979
+          ],
+          [
+            6.6187142,
+            46.5327985
+          ],
+          [
+            6.6185656,
+            46.5327012
+          ],
+          [
+            6.6184213,
+            46.5325882
+          ],
+          [
+            6.6182892,
+            46.5324665
+          ],
+          [
+            6.6182106,
+            46.5323851
+          ],
+          [
+            6.6180279,
+            46.5321904
+          ],
+          [
+            6.6179619,
+            46.5321041
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45285249",
+      "properties": {
+        "@id": "way/45285249",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6180696,
+            46.5320741
+          ],
+          [
+            6.6181978,
+            46.5322143
+          ],
+          [
+            6.6183117,
+            46.5323387
+          ],
+          [
+            6.618389,
+            46.532413
+          ],
+          [
+            6.618502,
+            46.5325206
+          ],
+          [
+            6.6186062,
+            46.532602
+          ],
+          [
+            6.6187768,
+            46.5327215
+          ],
+          [
+            6.619006,
+            46.5328508
+          ],
+          [
+            6.6194948,
+            46.5330941
+          ],
+          [
+            6.6196317,
+            46.5331756
+          ],
+          [
+            6.6198112,
+            46.5333009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300229258",
+      "properties": {
+        "@id": "way/300229258",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.619528,
+            46.5301436
+          ],
+          [
+            6.619457,
+            46.5302299
+          ],
+          [
+            6.619326,
+            46.5303086
+          ],
+          [
+            6.6192665,
+            46.5303711
+          ],
+          [
+            6.6191364,
+            46.5304431
+          ],
+          [
+            6.6190734,
+            46.53048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24538594",
+      "properties": {
+        "@id": "way/24538594",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6179619,
+            46.5321041
+          ],
+          [
+            6.6178828,
+            46.5319953
+          ],
+          [
+            6.6178148,
+            46.5318871
+          ],
+          [
+            6.6177568,
+            46.5317656
+          ],
+          [
+            6.6177231,
+            46.5316613
+          ],
+          [
+            6.6177046,
+            46.5315766
+          ],
+          [
+            6.6177036,
+            46.5314767
+          ],
+          [
+            6.6177317,
+            46.5313909
+          ],
+          [
+            6.6177622,
+            46.5313235
+          ],
+          [
+            6.617822,
+            46.5312203
+          ],
+          [
+            6.617919,
+            46.5310947
+          ],
+          [
+            6.6179918,
+            46.5310271
+          ],
+          [
+            6.6180242,
+            46.530997
+          ],
+          [
+            6.6181403,
+            46.5309119
+          ],
+          [
+            6.6182087,
+            46.5308618
+          ],
+          [
+            6.6185566,
+            46.5306398
+          ],
+          [
+            6.6186684,
+            46.5305715
+          ],
+          [
+            6.618847,
+            46.5304938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45285247",
+      "properties": {
+        "@id": "way/45285247",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6190734,
+            46.53048
+          ],
+          [
+            6.6190069,
+            46.5305244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45374028",
+      "properties": {
+        "@id": "way/45374028",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6190069,
+            46.5305244
+          ],
+          [
+            6.618964,
+            46.5305679
+          ],
+          [
+            6.6188181,
+            46.5306446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46949988",
+      "properties": {
+        "@id": "way/46949988",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6188181,
+            46.5306446
+          ],
+          [
+            6.6187806,
+            46.5306665
+          ],
+          [
+            6.6187384,
+            46.5306911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300229261",
+      "properties": {
+        "@id": "way/300229261",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6187384,
+            46.5306911
+          ],
+          [
+            6.6186936,
+            46.5307172
+          ],
+          [
+            6.6185968,
+            46.530775
+          ],
+          [
+            6.618175,
+            46.5310194
+          ],
+          [
+            6.6180707,
+            46.5310987
+          ],
+          [
+            6.6179892,
+            46.5311866
+          ],
+          [
+            6.6179252,
+            46.5312768
+          ],
+          [
+            6.6178806,
+            46.5313518
+          ],
+          [
+            6.6178471,
+            46.5314269
+          ],
+          [
+            6.6178263,
+            46.5314821
+          ],
+          [
+            6.6178165,
+            46.5315788
+          ],
+          [
+            6.6178296,
+            46.5316494
+          ],
+          [
+            6.6178687,
+            46.5317645
+          ],
+          [
+            6.6179099,
+            46.5318384
+          ],
+          [
+            6.6179621,
+            46.5319307
+          ],
+          [
+            6.6180207,
+            46.5320111
+          ],
+          [
+            6.6180696,
+            46.5320741
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8019915",
+      "properties": {
+        "@id": "way/8019915",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6248456,
+            46.5235892
+          ],
+          [
+            6.6247677,
+            46.5234721
+          ],
+          [
+            6.6246148,
+            46.5232862
+          ],
+          [
+            6.6245226,
+            46.5231734
+          ],
+          [
+            6.624483,
+            46.5231167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23407531",
+      "properties": {
+        "@id": "way/23407531",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6232915,
+            46.5214065
+          ],
+          [
+            6.6232242,
+            46.5213098
+          ],
+          [
+            6.6231454,
+            46.5211854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24573893",
+      "properties": {
+        "@id": "way/24573893",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6248456,
+            46.5235892
+          ],
+          [
+            6.6249208,
+            46.5237682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178443582",
+      "properties": {
+        "@id": "way/178443582",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.624483,
+            46.5231167
+          ],
+          [
+            6.6235295,
+            46.5217481
+          ],
+          [
+            6.6232915,
+            46.5214065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25418055",
+      "properties": {
+        "@id": "way/25418055",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6263786,
+            46.5272602
+          ],
+          [
+            6.6265648,
+            46.5272243
+          ],
+          [
+            6.6266751,
+            46.5271959
+          ],
+          [
+            6.6270104,
+            46.5270907
+          ],
+          [
+            6.6270857,
+            46.5270693
+          ],
+          [
+            6.627176,
+            46.5270437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112453301",
+      "properties": {
+        "@id": "way/112453301",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6261401,
+            46.5255433
+          ],
+          [
+            6.6261698,
+            46.5255871
+          ],
+          [
+            6.6262852,
+            46.5257571
+          ],
+          [
+            6.626488,
+            46.52605
+          ],
+          [
+            6.626505,
+            46.5260745
+          ],
+          [
+            6.6267052,
+            46.5263636
+          ],
+          [
+            6.6267796,
+            46.526471
+          ],
+          [
+            6.6268015,
+            46.5265027
+          ],
+          [
+            6.6269363,
+            46.5266963
+          ],
+          [
+            6.6271124,
+            46.5269491
+          ],
+          [
+            6.627176,
+            46.5270437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112501355",
+      "properties": {
+        "@id": "way/112501355",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6257225,
+            46.5249223
+          ],
+          [
+            6.6257697,
+            46.5250029
+          ],
+          [
+            6.6260697,
+            46.5254439
+          ],
+          [
+            6.6261038,
+            46.5254941
+          ],
+          [
+            6.6261401,
+            46.5255433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23405084",
+      "properties": {
+        "@id": "way/23405084",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6263786,
+            46.5272602
+          ],
+          [
+            6.6264717,
+            46.527411
+          ],
+          [
+            6.6267126,
+            46.5277916
+          ],
+          [
+            6.6270327,
+            46.5282985
+          ],
+          [
+            6.6270641,
+            46.528387
+          ],
+          [
+            6.6270636,
+            46.5284777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25001688",
+      "properties": {
+        "@id": "way/25001688",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6207249,
+            46.5346919
+          ],
+          [
+            6.6206947,
+            46.5345945
+          ],
+          [
+            6.6206632,
+            46.5345338
+          ],
+          [
+            6.6203693,
+            46.5340996
+          ],
+          [
+            6.6202257,
+            46.5338875
+          ],
+          [
+            6.6200418,
+            46.5336398
+          ],
+          [
+            6.619819,
+            46.5334393
+          ],
+          [
+            6.6197261,
+            46.5333557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27336719",
+      "properties": {
+        "@id": "way/27336719",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6334395,
+            46.5330661
+          ],
+          [
+            6.633414,
+            46.5330157
+          ],
+          [
+            6.6333566,
+            46.5328902
+          ],
+          [
+            6.6332901,
+            46.5327954
+          ],
+          [
+            6.6332338,
+            46.5327346
+          ],
+          [
+            6.6331451,
+            46.5326648
+          ],
+          [
+            6.6329848,
+            46.5325691
+          ],
+          [
+            6.632936,
+            46.5325479
+          ],
+          [
+            6.6328791,
+            46.5325259
+          ],
+          [
+            6.6328189,
+            46.5325082
+          ],
+          [
+            6.632736,
+            46.5324879
+          ],
+          [
+            6.6325899,
+            46.5324706
+          ],
+          [
+            6.6323656,
+            46.5324652
+          ],
+          [
+            6.6322307,
+            46.532476
+          ],
+          [
+            6.6320872,
+            46.5325016
+          ],
+          [
+            6.6318908,
+            46.5325552
+          ],
+          [
+            6.631644,
+            46.5326513
+          ],
+          [
+            6.6315537,
+            46.5326918
+          ],
+          [
+            6.6307999,
+            46.5330284
+          ],
+          [
+            6.6307602,
+            46.5330478
+          ],
+          [
+            6.6304177,
+            46.5331965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47366249",
+      "properties": {
+        "@id": "way/47366249",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6198112,
+            46.5333009
+          ],
+          [
+            6.6199245,
+            46.5333965
+          ],
+          [
+            6.6201363,
+            46.5336007
+          ],
+          [
+            6.6203949,
+            46.5339027
+          ],
+          [
+            6.6208402,
+            46.5345588
+          ],
+          [
+            6.6208942,
+            46.5346752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47367992",
+      "properties": {
+        "@id": "way/47367992",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6249208,
+            46.5237682
+          ],
+          [
+            6.6249507,
+            46.5238452
+          ],
+          [
+            6.6251045,
+            46.5241329
+          ],
+          [
+            6.6253039,
+            46.524413
+          ],
+          [
+            6.62566,
+            46.5248441
+          ],
+          [
+            6.6257225,
+            46.5249223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172330217",
+      "properties": {
+        "@id": "way/172330217",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6263786,
+            46.5272602
+          ],
+          [
+            6.6261852,
+            46.5272862
+          ],
+          [
+            6.6258706,
+            46.5273312
+          ],
+          [
+            6.6255695,
+            46.5273838
+          ],
+          [
+            6.6252123,
+            46.5275063
+          ],
+          [
+            6.6248341,
+            46.5276485
+          ],
+          [
+            6.6243619,
+            46.5278259
+          ],
+          [
+            6.6242849,
+            46.5278548
+          ],
+          [
+            6.6237993,
+            46.528038
+          ],
+          [
+            6.6234095,
+            46.5281968
+          ],
+          [
+            6.6232533,
+            46.5282689
+          ],
+          [
+            6.6230767,
+            46.5283254
+          ],
+          [
+            6.6226243,
+            46.528496
+          ],
+          [
+            6.6222585,
+            46.5286527
+          ],
+          [
+            6.6220644,
+            46.5287456
+          ],
+          [
+            6.6218574,
+            46.5288447
+          ],
+          [
+            6.6217464,
+            46.5289022
+          ],
+          [
+            6.6214682,
+            46.5290464
+          ],
+          [
+            6.6214339,
+            46.529064
+          ],
+          [
+            6.6213801,
+            46.5290965
+          ],
+          [
+            6.6204193,
+            46.5296306
+          ],
+          [
+            6.6201713,
+            46.5297694
+          ],
+          [
+            6.6196903,
+            46.5300385
+          ],
+          [
+            6.6196383,
+            46.5300721
+          ],
+          [
+            6.619528,
+            46.5301436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23873644",
+      "properties": {
+        "@id": "way/23873644",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.628424,
+            46.5315683
+          ],
+          [
+            6.6284453,
+            46.53165
+          ],
+          [
+            6.628467,
+            46.5317968
+          ],
+          [
+            6.6284964,
+            46.5319239
+          ],
+          [
+            6.6286931,
+            46.53284
+          ],
+          [
+            6.6287551,
+            46.532988
+          ],
+          [
+            6.6288355,
+            46.5331153
+          ],
+          [
+            6.6289515,
+            46.5332561
+          ],
+          [
+            6.6290497,
+            46.5333346
+          ],
+          [
+            6.6291556,
+            46.5334193
+          ],
+          [
+            6.6292217,
+            46.5334488
+          ],
+          [
+            6.6293077,
+            46.5334872
+          ],
+          [
+            6.6295574,
+            46.5335283
+          ],
+          [
+            6.6298477,
+            46.5334672
+          ],
+          [
+            6.6300144,
+            46.5333892
+          ],
+          [
+            6.6301364,
+            46.5333321
+          ],
+          [
+            6.6304177,
+            46.5331965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24538453",
+      "properties": {
+        "@id": "way/24538453",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6270636,
+            46.5284777
+          ],
+          [
+            6.6270469,
+            46.5285423
+          ],
+          [
+            6.6270098,
+            46.5285974
+          ],
+          [
+            6.6269504,
+            46.5286418
+          ],
+          [
+            6.6266837,
+            46.5288451
+          ],
+          [
+            6.6263179,
+            46.5291231
+          ],
+          [
+            6.6262564,
+            46.5291858
+          ],
+          [
+            6.6262292,
+            46.5292371
+          ],
+          [
+            6.626214,
+            46.529298
+          ],
+          [
+            6.6262112,
+            46.5293582
+          ],
+          [
+            6.6262283,
+            46.5294132
+          ],
+          [
+            6.6262559,
+            46.529457
+          ],
+          [
+            6.6263006,
+            46.5295141
+          ],
+          [
+            6.6264091,
+            46.5296136
+          ],
+          [
+            6.626653,
+            46.5298374
+          ],
+          [
+            6.6269153,
+            46.5300715
+          ],
+          [
+            6.6270136,
+            46.5301564
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24696404",
+      "properties": {
+        "@id": "way/24696404",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6270136,
+            46.5301564
+          ],
+          [
+            6.6270782,
+            46.5302149
+          ],
+          [
+            6.6275336,
+            46.53064
+          ],
+          [
+            6.6279447,
+            46.5310225
+          ],
+          [
+            6.628331,
+            46.5314032
+          ],
+          [
+            6.6283873,
+            46.5314587
+          ],
+          [
+            6.628424,
+            46.5315683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/117358176",
+      "properties": {
+        "@id": "way/117358176",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6171881,
+            46.5395298
+          ],
+          [
+            6.6172181,
+            46.5395339
+          ],
+          [
+            6.6172456,
+            46.5395431
+          ],
+          [
+            6.617269,
+            46.5395567
+          ],
+          [
+            6.6172866,
+            46.5395739
+          ],
+          [
+            6.6172973,
+            46.5395936
+          ],
+          [
+            6.6173005,
+            46.5396146
+          ],
+          [
+            6.6172956,
+            46.5396363
+          ],
+          [
+            6.6172825,
+            46.5396565
+          ],
+          [
+            6.6172622,
+            46.5396735
+          ],
+          [
+            6.6172361,
+            46.5396863
+          ],
+          [
+            6.6172061,
+            46.5396939
+          ],
+          [
+            6.6171742,
+            46.5396958
+          ],
+          [
+            6.6171364,
+            46.5396904
+          ],
+          [
+            6.617103,
+            46.539677
+          ],
+          [
+            6.6170775,
+            46.5396571
+          ],
+          [
+            6.6170624,
+            46.5396326
+          ],
+          [
+            6.6170592,
+            46.5396062
+          ],
+          [
+            6.617068,
+            46.539581
+          ],
+          [
+            6.6170876,
+            46.539559
+          ],
+          [
+            6.617116,
+            46.5395421
+          ],
+          [
+            6.6171506,
+            46.5395321
+          ],
+          [
+            6.6171881,
+            46.5395298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24055077",
+      "properties": {
+        "@id": "way/24055077",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6198114,
+            46.5417146
+          ],
+          [
+            6.619471,
+            46.5416167
+          ],
+          [
+            6.6192991,
+            46.5415672
+          ],
+          [
+            6.6186223,
+            46.5413828
+          ],
+          [
+            6.6184223,
+            46.5413282
+          ],
+          [
+            6.6183268,
+            46.5413022
+          ],
+          [
+            6.6181988,
+            46.5412517
+          ],
+          [
+            6.6180417,
+            46.5411846
+          ],
+          [
+            6.6179175,
+            46.5411249
+          ],
+          [
+            6.617788,
+            46.5410528
+          ],
+          [
+            6.6176741,
+            46.5409754
+          ],
+          [
+            6.6176195,
+            46.5409364
+          ],
+          [
+            6.6175559,
+            46.5408798
+          ],
+          [
+            6.6174445,
+            46.5407771
+          ],
+          [
+            6.6173803,
+            46.5407008
+          ],
+          [
+            6.6173281,
+            46.5406271
+          ],
+          [
+            6.6172531,
+            46.5405004
+          ],
+          [
+            6.6172128,
+            46.540414
+          ],
+          [
+            6.6171853,
+            46.5403379
+          ],
+          [
+            6.6171579,
+            46.5402396
+          ],
+          [
+            6.6171457,
+            46.5401357
+          ],
+          [
+            6.6171539,
+            46.5399533
+          ],
+          [
+            6.6171661,
+            46.5397805
+          ],
+          [
+            6.6171742,
+            46.5396958
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/117358177",
+      "properties": {
+        "@id": "way/117358177",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6171881,
+            46.5395298
+          ],
+          [
+            6.6172002,
+            46.539438
+          ],
+          [
+            6.6172064,
+            46.5393222
+          ],
+          [
+            6.6172112,
+            46.5392337
+          ],
+          [
+            6.6172619,
+            46.5386274
+          ],
+          [
+            6.6172723,
+            46.5385604
+          ],
+          [
+            6.6173143,
+            46.5383983
+          ],
+          [
+            6.6173458,
+            46.5382897
+          ],
+          [
+            6.6173849,
+            46.5381876
+          ],
+          [
+            6.617424,
+            46.5381051
+          ],
+          [
+            6.6174667,
+            46.53803
+          ],
+          [
+            6.6175322,
+            46.5379329
+          ],
+          [
+            6.6179219,
+            46.5374048
+          ],
+          [
+            6.6180075,
+            46.5373102
+          ],
+          [
+            6.6181468,
+            46.5371563
+          ],
+          [
+            6.6184328,
+            46.5369321
+          ],
+          [
+            6.618508,
+            46.5368819
+          ],
+          [
+            6.618583,
+            46.5368318
+          ],
+          [
+            6.6188165,
+            46.5366905
+          ],
+          [
+            6.6191845,
+            46.5364678
+          ],
+          [
+            6.619552,
+            46.5362685
+          ],
+          [
+            6.6199333,
+            46.5360713
+          ],
+          [
+            6.6201184,
+            46.5359644
+          ],
+          [
+            6.6202635,
+            46.5358462
+          ],
+          [
+            6.6203018,
+            46.5358078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25001687",
+      "properties": {
+        "@id": "way/25001687",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6208392,
+            46.5348607
+          ],
+          [
+            6.6207962,
+            46.534859
+          ],
+          [
+            6.6207626,
+            46.5348511
+          ],
+          [
+            6.6207197,
+            46.5348289
+          ],
+          [
+            6.6206887,
+            46.5347917
+          ],
+          [
+            6.6206823,
+            46.5347582
+          ],
+          [
+            6.620696,
+            46.53472
+          ],
+          [
+            6.6207249,
+            46.5346919
+          ],
+          [
+            6.6207752,
+            46.5346698
+          ],
+          [
+            6.6208378,
+            46.5346637
+          ],
+          [
+            6.6208942,
+            46.5346752
+          ],
+          [
+            6.6209424,
+            46.5347043
+          ],
+          [
+            6.6209654,
+            46.5347383
+          ],
+          [
+            6.620969,
+            46.5347721
+          ],
+          [
+            6.6209417,
+            46.5348209
+          ],
+          [
+            6.6209238,
+            46.5348347
+          ],
+          [
+            6.6208885,
+            46.5348513
+          ],
+          [
+            6.6208392,
+            46.5348607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45282972",
+      "properties": {
+        "@id": "way/45282972",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6208392,
+            46.5348607
+          ],
+          [
+            6.6207995,
+            46.5349637
+          ],
+          [
+            6.6207537,
+            46.5351736
+          ],
+          [
+            6.6207256,
+            46.535272
+          ],
+          [
+            6.6206739,
+            46.5353976
+          ],
+          [
+            6.6206207,
+            46.5354873
+          ],
+          [
+            6.6205216,
+            46.535622
+          ],
+          [
+            6.6204149,
+            46.5357382
+          ],
+          [
+            6.6203018,
+            46.5358078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45373917",
+      "properties": {
+        "@id": "way/45373917",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6203018,
+            46.5358078
+          ],
+          [
+            6.6203218,
+            46.5357028
+          ],
+          [
+            6.6204061,
+            46.5355855
+          ],
+          [
+            6.6204595,
+            46.5355089
+          ],
+          [
+            6.6204799,
+            46.5354795
+          ],
+          [
+            6.6205514,
+            46.5353713
+          ],
+          [
+            6.6206111,
+            46.5352483
+          ],
+          [
+            6.6206659,
+            46.5351153
+          ],
+          [
+            6.6206738,
+            46.5350798
+          ],
+          [
+            6.6207015,
+            46.5349546
+          ],
+          [
+            6.6207197,
+            46.5348289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31993951",
+      "properties": {
+        "@id": "way/31993951",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6204436,
+            46.5419071
+          ],
+          [
+            6.6208726,
+            46.5421836
+          ],
+          [
+            6.6211945,
+            46.542465
+          ],
+          [
+            6.6212629,
+            46.5424843
+          ],
+          [
+            6.6213449,
+            46.5424657
+          ],
+          [
+            6.6213792,
+            46.5424433
+          ],
+          [
+            6.6213996,
+            46.5424178
+          ],
+          [
+            6.6214079,
+            46.5423822
+          ],
+          [
+            6.6214063,
+            46.5423577
+          ],
+          [
+            6.6213907,
+            46.542331
+          ],
+          [
+            6.6213657,
+            46.5423066
+          ],
+          [
+            6.6213345,
+            46.5422938
+          ],
+          [
+            6.6210279,
+            46.5422035
+          ],
+          [
+            6.6208834,
+            46.5421596
+          ],
+          [
+            6.6204436,
+            46.5419071
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31993952",
+      "properties": {
+        "@id": "way/31993952",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6211712,
+            46.5425254
+          ],
+          [
+            6.6211098,
+            46.5424651
+          ],
+          [
+            6.6207666,
+            46.5421757
+          ],
+          [
+            6.6204436,
+            46.5419071
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396544575",
+      "properties": {
+        "@id": "way/396544575",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6204436,
+            46.5419071
+          ],
+          [
+            6.6200466,
+            46.5417818
+          ],
+          [
+            6.6199178,
+            46.5417452
+          ],
+          [
+            6.6198114,
+            46.5417146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24968306",
+      "properties": {
+        "@id": "way/24968306",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6333769,
+            46.5359434
+          ],
+          [
+            6.6333615,
+            46.5357865
+          ],
+          [
+            6.6333563,
+            46.5356517
+          ],
+          [
+            6.6333547,
+            46.5356088
+          ],
+          [
+            6.6333648,
+            46.5352156
+          ],
+          [
+            6.6333728,
+            46.5349069
+          ],
+          [
+            6.6333749,
+            46.5348247
+          ],
+          [
+            6.6333845,
+            46.5346349
+          ],
+          [
+            6.6333926,
+            46.5344762
+          ],
+          [
+            6.6334145,
+            46.5341791
+          ],
+          [
+            6.6334293,
+            46.5338695
+          ],
+          [
+            6.633454,
+            46.5335507
+          ],
+          [
+            6.6334565,
+            46.5334895
+          ],
+          [
+            6.6334623,
+            46.5333459
+          ],
+          [
+            6.633461,
+            46.5332806
+          ],
+          [
+            6.6334597,
+            46.5332197
+          ],
+          [
+            6.6334555,
+            46.5331345
+          ],
+          [
+            6.6334395,
+            46.5330661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24748202",
+      "properties": {
+        "@id": "way/24748202",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6333769,
+            46.5359434
+          ],
+          [
+            6.6333923,
+            46.5360819
+          ],
+          [
+            6.6334258,
+            46.5362724
+          ],
+          [
+            6.6335016,
+            46.5365415
+          ],
+          [
+            6.6336521,
+            46.5370095
+          ],
+          [
+            6.6336633,
+            46.5370476
+          ],
+          [
+            6.6336803,
+            46.5371056
+          ],
+          [
+            6.6337557,
+            46.5373622
+          ],
+          [
+            6.6338185,
+            46.5376335
+          ],
+          [
+            6.6338278,
+            46.5376736
+          ],
+          [
+            6.6338327,
+            46.5377191
+          ],
+          [
+            6.6338497,
+            46.537876
+          ],
+          [
+            6.6338513,
+            46.5378906
+          ],
+          [
+            6.6338728,
+            46.538089
+          ],
+          [
+            6.6338703,
+            46.5382953
+          ],
+          [
+            6.6338636,
+            46.5383565
+          ],
+          [
+            6.6338307,
+            46.5386555
+          ],
+          [
+            6.6338187,
+            46.5387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26182236",
+      "properties": {
+        "@id": "way/26182236",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6351922,
+            46.5362874
+          ],
+          [
+            6.6351684,
+            46.5362508
+          ],
+          [
+            6.6351298,
+            46.5362281
+          ],
+          [
+            6.6350752,
+            46.536211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45850353",
+      "properties": {
+        "@id": "way/45850353",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6350752,
+            46.536211
+          ],
+          [
+            6.6349819,
+            46.5362315
+          ],
+          [
+            6.6348295,
+            46.5362997
+          ],
+          [
+            6.634758,
+            46.5363173
+          ],
+          [
+            6.6346257,
+            46.5363499
+          ],
+          [
+            6.6344609,
+            46.5363657
+          ],
+          [
+            6.6342323,
+            46.5363612
+          ],
+          [
+            6.634002,
+            46.5363155
+          ],
+          [
+            6.6338456,
+            46.5362525
+          ],
+          [
+            6.6336997,
+            46.5361707
+          ],
+          [
+            6.6335153,
+            46.5360278
+          ],
+          [
+            6.6333769,
+            46.5359434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46578574",
+      "properties": {
+        "@id": "way/46578574",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6344752,
+            46.5387494
+          ],
+          [
+            6.6345457,
+            46.538538
+          ],
+          [
+            6.634573,
+            46.538458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46578575",
+      "properties": {
+        "@id": "way/46578575",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6341354,
+            46.5388463
+          ],
+          [
+            6.6340652,
+            46.5388937
+          ],
+          [
+            6.6340041,
+            46.5389338
+          ],
+          [
+            6.6339272,
+            46.5389556
+          ],
+          [
+            6.633838,
+            46.5389451
+          ],
+          [
+            6.6338001,
+            46.5389168
+          ],
+          [
+            6.6337733,
+            46.5388689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46578576",
+      "properties": {
+        "@id": "way/46578576",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6338187,
+            46.5387
+          ],
+          [
+            6.6337733,
+            46.5388689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46578579",
+      "properties": {
+        "@id": "way/46578579",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6344752,
+            46.5387494
+          ],
+          [
+            6.6343984,
+            46.5387418
+          ],
+          [
+            6.6343303,
+            46.5387509
+          ],
+          [
+            6.6342588,
+            46.5387853
+          ],
+          [
+            6.6341354,
+            46.5388463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127208791",
+      "properties": {
+        "@id": "way/127208791",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.634573,
+            46.538458
+          ],
+          [
+            6.6345865,
+            46.5384087
+          ],
+          [
+            6.6347775,
+            46.5378433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127208793",
+      "properties": {
+        "@id": "way/127208793",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6351036,
+            46.536721
+          ],
+          [
+            6.6351117,
+            46.5366904
+          ],
+          [
+            6.6351965,
+            46.5363336
+          ],
+          [
+            6.6351922,
+            46.5362874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127208794",
+      "properties": {
+        "@id": "way/127208794",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6347775,
+            46.5378433
+          ],
+          [
+            6.6347962,
+            46.5377725
+          ],
+          [
+            6.6348971,
+            46.5374666
+          ],
+          [
+            6.6349241,
+            46.5373925
+          ],
+          [
+            6.6350082,
+            46.5371257
+          ],
+          [
+            6.6351036,
+            46.536721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/408169986",
+      "properties": {
+        "@id": "node/408169986",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.625471,
+          46.518691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/408169988",
+      "properties": {
+        "@id": "node/408169988",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6237509,
+          46.5195803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/318914801",
+      "properties": {
+        "@id": "node/318914801",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62871,
+          46.517297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/408169981",
+      "properties": {
+        "@id": "node/408169981",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629792,
+          46.517159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380805960",
+      "properties": {
+        "@id": "node/380805960",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.618466,
+          46.532713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/666750140",
+      "properties": {
+        "@id": "node/666750140",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6183281,
+          46.5310155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/313708453",
+      "properties": {
+        "@id": "node/313708453",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624483,
+          46.523289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/313708459",
+      "properties": {
+        "@id": "node/313708459",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.625114,
+          46.524013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/408169993",
+      "properties": {
+        "@id": "node/408169993",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.623063,
+          46.520828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/564116095",
+      "properties": {
+        "@id": "node/564116095",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.622775,
+          46.52085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380805973",
+      "properties": {
+        "@id": "node/380805973",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6260228,
+          46.5272274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/383865278",
+      "properties": {
+        "@id": "node/383865278",
+        "@relations": [
+          {
+            "role": "backward:stop ",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.625951,
+          46.5254373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1651310818",
+      "properties": {
+        "@id": "node/1651310818",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6263121,
+          46.5256357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380805963",
+      "properties": {
+        "@id": "node/380805963",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.619231,
+          46.530258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380805965",
+      "properties": {
+        "@id": "node/380805965",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.621572,
+          46.528925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380805967",
+      "properties": {
+        "@id": "node/380805967",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.623941,
+          46.527915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380805970",
+      "properties": {
+        "@id": "node/380805970",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.623634,
+          46.528179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/666750142",
+      "properties": {
+        "@id": "node/666750142",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.621119,
+          46.529301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/666750147",
+      "properties": {
+        "@id": "node/666750147",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.620277,
+          46.533704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358607058",
+      "properties": {
+        "@id": "node/358607058",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628015,
+          46.531224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358858245",
+      "properties": {
+        "@id": "node/358858245",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629735,
+          46.533553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358858248",
+      "properties": {
+        "@id": "node/358858248",
+        "@relations": [
+          {
+            "role": "backward:stop ",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628613,
+          46.531897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358858252",
+      "properties": {
+        "@id": "node/358858252",
+        "@relations": [
+          {
+            "role": "backward:stop ",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.626709,
+          46.529996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380835772",
+      "properties": {
+        "@id": "node/380835772",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6266846,
+          46.5275476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/383865264",
+      "properties": {
+        "@id": "node/383865264",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.627309,
+          46.530311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/383865275",
+      "properties": {
+        "@id": "node/383865275",
+        "@relations": [
+          {
+            "role": "backward:stop ",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6264667,
+          46.5276128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602698424",
+      "properties": {
+        "@id": "node/602698424",
+        "@relations": [
+          {
+            "role": "backward:stop ",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631717,
+          46.532558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/666750148",
+      "properties": {
+        "@id": "node/666750148",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6258087,
+          46.5274251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380805950",
+      "properties": {
+        "@id": "node/380805950",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.617211,
+          46.538493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380805953",
+      "properties": {
+        "@id": "node/380805953",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.617349,
+          46.53871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380805955",
+      "properties": {
+        "@id": "node/380805955",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.618821,
+          46.536575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/383865200",
+      "properties": {
+        "@id": "node/383865200",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.618957,
+          46.536692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380805957",
+      "properties": {
+        "@id": "node/380805957",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.620553,
+          46.535229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/383865201",
+      "properties": {
+        "@id": "node/383865201",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.620829,
+          46.535109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358607444",
+      "properties": {
+        "@id": "node/358607444",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 34351,
+            "reltags": {
+              "colour": "#8833AF",
+              "network": "TL",
+              "ref": "21",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.621088,
+          46.542324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599679828",
+      "properties": {
+        "@id": "node/599679828",
+        "@relations": [
+          {
+            "role": "backward:stop ",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.633306,
+          46.533099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599679841",
+      "properties": {
+        "@id": "node/599679841",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.633502,
+          46.533636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595358821",
+      "properties": {
+        "@id": "node/595358821",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.633891,
+          46.539021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599679993",
+      "properties": {
+        "@id": "node/599679993",
+        "@relations": [
+          {
+            "role": "backward:stop ",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63347,
+          46.535857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/666750737",
+      "properties": {
+        "@id": "node/666750737",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 33556,
+            "reltags": {
+              "color": "#9B9B9B",
+              "network": "TL",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route",
+              "url": "http://www.t-l.ch/"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63326,
+          46.53529
+        ]
+      }
+    }
+  ]
+}

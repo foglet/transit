@@ -1,0 +1,1637 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T05:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/4231648",
+      "properties": {
+        "@id": "way/4231648",
+        "highway": "primary",
+        "lanes": "6",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "no",
+        "ref": "99",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1402234,
+            49.2173733
+          ],
+          [
+            -123.1401835,
+            49.218376
+          ],
+          [
+            -123.1401765,
+            49.2184852
+          ],
+          [
+            -123.1401456,
+            49.2193543
+          ],
+          [
+            -123.1401223,
+            49.2199034
+          ],
+          [
+            -123.1400891,
+            49.220804
+          ],
+          [
+            -123.1400528,
+            49.2217063
+          ],
+          [
+            -123.1400077,
+            49.2225959
+          ],
+          [
+            -123.1399571,
+            49.223464
+          ],
+          [
+            -123.1399362,
+            49.2240645
+          ],
+          [
+            -123.139846,
+            49.226964
+          ],
+          [
+            -123.1398025,
+            49.2278893
+          ],
+          [
+            -123.139782,
+            49.2287633
+          ],
+          [
+            -123.1397359,
+            49.2296806
+          ],
+          [
+            -123.1397111,
+            49.2306173
+          ],
+          [
+            -123.1396527,
+            49.2324728
+          ],
+          [
+            -123.139615,
+            49.2343308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4241338",
+      "properties": {
+        "@id": "way/4241338",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "maxspeed": "50",
+        "name": "East Broadway",
+        "oneway": "no",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1048943,
+            49.2630168
+          ],
+          [
+            -123.1029682,
+            49.2629667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24529972",
+      "properties": {
+        "@id": "way/24529972",
+        "hgv": "yes",
+        "highway": "secondary",
+        "lanes": "7",
+        "lanes:backward": "4",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "no",
+        "trolley_wire": "yes",
+        "turn:lanes:backward": "left|none|none|none"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1405126,
+            49.2085345
+          ],
+          [
+            -123.1405312,
+            49.2080297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30735286",
+      "properties": {
+        "@id": "way/30735286",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "no",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1418336,
+            49.2872553
+          ],
+          [
+            -123.1402652,
+            49.2862313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36973371",
+      "properties": {
+        "@id": "way/36973371",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "layer": "1",
+        "name": "East Broadway",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.0669883,
+            49.2623795
+          ],
+          [
+            -123.0667971,
+            49.2623771
+          ],
+          [
+            -123.0665928,
+            49.262376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36982442",
+      "properties": {
+        "@id": "way/36982442",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Robson Street",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1354366,
+            49.2914801
+          ],
+          [
+            -123.1338552,
+            49.2904541
+          ],
+          [
+            -123.1322839,
+            49.2894388
+          ],
+          [
+            -123.1311052,
+            49.2886737
+          ],
+          [
+            -123.1299397,
+            49.287924
+          ],
+          [
+            -123.1285348,
+            49.2870098
+          ],
+          [
+            -123.127926,
+            49.2866144
+          ],
+          [
+            -123.1269709,
+            49.2859942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39453118",
+      "properties": {
+        "@id": "way/39453118",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Denman Street",
+        "oneway": "no",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1354366,
+            49.2914801
+          ],
+          [
+            -123.1359899,
+            49.2911126
+          ],
+          [
+            -123.1364789,
+            49.2907878
+          ],
+          [
+            -123.1370478,
+            49.29041
+          ],
+          [
+            -123.1375756,
+            49.2900594
+          ],
+          [
+            -123.1380675,
+            49.2897327
+          ],
+          [
+            -123.1386321,
+            49.2893578
+          ],
+          [
+            -123.1391275,
+            49.2890287
+          ],
+          [
+            -123.1396896,
+            49.2886554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50097998",
+      "properties": {
+        "@id": "way/50097998",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Robson Street",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1269709,
+            49.2859942
+          ],
+          [
+            -123.1248069,
+            49.284589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50098015",
+      "properties": {
+        "@id": "way/50098015",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Robson Street",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.120825,
+            49.282012
+          ],
+          [
+            -123.1203422,
+            49.2816915
+          ],
+          [
+            -123.1203197,
+            49.2816793
+          ],
+          [
+            -123.1199007,
+            49.2813986
+          ],
+          [
+            -123.1198222,
+            49.2813449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50098016",
+      "properties": {
+        "@id": "way/50098016",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Robson Street",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1217731,
+            49.2826492
+          ],
+          [
+            -123.121713,
+            49.28261
+          ],
+          [
+            -123.1216858,
+            49.2825917
+          ],
+          [
+            -123.1214905,
+            49.2824601
+          ],
+          [
+            -123.1213031,
+            49.2823339
+          ],
+          [
+            -123.120825,
+            49.282012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50849314",
+      "properties": {
+        "@id": "way/50849314",
+        "hgv": "yes",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "no",
+        "ref": "99",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1402234,
+            49.2173733
+          ],
+          [
+            -123.140233,
+            49.2168056
+          ],
+          [
+            -123.14026,
+            49.2159055
+          ],
+          [
+            -123.1402969,
+            49.215032
+          ],
+          [
+            -123.1403013,
+            49.2149402
+          ],
+          [
+            -123.1403384,
+            49.2139999
+          ],
+          [
+            -123.1403493,
+            49.2137322
+          ],
+          [
+            -123.1403537,
+            49.213144
+          ],
+          [
+            -123.1403864,
+            49.2122602
+          ],
+          [
+            -123.1404284,
+            49.2113705
+          ],
+          [
+            -123.1404365,
+            49.210875
+          ],
+          [
+            -123.1404605,
+            49.2105072
+          ],
+          [
+            -123.1404923,
+            49.2098303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71359358",
+      "properties": {
+        "@id": "way/71359358",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "maxspeed": "50",
+        "name": "East Broadway",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1010594,
+            49.262906
+          ],
+          [
+            -123.1008777,
+            49.2628989
+          ],
+          [
+            -123.1002723,
+            49.2628753
+          ],
+          [
+            -123.0995703,
+            49.2628479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71359364",
+      "properties": {
+        "@id": "way/71359364",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "maxspeed": "50",
+        "name": "East Broadway",
+        "oneway": "no",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1029682,
+            49.2629667
+          ],
+          [
+            -123.1017773,
+            49.2629373
+          ],
+          [
+            -123.1010594,
+            49.262906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74096521",
+      "properties": {
+        "@id": "way/74096521",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Davie Street",
+        "oneway": "no",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1291894,
+            49.2790881
+          ],
+          [
+            -123.1286318,
+            49.2787284
+          ],
+          [
+            -123.1281362,
+            49.2784099
+          ],
+          [
+            -123.1280735,
+            49.2783684
+          ],
+          [
+            -123.1276856,
+            49.2781182
+          ],
+          [
+            -123.1271762,
+            49.2777896
+          ],
+          [
+            -123.1267388,
+            49.2775075
+          ],
+          [
+            -123.126185,
+            49.2771504
+          ],
+          [
+            -123.1256991,
+            49.2768371
+          ],
+          [
+            -123.125191,
+            49.2765093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74366383",
+      "properties": {
+        "@id": "way/74366383",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Robson Street",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1248069,
+            49.284589
+          ],
+          [
+            -123.1245415,
+            49.2844172
+          ],
+          [
+            -123.1229315,
+            49.2833751
+          ],
+          [
+            -123.122786,
+            49.2832809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74366425",
+      "properties": {
+        "@id": "way/74366425",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Davie Street",
+        "oneway": "no",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1402652,
+            49.2862313
+          ],
+          [
+            -123.1386745,
+            49.2852222
+          ],
+          [
+            -123.1375067,
+            49.284467
+          ],
+          [
+            -123.1362871,
+            49.2836783
+          ],
+          [
+            -123.1349362,
+            49.2828047
+          ],
+          [
+            -123.1341244,
+            49.2822797
+          ],
+          [
+            -123.1336543,
+            49.2819757
+          ],
+          [
+            -123.1333608,
+            49.2817859
+          ],
+          [
+            -123.132083,
+            49.2809595
+          ],
+          [
+            -123.1314901,
+            49.280576
+          ],
+          [
+            -123.1311888,
+            49.2803812
+          ],
+          [
+            -123.1291894,
+            49.2790881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74366445",
+      "properties": {
+        "@id": "way/74366445",
+        "highway": "tertiary",
+        "name": "Robson Street",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.122786,
+            49.2832809
+          ],
+          [
+            -123.1226725,
+            49.2832093
+          ],
+          [
+            -123.1222277,
+            49.2829285
+          ],
+          [
+            -123.1218593,
+            49.2827022
+          ],
+          [
+            -123.1217731,
+            49.2826492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74402574",
+      "properties": {
+        "@id": "way/74402574",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "name": "East Broadway",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.0995703,
+            49.2628479
+          ],
+          [
+            -123.0994066,
+            49.2628438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74402587",
+      "properties": {
+        "@id": "way/74402587",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "maxspeed": "50",
+        "name": "East Broadway",
+        "oneway": "no",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.0891158,
+            49.2624843
+          ],
+          [
+            -123.0871731,
+            49.2624655
+          ],
+          [
+            -123.0852306,
+            49.2624502
+          ],
+          [
+            -123.083308,
+            49.2624324
+          ],
+          [
+            -123.0813897,
+            49.2624236
+          ],
+          [
+            -123.0798139,
+            49.2624106
+          ],
+          [
+            -123.0780175,
+            49.2623984
+          ],
+          [
+            -123.0776224,
+            49.2623957
+          ],
+          [
+            -123.0774742,
+            49.2623947
+          ],
+          [
+            -123.0755768,
+            49.2623757
+          ],
+          [
+            -123.0736319,
+            49.2623503
+          ],
+          [
+            -123.071048,
+            49.2623331
+          ],
+          [
+            -123.0697681,
+            49.2623328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74402596",
+      "properties": {
+        "@id": "way/74402596",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "lanes": "6",
+        "maxspeed": "50",
+        "name": "East Broadway",
+        "oneway": "no",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.0994066,
+            49.2628438
+          ],
+          [
+            -123.0989734,
+            49.2628329
+          ],
+          [
+            -123.0970127,
+            49.2627838
+          ],
+          [
+            -123.0966132,
+            49.2627658
+          ],
+          [
+            -123.0959999,
+            49.2626429
+          ],
+          [
+            -123.0956572,
+            49.262568
+          ],
+          [
+            -123.0954702,
+            49.2625412
+          ],
+          [
+            -123.0952493,
+            49.2625264
+          ],
+          [
+            -123.0949467,
+            49.2625222
+          ],
+          [
+            -123.0930035,
+            49.2625025
+          ],
+          [
+            -123.0910469,
+            49.2624892
+          ],
+          [
+            -123.0891158,
+            49.2624843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/81997963",
+      "properties": {
+        "@id": "way/81997963",
+        "bridge": "yes",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "lanes": "3",
+        "layer": "1",
+        "name": "East Broadway",
+        "oneway": "yes",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.0669883,
+            49.2623795
+          ],
+          [
+            -123.0678293,
+            49.2623812
+          ],
+          [
+            -123.0681239,
+            49.262385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110567217",
+      "properties": {
+        "@id": "way/110567217",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "East Broadway",
+        "oneway": "yes",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.0681239,
+            49.262385
+          ],
+          [
+            -123.0692581,
+            49.2623838
+          ],
+          [
+            -123.0693946,
+            49.2623866
+          ],
+          [
+            -123.0696176,
+            49.2623854
+          ],
+          [
+            -123.0697681,
+            49.2623328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156418083",
+      "properties": {
+        "@id": "way/156418083",
+        "highway": "primary",
+        "lanes": "6",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "no",
+        "ref": "99",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.139615,
+            49.2343308
+          ],
+          [
+            -123.1395773,
+            49.2353816
+          ],
+          [
+            -123.139546,
+            49.2362537
+          ],
+          [
+            -123.1395151,
+            49.2371138
+          ],
+          [
+            -123.1394815,
+            49.2380517
+          ],
+          [
+            -123.1394476,
+            49.2389969
+          ],
+          [
+            -123.1394142,
+            49.2399268
+          ],
+          [
+            -123.13938,
+            49.2408801
+          ],
+          [
+            -123.1393287,
+            49.2418773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/296215315",
+      "properties": {
+        "@id": "way/296215315",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Robson Street",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1198222,
+            49.2813449
+          ],
+          [
+            -123.1193279,
+            49.2810262
+          ],
+          [
+            -123.1188506,
+            49.2807102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/302697187",
+      "properties": {
+        "@id": "way/302697187",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Denman Street",
+        "oneway": "no",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1396896,
+            49.2886554
+          ],
+          [
+            -123.1402185,
+            49.2883073
+          ],
+          [
+            -123.1407711,
+            49.2879435
+          ],
+          [
+            -123.1412793,
+            49.2876089
+          ],
+          [
+            -123.141326,
+            49.2875782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336795543",
+      "properties": {
+        "@id": "way/336795543",
+        "highway": "primary",
+        "lanes": "6",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "no",
+        "ref": "99",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1388086,
+            49.2570687
+          ],
+          [
+            -123.1387844,
+            49.2580102
+          ],
+          [
+            -123.1387486,
+            49.2589203
+          ],
+          [
+            -123.1387112,
+            49.2598405
+          ],
+          [
+            -123.1386811,
+            49.2607927
+          ],
+          [
+            -123.1386388,
+            49.2617075
+          ],
+          [
+            -123.1386023,
+            49.2626359
+          ],
+          [
+            -123.1385744,
+            49.2636077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/338164116",
+      "properties": {
+        "@id": "way/338164116",
+        "hgv": "yes",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "lanes": "7",
+        "lanes:backward": "3",
+        "lanes:forward": "4",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "no",
+        "ref": "99",
+        "trolley_wire": "yes",
+        "turn:lanes:forward": "left|none|none|none"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1404923,
+            49.2098303
+          ],
+          [
+            -123.1404994,
+            49.2089664
+          ],
+          [
+            -123.1405126,
+            49.2085345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/338164117",
+      "properties": {
+        "@id": "way/338164117",
+        "hgv": "yes",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1405312,
+            49.2080297
+          ],
+          [
+            -123.1406331,
+            49.2078749
+          ],
+          [
+            -123.1406385,
+            49.207344
+          ],
+          [
+            -123.1405838,
+            49.2070723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/338164118",
+      "properties": {
+        "@id": "way/338164118",
+        "hgv": "yes",
+        "highway": "secondary",
+        "lanes": "6",
+        "lanes:backward": "3",
+        "lanes:forward": "3",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "no",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1405838,
+            49.2070723
+          ],
+          [
+            -123.140627,
+            49.2057375
+          ],
+          [
+            -123.1405948,
+            49.2055307
+          ],
+          [
+            -123.1405197,
+            49.2053659
+          ],
+          [
+            -123.140458,
+            49.2052818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/338164119",
+      "properties": {
+        "@id": "way/338164119",
+        "hgv": "yes",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1405838,
+            49.2070723
+          ],
+          [
+            -123.1404915,
+            49.2073479
+          ],
+          [
+            -123.1404629,
+            49.2076351
+          ],
+          [
+            -123.1404562,
+            49.2078769
+          ],
+          [
+            -123.1405312,
+            49.2080297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340581924",
+      "properties": {
+        "@id": "way/340581924",
+        "highway": "primary",
+        "lanes": "6",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "no",
+        "ref": "99",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1390867,
+            49.2493325
+          ],
+          [
+            -123.1390805,
+            49.2495018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340581925",
+      "properties": {
+        "@id": "way/340581925",
+        "highway": "primary",
+        "lanes": "6",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "no",
+        "ref": "99",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1390805,
+            49.2495018
+          ],
+          [
+            -123.1390562,
+            49.2501792
+          ],
+          [
+            -123.1390327,
+            49.2508325
+          ],
+          [
+            -123.1390073,
+            49.2515385
+          ],
+          [
+            -123.1389938,
+            49.2519142
+          ],
+          [
+            -123.13895,
+            49.2531324
+          ],
+          [
+            -123.1388997,
+            49.2545345
+          ],
+          [
+            -123.1388949,
+            49.2546668
+          ],
+          [
+            -123.1388298,
+            49.2564789
+          ],
+          [
+            -123.1388258,
+            49.2565906
+          ],
+          [
+            -123.1388086,
+            49.2570687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340581927",
+      "properties": {
+        "@id": "way/340581927",
+        "highway": "primary",
+        "lanes": "6",
+        "maxspeed": "50",
+        "name": "Granville Street",
+        "oneway": "no",
+        "ref": "99",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1393287,
+            49.2418773
+          ],
+          [
+            -123.1392983,
+            49.2428154
+          ],
+          [
+            -123.1392716,
+            49.2436367
+          ],
+          [
+            -123.1392196,
+            49.2452408
+          ],
+          [
+            -123.139213,
+            49.2454417
+          ],
+          [
+            -123.139179,
+            49.2464895
+          ],
+          [
+            -123.1391487,
+            49.2474221
+          ],
+          [
+            -123.1391192,
+            49.248332
+          ],
+          [
+            -123.1390867,
+            49.2493325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/349646405",
+      "properties": {
+        "@id": "way/349646405",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "primary",
+        "is_in": "Vancouver, BC",
+        "lanes": "3",
+        "layer": "1",
+        "name": "East Broadway",
+        "oneway": "yes",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.0664051,
+            49.2623708
+          ],
+          [
+            -123.0665928,
+            49.262376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379036258",
+      "properties": {
+        "@id": "way/379036258",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "East Broadway",
+        "oneway": "yes",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.0662617,
+            49.2622473
+          ],
+          [
+            -123.0660599,
+            49.2622432
+          ],
+          [
+            -123.0658997,
+            49.2622424
+          ],
+          [
+            -123.0657635,
+            49.2622388
+          ],
+          [
+            -123.065718,
+            49.262238
+          ],
+          [
+            -123.0653528,
+            49.2622298
+          ],
+          [
+            -123.0646996,
+            49.2622255
+          ],
+          [
+            -123.0639645,
+            49.2622292
+          ],
+          [
+            -123.0637474,
+            49.2622287
+          ],
+          [
+            -123.0635352,
+            49.2622708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379036261",
+      "properties": {
+        "@id": "way/379036261",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "50",
+        "name": "East Broadway",
+        "oneway": "yes",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.0677985,
+            49.2622539
+          ],
+          [
+            -123.0667999,
+            49.2622581
+          ],
+          [
+            -123.0662617,
+            49.2622473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379036262",
+      "properties": {
+        "@id": "way/379036262",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "East Broadway",
+        "oneway": "yes",
+        "ref": "7",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.0697681,
+            49.2623328
+          ],
+          [
+            -123.0696163,
+            49.262259
+          ],
+          [
+            -123.0687024,
+            49.2622572
+          ],
+          [
+            -123.0681364,
+            49.262255
+          ],
+          [
+            -123.0678312,
+            49.2622537
+          ],
+          [
+            -123.0677985,
+            49.2622539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384117436",
+      "properties": {
+        "@id": "way/384117436",
+        "highway": "secondary",
+        "maxspeed": "50",
+        "name": "Denman Street",
+        "oneway": "no",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.141326,
+            49.2875782
+          ],
+          [
+            -123.1418336,
+            49.2872553
+          ]
+        ]
+      }
+    }
+  ]
+}
