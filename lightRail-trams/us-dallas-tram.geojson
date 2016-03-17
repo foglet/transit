@@ -1,0 +1,2158 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T10:06:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/207243384",
+      "properties": {
+        "@id": "way/207243384",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.8030828,
+            32.7884883
+          ],
+          [
+            -96.8026979,
+            32.788171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207243390",
+      "properties": {
+        "@id": "way/207243390",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.8026979,
+            32.788171
+          ],
+          [
+            -96.8026668,
+            32.7881453
+          ],
+          [
+            -96.802573,
+            32.7880734
+          ],
+          [
+            -96.8024356,
+            32.7879682
+          ],
+          [
+            -96.8023548,
+            32.7878996
+          ],
+          [
+            -96.8017232,
+            32.7873637
+          ],
+          [
+            -96.8016305,
+            32.7872851
+          ],
+          [
+            -96.8006637,
+            32.7864781
+          ],
+          [
+            -96.8006002,
+            32.7864251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207243379",
+      "properties": {
+        "@id": "way/207243379",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7966651,
+            32.808011
+          ],
+          [
+            -96.7960336,
+            32.8085265
+          ],
+          [
+            -96.7960206,
+            32.8085372
+          ],
+          [
+            -96.7959832,
+            32.8085751
+          ],
+          [
+            -96.7959549,
+            32.8086114
+          ],
+          [
+            -96.7959385,
+            32.8086393
+          ],
+          [
+            -96.7959326,
+            32.808671
+          ],
+          [
+            -96.7959335,
+            32.8086963
+          ],
+          [
+            -96.7959405,
+            32.8087163
+          ],
+          [
+            -96.7959569,
+            32.8087405
+          ],
+          [
+            -96.7959844,
+            32.8087657
+          ],
+          [
+            -96.7963392,
+            32.8090643
+          ],
+          [
+            -96.796508,
+            32.8092064
+          ],
+          [
+            -96.7967281,
+            32.8093917
+          ],
+          [
+            -96.7967584,
+            32.80941
+          ],
+          [
+            -96.7967913,
+            32.809422
+          ],
+          [
+            -96.7968225,
+            32.8094276
+          ],
+          [
+            -96.7968574,
+            32.8094265
+          ],
+          [
+            -96.7968874,
+            32.8094186
+          ],
+          [
+            -96.7969157,
+            32.8094058
+          ],
+          [
+            -96.7969675,
+            32.8093775
+          ],
+          [
+            -96.7970011,
+            32.809354
+          ],
+          [
+            -96.7972573,
+            32.8091481
+          ],
+          [
+            -96.7982718,
+            32.8083324
+          ],
+          [
+            -96.7983186,
+            32.8082948
+          ],
+          [
+            -96.7987629,
+            32.8079376
+          ],
+          [
+            -96.7995237,
+            32.8073259
+          ],
+          [
+            -96.7996917,
+            32.8071908
+          ],
+          [
+            -96.7997159,
+            32.8071639
+          ],
+          [
+            -96.7997319,
+            32.8071353
+          ],
+          [
+            -96.799742,
+            32.8070988
+          ],
+          [
+            -96.7997414,
+            32.8070697
+          ],
+          [
+            -96.7997258,
+            32.8070365
+          ],
+          [
+            -96.7997028,
+            32.8070027
+          ],
+          [
+            -96.7996662,
+            32.8069699
+          ],
+          [
+            -96.7993621,
+            32.8067084
+          ],
+          [
+            -96.7993374,
+            32.8066811
+          ],
+          [
+            -96.7993218,
+            32.8066515
+          ],
+          [
+            -96.7993194,
+            32.8066207
+          ],
+          [
+            -96.7993214,
+            32.8066021
+          ],
+          [
+            -96.7993308,
+            32.8065776
+          ],
+          [
+            -96.8002261,
+            32.8051937
+          ],
+          [
+            -96.8003091,
+            32.8050654
+          ],
+          [
+            -96.8003991,
+            32.8049263
+          ],
+          [
+            -96.8012774,
+            32.8035882
+          ],
+          [
+            -96.8013123,
+            32.8035349
+          ],
+          [
+            -96.8020482,
+            32.8024138
+          ],
+          [
+            -96.8023097,
+            32.8020154
+          ],
+          [
+            -96.802337,
+            32.8019642
+          ],
+          [
+            -96.802348,
+            32.8019334
+          ],
+          [
+            -96.8023502,
+            32.8019075
+          ],
+          [
+            -96.8023492,
+            32.8018753
+          ],
+          [
+            -96.802341,
+            32.8018475
+          ],
+          [
+            -96.8023236,
+            32.8018177
+          ],
+          [
+            -96.8022917,
+            32.8017836
+          ],
+          [
+            -96.8018856,
+            32.8014232
+          ],
+          [
+            -96.8017846,
+            32.8013424
+          ],
+          [
+            -96.8015554,
+            32.8011698
+          ],
+          [
+            -96.8013365,
+            32.8009852
+          ],
+          [
+            -96.8012023,
+            32.8008578
+          ],
+          [
+            -96.8010611,
+            32.8007202
+          ],
+          [
+            -96.8010196,
+            32.8006772
+          ],
+          [
+            -96.8009847,
+            32.8006411
+          ],
+          [
+            -96.8009523,
+            32.8005952
+          ],
+          [
+            -96.8009227,
+            32.800549
+          ],
+          [
+            -96.8008915,
+            32.8004962
+          ],
+          [
+            -96.8008611,
+            32.8004323
+          ],
+          [
+            -96.8008313,
+            32.8003418
+          ],
+          [
+            -96.8008104,
+            32.8002647
+          ],
+          [
+            -96.8008001,
+            32.800192
+          ],
+          [
+            -96.8007954,
+            32.8001203
+          ],
+          [
+            -96.8008018,
+            32.8000075
+          ],
+          [
+            -96.8008181,
+            32.7999103
+          ],
+          [
+            -96.8008898,
+            32.7995958
+          ],
+          [
+            -96.8010638,
+            32.7988323
+          ],
+          [
+            -96.8010886,
+            32.7987237
+          ],
+          [
+            -96.8011369,
+            32.7985117
+          ],
+          [
+            -96.8013477,
+            32.7977442
+          ],
+          [
+            -96.8013734,
+            32.7976504
+          ],
+          [
+            -96.8016782,
+            32.7965405
+          ],
+          [
+            -96.8017289,
+            32.7963559
+          ],
+          [
+            -96.8020531,
+            32.7952886
+          ],
+          [
+            -96.8021146,
+            32.7950861
+          ],
+          [
+            -96.8024203,
+            32.794171
+          ],
+          [
+            -96.80249,
+            32.7939624
+          ],
+          [
+            -96.802782,
+            32.7930885
+          ],
+          [
+            -96.8028223,
+            32.7929681
+          ],
+          [
+            -96.8028646,
+            32.7928414
+          ],
+          [
+            -96.8032776,
+            32.7916053
+          ],
+          [
+            -96.8035181,
+            32.7908855
+          ],
+          [
+            -96.803571,
+            32.7907273
+          ],
+          [
+            -96.803975,
+            32.789441
+          ],
+          [
+            -96.8039875,
+            32.7893951
+          ],
+          [
+            -96.8039912,
+            32.7893665
+          ],
+          [
+            -96.8039908,
+            32.789348
+          ],
+          [
+            -96.8039905,
+            32.7893336
+          ],
+          [
+            -96.8039823,
+            32.7893044
+          ],
+          [
+            -96.8039639,
+            32.7892696
+          ],
+          [
+            -96.8039395,
+            32.7892442
+          ],
+          [
+            -96.8039136,
+            32.7892222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207243387",
+      "properties": {
+        "@id": "way/207243387",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.8039136,
+            32.7892222
+          ],
+          [
+            -96.8037252,
+            32.7890624
+          ],
+          [
+            -96.8032338,
+            32.7886455
+          ],
+          [
+            -96.8031804,
+            32.7885883
+          ],
+          [
+            -96.8031002,
+            32.7885027
+          ],
+          [
+            -96.8030828,
+            32.7884883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207243388",
+      "properties": {
+        "@id": "way/207243388",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.8039136,
+            32.7892222
+          ],
+          [
+            -96.8039328,
+            32.7892465
+          ],
+          [
+            -96.8039447,
+            32.78927
+          ],
+          [
+            -96.8039513,
+            32.7892971
+          ],
+          [
+            -96.8039539,
+            32.7893292
+          ],
+          [
+            -96.8039536,
+            32.7893641
+          ],
+          [
+            -96.8039481,
+            32.7894066
+          ],
+          [
+            -96.8039355,
+            32.7894557
+          ],
+          [
+            -96.8035876,
+            32.7905715
+          ],
+          [
+            -96.8035422,
+            32.7907173
+          ],
+          [
+            -96.803254,
+            32.7915813
+          ],
+          [
+            -96.8028835,
+            32.7926916
+          ],
+          [
+            -96.8028383,
+            32.7928273
+          ],
+          [
+            -96.8027957,
+            32.792955
+          ],
+          [
+            -96.8025126,
+            32.7938035
+          ],
+          [
+            -96.8024627,
+            32.793953
+          ],
+          [
+            -96.8022436,
+            32.7946098
+          ],
+          [
+            -96.8021054,
+            32.7950242
+          ],
+          [
+            -96.8020893,
+            32.7950723
+          ],
+          [
+            -96.8020341,
+            32.7952521
+          ],
+          [
+            -96.8017521,
+            32.7961701
+          ],
+          [
+            -96.8017022,
+            32.7963324
+          ],
+          [
+            -96.8014496,
+            32.7972536
+          ],
+          [
+            -96.801403,
+            32.7974235
+          ],
+          [
+            -96.8011601,
+            32.7983089
+          ],
+          [
+            -96.8011088,
+            32.7984962
+          ],
+          [
+            -96.8008703,
+            32.7995394
+          ],
+          [
+            -96.8008365,
+            32.7996874
+          ],
+          [
+            -96.8007547,
+            32.8000451
+          ],
+          [
+            -96.8007342,
+            32.8001752
+          ],
+          [
+            -96.8007294,
+            32.8003375
+          ],
+          [
+            -96.8007414,
+            32.8004555
+          ],
+          [
+            -96.8007881,
+            32.8007275
+          ],
+          [
+            -96.8007989,
+            32.8008242
+          ],
+          [
+            -96.8008021,
+            32.8009738
+          ],
+          [
+            -96.8008111,
+            32.8010442
+          ],
+          [
+            -96.8009188,
+            32.8016352
+          ],
+          [
+            -96.8009254,
+            32.8016883
+          ],
+          [
+            -96.8009254,
+            32.8017373
+          ],
+          [
+            -96.8009172,
+            32.8017919
+          ],
+          [
+            -96.8008991,
+            32.801845
+          ],
+          [
+            -96.8008753,
+            32.8018961
+          ],
+          [
+            -96.8008481,
+            32.8019457
+          ],
+          [
+            -96.8001692,
+            32.8029883
+          ],
+          [
+            -96.8000918,
+            32.8031072
+          ],
+          [
+            -96.7999257,
+            32.8033663
+          ],
+          [
+            -96.7998997,
+            32.8033991
+          ],
+          [
+            -96.7998807,
+            32.8034195
+          ],
+          [
+            -96.7998557,
+            32.8034406
+          ],
+          [
+            -96.7998238,
+            32.8034674
+          ],
+          [
+            -96.7997987,
+            32.803498
+          ],
+          [
+            -96.799741,
+            32.8035877
+          ],
+          [
+            -96.7997137,
+            32.8036301
+          ],
+          [
+            -96.7996955,
+            32.8036652
+          ],
+          [
+            -96.7996849,
+            32.8036907
+          ],
+          [
+            -96.7996803,
+            32.8037213
+          ],
+          [
+            -96.7996659,
+            32.8037685
+          ],
+          [
+            -96.7996326,
+            32.8038234
+          ],
+          [
+            -96.7993456,
+            32.8042533
+          ],
+          [
+            -96.7984295,
+            32.8056602
+          ],
+          [
+            -96.7983232,
+            32.8058234
+          ],
+          [
+            -96.7976755,
+            32.8068182
+          ],
+          [
+            -96.7976086,
+            32.8069209
+          ],
+          [
+            -96.7973602,
+            32.8073025
+          ],
+          [
+            -96.7972723,
+            32.8074327
+          ],
+          [
+            -96.7971951,
+            32.8075376
+          ],
+          [
+            -96.7971162,
+            32.8076253
+          ],
+          [
+            -96.797053,
+            32.8076867
+          ],
+          [
+            -96.796984,
+            32.807751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181503257",
+      "properties": {
+        "@id": "way/181503257",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.796984,
+            32.807751
+          ],
+          [
+            -96.7969415,
+            32.8077763
+          ],
+          [
+            -96.796898,
+            32.8077988
+          ],
+          [
+            -96.7968646,
+            32.8078098
+          ],
+          [
+            -96.7968417,
+            32.8078129
+          ],
+          [
+            -96.7968184,
+            32.8078141
+          ],
+          [
+            -96.7967893,
+            32.8078121
+          ],
+          [
+            -96.7967626,
+            32.8078042
+          ],
+          [
+            -96.7966989,
+            32.8077726
+          ],
+          [
+            -96.7966672,
+            32.8077556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207243378",
+      "properties": {
+        "@id": "way/207243378",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7966672,
+            32.8077556
+          ],
+          [
+            -96.7967152,
+            32.8078017
+          ],
+          [
+            -96.7967313,
+            32.80782
+          ],
+          [
+            -96.7967421,
+            32.8078407
+          ],
+          [
+            -96.7967481,
+            32.8078615
+          ],
+          [
+            -96.7967486,
+            32.8078893
+          ],
+          [
+            -96.7967421,
+            32.8079126
+          ],
+          [
+            -96.7967268,
+            32.8079379
+          ],
+          [
+            -96.7967016,
+            32.8079695
+          ],
+          [
+            -96.7966651,
+            32.808011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207243389",
+      "properties": {
+        "@id": "way/207243389",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7966672,
+            32.8077556
+          ],
+          [
+            -96.7966212,
+            32.8077195
+          ],
+          [
+            -96.7958619,
+            32.8070688
+          ],
+          [
+            -96.7950569,
+            32.806379
+          ],
+          [
+            -96.7944364,
+            32.8058473
+          ],
+          [
+            -96.7942495,
+            32.8056871
+          ],
+          [
+            -96.7941973,
+            32.805647
+          ],
+          [
+            -96.7941386,
+            32.8056188
+          ],
+          [
+            -96.7940339,
+            32.8055762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067222",
+      "properties": {
+        "@id": "node/2174067222",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8037252,
+          32.7890624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067246",
+      "properties": {
+        "@id": "node/2174067246",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8035876,
+          32.7905715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067260",
+      "properties": {
+        "@id": "node/2174067260",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8035181,
+          32.7908855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067210",
+      "properties": {
+        "@id": "node/2174067210",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8006637,
+          32.7864781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067211",
+      "properties": {
+        "@id": "node/2174067211",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8016305,
+          32.7872851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067213",
+      "properties": {
+        "@id": "node/2174067213",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8023548,
+          32.7878996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067268",
+      "properties": {
+        "@id": "node/2174067268",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8028835,
+          32.7926916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067278",
+      "properties": {
+        "@id": "node/2174067278",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.802782,
+          32.7930885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067279",
+      "properties": {
+        "@id": "node/2174067279",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8025126,
+          32.7938035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067284",
+      "properties": {
+        "@id": "node/2174067284",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8024203,
+          32.794171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067286",
+      "properties": {
+        "@id": "node/2174067286",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8021054,
+          32.7950242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067290",
+      "properties": {
+        "@id": "node/2174067290",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8020531,
+          32.7952886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067291",
+      "properties": {
+        "@id": "node/2174067291",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8017521,
+          32.7961701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067294",
+      "properties": {
+        "@id": "node/2174067294",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8016782,
+          32.7965405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067295",
+      "properties": {
+        "@id": "node/2174067295",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8014496,
+          32.7972536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067298",
+      "properties": {
+        "@id": "node/2174067298",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8013477,
+          32.7977442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067299",
+      "properties": {
+        "@id": "node/2174067299",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8011601,
+          32.7983089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067303",
+      "properties": {
+        "@id": "node/2174067303",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8010638,
+          32.7988323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067304",
+      "properties": {
+        "@id": "node/2174067304",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8008703,
+          32.7995394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067305",
+      "properties": {
+        "@id": "node/2174067305",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8008898,
+          32.7995958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067342",
+      "properties": {
+        "@id": "node/2174067342",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8009172,
+          32.8017919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067353",
+      "properties": {
+        "@id": "node/2174067353",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8023097,
+          32.8020154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067381",
+      "properties": {
+        "@id": "node/2174067381",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.799741,
+          32.8035877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067382",
+      "properties": {
+        "@id": "node/2174067382",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8012774,
+          32.8035882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067410",
+      "properties": {
+        "@id": "node/2174067410",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8002261,
+          32.8051937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067414",
+      "properties": {
+        "@id": "node/2174067414",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7984295,
+          32.8056602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067426",
+      "properties": {
+        "@id": "node/2174067426",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7993621,
+          32.8067084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067427",
+      "properties": {
+        "@id": "node/2174067427",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7976755,
+          32.8068182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067439",
+      "properties": {
+        "@id": "node/2174067439",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7995237,
+          32.8073259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067469",
+      "properties": {
+        "@id": "node/2174067469",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7982718,
+          32.8083324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067413",
+      "properties": {
+        "@id": "node/2174067413",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2786227,
+            "reltags": {
+              "direction": "north",
+              "from": "Ross/Saint Paul",
+              "name": "M-Line Trolley: Ross/Saint Paul to Cityplace",
+              "ref": "825",
+              "route": "tram",
+              "to": "Cityplace",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7941973,
+          32.805647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067470",
+      "properties": {
+        "@id": "node/2174067470",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7960336,
+          32.8085265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2174067485",
+      "properties": {
+        "@id": "node/2174067485",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2788829,
+            "reltags": {
+              "direction": "south",
+              "from": "Cityplace",
+              "name": "M-Line Trolley: Cityplace to Ross/Saint Paul",
+              "ref": "825",
+              "route": "tram",
+              "to": "Ross/Saint Paul",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.796508,
+          32.8092064
+        ]
+      }
+    }
+  ]
+}

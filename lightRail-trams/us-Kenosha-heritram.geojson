@@ -1,0 +1,1008 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T10:06:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/99991408",
+      "properties": {
+        "@id": "way/99991408",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.812192,
+            42.5857682
+          ],
+          [
+            -87.8120906,
+            42.5857911
+          ],
+          [
+            -87.8114844,
+            42.5858666
+          ],
+          [
+            -87.8112595,
+            42.5858794
+          ],
+          [
+            -87.8110126,
+            42.5859085
+          ],
+          [
+            -87.8108935,
+            42.585931
+          ],
+          [
+            -87.810809,
+            42.5859507
+          ],
+          [
+            -87.8106939,
+            42.5859913
+          ],
+          [
+            -87.8106078,
+            42.5860277
+          ],
+          [
+            -87.8105059,
+            42.5860798
+          ],
+          [
+            -87.8103943,
+            42.5861407
+          ],
+          [
+            -87.8101276,
+            42.5863154
+          ],
+          [
+            -87.8100429,
+            42.5863873
+          ],
+          [
+            -87.8099942,
+            42.5864443
+          ],
+          [
+            -87.8099496,
+            42.5865086
+          ],
+          [
+            -87.8098965,
+            42.5866448
+          ],
+          [
+            -87.8098879,
+            42.5867061
+          ],
+          [
+            -87.8098799,
+            42.5867871
+          ],
+          [
+            -87.8098879,
+            42.5868799
+          ],
+          [
+            -87.8099189,
+            42.5869696
+          ],
+          [
+            -87.8099309,
+            42.5870043
+          ],
+          [
+            -87.8099496,
+            42.587047
+          ],
+          [
+            -87.8099871,
+            42.5871319
+          ],
+          [
+            -87.8099926,
+            42.5871445
+          ],
+          [
+            -87.8100596,
+            42.587261
+          ],
+          [
+            -87.8101374,
+            42.5873538
+          ],
+          [
+            -87.8102313,
+            42.5874467
+          ],
+          [
+            -87.8103573,
+            42.5875335
+          ],
+          [
+            -87.8104941,
+            42.5876106
+          ],
+          [
+            -87.8106443,
+            42.5876658
+          ],
+          [
+            -87.8107999,
+            42.5877093
+          ],
+          [
+            -87.8109796,
+            42.5877488
+          ],
+          [
+            -87.8111486,
+            42.5877567
+          ],
+          [
+            -87.8124387,
+            42.5877646
+          ],
+          [
+            -87.8125514,
+            42.5877567
+          ],
+          [
+            -87.81283,
+            42.5877283
+          ],
+          [
+            -87.8137171,
+            42.5876207
+          ],
+          [
+            -87.8138701,
+            42.5876022
+          ],
+          [
+            -87.8140607,
+            42.5875787
+          ],
+          [
+            -87.8153854,
+            42.5874154
+          ],
+          [
+            -87.816596,
+            42.5872704
+          ],
+          [
+            -87.8177928,
+            42.587128
+          ],
+          [
+            -87.8181513,
+            42.5870844
+          ],
+          [
+            -87.8190247,
+            42.5869782
+          ],
+          [
+            -87.8191714,
+            42.5869608
+          ],
+          [
+            -87.8192967,
+            42.5869442
+          ],
+          [
+            -87.819477,
+            42.586922
+          ],
+          [
+            -87.8196561,
+            42.5868955
+          ],
+          [
+            -87.8197203,
+            42.5868824
+          ],
+          [
+            -87.8197956,
+            42.5868593
+          ],
+          [
+            -87.8199388,
+            42.5868086
+          ],
+          [
+            -87.8199609,
+            42.5868026
+          ],
+          [
+            -87.8200125,
+            42.5867887
+          ],
+          [
+            -87.8200895,
+            42.5867746
+          ],
+          [
+            -87.8211262,
+            42.5866617
+          ],
+          [
+            -87.8213152,
+            42.5866411
+          ],
+          [
+            -87.8215727,
+            42.5866135
+          ],
+          [
+            -87.8225623,
+            42.5864921
+          ],
+          [
+            -87.8226829,
+            42.5864773
+          ],
+          [
+            -87.8238181,
+            42.5863344
+          ],
+          [
+            -87.8247089,
+            42.586231
+          ],
+          [
+            -87.8247681,
+            42.5862176
+          ],
+          [
+            -87.8248052,
+            42.586203
+          ],
+          [
+            -87.8248493,
+            42.5861823
+          ],
+          [
+            -87.8248934,
+            42.586146
+          ],
+          [
+            -87.8249145,
+            42.5861244
+          ],
+          [
+            -87.8249336,
+            42.5860919
+          ],
+          [
+            -87.8249433,
+            42.5860699
+          ],
+          [
+            -87.8249526,
+            42.5860353
+          ],
+          [
+            -87.8249532,
+            42.5859854
+          ],
+          [
+            -87.824941,
+            42.5859248
+          ],
+          [
+            -87.8247826,
+            42.5852067
+          ],
+          [
+            -87.824666,
+            42.5846667
+          ],
+          [
+            -87.8246284,
+            42.5845124
+          ],
+          [
+            -87.82462,
+            42.5844763
+          ],
+          [
+            -87.8246066,
+            42.5844452
+          ],
+          [
+            -87.8245809,
+            42.5844023
+          ],
+          [
+            -87.824542,
+            42.5843666
+          ],
+          [
+            -87.8245188,
+            42.5843507
+          ],
+          [
+            -87.8244608,
+            42.5843197
+          ],
+          [
+            -87.8244212,
+            42.5843056
+          ],
+          [
+            -87.8243778,
+            42.5842965
+          ],
+          [
+            -87.8243289,
+            42.5842923
+          ],
+          [
+            -87.8242703,
+            42.5842926
+          ],
+          [
+            -87.8242026,
+            42.5842977
+          ],
+          [
+            -87.8235917,
+            42.5843765
+          ],
+          [
+            -87.8234025,
+            42.5844023
+          ],
+          [
+            -87.8222629,
+            42.5845451
+          ],
+          [
+            -87.8221458,
+            42.5845593
+          ],
+          [
+            -87.8211751,
+            42.5846777
+          ],
+          [
+            -87.8210201,
+            42.5846963
+          ],
+          [
+            -87.8200769,
+            42.5848116
+          ],
+          [
+            -87.8198936,
+            42.5848332
+          ],
+          [
+            -87.8187662,
+            42.5849744
+          ],
+          [
+            -87.8185916,
+            42.5849936
+          ],
+          [
+            -87.817549,
+            42.5851181
+          ],
+          [
+            -87.8173914,
+            42.5851352
+          ],
+          [
+            -87.8163402,
+            42.585265
+          ],
+          [
+            -87.8161736,
+            42.5852836
+          ],
+          [
+            -87.8151266,
+            42.5854127
+          ],
+          [
+            -87.8149686,
+            42.5854303
+          ],
+          [
+            -87.8139318,
+            42.5855573
+          ],
+          [
+            -87.8137442,
+            42.58558
+          ],
+          [
+            -87.813652,
+            42.5855911
+          ],
+          [
+            -87.8126692,
+            42.5857096
+          ],
+          [
+            -87.8124885,
+            42.5857314
+          ],
+          [
+            -87.812192,
+            42.5857682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/99991533",
+      "properties": {
+        "@id": "way/99991533",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.812192,
+            42.5857682
+          ],
+          [
+            -87.8121008,
+            42.5857603
+          ],
+          [
+            -87.8114865,
+            42.5858333
+          ],
+          [
+            -87.8112595,
+            42.5858794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3143142060",
+      "properties": {
+        "@id": "node/3143142060",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.824941,
+          42.5859248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132819",
+      "properties": {
+        "@id": "node/1156132819",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8191714,
+          42.5869608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132822",
+      "properties": {
+        "@id": "node/1156132822",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8200769,
+          42.5848116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132826",
+      "properties": {
+        "@id": "node/1156132826",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8235917,
+          42.5843765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132879",
+      "properties": {
+        "@id": "node/1156132879",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8187662,
+          42.5849744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132896",
+      "properties": {
+        "@id": "node/1156132896",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8211751,
+          42.5846777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3143142049",
+      "properties": {
+        "@id": "node/3143142049",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8246284,
+          42.5845124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3143142094",
+      "properties": {
+        "@id": "node/3143142094",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8213152,
+          42.5866411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132837",
+      "properties": {
+        "@id": "node/1156132837",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8151266,
+          42.5854127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132839",
+      "properties": {
+        "@id": "node/1156132839",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8153854,
+          42.5874154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132859",
+      "properties": {
+        "@id": "node/1156132859",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8139318,
+          42.5855573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132861",
+      "properties": {
+        "@id": "node/1156132861",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8163402,
+          42.585265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132875",
+      "properties": {
+        "@id": "node/1156132875",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8177928,
+          42.587128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132894",
+      "properties": {
+        "@id": "node/1156132894",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.816596,
+          42.5872704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132895",
+      "properties": {
+        "@id": "node/1156132895",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8126692,
+          42.5857096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132910",
+      "properties": {
+        "@id": "node/1156132910",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.817549,
+          42.5851181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132911",
+      "properties": {
+        "@id": "node/1156132911",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8138701,
+          42.5876022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1156132858",
+      "properties": {
+        "@id": "node/1156132858",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1647145,
+            "reltags": {
+              "name": "Kenosha Streetcar",
+              "old_name": "Kenosha Electric Railway",
+              "operator": "Kenosha Area Transit",
+              "route": "tram",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8099496,
+          42.587047
+        ]
+      }
+    }
+  ]
+}

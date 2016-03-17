@@ -1,0 +1,816 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T10:06:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/12311691",
+      "properties": {
+        "@id": "way/12311691",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8201959,
+            42.9545627
+          ],
+          [
+            -78.8217756,
+            42.9537545
+          ],
+          [
+            -78.822703,
+            42.953293
+          ],
+          [
+            -78.8236676,
+            42.9528326
+          ],
+          [
+            -78.8248242,
+            42.9520798
+          ],
+          [
+            -78.8297666,
+            42.94768
+          ],
+          [
+            -78.8303799,
+            42.9471352
+          ],
+          [
+            -78.8356327,
+            42.9423853
+          ],
+          [
+            -78.838475,
+            42.9397582
+          ],
+          [
+            -78.8475374,
+            42.9313825
+          ],
+          [
+            -78.8515839,
+            42.9275497
+          ],
+          [
+            -78.8541049,
+            42.9251853
+          ],
+          [
+            -78.8558458,
+            42.9235141
+          ],
+          [
+            -78.8568809,
+            42.9225352
+          ],
+          [
+            -78.8619827,
+            42.9176876
+          ],
+          [
+            -78.8644408,
+            42.9153287
+          ],
+          [
+            -78.8652185,
+            42.9131806
+          ],
+          [
+            -78.8657932,
+            42.9115398
+          ],
+          [
+            -78.8668922,
+            42.908403
+          ],
+          [
+            -78.8680902,
+            42.9047141
+          ],
+          [
+            -78.8682741,
+            42.9042663
+          ],
+          [
+            -78.8683475,
+            42.9040456
+          ],
+          [
+            -78.8686018,
+            42.9032822
+          ],
+          [
+            -78.8694843,
+            42.9006322
+          ],
+          [
+            -78.8698774,
+            42.8994055
+          ],
+          [
+            -78.870746,
+            42.8966962
+          ],
+          [
+            -78.8713211,
+            42.8949859
+          ],
+          [
+            -78.8719928,
+            42.8930035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/84921399",
+      "properties": {
+        "@id": "way/84921399",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8763675,
+            42.8794978
+          ],
+          [
+            -78.8764614,
+            42.8792271
+          ],
+          [
+            -78.8766899,
+            42.8784888
+          ],
+          [
+            -78.8767557,
+            42.8782884
+          ],
+          [
+            -78.8768647,
+            42.8779565
+          ],
+          [
+            -78.8771244,
+            42.8771865
+          ],
+          [
+            -78.8772653,
+            42.876753
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/236835487",
+      "properties": {
+        "@id": "way/236835487",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8772653,
+            42.876753
+          ],
+          [
+            -78.8772493,
+            42.8768863
+          ],
+          [
+            -78.8772473,
+            42.87698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261989023",
+      "properties": {
+        "@id": "way/261989023",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8772653,
+            42.876753
+          ],
+          [
+            -78.8773365,
+            42.8765482
+          ],
+          [
+            -78.8774892,
+            42.876076
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/84921386",
+      "properties": {
+        "@id": "way/84921386",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8761563,
+            42.8801751
+          ],
+          [
+            -78.8763675,
+            42.8794978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/236835428",
+      "properties": {
+        "@id": "way/236835428",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8764117,
+            42.8795053
+          ],
+          [
+            -78.8762002,
+            42.8801825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/236835483",
+      "properties": {
+        "@id": "way/236835483",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8762002,
+            42.8801825
+          ],
+          [
+            -78.8760547,
+            42.8806161
+          ],
+          [
+            -78.875906,
+            42.8810289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261989024",
+      "properties": {
+        "@id": "way/261989024",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8772473,
+            42.87698
+          ],
+          [
+            -78.877242,
+            42.8769959
+          ],
+          [
+            -78.8771764,
+            42.8771977
+          ],
+          [
+            -78.8768195,
+            42.8782964
+          ],
+          [
+            -78.8767262,
+            42.8785575
+          ],
+          [
+            -78.8764117,
+            42.8795053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/277113698",
+      "properties": {
+        "@id": "way/277113698",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8752836,
+            42.8830203
+          ],
+          [
+            -78.8753654,
+            42.8827585
+          ],
+          [
+            -78.8756513,
+            42.8818657
+          ],
+          [
+            -78.875906,
+            42.8810289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97811075",
+      "properties": {
+        "@id": "way/97811075",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8744257,
+            42.8857651
+          ],
+          [
+            -78.8745579,
+            42.8853422
+          ],
+          [
+            -78.8750291,
+            42.8838347
+          ],
+          [
+            -78.8750741,
+            42.8836907
+          ],
+          [
+            -78.8752399,
+            42.8831601
+          ],
+          [
+            -78.8752836,
+            42.8830203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/347697403",
+      "properties": {
+        "@id": "way/347697403",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8729197,
+            42.8900849
+          ],
+          [
+            -78.8734082,
+            42.8886244
+          ],
+          [
+            -78.8743149,
+            42.8858168
+          ],
+          [
+            -78.8743548,
+            42.8856989
+          ],
+          [
+            -78.8751803,
+            42.8831565
+          ],
+          [
+            -78.8752301,
+            42.8830056
+          ],
+          [
+            -78.8756032,
+            42.8818564
+          ],
+          [
+            -78.8758578,
+            42.8810202
+          ],
+          [
+            -78.8760001,
+            42.8806066
+          ],
+          [
+            -78.8761563,
+            42.8801751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/347697406",
+      "properties": {
+        "@id": "way/347697406",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.872972,
+            42.8900945
+          ],
+          [
+            -78.8732722,
+            42.8892619
+          ],
+          [
+            -78.8734284,
+            42.8887353
+          ],
+          [
+            -78.8734628,
+            42.888633
+          ],
+          [
+            -78.874181,
+            42.886494
+          ],
+          [
+            -78.8744257,
+            42.8857651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91481415",
+      "properties": {
+        "@id": "way/91481415",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8719928,
+            42.8930035
+          ],
+          [
+            -78.8722593,
+            42.8922171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96991414",
+      "properties": {
+        "@id": "way/96991414",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8722593,
+            42.8922171
+          ],
+          [
+            -78.8724035,
+            42.8917878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/236835429",
+      "properties": {
+        "@id": "way/236835429",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8719688,
+            42.8929985
+          ],
+          [
+            -78.8722344,
+            42.8922132
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/331130837",
+      "properties": {
+        "@id": "way/331130837",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8722344,
+            42.8922132
+          ],
+          [
+            -78.8723724,
+            42.8917845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/347697404",
+      "properties": {
+        "@id": "way/347697404",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8729197,
+            42.8900849
+          ],
+          [
+            -78.8723724,
+            42.8917845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/347697405",
+      "properties": {
+        "@id": "way/347697405",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3517747,
+            "reltags": {
+              "name": "Metro Rail",
+              "operator": "Niagara Frontier Transportation Authority",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8724035,
+            42.8917878
+          ],
+          [
+            -78.8728514,
+            42.8904537
+          ],
+          [
+            -78.8728551,
+            42.8904429
+          ],
+          [
+            -78.872972,
+            42.8900945
+          ]
+        ]
+      }
+    }
+  ]
+}
