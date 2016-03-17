@@ -1,0 +1,7918 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T06:52:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/100611801",
+      "properties": {
+        "@id": "way/100611801",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8846206,
+            49.9286754
+          ],
+          [
+            17.8845523,
+            49.9284537
+          ],
+          [
+            17.8845754,
+            49.9283561
+          ],
+          [
+            17.8846702,
+            49.9283074
+          ],
+          [
+            17.8847907,
+            49.9283236
+          ],
+          [
+            17.8849099,
+            49.9283886
+          ],
+          [
+            17.884961,
+            49.9284829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100614260",
+      "properties": {
+        "@id": "way/100614260",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8821996,
+            49.9300388
+          ],
+          [
+            17.8823755,
+            49.9299405
+          ],
+          [
+            17.882756,
+            49.9297277
+          ],
+          [
+            17.8831383,
+            49.929514
+          ],
+          [
+            17.8844904,
+            49.9287491
+          ],
+          [
+            17.8845732,
+            49.9287023
+          ],
+          [
+            17.8846206,
+            49.9286754
+          ],
+          [
+            17.884961,
+            49.9284829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224753536",
+      "properties": {
+        "@id": "way/224753536",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.913949,
+            49.929245
+          ],
+          [
+            17.913828,
+            49.92898
+          ],
+          [
+            17.913611,
+            49.928507
+          ],
+          [
+            17.913595,
+            49.928254
+          ],
+          [
+            17.913649,
+            49.927932
+          ],
+          [
+            17.913734,
+            49.927412
+          ],
+          [
+            17.9137662,
+            49.926933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317338419",
+      "properties": {
+        "@id": "way/317338419",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9132016,
+            49.922191
+          ],
+          [
+            17.913052,
+            49.92186
+          ],
+          [
+            17.9126132,
+            49.9210351
+          ],
+          [
+            17.9125028,
+            49.9208374
+          ],
+          [
+            17.9123177,
+            49.9205057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133607994",
+      "properties": {
+        "@id": "way/133607994",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9136962,
+            49.9259918
+          ],
+          [
+            17.913667,
+            49.925611
+          ],
+          [
+            17.9136515,
+            49.9254727
+          ],
+          [
+            17.913557,
+            49.924628
+          ],
+          [
+            17.9134208,
+            49.923569
+          ],
+          [
+            17.9134104,
+            49.9235004
+          ],
+          [
+            17.9134051,
+            49.9234657
+          ],
+          [
+            17.9133873,
+            49.9233222
+          ],
+          [
+            17.9133035,
+            49.9226452
+          ],
+          [
+            17.9132262,
+            49.9222889
+          ],
+          [
+            17.9132016,
+            49.922191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133607995",
+      "properties": {
+        "@id": "way/133607995",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9137338,
+            49.9263987
+          ],
+          [
+            17.9136962,
+            49.9259918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224753535",
+      "properties": {
+        "@id": "way/224753535",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9137662,
+            49.926933
+          ],
+          [
+            17.9137338,
+            49.9263987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46346322",
+      "properties": {
+        "@id": "way/46346322",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9375316,
+            49.9270133
+          ],
+          [
+            17.937655,
+            49.9270232
+          ],
+          [
+            17.9377826,
+            49.9270587
+          ],
+          [
+            17.9378884,
+            49.9271168
+          ],
+          [
+            17.9379628,
+            49.9271924
+          ],
+          [
+            17.9379992,
+            49.9272788
+          ],
+          [
+            17.9379945,
+            49.9273683
+          ],
+          [
+            17.937949,
+            49.9274528
+          ],
+          [
+            17.9378643,
+            49.9275267
+          ],
+          [
+            17.9377488,
+            49.9275806
+          ],
+          [
+            17.9376134,
+            49.9276095
+          ],
+          [
+            17.9374708,
+            49.9276107
+          ],
+          [
+            17.9373481,
+            49.9275882
+          ],
+          [
+            17.9372395,
+            49.9275451
+          ],
+          [
+            17.937153,
+            49.9274847
+          ],
+          [
+            17.9370953,
+            49.9274115
+          ],
+          [
+            17.937071,
+            49.9273363
+          ],
+          [
+            17.9370773,
+            49.9272596
+          ],
+          [
+            17.9371135,
+            49.9271864
+          ],
+          [
+            17.9371891,
+            49.9271129
+          ],
+          [
+            17.9372945,
+            49.9270567
+          ],
+          [
+            17.9374085,
+            49.9270247
+          ],
+          [
+            17.9375316,
+            49.9270133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/77727065",
+      "properties": {
+        "@id": "way/77727065",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9351379,
+            49.9279757
+          ],
+          [
+            17.9354737,
+            49.9282542
+          ],
+          [
+            17.9358067,
+            49.9283183
+          ],
+          [
+            17.9361329,
+            49.9283598
+          ],
+          [
+            17.936376,
+            49.928428
+          ],
+          [
+            17.9364593,
+            49.9287451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100648742",
+      "properties": {
+        "@id": "way/100648742",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9351379,
+            49.9279757
+          ],
+          [
+            17.9349492,
+            49.9280352
+          ],
+          [
+            17.934887,
+            49.9280548
+          ],
+          [
+            17.933416,
+            49.9285302
+          ],
+          [
+            17.9330687,
+            49.9286367
+          ],
+          [
+            17.9326922,
+            49.9287556
+          ],
+          [
+            17.9319754,
+            49.9289638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181476428",
+      "properties": {
+        "@id": "way/181476428",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9377677,
+            49.9287632
+          ],
+          [
+            17.9380545,
+            49.9283969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46346317",
+      "properties": {
+        "@id": "way/46346317",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9370953,
+            49.9274115
+          ],
+          [
+            17.9367929,
+            49.9274428
+          ],
+          [
+            17.936022,
+            49.927697
+          ],
+          [
+            17.9354152,
+            49.9278883
+          ],
+          [
+            17.9351379,
+            49.9279757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46346326",
+      "properties": {
+        "@id": "way/46346326",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.937949,
+            49.9274528
+          ],
+          [
+            17.9386195,
+            49.9277734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125630759",
+      "properties": {
+        "@id": "way/125630759",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9380545,
+            49.9283969
+          ],
+          [
+            17.9382517,
+            49.9282065
+          ],
+          [
+            17.9383687,
+            49.928122
+          ],
+          [
+            17.9384742,
+            49.9280436
+          ],
+          [
+            17.9386114,
+            49.9279657
+          ],
+          [
+            17.9386321,
+            49.9279047
+          ],
+          [
+            17.9386195,
+            49.9277734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/98598128",
+      "properties": {
+        "@id": "way/98598128",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8793832,
+            49.9318522
+          ],
+          [
+            17.8771266,
+            49.9309766
+          ],
+          [
+            17.8768082,
+            49.9308483
+          ],
+          [
+            17.8765608,
+            49.9307489
+          ],
+          [
+            17.8763361,
+            49.9306586
+          ],
+          [
+            17.8761676,
+            49.9305909
+          ],
+          [
+            17.87584,
+            49.9304593
+          ],
+          [
+            17.8734747,
+            49.9295274
+          ],
+          [
+            17.8724839,
+            49.930393
+          ],
+          [
+            17.872351,
+            49.9305092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100612524",
+      "properties": {
+        "@id": "way/100612524",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.872351,
+            49.9305092
+          ],
+          [
+            17.8724,
+            49.930529
+          ],
+          [
+            17.8748658,
+            49.9314745
+          ],
+          [
+            17.8749534,
+            49.9315109
+          ],
+          [
+            17.8753968,
+            49.9316949
+          ],
+          [
+            17.878419,
+            49.9328992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54610465",
+      "properties": {
+        "@id": "way/54610465",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8754383,
+            49.9500573
+          ],
+          [
+            17.8736552,
+            49.9507858
+          ],
+          [
+            17.8727516,
+            49.9511471
+          ],
+          [
+            17.8712541,
+            49.9517459
+          ],
+          [
+            17.8710545,
+            49.9518384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206264037",
+      "properties": {
+        "@id": "way/206264037",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8820248,
+            49.947421
+          ],
+          [
+            17.8805233,
+            49.9480281
+          ],
+          [
+            17.8781559,
+            49.9489852
+          ],
+          [
+            17.8778305,
+            49.9491147
+          ],
+          [
+            17.8774106,
+            49.9492844
+          ],
+          [
+            17.8769156,
+            49.9494859
+          ],
+          [
+            17.8766524,
+            49.949593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52404170",
+      "properties": {
+        "@id": "way/52404170",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.870564,
+            49.9521918
+          ],
+          [
+            17.8704943,
+            49.9521644
+          ],
+          [
+            17.8704314,
+            49.9521078
+          ],
+          [
+            17.8704091,
+            49.9520604
+          ],
+          [
+            17.8704316,
+            49.9519949
+          ],
+          [
+            17.8704803,
+            49.9519392
+          ],
+          [
+            17.8705872,
+            49.9518879
+          ],
+          [
+            17.8707266,
+            49.9518691
+          ],
+          [
+            17.8708429,
+            49.9518775
+          ],
+          [
+            17.8708964,
+            49.951904
+          ],
+          [
+            17.8709643,
+            49.9519669
+          ],
+          [
+            17.8709673,
+            49.9520472
+          ],
+          [
+            17.8709141,
+            49.9521163
+          ],
+          [
+            17.8708476,
+            49.9521489
+          ],
+          [
+            17.8707514,
+            49.9521837
+          ],
+          [
+            17.8706674,
+            49.9521984
+          ],
+          [
+            17.870564,
+            49.9521918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128179425",
+      "properties": {
+        "@id": "way/128179425",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8710545,
+            49.9518384
+          ],
+          [
+            17.8708964,
+            49.951904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52504990",
+      "properties": {
+        "@id": "way/52504990",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8763821,
+            49.9496955
+          ],
+          [
+            17.8763434,
+            49.9497101
+          ],
+          [
+            17.8756229,
+            49.9499826
+          ],
+          [
+            17.8754383,
+            49.9500573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52504992",
+      "properties": {
+        "@id": "way/52504992",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8766524,
+            49.949593
+          ],
+          [
+            17.8763821,
+            49.9496955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30999438",
+      "properties": {
+        "@id": "way/30999438",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.878419,
+            49.9328992
+          ],
+          [
+            17.8784908,
+            49.9328135
+          ],
+          [
+            17.8786526,
+            49.9326393
+          ],
+          [
+            17.8793832,
+            49.9318522
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100612523",
+      "properties": {
+        "@id": "way/100612523",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8793832,
+            49.9318522
+          ],
+          [
+            17.8798289,
+            49.9313721
+          ],
+          [
+            17.8799883,
+            49.9312827
+          ],
+          [
+            17.8820558,
+            49.9301235
+          ],
+          [
+            17.8821996,
+            49.9300388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100614261",
+      "properties": {
+        "@id": "way/100614261",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8865215,
+            49.9327461
+          ],
+          [
+            17.8860835,
+            49.9335503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100611811",
+      "properties": {
+        "@id": "way/100611811",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.878419,
+            49.9328992
+          ],
+          [
+            17.879953,
+            49.933536
+          ],
+          [
+            17.8815428,
+            49.934161
+          ],
+          [
+            17.8816606,
+            49.9342124
+          ],
+          [
+            17.882572,
+            49.934563
+          ],
+          [
+            17.883633,
+            49.934979
+          ],
+          [
+            17.885012,
+            49.935519
+          ],
+          [
+            17.8866043,
+            49.9361374
+          ],
+          [
+            17.8866709,
+            49.9361634
+          ],
+          [
+            17.8876282,
+            49.9365367
+          ],
+          [
+            17.8876747,
+            49.9365548
+          ],
+          [
+            17.8887415,
+            49.9369651
+          ],
+          [
+            17.8889206,
+            49.9370404
+          ],
+          [
+            17.888989,
+            49.937066
+          ],
+          [
+            17.8891272,
+            49.9371214
+          ],
+          [
+            17.8896741,
+            49.9373326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100614258",
+      "properties": {
+        "@id": "way/100614258",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8821996,
+            49.9300388
+          ],
+          [
+            17.8823369,
+            49.9301665
+          ],
+          [
+            17.8834605,
+            49.9311906
+          ],
+          [
+            17.8841049,
+            49.9316313
+          ],
+          [
+            17.8843926,
+            49.9317809
+          ],
+          [
+            17.8848031,
+            49.9319943
+          ],
+          [
+            17.8857202,
+            49.9323787
+          ],
+          [
+            17.8865215,
+            49.9327461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133607996",
+      "properties": {
+        "@id": "way/133607996",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.890191,
+            49.937534
+          ],
+          [
+            17.89039,
+            49.9376094
+          ],
+          [
+            17.8906275,
+            49.9376994
+          ],
+          [
+            17.891094,
+            49.937891
+          ],
+          [
+            17.8921518,
+            49.9383109
+          ],
+          [
+            17.892263,
+            49.938355
+          ],
+          [
+            17.8932441,
+            49.9387397
+          ],
+          [
+            17.8935067,
+            49.9388451
+          ],
+          [
+            17.8951213,
+            49.9394932
+          ],
+          [
+            17.8952788,
+            49.9395541
+          ],
+          [
+            17.8961341,
+            49.9398846
+          ],
+          [
+            17.896991,
+            49.940228
+          ],
+          [
+            17.8972985,
+            49.9403429
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341689498",
+      "properties": {
+        "@id": "way/341689498",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8860835,
+            49.9335503
+          ],
+          [
+            17.8854176,
+            49.9347638
+          ],
+          [
+            17.885012,
+            49.935519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133607997",
+      "properties": {
+        "@id": "way/133607997",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8896741,
+            49.9373326
+          ],
+          [
+            17.890191,
+            49.937534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52564122",
+      "properties": {
+        "@id": "way/52564122",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9047463,
+            49.9394379
+          ],
+          [
+            17.9045459,
+            49.9394184
+          ],
+          [
+            17.90446,
+            49.9394033
+          ],
+          [
+            17.9040715,
+            49.9392626
+          ],
+          [
+            17.9037313,
+            49.9391145
+          ],
+          [
+            17.9035848,
+            49.9390721
+          ],
+          [
+            17.9035092,
+            49.9390446
+          ],
+          [
+            17.9033101,
+            49.9390031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100611817",
+      "properties": {
+        "@id": "way/100611817",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8979637,
+            49.9405732
+          ],
+          [
+            17.8977441,
+            49.9406859
+          ],
+          [
+            17.8969495,
+            49.941072
+          ],
+          [
+            17.8965893,
+            49.9412324
+          ],
+          [
+            17.8962434,
+            49.9413869
+          ],
+          [
+            17.896052,
+            49.941477
+          ],
+          [
+            17.8944068,
+            49.9421801
+          ],
+          [
+            17.8942577,
+            49.9422438
+          ],
+          [
+            17.8939932,
+            49.942338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250500318",
+      "properties": {
+        "@id": "way/250500318",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8972985,
+            49.9403429
+          ],
+          [
+            17.8976686,
+            49.9404632
+          ],
+          [
+            17.8979637,
+            49.9405732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52564070",
+      "properties": {
+        "@id": "way/52564070",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9024549,
+            49.9390929
+          ],
+          [
+            17.9014916,
+            49.9392217
+          ],
+          [
+            17.9009438,
+            49.9392973
+          ],
+          [
+            17.9008186,
+            49.9393216
+          ],
+          [
+            17.9006922,
+            49.9393462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52595696",
+      "properties": {
+        "@id": "way/52595696",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8984613,
+            49.940304
+          ],
+          [
+            17.8979637,
+            49.9405732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100650571",
+      "properties": {
+        "@id": "way/100650571",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9001529,
+            49.9395159
+          ],
+          [
+            17.90012,
+            49.9395319
+          ],
+          [
+            17.9000637,
+            49.9395569
+          ],
+          [
+            17.8998149,
+            49.9396682
+          ],
+          [
+            17.8996064,
+            49.9397614
+          ],
+          [
+            17.8995094,
+            49.9398074
+          ],
+          [
+            17.8992595,
+            49.9399263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/103107961",
+      "properties": {
+        "@id": "way/103107961",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8992595,
+            49.9399263
+          ],
+          [
+            17.8988312,
+            49.9401301
+          ],
+          [
+            17.8987085,
+            49.9401878
+          ],
+          [
+            17.8984613,
+            49.940304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391087527",
+      "properties": {
+        "@id": "way/391087527",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9006922,
+            49.9393462
+          ],
+          [
+            17.9004191,
+            49.9394212
+          ],
+          [
+            17.9001529,
+            49.9395159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391087528",
+      "properties": {
+        "@id": "way/391087528",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9033101,
+            49.9390031
+          ],
+          [
+            17.9032527,
+            49.938999
+          ],
+          [
+            17.9030894,
+            49.9389989
+          ],
+          [
+            17.9025662,
+            49.9390776
+          ],
+          [
+            17.9024549,
+            49.9390929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100658180",
+      "properties": {
+        "@id": "way/100658180",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.884385,
+            49.9464668
+          ],
+          [
+            17.883497,
+            49.9468258
+          ],
+          [
+            17.8831636,
+            49.9469606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206264038",
+      "properties": {
+        "@id": "way/206264038",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8831636,
+            49.9469606
+          ],
+          [
+            17.882305,
+            49.9473038
+          ],
+          [
+            17.882132,
+            49.9473754
+          ],
+          [
+            17.8820248,
+            49.947421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100677712",
+      "properties": {
+        "@id": "way/100677712",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8863132,
+            49.9456707
+          ],
+          [
+            17.886156,
+            49.9457356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125591375",
+      "properties": {
+        "@id": "way/125591375",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.886156,
+            49.9457356
+          ],
+          [
+            17.8859483,
+            49.9458214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95630909",
+      "properties": {
+        "@id": "way/95630909",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8939932,
+            49.942338
+          ],
+          [
+            17.8938991,
+            49.9423768
+          ],
+          [
+            17.8917096,
+            49.9434273
+          ],
+          [
+            17.891611,
+            49.9434703
+          ],
+          [
+            17.891176,
+            49.94366
+          ],
+          [
+            17.8896987,
+            49.9442877
+          ],
+          [
+            17.8895987,
+            49.9443288
+          ],
+          [
+            17.8882924,
+            49.9448557
+          ],
+          [
+            17.8878445,
+            49.9450363
+          ],
+          [
+            17.8865625,
+            49.9455682
+          ],
+          [
+            17.8863132,
+            49.9456707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125591376",
+      "properties": {
+        "@id": "way/125591376",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.8859483,
+            49.9458214
+          ],
+          [
+            17.884385,
+            49.9464668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155798898",
+      "properties": {
+        "@id": "way/155798898",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.907242,
+            49.934672
+          ],
+          [
+            17.909892,
+            49.933291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52510696",
+      "properties": {
+        "@id": "way/52510696",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9144077,
+            49.9302414
+          ],
+          [
+            17.913949,
+            49.929245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87054573",
+      "properties": {
+        "@id": "way/87054573",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.911234,
+            49.932651
+          ],
+          [
+            17.912493,
+            49.93205
+          ],
+          [
+            17.912924,
+            49.931836
+          ],
+          [
+            17.9142722,
+            49.9311605
+          ],
+          [
+            17.9143947,
+            49.9310923
+          ],
+          [
+            17.9144825,
+            49.9310301
+          ],
+          [
+            17.9145487,
+            49.9309604
+          ],
+          [
+            17.9145959,
+            49.9308676
+          ],
+          [
+            17.9146147,
+            49.9307558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224753538",
+      "properties": {
+        "@id": "way/224753538",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9146147,
+            49.9307558
+          ],
+          [
+            17.9145754,
+            49.9306368
+          ],
+          [
+            17.9144077,
+            49.9302414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/9624790",
+      "properties": {
+        "@id": "way/9624790",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9057998,
+            49.9356363
+          ],
+          [
+            17.9060168,
+            49.9355062
+          ],
+          [
+            17.9065899,
+            49.9350785
+          ],
+          [
+            17.907242,
+            49.934672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49302668",
+      "properties": {
+        "@id": "way/49302668",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.91142,
+            49.936221
+          ],
+          [
+            17.9099563,
+            49.9369605
+          ],
+          [
+            17.9097837,
+            49.9370477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56419523",
+      "properties": {
+        "@id": "way/56419523",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9102351,
+            49.9403287
+          ],
+          [
+            17.910587,
+            49.940553
+          ],
+          [
+            17.910956,
+            49.9407962
+          ],
+          [
+            17.911161,
+            49.940936
+          ],
+          [
+            17.9112821,
+            49.9410363
+          ],
+          [
+            17.911404,
+            49.941146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56419525",
+      "properties": {
+        "@id": "way/56419525",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.920833,
+            49.932436
+          ],
+          [
+            17.9197501,
+            49.9327753
+          ],
+          [
+            17.9193014,
+            49.9329159
+          ],
+          [
+            17.9181003,
+            49.9332977
+          ],
+          [
+            17.917168,
+            49.933594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56419534",
+      "properties": {
+        "@id": "way/56419534",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.917168,
+            49.933594
+          ],
+          [
+            17.916843,
+            49.933699
+          ],
+          [
+            17.9163416,
+            49.9338515
+          ],
+          [
+            17.9152082,
+            49.9341964
+          ],
+          [
+            17.9148039,
+            49.9343481
+          ],
+          [
+            17.91437,
+            49.9345157
+          ],
+          [
+            17.9139085,
+            49.9347361
+          ],
+          [
+            17.9137279,
+            49.9348563
+          ],
+          [
+            17.91176,
+            49.936049
+          ],
+          [
+            17.91142,
+            49.936221
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91220923",
+      "properties": {
+        "@id": "way/91220923",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.911404,
+            49.941146
+          ],
+          [
+            17.913385,
+            49.9428414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224753537",
+      "properties": {
+        "@id": "way/224753537",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.909892,
+            49.933291
+          ],
+          [
+            17.911234,
+            49.932651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22791490",
+      "properties": {
+        "@id": "way/22791490",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9057998,
+            49.9356363
+          ],
+          [
+            17.9057143,
+            49.9358043
+          ],
+          [
+            17.9056898,
+            49.9359996
+          ],
+          [
+            17.905719,
+            49.9363362
+          ],
+          [
+            17.9057714,
+            49.9366234
+          ],
+          [
+            17.9058124,
+            49.9366966
+          ],
+          [
+            17.906001,
+            49.9370338
+          ],
+          [
+            17.906405,
+            49.9374706
+          ],
+          [
+            17.9065502,
+            49.9376275
+          ],
+          [
+            17.907088,
+            49.9381571
+          ],
+          [
+            17.9072316,
+            49.9382985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24535342",
+      "properties": {
+        "@id": "way/24535342",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9097508,
+            49.9400594
+          ],
+          [
+            17.9101441,
+            49.9402799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24535343",
+      "properties": {
+        "@id": "way/24535343",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9101441,
+            49.9402799
+          ],
+          [
+            17.9101599,
+            49.9402884
+          ],
+          [
+            17.9102351,
+            49.9403287
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30999447",
+      "properties": {
+        "@id": "way/30999447",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9097837,
+            49.9370477
+          ],
+          [
+            17.9094381,
+            49.9372171
+          ],
+          [
+            17.9088824,
+            49.9374895
+          ],
+          [
+            17.9074766,
+            49.9381784
+          ],
+          [
+            17.9072316,
+            49.9382985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49302650",
+      "properties": {
+        "@id": "way/49302650",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9072316,
+            49.9382985
+          ],
+          [
+            17.9069957,
+            49.9384244
+          ],
+          [
+            17.9065049,
+            49.9386864
+          ],
+          [
+            17.9063675,
+            49.9387597
+          ],
+          [
+            17.9062294,
+            49.9388394
+          ],
+          [
+            17.9060389,
+            49.9389313
+          ],
+          [
+            17.9055853,
+            49.939144
+          ],
+          [
+            17.9050441,
+            49.9393565
+          ],
+          [
+            17.904861,
+            49.9394267
+          ],
+          [
+            17.9047463,
+            49.9394379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52564287",
+      "properties": {
+        "@id": "way/52564287",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9084973,
+            49.9393539
+          ],
+          [
+            17.9087015,
+            49.9394776
+          ],
+          [
+            17.9094563,
+            49.9398961
+          ],
+          [
+            17.9097508,
+            49.9400594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86436079",
+      "properties": {
+        "@id": "way/86436079",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9072316,
+            49.9382985
+          ],
+          [
+            17.907414,
+            49.9384506
+          ],
+          [
+            17.9082627,
+            49.9391583
+          ],
+          [
+            17.9084973,
+            49.9393539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101011563",
+      "properties": {
+        "@id": "way/101011563",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9319754,
+            49.9289638
+          ],
+          [
+            17.9318588,
+            49.9289989
+          ],
+          [
+            17.9313398,
+            49.9291716
+          ],
+          [
+            17.9312145,
+            49.9292105
+          ],
+          [
+            17.9300347,
+            49.9295774
+          ],
+          [
+            17.9297858,
+            49.9296548
+          ],
+          [
+            17.9290799,
+            49.9298743
+          ],
+          [
+            17.9288636,
+            49.9299416
+          ],
+          [
+            17.927351,
+            49.930412
+          ],
+          [
+            17.925414,
+            49.931011
+          ],
+          [
+            17.9236996,
+            49.9315435
+          ],
+          [
+            17.922989,
+            49.931761
+          ],
+          [
+            17.9223743,
+            49.9319679
+          ],
+          [
+            17.922179,
+            49.9320337
+          ],
+          [
+            17.920833,
+            49.932436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124542441",
+      "properties": {
+        "@id": "way/124542441",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.913385,
+            49.9428414
+          ],
+          [
+            17.9141954,
+            49.9435269
+          ],
+          [
+            17.9143535,
+            49.9436336
+          ],
+          [
+            17.914544,
+            49.9437621
+          ],
+          [
+            17.915102,
+            49.944091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224753540",
+      "properties": {
+        "@id": "way/224753540",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.915102,
+            49.944091
+          ],
+          [
+            17.915792,
+            49.944422
+          ],
+          [
+            17.916502,
+            49.944641
+          ],
+          [
+            17.916793,
+            49.9447172
+          ],
+          [
+            17.917567,
+            49.944869
+          ],
+          [
+            17.9180959,
+            49.9449665
+          ],
+          [
+            17.9184277,
+            49.9450344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/9624400",
+      "properties": {
+        "@id": "way/9624400",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9184277,
+            49.9450344
+          ],
+          [
+            17.9186488,
+            49.9450573
+          ],
+          [
+            17.91888,
+            49.945082
+          ],
+          [
+            17.919585,
+            49.945126
+          ],
+          [
+            17.9202868,
+            49.9451667
+          ],
+          [
+            17.920842,
+            49.945186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/9624938",
+      "properties": {
+        "@id": "way/9624938",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.920842,
+            49.945186
+          ],
+          [
+            17.9211459,
+            49.9451764
+          ],
+          [
+            17.922394,
+            49.945137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/98598122",
+      "properties": {
+        "@id": "way/98598122",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9253164,
+            49.9446835
+          ],
+          [
+            17.925365,
+            49.9445663
+          ],
+          [
+            17.9254122,
+            49.9444465
+          ],
+          [
+            17.926037,
+            49.9442869
+          ],
+          [
+            17.926199,
+            49.944494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125630711",
+      "properties": {
+        "@id": "way/125630711",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.922394,
+            49.945137
+          ],
+          [
+            17.92297,
+            49.9451
+          ],
+          [
+            17.9236882,
+            49.9450162
+          ],
+          [
+            17.923822,
+            49.945
+          ],
+          [
+            17.9251797,
+            49.9447134
+          ],
+          [
+            17.9253164,
+            49.9446835
+          ],
+          [
+            17.9256222,
+            49.9446178
+          ],
+          [
+            17.926199,
+            49.944494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181476435",
+      "properties": {
+        "@id": "way/181476435",
+        "@relations": [
+          {
+            "role": "route",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "route",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.9364593,
+            49.9287451
+          ],
+          [
+            17.9365793,
+            49.9289378
+          ],
+          [
+            17.9368659,
+            49.9290631
+          ],
+          [
+            17.9372967,
+            49.9290608
+          ],
+          [
+            17.9375585,
+            49.9289422
+          ],
+          [
+            17.9377677,
+            49.9287632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1163168237",
+      "properties": {
+        "@id": "node/1163168237",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8849041,
+          49.9283368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1004399259",
+      "properties": {
+        "@id": "node/1004399259",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9126277,
+          49.9209042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1005392537",
+      "properties": {
+        "@id": "node/1005392537",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9137091,
+          49.9254417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702301",
+      "properties": {
+        "@id": "node/1140702301",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9363553,
+          49.9274689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702558",
+      "properties": {
+        "@id": "node/1140702558",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9383687,
+          49.928122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1169645249",
+      "properties": {
+        "@id": "node/1169645249",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9383001,
+          49.9280441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702419",
+      "properties": {
+        "@id": "node/1140702419",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8765608,
+          49.9307489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702470",
+      "properties": {
+        "@id": "node/1140702470",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8753968,
+          49.9316949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702376",
+      "properties": {
+        "@id": "node/1140702376",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8711421,
+          49.9518623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702408",
+      "properties": {
+        "@id": "node/1140702408",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8714748,
+          49.9515994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702359",
+      "properties": {
+        "@id": "node/1140702359",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8774106,
+          49.9492844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702324",
+      "properties": {
+        "@id": "node/1140702324",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8790139,
+          49.9323588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702354",
+      "properties": {
+        "@id": "node/1140702354",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.882756,
+          49.9297277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1169645316",
+      "properties": {
+        "@id": "node/1169645316",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8816606,
+          49.9342124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702490",
+      "properties": {
+        "@id": "node/1140702490",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8852918,
+          49.9350734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702528",
+      "properties": {
+        "@id": "node/1140702528",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8854665,
+          49.9345262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702537",
+      "properties": {
+        "@id": "node/1140702537",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.886092,
+          49.9325056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/75036877",
+      "properties": {
+        "@id": "node/75036877",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8866043,
+          49.9361374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702632",
+      "properties": {
+        "@id": "node/1140702632",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8925236,
+          49.9385493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1004399247",
+      "properties": {
+        "@id": "node/1004399247",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9007524,
+          49.9392826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702447",
+      "properties": {
+        "@id": "node/1140702447",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.882305,
+          49.9473038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702478",
+      "properties": {
+        "@id": "node/1140702478",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8871576,
+          49.9454259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702541",
+      "properties": {
+        "@id": "node/1140702541",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8885163,
+          49.944683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1004399252",
+      "properties": {
+        "@id": "node/1004399252",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9080926,
+          49.9341523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1004399260",
+      "properties": {
+        "@id": "node/1004399260",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.914337,
+          49.9298432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1058839250",
+      "properties": {
+        "@id": "node/1058839250",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9148039,
+          49.9343481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1004399250",
+      "properties": {
+        "@id": "node/1004399250",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9055267,
+          49.9391211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1004399257",
+      "properties": {
+        "@id": "node/1004399257",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1286612,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "201",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295057,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "204",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1295059,
+            "reltags": {
+              "complete": "no",
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "206",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9062046,
+          49.9374144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1037789840",
+      "properties": {
+        "@id": "node/1037789840",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.910956,
+          49.9407962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702313",
+      "properties": {
+        "@id": "node/1140702313",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9082366,
+          49.9378642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702615",
+      "properties": {
+        "@id": "node/1140702615",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9088089,
+          49.9374693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/75013824",
+      "properties": {
+        "@id": "node/75013824",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.922989,
+          49.931761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1058839238",
+      "properties": {
+        "@id": "node/1058839238",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9193014,
+          49.9329159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702417",
+      "properties": {
+        "@id": "node/1140702417",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295058,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "210",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437395,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "203",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437464,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "209",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9300347,
+          49.9295774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1037789814",
+      "properties": {
+        "@id": "node/1037789814",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9151491,
+          49.9442494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1037789818",
+      "properties": {
+        "@id": "node/1037789818",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9202819,
+          49.9452439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1140702555",
+      "properties": {
+        "@id": "node/1140702555",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1295056,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "207",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437394,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "202",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437446,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "205",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1437455,
+            "reltags": {
+              "network": "ODIS",
+              "operator": "cz:MDPO, a.s.",
+              "ref": "208",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9258533,
+          49.9442809
+        ]
+      }
+    }
+  ]
+}
