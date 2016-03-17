@@ -1,0 +1,9319 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-20T03:56:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/40622640",
+      "properties": {
+        "@id": "way/40622640",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.5867031,
+            58.5774685
+          ],
+          [
+            49.5872391,
+            58.5774724
+          ],
+          [
+            49.5876926,
+            58.5774754
+          ],
+          [
+            49.5919147,
+            58.5775048
+          ],
+          [
+            49.5939644,
+            58.5775142
+          ],
+          [
+            49.5950027,
+            58.5775197
+          ],
+          [
+            49.5965974,
+            58.5775282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203216212",
+      "properties": {
+        "@id": "way/203216212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.5965974,
+            58.5775282
+          ],
+          [
+            49.599415,
+            58.5775274
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45728101",
+      "properties": {
+        "@id": "way/45728101",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6158479,
+            58.5775716
+          ],
+          [
+            49.6115071,
+            58.5775386
+          ],
+          [
+            49.6096915,
+            58.5775248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203216211",
+      "properties": {
+        "@id": "way/203216211",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.599415,
+            58.5775274
+          ],
+          [
+            49.5995249,
+            58.5775274
+          ],
+          [
+            49.6018546,
+            58.5775267
+          ],
+          [
+            49.6039245,
+            58.5775256
+          ],
+          [
+            49.6040243,
+            58.5775256
+          ],
+          [
+            49.6044552,
+            58.5775255
+          ],
+          [
+            49.6052215,
+            58.5775213
+          ],
+          [
+            49.6061016,
+            58.5775253
+          ],
+          [
+            49.6064488,
+            58.5775252
+          ],
+          [
+            49.6077422,
+            58.5775251
+          ],
+          [
+            49.6095371,
+            58.5775248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/81203323",
+      "properties": {
+        "@id": "way/81203323",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6095371,
+            58.5775248
+          ],
+          [
+            49.6096915,
+            58.5775248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178317859",
+      "properties": {
+        "@id": "way/178317859",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.625821,
+            58.5777135
+          ],
+          [
+            49.6234906,
+            58.5776961
+          ],
+          [
+            49.6233708,
+            58.5776952
+          ],
+          [
+            49.6221604,
+            58.5776876
+          ],
+          [
+            49.6214564,
+            58.5776831
+          ],
+          [
+            49.6209908,
+            58.5776802
+          ],
+          [
+            49.6196808,
+            58.5776516
+          ],
+          [
+            49.6191747,
+            58.5776421
+          ],
+          [
+            49.6182866,
+            58.5776254
+          ],
+          [
+            49.6167324,
+            58.5775972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45728103",
+      "properties": {
+        "@id": "way/45728103",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6167324,
+            58.5775972
+          ],
+          [
+            49.6158479,
+            58.5775716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622641",
+      "properties": {
+        "@id": "way/40622641",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6307519,
+            58.5777841
+          ],
+          [
+            49.6288516,
+            58.5777569
+          ],
+          [
+            49.6288039,
+            58.5777562
+          ],
+          [
+            49.6277343,
+            58.5777409
+          ],
+          [
+            49.6276913,
+            58.5777403
+          ],
+          [
+            49.625821,
+            58.5777135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622642",
+      "properties": {
+        "@id": "way/40622642",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6456357,
+            58.5803168
+          ],
+          [
+            49.6440685,
+            58.5798684
+          ],
+          [
+            49.6439376,
+            58.579831
+          ],
+          [
+            49.6413792,
+            58.5790992
+          ],
+          [
+            49.6411574,
+            58.5790358
+          ],
+          [
+            49.6405075,
+            58.5788498
+          ],
+          [
+            49.6383648,
+            58.5782369
+          ],
+          [
+            49.6379686,
+            58.5781236
+          ],
+          [
+            49.6372016,
+            58.5779091
+          ],
+          [
+            49.6367196,
+            58.5778259
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178317851",
+      "properties": {
+        "@id": "way/178317851",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6301811,
+            58.5873912
+          ],
+          [
+            49.6302787,
+            58.5855902
+          ],
+          [
+            49.6303502,
+            58.5842693
+          ],
+          [
+            49.6303561,
+            58.5841596
+          ],
+          [
+            49.6304571,
+            58.5822883
+          ],
+          [
+            49.6304792,
+            58.5819464
+          ],
+          [
+            49.6304823,
+            58.5818982
+          ],
+          [
+            49.6304878,
+            58.5818141
+          ],
+          [
+            49.6305202,
+            58.5813153
+          ],
+          [
+            49.6305477,
+            58.5808904
+          ],
+          [
+            49.6305783,
+            58.5804183
+          ],
+          [
+            49.6305973,
+            58.5801254
+          ],
+          [
+            49.6306005,
+            58.5800757
+          ],
+          [
+            49.6306072,
+            58.5799742
+          ],
+          [
+            49.6306179,
+            58.5798122
+          ],
+          [
+            49.6306412,
+            58.5794571
+          ],
+          [
+            49.6306506,
+            58.5793146
+          ],
+          [
+            49.6306904,
+            58.5787094
+          ],
+          [
+            49.6307199,
+            58.5782658
+          ],
+          [
+            49.6307519,
+            58.5777841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/69997831",
+      "properties": {
+        "@id": "way/69997831",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6367196,
+            58.5778259
+          ],
+          [
+            49.6364325,
+            58.5777845
+          ],
+          [
+            49.6359013,
+            58.5777833
+          ],
+          [
+            49.6344679,
+            58.5777799
+          ],
+          [
+            49.6335568,
+            58.5777809
+          ],
+          [
+            49.633208,
+            58.5777813
+          ],
+          [
+            49.6328322,
+            58.5777817
+          ],
+          [
+            49.6313235,
+            58.5777833
+          ],
+          [
+            49.6307519,
+            58.5777841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45728115",
+      "properties": {
+        "@id": "way/45728115",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6502449,
+            58.5793098
+          ],
+          [
+            49.6495752,
+            58.5792125
+          ],
+          [
+            49.6493842,
+            58.579219
+          ],
+          [
+            49.6489306,
+            58.5793024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45728116",
+      "properties": {
+        "@id": "way/45728116",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6489306,
+            58.5793024
+          ],
+          [
+            49.6488779,
+            58.5793481
+          ],
+          [
+            49.6487614,
+            58.5794578
+          ],
+          [
+            49.6485188,
+            58.5796861
+          ],
+          [
+            49.6484962,
+            58.5797073
+          ],
+          [
+            49.6476555,
+            58.5804987
+          ],
+          [
+            49.6473713,
+            58.5807662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86935875",
+      "properties": {
+        "@id": "way/86935875",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6497716,
+            58.5789845
+          ],
+          [
+            49.6503896,
+            58.5789271
+          ],
+          [
+            49.6505919,
+            58.5789339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37650901",
+      "properties": {
+        "@id": "way/37650901",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6489306,
+            58.5793024
+          ],
+          [
+            49.6493475,
+            58.5790935
+          ],
+          [
+            49.6497716,
+            58.5789845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55081037",
+      "properties": {
+        "@id": "way/55081037",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6505919,
+            58.5789339
+          ],
+          [
+            49.6509428,
+            58.5790271
+          ],
+          [
+            49.6510146,
+            58.5790462
+          ],
+          [
+            49.6510408,
+            58.5790535
+          ],
+          [
+            49.6511018,
+            58.5790703
+          ],
+          [
+            49.6511917,
+            58.5790952
+          ],
+          [
+            49.6516017,
+            58.5792086
+          ],
+          [
+            49.6528098,
+            58.5795488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86935879",
+      "properties": {
+        "@id": "way/86935879",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6513169,
+            58.5796149
+          ],
+          [
+            49.650805,
+            58.5794692
+          ],
+          [
+            49.6507438,
+            58.5794518
+          ],
+          [
+            49.6507169,
+            58.5794441
+          ],
+          [
+            49.6506552,
+            58.5794265
+          ],
+          [
+            49.6505583,
+            58.579399
+          ],
+          [
+            49.6502449,
+            58.5793098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26260542",
+      "properties": {
+        "@id": "way/26260542",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6113226,
+            58.6074629
+          ],
+          [
+            49.61133,
+            58.607306
+          ],
+          [
+            49.6114218,
+            58.6053667
+          ],
+          [
+            49.6114523,
+            58.6043694
+          ],
+          [
+            49.6114817,
+            58.6034109
+          ],
+          [
+            49.6114882,
+            58.6030763
+          ],
+          [
+            49.6114938,
+            58.6027811
+          ],
+          [
+            49.6114971,
+            58.6026208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183372101",
+      "properties": {
+        "@id": "way/183372101",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6320642,
+            58.6029113
+          ],
+          [
+            49.6307717,
+            58.6028916
+          ],
+          [
+            49.6275435,
+            58.6028419
+          ],
+          [
+            49.6237521,
+            58.6027835
+          ],
+          [
+            49.6230279,
+            58.6027724
+          ],
+          [
+            49.6201613,
+            58.6027282
+          ],
+          [
+            49.6186333,
+            58.6027047
+          ],
+          [
+            49.6183912,
+            58.602701
+          ],
+          [
+            49.61796,
+            58.6026945
+          ],
+          [
+            49.6135499,
+            58.6026507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35953785",
+      "properties": {
+        "@id": "way/35953785",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6135499,
+            58.6026507
+          ],
+          [
+            49.6123361,
+            58.602633
+          ],
+          [
+            49.6122562,
+            58.6026319
+          ],
+          [
+            49.6114971,
+            58.6026208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25425684",
+      "properties": {
+        "@id": "way/25425684",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6298785,
+            58.5932094
+          ],
+          [
+            49.6299342,
+            58.592138
+          ],
+          [
+            49.6299954,
+            58.5909612
+          ],
+          [
+            49.6300218,
+            58.5904526
+          ],
+          [
+            49.6300438,
+            58.5900305
+          ],
+          [
+            49.6300688,
+            58.5895493
+          ],
+          [
+            49.6300968,
+            58.5890117
+          ],
+          [
+            49.6301111,
+            58.5887375
+          ],
+          [
+            49.6301208,
+            58.5885508
+          ],
+          [
+            49.630134,
+            58.5882981
+          ],
+          [
+            49.6301574,
+            58.5878476
+          ],
+          [
+            49.6301759,
+            58.5874916
+          ],
+          [
+            49.6301811,
+            58.5873912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37650900",
+      "properties": {
+        "@id": "way/37650900",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6473713,
+            58.5807662
+          ],
+          [
+            49.6463201,
+            58.580494
+          ],
+          [
+            49.6456357,
+            58.5803168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45728112",
+      "properties": {
+        "@id": "way/45728112",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6473713,
+            58.5807662
+          ],
+          [
+            49.6473363,
+            58.581079
+          ],
+          [
+            49.645601,
+            58.5810695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120878624",
+      "properties": {
+        "@id": "way/120878624",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.645601,
+            58.5810695
+          ],
+          [
+            49.6456357,
+            58.5803168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25425031",
+      "properties": {
+        "@id": "way/25425031",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6298785,
+            58.5932094
+          ],
+          [
+            49.6325761,
+            58.5932689
+          ],
+          [
+            49.6350819,
+            58.5933072
+          ],
+          [
+            49.6359417,
+            58.5933204
+          ],
+          [
+            49.6374003,
+            58.5933427
+          ],
+          [
+            49.637972,
+            58.5933564
+          ],
+          [
+            49.6383816,
+            58.5933634
+          ],
+          [
+            49.6393715,
+            58.5933804
+          ],
+          [
+            49.6409612,
+            58.5934077
+          ],
+          [
+            49.642158,
+            58.5934223
+          ],
+          [
+            49.6430131,
+            58.5934429
+          ],
+          [
+            49.6449273,
+            58.5934635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45728118",
+      "properties": {
+        "@id": "way/45728118",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6406017,
+            58.6030891
+          ],
+          [
+            49.6366042,
+            58.6030142
+          ],
+          [
+            49.6358045,
+            58.6029992
+          ],
+          [
+            49.6334705,
+            58.6029554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622666",
+      "properties": {
+        "@id": "way/40622666",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6334705,
+            58.6029554
+          ],
+          [
+            49.6330704,
+            58.6029429
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308412158",
+      "properties": {
+        "@id": "way/308412158",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6325435,
+            58.6029263
+          ],
+          [
+            49.6320642,
+            58.6029113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308412159",
+      "properties": {
+        "@id": "way/308412159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6330704,
+            58.6029429
+          ],
+          [
+            49.6325435,
+            58.6029263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622667",
+      "properties": {
+        "@id": "way/40622667",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6571933,
+            58.6033829
+          ],
+          [
+            49.6570622,
+            58.6033803
+          ],
+          [
+            49.6517053,
+            58.6032719
+          ],
+          [
+            49.650215,
+            58.6032418
+          ],
+          [
+            49.6459432,
+            58.6031893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45728119",
+      "properties": {
+        "@id": "way/45728119",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6437858,
+            58.6031456
+          ],
+          [
+            49.6406017,
+            58.6030891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/344209091",
+      "properties": {
+        "@id": "way/344209091",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6449273,
+            58.5934635
+          ],
+          [
+            49.6453049,
+            58.5934724
+          ],
+          [
+            49.6462687,
+            58.5934952
+          ],
+          [
+            49.6467189,
+            58.5935059
+          ],
+          [
+            49.6467622,
+            58.5935069
+          ],
+          [
+            49.6478564,
+            58.5935328
+          ],
+          [
+            49.6485959,
+            58.5935503
+          ],
+          [
+            49.6506339,
+            58.5935985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341111022",
+      "properties": {
+        "@id": "way/341111022",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6459432,
+            58.6031893
+          ],
+          [
+            49.6441526,
+            58.603153
+          ],
+          [
+            49.6437858,
+            58.6031456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26212179",
+      "properties": {
+        "@id": "way/26212179",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.5984854,
+            58.6153806
+          ],
+          [
+            49.5987883,
+            58.6158775
+          ],
+          [
+            49.5991824,
+            58.6165243
+          ],
+          [
+            49.5997641,
+            58.6174786
+          ],
+          [
+            49.6018628,
+            58.6204222
+          ],
+          [
+            49.604183,
+            58.624056
+          ],
+          [
+            49.6050862,
+            58.6253687
+          ],
+          [
+            49.6058604,
+            58.6265679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27953663",
+      "properties": {
+        "@id": "way/27953663",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6113226,
+            58.6074629
+          ],
+          [
+            49.6086907,
+            58.6090552
+          ],
+          [
+            49.6077783,
+            58.609633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622691",
+      "properties": {
+        "@id": "way/40622691",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6077783,
+            58.609633
+          ],
+          [
+            49.60542,
+            58.6111028
+          ],
+          [
+            49.6039478,
+            58.61199
+          ],
+          [
+            49.6038995,
+            58.612019
+          ],
+          [
+            49.6026212,
+            58.6128131
+          ],
+          [
+            49.6022815,
+            58.6130241
+          ],
+          [
+            49.6015987,
+            58.6134482
+          ],
+          [
+            49.6000921,
+            58.6143841
+          ],
+          [
+            49.5984854,
+            58.6153806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/117817361",
+      "properties": {
+        "@id": "way/117817361",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6060699,
+            58.6268972
+          ],
+          [
+            49.6069462,
+            58.6282508
+          ],
+          [
+            49.6073196,
+            58.6288036
+          ],
+          [
+            49.6076385,
+            58.6293201
+          ],
+          [
+            49.6076808,
+            58.6293967
+          ],
+          [
+            49.608519,
+            58.6306752
+          ],
+          [
+            49.608911,
+            58.6312888
+          ],
+          [
+            49.6093253,
+            58.6319329
+          ],
+          [
+            49.6106759,
+            58.6340257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/117817362",
+      "properties": {
+        "@id": "way/117817362",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6058604,
+            58.6265679
+          ],
+          [
+            49.6060699,
+            58.6268972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37958048",
+      "properties": {
+        "@id": "way/37958048",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.626146,
+            58.6373358
+          ],
+          [
+            49.627239,
+            58.6365846
+          ],
+          [
+            49.6293513,
+            58.6350964
+          ],
+          [
+            49.6319275,
+            58.633311
+          ],
+          [
+            49.6325145,
+            58.6329042
+          ],
+          [
+            49.634775,
+            58.6313009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622693",
+      "properties": {
+        "@id": "way/40622693",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.634775,
+            58.6313009
+          ],
+          [
+            49.6356121,
+            58.6310139
+          ],
+          [
+            49.6373572,
+            58.6304553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174720499",
+      "properties": {
+        "@id": "way/174720499",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6475253,
+            58.6246532
+          ],
+          [
+            49.6473059,
+            58.6248062
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174720500",
+      "properties": {
+        "@id": "way/174720500",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6478493,
+            58.6244306
+          ],
+          [
+            49.6475253,
+            58.6246532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174720858",
+      "properties": {
+        "@id": "way/174720858",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6473059,
+            58.6248062
+          ],
+          [
+            49.6470514,
+            58.6249785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622687",
+      "properties": {
+        "@id": "way/40622687",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6478493,
+            58.6244306
+          ],
+          [
+            49.64928,
+            58.6237204
+          ],
+          [
+            49.6519047,
+            58.6223838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130548217",
+      "properties": {
+        "@id": "way/130548217",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6379589,
+            58.630273
+          ],
+          [
+            49.6386561,
+            58.6300519
+          ],
+          [
+            49.640992,
+            58.6293149
+          ],
+          [
+            49.6416681,
+            58.6288163
+          ],
+          [
+            49.6423589,
+            58.6283067
+          ],
+          [
+            49.6457826,
+            58.6259004
+          ],
+          [
+            49.6469328,
+            58.6250644
+          ],
+          [
+            49.6470514,
+            58.6249785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130548216",
+      "properties": {
+        "@id": "way/130548216",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6373572,
+            58.6304553
+          ],
+          [
+            49.6376581,
+            58.6303651
+          ],
+          [
+            49.6379589,
+            58.630273
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37650910",
+      "properties": {
+        "@id": "way/37650910",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6528098,
+            58.5795488
+          ],
+          [
+            49.6527104,
+            58.5795509
+          ],
+          [
+            49.6524426,
+            58.5795529
+          ],
+          [
+            49.6519837,
+            58.5795943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55081038",
+      "properties": {
+        "@id": "way/55081038",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6559673,
+            58.5804521
+          ],
+          [
+            49.6559189,
+            58.5804388
+          ],
+          [
+            49.6555038,
+            58.5803244
+          ],
+          [
+            49.6542741,
+            58.5799699
+          ],
+          [
+            49.6528098,
+            58.5795488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86935877",
+      "properties": {
+        "@id": "way/86935877",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6519837,
+            58.5795943
+          ],
+          [
+            49.651714,
+            58.5796203
+          ],
+          [
+            49.6514265,
+            58.5796165
+          ],
+          [
+            49.6513169,
+            58.5796149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37650905",
+      "properties": {
+        "@id": "way/37650905",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6587294,
+            58.5809616
+          ],
+          [
+            49.6588538,
+            58.5811238
+          ],
+          [
+            49.6588586,
+            58.581248
+          ],
+          [
+            49.6588402,
+            58.5816048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622644",
+      "properties": {
+        "@id": "way/40622644",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6604192,
+            58.5815885
+          ],
+          [
+            49.6598292,
+            58.581443
+          ],
+          [
+            49.6592029,
+            58.5813106
+          ],
+          [
+            49.6588586,
+            58.581248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/86935874",
+      "properties": {
+        "@id": "way/86935874",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6593973,
+            58.5811608
+          ],
+          [
+            49.6599346,
+            58.5813569
+          ],
+          [
+            49.6602721,
+            58.5814856
+          ],
+          [
+            49.6604192,
+            58.5815885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120878623",
+      "properties": {
+        "@id": "way/120878623",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6587294,
+            58.5809616
+          ],
+          [
+            49.6593973,
+            58.5811608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176410671",
+      "properties": {
+        "@id": "way/176410671",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6588586,
+            58.581248
+          ],
+          [
+            49.6581773,
+            58.5810624
+          ],
+          [
+            49.6577621,
+            58.5809674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19819873",
+      "properties": {
+        "@id": "way/19819873",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6698817,
+            58.5853249
+          ],
+          [
+            49.6698075,
+            58.5852468
+          ],
+          [
+            49.6695926,
+            58.5851471
+          ],
+          [
+            49.6677993,
+            58.5843521
+          ],
+          [
+            49.6676463,
+            58.5842843
+          ],
+          [
+            49.6671571,
+            58.5840677
+          ],
+          [
+            49.6665921,
+            58.5838362
+          ],
+          [
+            49.6649845,
+            58.5832549
+          ],
+          [
+            49.6632843,
+            58.5826364
+          ],
+          [
+            49.6626992,
+            58.5824307
+          ],
+          [
+            49.6624994,
+            58.5823604
+          ],
+          [
+            49.6613323,
+            58.5819291
+          ],
+          [
+            49.660535,
+            58.5816317
+          ],
+          [
+            49.6604444,
+            58.5815979
+          ],
+          [
+            49.6604192,
+            58.5815885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622643",
+      "properties": {
+        "@id": "way/40622643",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6577621,
+            58.5809674
+          ],
+          [
+            49.6577037,
+            58.5809484
+          ],
+          [
+            49.6570203,
+            58.58076
+          ],
+          [
+            49.6559673,
+            58.5804521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622645",
+      "properties": {
+        "@id": "way/40622645",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6585469,
+            58.5869906
+          ],
+          [
+            49.6584965,
+            58.5881429
+          ],
+          [
+            49.6584747,
+            58.5886416
+          ],
+          [
+            49.6584498,
+            58.589211
+          ],
+          [
+            49.6584321,
+            58.589615
+          ],
+          [
+            49.6583555,
+            58.5913629
+          ],
+          [
+            49.6583553,
+            58.5914857
+          ],
+          [
+            49.658355,
+            58.5916219
+          ],
+          [
+            49.6583166,
+            58.5923543
+          ],
+          [
+            49.6582633,
+            58.5933714
+          ],
+          [
+            49.6582568,
+            58.5934897
+          ],
+          [
+            49.6582443,
+            58.5937176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622646",
+      "properties": {
+        "@id": "way/40622646",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6580526,
+            58.58698
+          ],
+          [
+            49.6581465,
+            58.5851964
+          ],
+          [
+            49.6581545,
+            58.5850652
+          ],
+          [
+            49.6582811,
+            58.5826448
+          ],
+          [
+            49.6583757,
+            58.5817494
+          ],
+          [
+            49.6583539,
+            58.5816349
+          ],
+          [
+            49.6583184,
+            58.5814483
+          ],
+          [
+            49.6580911,
+            58.5812008
+          ],
+          [
+            49.6577621,
+            58.5809674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622685",
+      "properties": {
+        "@id": "way/40622685",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6576982,
+            58.5937107
+          ],
+          [
+            49.6577143,
+            58.5934803
+          ],
+          [
+            49.6577784,
+            58.5925639
+          ],
+          [
+            49.6578029,
+            58.5917216
+          ],
+          [
+            49.657813,
+            58.5915301
+          ],
+          [
+            49.6578153,
+            58.5914866
+          ],
+          [
+            49.6578224,
+            58.5913522
+          ],
+          [
+            49.6579353,
+            58.5892077
+          ],
+          [
+            49.6580526,
+            58.58698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45728099",
+      "properties": {
+        "@id": "way/45728099",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6559673,
+            58.5804521
+          ],
+          [
+            49.6567038,
+            58.580441
+          ],
+          [
+            49.6578859,
+            58.5806982
+          ],
+          [
+            49.6583945,
+            58.5808553
+          ],
+          [
+            49.6587294,
+            58.5809616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120878626",
+      "properties": {
+        "@id": "way/120878626",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6588402,
+            58.5816048
+          ],
+          [
+            49.6588376,
+            58.5816476
+          ],
+          [
+            49.6587829,
+            58.5825638
+          ],
+          [
+            49.6587774,
+            58.5826553
+          ],
+          [
+            49.6587312,
+            58.5834274
+          ],
+          [
+            49.6586838,
+            58.5842212
+          ],
+          [
+            49.6586413,
+            58.584932
+          ],
+          [
+            49.6586326,
+            58.5850678
+          ],
+          [
+            49.658625,
+            58.5852047
+          ],
+          [
+            49.658615,
+            58.5854333
+          ],
+          [
+            49.6586086,
+            58.5855801
+          ],
+          [
+            49.6586003,
+            58.58577
+          ],
+          [
+            49.6585469,
+            58.5869906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622647",
+      "properties": {
+        "@id": "way/40622647",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6696808,
+            58.5872128
+          ],
+          [
+            49.6699625,
+            58.5856417
+          ],
+          [
+            49.6699567,
+            58.5854492
+          ],
+          [
+            49.6698817,
+            58.5853249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622652",
+      "properties": {
+        "@id": "way/40622652",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6687043,
+            58.593878
+          ],
+          [
+            49.6687736,
+            58.5932692
+          ],
+          [
+            49.6687868,
+            58.5931528
+          ],
+          [
+            49.6688865,
+            58.5922755
+          ],
+          [
+            49.6689651,
+            58.5915629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622708",
+      "properties": {
+        "@id": "way/40622708",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6693541,
+            58.5893802
+          ],
+          [
+            49.6696808,
+            58.5872128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622712",
+      "properties": {
+        "@id": "way/40622712",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6689651,
+            58.5915629
+          ],
+          [
+            49.6690703,
+            58.5909824
+          ],
+          [
+            49.6691233,
+            58.5906834
+          ],
+          [
+            49.6692069,
+            58.5902111
+          ],
+          [
+            49.6693541,
+            58.5893802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622653",
+      "properties": {
+        "@id": "way/40622653",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6576982,
+            58.5937107
+          ],
+          [
+            49.657967,
+            58.5937141
+          ],
+          [
+            49.6582443,
+            58.5937176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622654",
+      "properties": {
+        "@id": "way/40622654",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6582443,
+            58.5937176
+          ],
+          [
+            49.6584114,
+            58.5937202
+          ],
+          [
+            49.6598598,
+            58.5937424
+          ],
+          [
+            49.6600182,
+            58.5937448
+          ],
+          [
+            49.6618745,
+            58.5937733
+          ],
+          [
+            49.6623232,
+            58.5937801
+          ],
+          [
+            49.6624289,
+            58.5937817
+          ],
+          [
+            49.6627855,
+            58.5937872
+          ],
+          [
+            49.6653208,
+            58.5938261
+          ],
+          [
+            49.6673151,
+            58.5938567
+          ],
+          [
+            49.6681895,
+            58.5938701
+          ],
+          [
+            49.6687043,
+            58.593878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622655",
+      "properties": {
+        "@id": "way/40622655",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6506339,
+            58.5935985
+          ],
+          [
+            49.6525618,
+            58.5936291
+          ],
+          [
+            49.6538245,
+            58.5936492
+          ],
+          [
+            49.6548513,
+            58.5936655
+          ],
+          [
+            49.6552027,
+            58.593671
+          ],
+          [
+            49.655478,
+            58.5936754
+          ],
+          [
+            49.6558881,
+            58.5936819
+          ],
+          [
+            49.6576982,
+            58.5937107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622679",
+      "properties": {
+        "@id": "way/40622679",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6582443,
+            58.5937176
+          ],
+          [
+            49.658237,
+            58.5938915
+          ],
+          [
+            49.6582036,
+            58.5946847
+          ],
+          [
+            49.6581647,
+            58.5956078
+          ],
+          [
+            49.6581491,
+            58.5959762
+          ],
+          [
+            49.6580849,
+            58.5975685
+          ],
+          [
+            49.65806,
+            58.5981846
+          ],
+          [
+            49.6579973,
+            58.5992063
+          ],
+          [
+            49.6579528,
+            58.5999323
+          ],
+          [
+            49.6579071,
+            58.6006775
+          ],
+          [
+            49.6578488,
+            58.6016272
+          ],
+          [
+            49.6578456,
+            58.6016801
+          ],
+          [
+            49.6578418,
+            58.6017409
+          ],
+          [
+            49.657797,
+            58.6024524
+          ],
+          [
+            49.6577428,
+            58.6033131
+          ],
+          [
+            49.6577374,
+            58.6033935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622681",
+      "properties": {
+        "@id": "way/40622681",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6576058,
+            58.6051154
+          ],
+          [
+            49.6575446,
+            58.6058527
+          ],
+          [
+            49.6574942,
+            58.6067505
+          ],
+          [
+            49.657437,
+            58.6081738
+          ],
+          [
+            49.6573225,
+            58.6093127
+          ],
+          [
+            49.6572928,
+            58.6096707
+          ],
+          [
+            49.6572667,
+            58.6101737
+          ],
+          [
+            49.6572011,
+            58.6113467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622683",
+      "properties": {
+        "@id": "way/40622683",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6566116,
+            58.6113308
+          ],
+          [
+            49.656643,
+            58.6109009
+          ],
+          [
+            49.6567014,
+            58.6101013
+          ],
+          [
+            49.6567336,
+            58.6096607
+          ],
+          [
+            49.6568459,
+            58.6081651
+          ],
+          [
+            49.6569489,
+            58.6067452
+          ],
+          [
+            49.6570651,
+            58.6051095
+          ],
+          [
+            49.6571862,
+            58.6034954
+          ],
+          [
+            49.6571933,
+            58.6033829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622684",
+      "properties": {
+        "@id": "way/40622684",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6571933,
+            58.6033829
+          ],
+          [
+            49.6571983,
+            58.6033038
+          ],
+          [
+            49.6572447,
+            58.6026445
+          ],
+          [
+            49.6573132,
+            58.6016724
+          ],
+          [
+            49.6573848,
+            58.5999225
+          ],
+          [
+            49.6575153,
+            58.5981759
+          ],
+          [
+            49.6575529,
+            58.5975505
+          ],
+          [
+            49.6576478,
+            58.5959717
+          ],
+          [
+            49.6576824,
+            58.5944533
+          ],
+          [
+            49.6576946,
+            58.593881
+          ],
+          [
+            49.6576982,
+            58.5937107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37958059",
+      "properties": {
+        "@id": "way/37958059",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6577374,
+            58.6033935
+          ],
+          [
+            49.6574646,
+            58.6033882
+          ],
+          [
+            49.6571933,
+            58.6033829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622680",
+      "properties": {
+        "@id": "way/40622680",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6577374,
+            58.6033935
+          ],
+          [
+            49.6577301,
+            58.6035011
+          ],
+          [
+            49.6576699,
+            58.604283
+          ],
+          [
+            49.6576058,
+            58.6051154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/14165380",
+      "properties": {
+        "@id": "way/14165380",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.681684,
+            58.5940628
+          ],
+          [
+            49.6809569,
+            58.5940502
+          ],
+          [
+            49.6802037,
+            58.5940374
+          ],
+          [
+            49.6796867,
+            58.5940286
+          ],
+          [
+            49.6774764,
+            58.5939907
+          ],
+          [
+            49.6754054,
+            58.5939659
+          ],
+          [
+            49.6737741,
+            58.5939464
+          ],
+          [
+            49.6732117,
+            58.5939397
+          ],
+          [
+            49.6687043,
+            58.593878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622675",
+      "properties": {
+        "@id": "way/40622675",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6677403,
+            58.6062114
+          ],
+          [
+            49.6679255,
+            58.6059359
+          ],
+          [
+            49.6683229,
+            58.6056094
+          ],
+          [
+            49.6688529,
+            58.605265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176410672",
+      "properties": {
+        "@id": "way/176410672",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6681091,
+            58.6018713
+          ],
+          [
+            49.6681346,
+            58.6015373
+          ],
+          [
+            49.6682148,
+            58.6004861
+          ],
+          [
+            49.6682417,
+            58.6001337
+          ],
+          [
+            49.668375,
+            58.5985665
+          ],
+          [
+            49.6683795,
+            58.5985146
+          ],
+          [
+            49.6683846,
+            58.5984546
+          ],
+          [
+            49.6683935,
+            58.598349
+          ],
+          [
+            49.6684786,
+            58.5973492
+          ],
+          [
+            49.6684928,
+            58.5971958
+          ],
+          [
+            49.6685633,
+            58.5961391
+          ],
+          [
+            49.6685693,
+            58.5960437
+          ],
+          [
+            49.6686375,
+            58.5949254
+          ],
+          [
+            49.668668,
+            58.5944246
+          ],
+          [
+            49.6687043,
+            58.593878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45728131",
+      "properties": {
+        "@id": "way/45728131",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6687946,
+            58.6032166
+          ],
+          [
+            49.6681665,
+            58.6029307
+          ],
+          [
+            49.668123,
+            58.6029045
+          ],
+          [
+            49.6680871,
+            58.6028708
+          ],
+          [
+            49.6680663,
+            58.6028144
+          ],
+          [
+            49.6681091,
+            58.6018713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45728134",
+      "properties": {
+        "@id": "way/45728134",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6691131,
+            58.6043985
+          ],
+          [
+            49.6690195,
+            58.6042017
+          ],
+          [
+            49.6689572,
+            58.6040859
+          ],
+          [
+            49.668909,
+            58.6039822
+          ],
+          [
+            49.6688788,
+            58.6038684
+          ],
+          [
+            49.6688501,
+            58.6036466
+          ],
+          [
+            49.6687946,
+            58.6032166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/120878620",
+      "properties": {
+        "@id": "way/120878620",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6691131,
+            58.6043985
+          ],
+          [
+            49.6691507,
+            58.6036511
+          ],
+          [
+            49.6691538,
+            58.6035888
+          ],
+          [
+            49.6691451,
+            58.6035187
+          ],
+          [
+            49.6691268,
+            58.6034684
+          ],
+          [
+            49.6691019,
+            58.603428
+          ],
+          [
+            49.6690746,
+            58.6033972
+          ],
+          [
+            49.66901,
+            58.6033447
+          ],
+          [
+            49.6689378,
+            58.6032982
+          ],
+          [
+            49.6687946,
+            58.6032166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173217476",
+      "properties": {
+        "@id": "way/173217476",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6688529,
+            58.605265
+          ],
+          [
+            49.6689538,
+            58.6052071
+          ],
+          [
+            49.6689883,
+            58.6051786
+          ],
+          [
+            49.669012,
+            58.6051576
+          ],
+          [
+            49.6690387,
+            58.6051194
+          ],
+          [
+            49.6690452,
+            58.6050941
+          ],
+          [
+            49.6691131,
+            58.6043985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/19819881",
+      "properties": {
+        "@id": "way/19819881",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.681684,
+            58.5940628
+          ],
+          [
+            49.6816755,
+            58.5942871
+          ],
+          [
+            49.6815354,
+            58.5962307
+          ],
+          [
+            49.6813309,
+            58.5987026
+          ],
+          [
+            49.681284,
+            58.5995541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622673",
+      "properties": {
+        "@id": "way/40622673",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6807194,
+            58.6054725
+          ],
+          [
+            49.6806934,
+            58.605846
+          ],
+          [
+            49.6806054,
+            58.6070516
+          ],
+          [
+            49.6804775,
+            58.6086307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171731913",
+      "properties": {
+        "@id": "way/171731913",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6810737,
+            58.6021527
+          ],
+          [
+            49.680939,
+            58.6037496
+          ],
+          [
+            49.6808062,
+            58.6046206
+          ],
+          [
+            49.6807194,
+            58.6054725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251639055",
+      "properties": {
+        "@id": "way/251639055",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.681179,
+            58.6007598
+          ],
+          [
+            49.6810737,
+            58.6021527
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251639058",
+      "properties": {
+        "@id": "way/251639058",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.681284,
+            58.5995541
+          ],
+          [
+            49.681179,
+            58.6007598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25424951",
+      "properties": {
+        "@id": "way/25424951",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.656609,
+            58.6146543
+          ],
+          [
+            49.6564908,
+            58.6138397
+          ],
+          [
+            49.6564381,
+            58.6136006
+          ],
+          [
+            49.6564229,
+            58.6133786
+          ],
+          [
+            49.6566013,
+            58.611442
+          ],
+          [
+            49.6566116,
+            58.6113308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37958050",
+      "properties": {
+        "@id": "way/37958050",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6668785,
+            58.6149763
+          ],
+          [
+            49.6654837,
+            58.6158617
+          ],
+          [
+            49.6640789,
+            58.6168282
+          ],
+          [
+            49.6630141,
+            58.6175242
+          ],
+          [
+            49.6628075,
+            58.617664
+          ],
+          [
+            49.6622991,
+            58.618008
+          ],
+          [
+            49.6611786,
+            58.6187117
+          ],
+          [
+            49.6599949,
+            58.6191919
+          ],
+          [
+            49.6595874,
+            58.6193136
+          ],
+          [
+            49.6591996,
+            58.6194294
+          ],
+          [
+            49.6583407,
+            58.6196859
+          ],
+          [
+            49.6577535,
+            58.6198769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622682",
+      "properties": {
+        "@id": "way/40622682",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6572011,
+            58.6113467
+          ],
+          [
+            49.6571474,
+            58.6120907
+          ],
+          [
+            49.6570849,
+            58.6129546
+          ],
+          [
+            49.6570374,
+            58.6136124
+          ],
+          [
+            49.6570198,
+            58.6136403
+          ],
+          [
+            49.6568772,
+            58.6138664
+          ],
+          [
+            49.6568054,
+            58.6140774
+          ],
+          [
+            49.6567909,
+            58.6141199
+          ],
+          [
+            49.656609,
+            58.6146543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622686",
+      "properties": {
+        "@id": "way/40622686",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.656134,
+            58.6204035
+          ],
+          [
+            49.6561925,
+            58.6198191
+          ],
+          [
+            49.6562223,
+            58.6195209
+          ],
+          [
+            49.6562787,
+            58.618917
+          ],
+          [
+            49.6562826,
+            58.618861
+          ],
+          [
+            49.6563465,
+            58.6179534
+          ],
+          [
+            49.6564478,
+            58.6170261
+          ],
+          [
+            49.6564538,
+            58.6169708
+          ],
+          [
+            49.6565274,
+            58.6159341
+          ],
+          [
+            49.6565539,
+            58.6155377
+          ],
+          [
+            49.6565727,
+            58.6152361
+          ],
+          [
+            49.6566025,
+            58.6147592
+          ],
+          [
+            49.656609,
+            58.6146543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622674",
+      "properties": {
+        "@id": "way/40622674",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6668785,
+            58.6149763
+          ],
+          [
+            49.6670809,
+            58.6147236
+          ],
+          [
+            49.6671993,
+            58.613113
+          ],
+          [
+            49.667209,
+            58.6129919
+          ],
+          [
+            49.6672537,
+            58.6124351
+          ],
+          [
+            49.6672807,
+            58.6120982
+          ],
+          [
+            49.6673218,
+            58.611587
+          ],
+          [
+            49.6673762,
+            58.6110128
+          ],
+          [
+            49.6674221,
+            58.610529
+          ],
+          [
+            49.6674339,
+            58.6104048
+          ],
+          [
+            49.6674433,
+            58.6103054
+          ],
+          [
+            49.6674816,
+            58.6099018
+          ],
+          [
+            49.6675388,
+            58.6091687
+          ],
+          [
+            49.6675594,
+            58.6088971
+          ],
+          [
+            49.6676009,
+            58.6083501
+          ],
+          [
+            49.6676763,
+            58.6073314
+          ],
+          [
+            49.6676827,
+            58.6072332
+          ],
+          [
+            49.6677154,
+            58.6068416
+          ],
+          [
+            49.66772,
+            58.6067263
+          ],
+          [
+            49.6677403,
+            58.6062114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622677",
+      "properties": {
+        "@id": "way/40622677",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6798501,
+            58.6153559
+          ],
+          [
+            49.6769443,
+            58.6152901
+          ],
+          [
+            49.6758509,
+            58.6152653
+          ],
+          [
+            49.6735076,
+            58.6152112
+          ],
+          [
+            49.6732804,
+            58.615206
+          ],
+          [
+            49.6713327,
+            58.6151611
+          ],
+          [
+            49.6674696,
+            58.6150116
+          ],
+          [
+            49.6668785,
+            58.6149763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176633278",
+      "properties": {
+        "@id": "way/176633278",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6519047,
+            58.6223838
+          ],
+          [
+            49.656134,
+            58.6204035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/235951693",
+      "properties": {
+        "@id": "way/235951693",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6577535,
+            58.6198769
+          ],
+          [
+            49.656134,
+            58.6204035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171731912",
+      "properties": {
+        "@id": "way/171731912",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6803045,
+            58.6102143
+          ],
+          [
+            49.6801559,
+            58.6119208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171731918",
+      "properties": {
+        "@id": "way/171731918",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6804775,
+            58.6086307
+          ],
+          [
+            49.6803045,
+            58.6102143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171731915",
+      "properties": {
+        "@id": "way/171731915",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6801559,
+            58.6119208
+          ],
+          [
+            49.680066,
+            58.6125604
+          ],
+          [
+            49.6799344,
+            58.6136049
+          ],
+          [
+            49.6798766,
+            58.6148217
+          ],
+          [
+            49.6798501,
+            58.6153559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174328105",
+      "properties": {
+        "@id": "way/174328105",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6116354,
+            58.6360833
+          ],
+          [
+            49.611549,
+            58.6356356
+          ],
+          [
+            49.6112028,
+            58.6349406
+          ],
+          [
+            49.6106759,
+            58.6340257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37958047",
+      "properties": {
+        "@id": "way/37958047",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6119772,
+            58.6381025
+          ],
+          [
+            49.6118645,
+            58.6373807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39849809",
+      "properties": {
+        "@id": "way/39849809",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6117741,
+            58.6368023
+          ],
+          [
+            49.6129954,
+            58.6367607
+          ],
+          [
+            49.6130994,
+            58.6367696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39849916",
+      "properties": {
+        "@id": "way/39849916",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6117741,
+            58.6368023
+          ],
+          [
+            49.611734,
+            58.6365944
+          ],
+          [
+            49.6116354,
+            58.6360833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40622713",
+      "properties": {
+        "@id": "way/40622713",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6133575,
+            58.638035
+          ],
+          [
+            49.6119772,
+            58.6381025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174094263",
+      "properties": {
+        "@id": "way/174094263",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6133575,
+            58.638035
+          ],
+          [
+            49.6136388,
+            58.6380198
+          ],
+          [
+            49.6146667,
+            58.6379643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174192257",
+      "properties": {
+        "@id": "way/174192257",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6130994,
+            58.6367696
+          ],
+          [
+            49.6131354,
+            58.6368186
+          ],
+          [
+            49.613216,
+            58.6372556
+          ],
+          [
+            49.6132578,
+            58.6374839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174328104",
+      "properties": {
+        "@id": "way/174328104",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6132578,
+            58.6374839
+          ],
+          [
+            49.6133508,
+            58.637998
+          ],
+          [
+            49.6133575,
+            58.638035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178317849",
+      "properties": {
+        "@id": "way/178317849",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6118645,
+            58.6373807
+          ],
+          [
+            49.6117741,
+            58.6368023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316771921",
+      "properties": {
+        "@id": "way/316771921",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6146667,
+            58.6379643
+          ],
+          [
+            49.6155633,
+            58.6379158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316771922",
+      "properties": {
+        "@id": "way/316771922",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6155633,
+            58.6379158
+          ],
+          [
+            49.6170578,
+            58.637835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316771919",
+      "properties": {
+        "@id": "way/316771919",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6206171,
+            58.6376538
+          ],
+          [
+            49.6216432,
+            58.637604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316771918",
+      "properties": {
+        "@id": "way/316771918",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6216432,
+            58.637604
+          ],
+          [
+            49.6243048,
+            58.637475
+          ],
+          [
+            49.6243685,
+            58.6374719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316771923",
+      "properties": {
+        "@id": "way/316771923",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6170578,
+            58.637835
+          ],
+          [
+            49.6189586,
+            58.6377323
+          ],
+          [
+            49.6192407,
+            58.6377171
+          ],
+          [
+            49.6202594,
+            58.6376711
+          ],
+          [
+            49.6206171,
+            58.6376538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316771920",
+      "properties": {
+        "@id": "way/316771920",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.6243685,
+            58.6374719
+          ],
+          [
+            49.6258097,
+            58.6374021
+          ],
+          [
+            49.6259229,
+            58.6373873
+          ],
+          [
+            49.6260218,
+            58.6373715
+          ],
+          [
+            49.626146,
+            58.6373358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822801",
+      "properties": {
+        "@id": "node/445822801",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5905561,
+          58.5775869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822812",
+      "properties": {
+        "@id": "node/445822812",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5950417,
+          58.5773654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822798",
+      "properties": {
+        "@id": "node/445822798",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6038073,
+          58.5776012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822800",
+      "properties": {
+        "@id": "node/445822800",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5983438,
+          58.5776025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822811",
+      "properties": {
+        "@id": "node/445822811",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6035589,
+          58.5774012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822797",
+      "properties": {
+        "@id": "node/445822797",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6082302,
+          58.5776191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822808",
+      "properties": {
+        "@id": "node/445822808",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6085558,
+          58.5774101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412220",
+      "properties": {
+        "@id": "node/443412220",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6194735,
+          58.5775556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412221",
+      "properties": {
+        "@id": "node/443412221",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6237032,
+          58.5775545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412259",
+      "properties": {
+        "@id": "node/443412259",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6200534,
+          58.5777195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412116",
+      "properties": {
+        "@id": "node/443412116",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6268431,
+          58.5778532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822796",
+      "properties": {
+        "@id": "node/445822796",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6241253,
+          58.5776278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412226",
+      "properties": {
+        "@id": "node/443412226",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6314566,
+          58.5777072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412271",
+      "properties": {
+        "@id": "node/443412271",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6329242,
+          58.5779184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822795",
+      "properties": {
+        "@id": "node/445822795",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.630528,
+          58.5790101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822806",
+      "properties": {
+        "@id": "node/445822806",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6308857,
+          58.5789154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412227",
+      "properties": {
+        "@id": "node/443412227",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6387099,
+          58.5782525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412272",
+      "properties": {
+        "@id": "node/443412272",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6399991,
+          58.578824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412225",
+      "properties": {
+        "@id": "node/443412225",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6520151,
+          58.5792464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822948",
+      "properties": {
+        "@id": "node/445822948",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.611291,
+          58.6032093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822950",
+      "properties": {
+        "@id": "node/445822950",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6116835,
+          58.6036827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412014",
+      "properties": {
+        "@id": "node/443412014",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6195731,
+          58.6025615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412061",
+      "properties": {
+        "@id": "node/443412061",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6175465,
+          58.6028249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822793",
+      "properties": {
+        "@id": "node/445822793",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6303582,
+          58.5811867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822804",
+      "properties": {
+        "@id": "node/445822804",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6307099,
+          58.5818321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822790",
+      "properties": {
+        "@id": "node/445822790",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6297226,
+          58.5911862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822792",
+      "properties": {
+        "@id": "node/445822792",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6300053,
+          58.586707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822802",
+      "properties": {
+        "@id": "node/445822802",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6301674,
+          58.5913692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822803",
+      "properties": {
+        "@id": "node/445822803",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6303076,
+          58.5891417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412224",
+      "properties": {
+        "@id": "node/443412224",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6466464,
+          58.5805379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412263",
+      "properties": {
+        "@id": "node/443412263",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6451923,
+          58.5803028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412083",
+      "properties": {
+        "@id": "node/443412083",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6334112,
+          58.5934293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412191",
+      "properties": {
+        "@id": "node/443412191",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6345123,
+          58.5931705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412015",
+      "properties": {
+        "@id": "node/443412015",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6287894,
+          58.6027199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412064",
+      "properties": {
+        "@id": "node/443412064",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6247462,
+          58.6029291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412065",
+      "properties": {
+        "@id": "node/443412065",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6361409,
+          58.6031605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412193",
+      "properties": {
+        "@id": "node/443412193",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6419244,
+          58.5933367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412072",
+      "properties": {
+        "@id": "node/443412072",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6450163,
+          58.593607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412195",
+      "properties": {
+        "@id": "node/443412195",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6479284,
+          58.5934903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412016",
+      "properties": {
+        "@id": "node/443412016",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6370854,
+          58.6029496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412017",
+      "properties": {
+        "@id": "node/443412017",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.647414,
+          58.6030751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412052",
+      "properties": {
+        "@id": "node/443412052",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.64679,
+          58.6033058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412243",
+      "properties": {
+        "@id": "node/443412243",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6089907,
+          58.6086682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822933",
+      "properties": {
+        "@id": "node/445822933",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5999381,
+          58.6179194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822935",
+      "properties": {
+        "@id": "node/445822935",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5993057,
+          58.6147043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822937",
+      "properties": {
+        "@id": "node/445822937",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6032629,
+          58.6122191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822939",
+      "properties": {
+        "@id": "node/445822939",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6111543,
+          58.6057541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822942",
+      "properties": {
+        "@id": "node/445822942",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6115707,
+          58.6063189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822926",
+      "properties": {
+        "@id": "node/445822926",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6037128,
+          58.6234928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412049",
+      "properties": {
+        "@id": "node/443412049",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6482656,
+          58.6240701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412051",
+      "properties": {
+        "@id": "node/443412051",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6398669,
+          58.6295089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412129",
+      "properties": {
+        "@id": "node/443412129",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.643075,
+          58.6279057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412045",
+      "properties": {
+        "@id": "node/443412045",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.64419,
+          58.626815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412126",
+      "properties": {
+        "@id": "node/443412126",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6466469,
+          58.625416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412108",
+      "properties": {
+        "@id": "node/443412108",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6559578,
+          58.5806105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412111",
+      "properties": {
+        "@id": "node/443412111",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6501515,
+          58.5794151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412112",
+      "properties": {
+        "@id": "node/443412112",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6581006,
+          58.5846393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412228",
+      "properties": {
+        "@id": "node/443412228",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6588117,
+          58.5846157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412230",
+      "properties": {
+        "@id": "node/443412230",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6589838,
+          58.5818003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412254",
+      "properties": {
+        "@id": "node/443412254",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.662125,
+          58.5823394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412278",
+      "properties": {
+        "@id": "node/443412278",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6602494,
+          58.581384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412101",
+      "properties": {
+        "@id": "node/443412101",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.657852,
+          58.5882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412114",
+      "properties": {
+        "@id": "node/443412114",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6576281,
+          58.5923227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412229",
+      "properties": {
+        "@id": "node/443412229",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6587842,
+          58.5883718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412218",
+      "properties": {
+        "@id": "node/443412218",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6683708,
+          58.5848324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412253",
+      "properties": {
+        "@id": "node/443412253",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6693227,
+          58.5886977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412277",
+      "properties": {
+        "@id": "node/443412277",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6696653,
+          58.5885032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412063",
+      "properties": {
+        "@id": "node/443412063",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6564125,
+          58.5938157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412197",
+      "properties": {
+        "@id": "node/443412197",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.655216,
+          58.5935545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412113",
+      "properties": {
+        "@id": "node/443412113",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.657507,
+          58.5953272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412115",
+      "properties": {
+        "@id": "node/443412115",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.657301,
+          58.5987822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412200",
+      "properties": {
+        "@id": "node/443412200",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6612391,
+          58.5936969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412233",
+      "properties": {
+        "@id": "node/443412233",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6582833,
+          58.5966919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412234",
+      "properties": {
+        "@id": "node/443412234",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6585117,
+          58.5924857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412057",
+      "properties": {
+        "@id": "node/443412057",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6563747,
+          58.6034242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412062",
+      "properties": {
+        "@id": "node/443412062",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6569895,
+          58.6041803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412231",
+      "properties": {
+        "@id": "node/443412231",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6577783,
+          58.6045872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412232",
+      "properties": {
+        "@id": "node/443412232",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.658134,
+          58.599373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412069",
+      "properties": {
+        "@id": "node/443412069",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6665988,
+          58.5939853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412202",
+      "properties": {
+        "@id": "node/443412202",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6693157,
+          58.5938717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412256",
+      "properties": {
+        "@id": "node/443412256",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6684051,
+          58.5944245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412276",
+      "properties": {
+        "@id": "node/443412276",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6689121,
+          58.5933778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412280",
+      "properties": {
+        "@id": "node/443412280",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6686844,
+          58.5982293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412067",
+      "properties": {
+        "@id": "node/443412067",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6725955,
+          58.5940244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412255",
+      "properties": {
+        "@id": "node/443412255",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6686612,
+          58.6036085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412258",
+      "properties": {
+        "@id": "node/443412258",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6681436,
+          58.5991522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412281",
+      "properties": {
+        "@id": "node/443412281",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6688419,
+          58.6030845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355619865",
+      "properties": {
+        "@id": "node/355619865",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6800458,
+          58.5941286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412203",
+      "properties": {
+        "@id": "node/443412203",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6819349,
+          58.5945298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/692940897",
+      "properties": {
+        "@id": "node/692940897",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.681434,
+          58.596718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412074",
+      "properties": {
+        "@id": "node/443412074",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6805499,
+          58.6048095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412075",
+      "properties": {
+        "@id": "node/443412075",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.681003,
+          58.6001852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412204",
+      "properties": {
+        "@id": "node/443412204",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.681557,
+          58.6004815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412048",
+      "properties": {
+        "@id": "node/443412048",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6564368,
+          58.6118914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412059",
+      "properties": {
+        "@id": "node/443412059",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6567037,
+          58.608452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412131",
+      "properties": {
+        "@id": "node/443412131",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6573217,
+          58.6108264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412235",
+      "properties": {
+        "@id": "node/443412235",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6576308,
+          58.6077044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412053",
+      "properties": {
+        "@id": "node/443412053",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6563288,
+          58.6150858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412087",
+      "properties": {
+        "@id": "node/443412087",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6567428,
+          58.6153024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412248",
+      "properties": {
+        "@id": "node/443412248",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6615093,
+          58.6182994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412284",
+      "properties": {
+        "@id": "node/443412284",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6616465,
+          58.6185489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412019",
+      "properties": {
+        "@id": "node/443412019",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6678192,
+          58.6076141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412179",
+      "properties": {
+        "@id": "node/443412179",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6674431,
+          58.6075161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412021",
+      "properties": {
+        "@id": "node/443412021",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6683749,
+          58.6149847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412023",
+      "properties": {
+        "@id": "node/443412023",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6673393,
+          58.6122652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412181",
+      "properties": {
+        "@id": "node/443412181",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6671546,
+          58.6123235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412025",
+      "properties": {
+        "@id": "node/443412025",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6741652,
+          58.6151593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412081",
+      "properties": {
+        "@id": "node/443412081",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6698354,
+          58.6151898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412055",
+      "properties": {
+        "@id": "node/443412055",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6541159,
+          58.6211921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412106",
+      "properties": {
+        "@id": "node/443412106",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6547185,
+          58.6212199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412205",
+      "properties": {
+        "@id": "node/443412205",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6808143,
+          58.6062018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412206",
+      "properties": {
+        "@id": "node/443412206",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6806993,
+          58.6098264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412283",
+      "properties": {
+        "@id": "node/443412283",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6800853,
+          58.610992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412077",
+      "properties": {
+        "@id": "node/443412077",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656423,
+            "reltags": {
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6775038,
+          58.6154408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412046",
+      "properties": {
+        "@id": "node/443412046",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6118535,
+          58.6358464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412118",
+      "properties": {
+        "@id": "node/443412118",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6114609,
+          58.6360912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479134866",
+      "properties": {
+        "@id": "node/479134866",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.611773,
+          58.6373856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479135736",
+      "properties": {
+        "@id": "node/479135736",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656422,
+            "reltags": {
+              "ref": "6",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6134953,
+          58.6374724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412124",
+      "properties": {
+        "@id": "node/443412124",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6229015,
+          58.6376441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412043",
+      "properties": {
+        "@id": "node/443412043",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6246078,
+          58.6373517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445822788",
+      "properties": {
+        "@id": "node/445822788",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6270908,
+          58.6365214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412054",
+      "properties": {
+        "@id": "node/443412054",
+        "@relations": [
+          {
+            "role": "forward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6324934,
+          58.6327251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443412122",
+      "properties": {
+        "@id": "node/443412122",
+        "@relations": [
+          {
+            "role": "backward:stop",
+            "rel": 1656420,
+            "reltags": {
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward:stop",
+            "rel": 1656421,
+            "reltags": {
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6324711,
+          58.6330615
+        ]
+      }
+    }
+  ]
+}
