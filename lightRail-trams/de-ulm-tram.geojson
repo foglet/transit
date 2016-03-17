@@ -1,0 +1,7430 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-11T09:53:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30285217",
+      "properties": {
+        "@id": "way/30285217",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9550259,
+            48.3948642
+          ],
+          [
+            9.9549532,
+            48.3948414
+          ],
+          [
+            9.9548927,
+            48.3948021
+          ],
+          [
+            9.9548602,
+            48.3947531
+          ],
+          [
+            9.9548513,
+            48.3946907
+          ],
+          [
+            9.9548647,
+            48.3946244
+          ],
+          [
+            9.9549131,
+            48.3945506
+          ],
+          [
+            9.9550081,
+            48.3944957
+          ],
+          [
+            9.9551299,
+            48.3944598
+          ],
+          [
+            9.9556435,
+            48.3944535
+          ],
+          [
+            9.9567354,
+            48.3945126
+          ],
+          [
+            9.9571504,
+            48.3945438
+          ],
+          [
+            9.9574149,
+            48.3945557
+          ],
+          [
+            9.9577432,
+            48.3945768
+          ],
+          [
+            9.9580612,
+            48.3946066
+          ],
+          [
+            9.958239,
+            48.3946256
+          ],
+          [
+            9.9584678,
+            48.3946349
+          ],
+          [
+            9.9586982,
+            48.3946415
+          ],
+          [
+            9.959015,
+            48.394638
+          ],
+          [
+            9.9596834,
+            48.394622
+          ],
+          [
+            9.9601718,
+            48.3945834
+          ],
+          [
+            9.9608646,
+            48.3944962
+          ],
+          [
+            9.9611947,
+            48.3944584
+          ],
+          [
+            9.9614408,
+            48.3944345
+          ],
+          [
+            9.9615407,
+            48.3944294
+          ],
+          [
+            9.9624919,
+            48.3944228
+          ],
+          [
+            9.9630466,
+            48.3944129
+          ],
+          [
+            9.9638986,
+            48.3944108
+          ],
+          [
+            9.9649855,
+            48.3944125
+          ],
+          [
+            9.9653357,
+            48.3944211
+          ],
+          [
+            9.9656055,
+            48.3944312
+          ],
+          [
+            9.965823,
+            48.3944467
+          ],
+          [
+            9.966125,
+            48.3944732
+          ],
+          [
+            9.9667485,
+            48.3945412
+          ],
+          [
+            9.967007,
+            48.3945687
+          ],
+          [
+            9.967132,
+            48.3945828
+          ],
+          [
+            9.9672994,
+            48.3946052
+          ],
+          [
+            9.9673804,
+            48.3946192
+          ],
+          [
+            9.9674288,
+            48.3946342
+          ],
+          [
+            9.9675199,
+            48.3946761
+          ],
+          [
+            9.967603,
+            48.3947305
+          ],
+          [
+            9.9677255,
+            48.3947686
+          ],
+          [
+            9.9678158,
+            48.3947761
+          ],
+          [
+            9.9678787,
+            48.3947821
+          ],
+          [
+            9.9679357,
+            48.3947827
+          ],
+          [
+            9.9680363,
+            48.394772
+          ],
+          [
+            9.9681989,
+            48.3947449
+          ],
+          [
+            9.9682788,
+            48.3947282
+          ],
+          [
+            9.968465,
+            48.3946618
+          ],
+          [
+            9.9686195,
+            48.3946064
+          ],
+          [
+            9.9687578,
+            48.394547
+          ],
+          [
+            9.9689089,
+            48.3944685
+          ],
+          [
+            9.9694225,
+            48.3943156
+          ],
+          [
+            9.9703761,
+            48.3940808
+          ],
+          [
+            9.9708592,
+            48.3939923
+          ],
+          [
+            9.9716428,
+            48.3938928
+          ],
+          [
+            9.9726269,
+            48.3938208
+          ],
+          [
+            9.9729709,
+            48.3938185
+          ],
+          [
+            9.973303,
+            48.3938182
+          ],
+          [
+            9.9735008,
+            48.3938129
+          ],
+          [
+            9.9747183,
+            48.3937829
+          ],
+          [
+            9.9750123,
+            48.3937814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/385814013",
+      "properties": {
+        "@id": "way/385814013",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9804127,
+            48.3941132
+          ],
+          [
+            9.9803205,
+            48.394101
+          ],
+          [
+            9.9802031,
+            48.3940916
+          ],
+          [
+            9.9800818,
+            48.3940794
+          ],
+          [
+            9.9796427,
+            48.3940405
+          ],
+          [
+            9.9791854,
+            48.3940064
+          ],
+          [
+            9.9789428,
+            48.3939891
+          ],
+          [
+            9.9783608,
+            48.3939312
+          ],
+          [
+            9.9775232,
+            48.3938746
+          ],
+          [
+            9.976974,
+            48.3938492
+          ],
+          [
+            9.9759072,
+            48.393811
+          ],
+          [
+            9.974978,
+            48.3938151
+          ],
+          [
+            9.9747169,
+            48.3938181
+          ],
+          [
+            9.9743281,
+            48.3938213
+          ],
+          [
+            9.9735021,
+            48.3938422
+          ],
+          [
+            9.9733126,
+            48.3938445
+          ],
+          [
+            9.9726186,
+            48.393848
+          ],
+          [
+            9.9716324,
+            48.3939197
+          ],
+          [
+            9.9708619,
+            48.3940218
+          ],
+          [
+            9.9703871,
+            48.3941134
+          ],
+          [
+            9.9700937,
+            48.3941812
+          ],
+          [
+            9.969451,
+            48.3943465
+          ],
+          [
+            9.9689336,
+            48.3945058
+          ],
+          [
+            9.9687962,
+            48.3945707
+          ],
+          [
+            9.9686447,
+            48.3946362
+          ],
+          [
+            9.9685507,
+            48.3946691
+          ],
+          [
+            9.9683486,
+            48.3947411
+          ],
+          [
+            9.9682329,
+            48.3947707
+          ],
+          [
+            9.9681335,
+            48.3947909
+          ],
+          [
+            9.9680261,
+            48.3948075
+          ],
+          [
+            9.967904,
+            48.3948171
+          ],
+          [
+            9.9678305,
+            48.3948179
+          ],
+          [
+            9.9677802,
+            48.3948122
+          ],
+          [
+            9.9676857,
+            48.3947992
+          ],
+          [
+            9.9675664,
+            48.394761
+          ],
+          [
+            9.9674677,
+            48.3947002
+          ],
+          [
+            9.9674056,
+            48.39467
+          ],
+          [
+            9.9673543,
+            48.3946575
+          ],
+          [
+            9.9672502,
+            48.3946374
+          ],
+          [
+            9.9671721,
+            48.3946195
+          ],
+          [
+            9.9669349,
+            48.3945884
+          ],
+          [
+            9.9667657,
+            48.3945726
+          ],
+          [
+            9.9664432,
+            48.3945346
+          ],
+          [
+            9.9661225,
+            48.3945011
+          ],
+          [
+            9.9658621,
+            48.3944779
+          ],
+          [
+            9.9655773,
+            48.3944584
+          ],
+          [
+            9.9653529,
+            48.3944484
+          ],
+          [
+            9.9650213,
+            48.3944395
+          ],
+          [
+            9.9644877,
+            48.3944371
+          ],
+          [
+            9.9630446,
+            48.3944481
+          ],
+          [
+            9.9624911,
+            48.394457
+          ],
+          [
+            9.961481,
+            48.3944839
+          ],
+          [
+            9.9610219,
+            48.3945225
+          ],
+          [
+            9.960888,
+            48.3945367
+          ],
+          [
+            9.960298,
+            48.3946198
+          ],
+          [
+            9.9600767,
+            48.3946393
+          ],
+          [
+            9.9596784,
+            48.3946639
+          ],
+          [
+            9.9591191,
+            48.3946799
+          ],
+          [
+            9.9589947,
+            48.3946816
+          ],
+          [
+            9.9588857,
+            48.394684
+          ],
+          [
+            9.9586994,
+            48.3946855
+          ],
+          [
+            9.9583859,
+            48.3946774
+          ],
+          [
+            9.9582452,
+            48.3946701
+          ],
+          [
+            9.9580593,
+            48.3946547
+          ],
+          [
+            9.9578014,
+            48.3946289
+          ],
+          [
+            9.9574131,
+            48.3946047
+          ],
+          [
+            9.9572807,
+            48.3946013
+          ],
+          [
+            9.9571402,
+            48.3946223
+          ],
+          [
+            9.9570184,
+            48.3946691
+          ],
+          [
+            9.9566496,
+            48.394878
+          ],
+          [
+            9.9565615,
+            48.3949205
+          ],
+          [
+            9.9564712,
+            48.3949497
+          ],
+          [
+            9.9563563,
+            48.3949802
+          ],
+          [
+            9.9562056,
+            48.3950158
+          ],
+          [
+            9.9560711,
+            48.3950392
+          ],
+          [
+            9.9559495,
+            48.3950516
+          ],
+          [
+            9.9558295,
+            48.3950467
+          ],
+          [
+            9.9556641,
+            48.3950226
+          ],
+          [
+            9.9554731,
+            48.3949883
+          ],
+          [
+            9.9550259,
+            48.3948642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168193529",
+      "properties": {
+        "@id": "way/168193529",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.960896,
+            48.3945588
+          ],
+          [
+            9.9612474,
+            48.3945245
+          ],
+          [
+            9.9613124,
+            48.3945174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168193530",
+      "properties": {
+        "@id": "way/168193530",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9608957,
+            48.3944737
+          ],
+          [
+            9.9613299,
+            48.3944211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168201663",
+      "properties": {
+        "@id": "way/168201663",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.95827,
+            48.3946966
+          ],
+          [
+            9.9587122,
+            48.3947101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168201664",
+      "properties": {
+        "@id": "way/168201664",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.957416,
+            48.3945302
+          ],
+          [
+            9.9578454,
+            48.3945576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168202813",
+      "properties": {
+        "@id": "way/168202813",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9549571,
+            48.3948663
+          ],
+          [
+            9.9552819,
+            48.3949631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168058868",
+      "properties": {
+        "@id": "way/168058868",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9644542,
+            48.3944606
+          ],
+          [
+            9.964887,
+            48.3944646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168058869",
+      "properties": {
+        "@id": "way/168058869",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9635002,
+            48.3944035
+          ],
+          [
+            9.9639991,
+            48.394402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167906774",
+      "properties": {
+        "@id": "way/167906774",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9726252,
+            48.3938012
+          ],
+          [
+            9.973104,
+            48.393795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167906775",
+      "properties": {
+        "@id": "way/167906775",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9735418,
+            48.3938651
+          ],
+          [
+            9.9739583,
+            48.3938579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168058557",
+      "properties": {
+        "@id": "way/168058557",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.968285,
+            48.3947767
+          ],
+          [
+            9.9685566,
+            48.3946841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168058559",
+      "properties": {
+        "@id": "way/168058559",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9682396,
+            48.3947167
+          ],
+          [
+            9.9685179,
+            48.3946183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32340310",
+      "properties": {
+        "@id": "way/32340310",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9816418,
+            48.395211
+          ],
+          [
+            9.9815238,
+            48.3951331
+          ],
+          [
+            9.9813107,
+            48.3949816
+          ],
+          [
+            9.9811383,
+            48.3948361
+          ],
+          [
+            9.9810062,
+            48.3946818
+          ],
+          [
+            9.9809101,
+            48.3945535
+          ],
+          [
+            9.9808156,
+            48.3943954
+          ],
+          [
+            9.9807483,
+            48.3942725
+          ],
+          [
+            9.9806941,
+            48.3942142
+          ],
+          [
+            9.9806256,
+            48.3941717
+          ],
+          [
+            9.9805092,
+            48.3941289
+          ],
+          [
+            9.9804127,
+            48.3941132
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90808131",
+      "properties": {
+        "@id": "way/90808131",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9806567,
+            48.3941388
+          ],
+          [
+            9.9806967,
+            48.3941618
+          ],
+          [
+            9.9807371,
+            48.3941942
+          ],
+          [
+            9.980776,
+            48.3942287
+          ],
+          [
+            9.9808017,
+            48.3942611
+          ],
+          [
+            9.980834,
+            48.3943309
+          ],
+          [
+            9.9809585,
+            48.3945454
+          ],
+          [
+            9.9810736,
+            48.3946955
+          ],
+          [
+            9.9811861,
+            48.3948253
+          ],
+          [
+            9.9813456,
+            48.3949566
+          ],
+          [
+            9.9814823,
+            48.3950674
+          ],
+          [
+            9.9815398,
+            48.3951033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/104821382",
+      "properties": {
+        "@id": "way/104821382",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9809954,
+            48.3945421
+          ],
+          [
+            9.9811324,
+            48.3947151
+          ],
+          [
+            9.9812142,
+            48.3948184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/104821383",
+      "properties": {
+        "@id": "way/104821383",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9811004,
+            48.3948585
+          ],
+          [
+            9.9808747,
+            48.3945581
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386257685",
+      "properties": {
+        "@id": "way/386257685",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9750123,
+            48.3937814
+          ],
+          [
+            9.9759018,
+            48.3937767
+          ],
+          [
+            9.9769754,
+            48.393815
+          ],
+          [
+            9.9783534,
+            48.393899
+          ],
+          [
+            9.9789496,
+            48.3939561
+          ],
+          [
+            9.9791958,
+            48.3939765
+          ],
+          [
+            9.9796451,
+            48.3940071
+          ],
+          [
+            9.9801109,
+            48.3940447
+          ],
+          [
+            9.9802586,
+            48.3940567
+          ],
+          [
+            9.9803454,
+            48.394062
+          ],
+          [
+            9.9804553,
+            48.3940778
+          ],
+          [
+            9.9805475,
+            48.3940982
+          ],
+          [
+            9.9806567,
+            48.3941388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25678082",
+      "properties": {
+        "@id": "way/25678082",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9834737,
+            48.3959373
+          ],
+          [
+            9.9825354,
+            48.3956115
+          ],
+          [
+            9.982285,
+            48.3955198
+          ],
+          [
+            9.9820902,
+            48.395434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25678085",
+      "properties": {
+        "@id": "way/25678085",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9834918,
+            48.3959043
+          ],
+          [
+            9.9841261,
+            48.3960909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25678090",
+      "properties": {
+        "@id": "way/25678090",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9841261,
+            48.3960909
+          ],
+          [
+            9.98468,
+            48.3962654
+          ],
+          [
+            9.9848215,
+            48.3963268
+          ],
+          [
+            9.9849234,
+            48.3963887
+          ],
+          [
+            9.9849707,
+            48.396452
+          ],
+          [
+            9.985007,
+            48.3965369
+          ],
+          [
+            9.9850236,
+            48.3965945
+          ],
+          [
+            9.9850348,
+            48.3966885
+          ],
+          [
+            9.985041,
+            48.3967875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32089349",
+      "properties": {
+        "@id": "way/32089349",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9873779,
+            48.4010421
+          ],
+          [
+            9.9871704,
+            48.4009849
+          ],
+          [
+            9.9863478,
+            48.4007647
+          ],
+          [
+            9.9856717,
+            48.4005631
+          ],
+          [
+            9.9848394,
+            48.4002894
+          ],
+          [
+            9.9846926,
+            48.4002393
+          ],
+          [
+            9.9844184,
+            48.400133
+          ],
+          [
+            9.9842651,
+            48.4000444
+          ],
+          [
+            9.9842023,
+            48.3999898
+          ],
+          [
+            9.984184,
+            48.3999654
+          ],
+          [
+            9.9841548,
+            48.3999262
+          ],
+          [
+            9.9841401,
+            48.3998715
+          ],
+          [
+            9.9841392,
+            48.3998223
+          ],
+          [
+            9.9841366,
+            48.3997523
+          ],
+          [
+            9.9841533,
+            48.3994296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32089478",
+      "properties": {
+        "@id": "way/32089478",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9849808,
+            48.3968609
+          ],
+          [
+            9.9849917,
+            48.3967729
+          ],
+          [
+            9.9849787,
+            48.3966572
+          ],
+          [
+            9.9849499,
+            48.3965276
+          ],
+          [
+            9.9849125,
+            48.3964627
+          ],
+          [
+            9.9848773,
+            48.3964123
+          ],
+          [
+            9.984796,
+            48.3963558
+          ],
+          [
+            9.9846565,
+            48.396297
+          ],
+          [
+            9.9841094,
+            48.3961225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32089565",
+      "properties": {
+        "@id": "way/32089565",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.985041,
+            48.3967875
+          ],
+          [
+            9.9850343,
+            48.3968587
+          ],
+          [
+            9.9850132,
+            48.3969267
+          ],
+          [
+            9.9849834,
+            48.3969899
+          ],
+          [
+            9.984848,
+            48.3971533
+          ],
+          [
+            9.98474,
+            48.397281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34074635",
+      "properties": {
+        "@id": "way/34074635",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9820902,
+            48.395434
+          ],
+          [
+            9.9818623,
+            48.395326
+          ],
+          [
+            9.9817324,
+            48.3952581
+          ],
+          [
+            9.9816418,
+            48.395211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40553539",
+      "properties": {
+        "@id": "way/40553539",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9841533,
+            48.3994296
+          ],
+          [
+            9.9841698,
+            48.3992701
+          ],
+          [
+            9.9841861,
+            48.3991096
+          ],
+          [
+            9.9842317,
+            48.398533
+          ],
+          [
+            9.9842385,
+            48.3984492
+          ],
+          [
+            9.9842939,
+            48.3979557
+          ],
+          [
+            9.9843159,
+            48.3978748
+          ],
+          [
+            9.9843454,
+            48.3978143
+          ],
+          [
+            9.9844349,
+            48.3976301
+          ],
+          [
+            9.9845824,
+            48.3974079
+          ],
+          [
+            9.9846774,
+            48.3972913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40553541",
+      "properties": {
+        "@id": "way/40553541",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9842042,
+            48.3994328
+          ],
+          [
+            9.9841807,
+            48.3997568
+          ],
+          [
+            9.9841817,
+            48.3998457
+          ],
+          [
+            9.9841944,
+            48.3999094
+          ],
+          [
+            9.9842276,
+            48.3999432
+          ],
+          [
+            9.9842444,
+            48.399962
+          ],
+          [
+            9.9842817,
+            48.3999983
+          ],
+          [
+            9.9844591,
+            48.4001057
+          ],
+          [
+            9.9847131,
+            48.4002167
+          ],
+          [
+            9.9848602,
+            48.400267
+          ],
+          [
+            9.9856924,
+            48.4005318
+          ],
+          [
+            9.98637,
+            48.400738
+          ],
+          [
+            9.9871889,
+            48.4009543
+          ],
+          [
+            9.9874003,
+            48.4010085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50547076",
+      "properties": {
+        "@id": "way/50547076",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9841094,
+            48.3961225
+          ],
+          [
+            9.9834737,
+            48.3959373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/79085680",
+      "properties": {
+        "@id": "way/79085680",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.98474,
+            48.397281
+          ],
+          [
+            9.9846307,
+            48.3974137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91008638",
+      "properties": {
+        "@id": "way/91008638",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9815398,
+            48.3951033
+          ],
+          [
+            9.9817597,
+            48.3952301
+          ],
+          [
+            9.9819466,
+            48.3953204
+          ],
+          [
+            9.9820809,
+            48.3953891
+          ],
+          [
+            9.9823535,
+            48.3955025
+          ],
+          [
+            9.9825595,
+            48.3955788
+          ],
+          [
+            9.9834918,
+            48.3959043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110136604",
+      "properties": {
+        "@id": "way/110136604",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9840966,
+            48.3996966
+          ],
+          [
+            9.9841114,
+            48.3995699
+          ],
+          [
+            9.9841177,
+            48.399471
+          ],
+          [
+            9.9841172,
+            48.3994408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133976228",
+      "properties": {
+        "@id": "way/133976228",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9842816,
+            48.398986
+          ],
+          [
+            9.9842657,
+            48.3991428
+          ],
+          [
+            9.9842431,
+            48.3993651
+          ],
+          [
+            9.9842325,
+            48.3994692
+          ],
+          [
+            9.9842092,
+            48.3996984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157933018",
+      "properties": {
+        "@id": "way/157933018",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9846307,
+            48.3974137
+          ],
+          [
+            9.9844818,
+            48.3976394
+          ],
+          [
+            9.9843947,
+            48.3978167
+          ],
+          [
+            9.9843834,
+            48.3978358
+          ],
+          [
+            9.9843643,
+            48.3978828
+          ],
+          [
+            9.984345,
+            48.3979566
+          ],
+          [
+            9.9842922,
+            48.3984507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228885546",
+      "properties": {
+        "@id": "way/228885546",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9842922,
+            48.3984507
+          ],
+          [
+            9.9842834,
+            48.3985348
+          ],
+          [
+            9.9842275,
+            48.3991998
+          ],
+          [
+            9.984212,
+            48.3993497
+          ],
+          [
+            9.9842042,
+            48.3994328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386011426",
+      "properties": {
+        "@id": "way/386011426",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9846774,
+            48.3972913
+          ],
+          [
+            9.984803,
+            48.3971372
+          ],
+          [
+            9.984932,
+            48.3969806
+          ],
+          [
+            9.9849632,
+            48.3969182
+          ],
+          [
+            9.9849808,
+            48.3968609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32089567",
+      "properties": {
+        "@id": "way/32089567",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9874003,
+            48.4010085
+          ],
+          [
+            9.9876613,
+            48.4010728
+          ],
+          [
+            9.9880768,
+            48.4011736
+          ],
+          [
+            9.9886161,
+            48.4013016
+          ],
+          [
+            9.9892202,
+            48.4014588
+          ],
+          [
+            9.9897865,
+            48.4015718
+          ],
+          [
+            9.9904303,
+            48.4016745
+          ],
+          [
+            9.9911735,
+            48.4017696
+          ],
+          [
+            9.9924484,
+            48.401894
+          ],
+          [
+            9.992563,
+            48.401907
+          ],
+          [
+            9.9929586,
+            48.4019485
+          ],
+          [
+            9.9931399,
+            48.4019687
+          ],
+          [
+            9.9933098,
+            48.4019897
+          ],
+          [
+            9.993511,
+            48.4020256
+          ],
+          [
+            9.9936811,
+            48.4020579
+          ],
+          [
+            9.9937907,
+            48.4020814
+          ],
+          [
+            9.9940517,
+            48.4021186
+          ],
+          [
+            9.9950696,
+            48.4022417
+          ],
+          [
+            9.9963053,
+            48.4023946
+          ],
+          [
+            9.9965772,
+            48.4024303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134113019",
+      "properties": {
+        "@id": "way/134113019",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9876249,
+            48.4011341
+          ],
+          [
+            9.987849,
+            48.4011869
+          ],
+          [
+            9.9882522,
+            48.401282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134113020",
+      "properties": {
+        "@id": "way/134113020",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9876759,
+            48.4010481
+          ],
+          [
+            9.9883033,
+            48.4012038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386993046",
+      "properties": {
+        "@id": "way/386993046",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9965681,
+            48.4024548
+          ],
+          [
+            9.9963033,
+            48.4024161
+          ],
+          [
+            9.9950609,
+            48.4022624
+          ],
+          [
+            9.994032,
+            48.4021403
+          ],
+          [
+            9.9937838,
+            48.4021061
+          ],
+          [
+            9.9936803,
+            48.4020921
+          ],
+          [
+            9.9934502,
+            48.4020543
+          ],
+          [
+            9.9932578,
+            48.4020229
+          ],
+          [
+            9.9931244,
+            48.4020077
+          ],
+          [
+            9.9927432,
+            48.4019609
+          ],
+          [
+            9.992556,
+            48.4019451
+          ],
+          [
+            9.9924406,
+            48.4019322
+          ],
+          [
+            9.9911671,
+            48.4017992
+          ],
+          [
+            9.9904245,
+            48.4017022
+          ],
+          [
+            9.9897698,
+            48.401603
+          ],
+          [
+            9.9892025,
+            48.4014884
+          ],
+          [
+            9.9883302,
+            48.4012787
+          ],
+          [
+            9.987855,
+            48.4011621
+          ],
+          [
+            9.9876413,
+            48.4011065
+          ],
+          [
+            9.9873779,
+            48.4010421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/248963108",
+      "properties": {
+        "@id": "way/248963108",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0113743,
+            48.4113492
+          ],
+          [
+            10.0105753,
+            48.4108928
+          ],
+          [
+            10.0090894,
+            48.409926
+          ],
+          [
+            10.0088832,
+            48.4097347
+          ],
+          [
+            10.0088197,
+            48.4096638
+          ],
+          [
+            10.0087618,
+            48.4095784
+          ],
+          [
+            10.0087105,
+            48.4094574
+          ],
+          [
+            10.0086939,
+            48.4093298
+          ],
+          [
+            10.0087,
+            48.4091928
+          ],
+          [
+            10.0087183,
+            48.409046
+          ],
+          [
+            10.0087622,
+            48.4089077
+          ],
+          [
+            10.0089273,
+            48.4085729
+          ],
+          [
+            10.0090058,
+            48.4083844
+          ],
+          [
+            10.0090429,
+            48.4082937
+          ],
+          [
+            10.0090858,
+            48.4081725
+          ],
+          [
+            10.00911,
+            48.4080131
+          ],
+          [
+            10.0091047,
+            48.4079267
+          ],
+          [
+            10.0090764,
+            48.4078377
+          ],
+          [
+            10.0090484,
+            48.4077876
+          ],
+          [
+            10.0090301,
+            48.4077509
+          ],
+          [
+            10.0089982,
+            48.4076808
+          ],
+          [
+            10.0089701,
+            48.4075906
+          ],
+          [
+            10.0089217,
+            48.4074147
+          ],
+          [
+            10.0087572,
+            48.4065669
+          ],
+          [
+            10.0087378,
+            48.4064608
+          ],
+          [
+            10.0085741,
+            48.4055653
+          ],
+          [
+            10.0085276,
+            48.4054751
+          ],
+          [
+            10.0084761,
+            48.4054215
+          ],
+          [
+            10.0084128,
+            48.4053717
+          ],
+          [
+            10.0074726,
+            48.4049524
+          ],
+          [
+            10.0072891,
+            48.40487
+          ],
+          [
+            10.0066562,
+            48.4045693
+          ],
+          [
+            10.0064162,
+            48.4044485
+          ],
+          [
+            10.0061233,
+            48.4043091
+          ],
+          [
+            10.0058166,
+            48.4041766
+          ],
+          [
+            10.0050744,
+            48.4038597
+          ],
+          [
+            10.0045801,
+            48.4036523
+          ],
+          [
+            10.0042098,
+            48.4034927
+          ],
+          [
+            10.0040484,
+            48.4034236
+          ],
+          [
+            10.0039601,
+            48.4033833
+          ],
+          [
+            10.0037246,
+            48.4032605
+          ],
+          [
+            10.0034308,
+            48.4031363
+          ],
+          [
+            10.0033267,
+            48.4031026
+          ],
+          [
+            10.0031946,
+            48.403061
+          ],
+          [
+            10.0025534,
+            48.402928
+          ],
+          [
+            10.0021897,
+            48.4028434
+          ],
+          [
+            10.0009908,
+            48.4026043
+          ],
+          [
+            10.0008477,
+            48.402584
+          ],
+          [
+            10.0006978,
+            48.4025711
+          ],
+          [
+            10.0005481,
+            48.4025694
+          ],
+          [
+            10.0004396,
+            48.4025754
+          ],
+          [
+            10.0003328,
+            48.4025942
+          ],
+          [
+            10.0001864,
+            48.402629
+          ],
+          [
+            10.0000688,
+            48.4026588
+          ],
+          [
+            9.9998823,
+            48.4027092
+          ],
+          [
+            9.9997958,
+            48.4027356
+          ],
+          [
+            9.9996932,
+            48.4027551
+          ],
+          [
+            9.9995917,
+            48.4027639
+          ],
+          [
+            9.9995316,
+            48.4027677
+          ],
+          [
+            9.9994588,
+            48.4027651
+          ],
+          [
+            9.9993664,
+            48.4027606
+          ],
+          [
+            9.9991379,
+            48.4027411
+          ],
+          [
+            9.9989039,
+            48.4027129
+          ],
+          [
+            9.9981396,
+            48.4026318
+          ],
+          [
+            9.9965681,
+            48.4024548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386993057",
+      "properties": {
+        "@id": "way/386993057",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9965772,
+            48.4024303
+          ],
+          [
+            9.998149,
+            48.4026067
+          ],
+          [
+            9.9989101,
+            48.4026903
+          ],
+          [
+            9.9991539,
+            48.4027191
+          ],
+          [
+            9.9993747,
+            48.402737
+          ],
+          [
+            9.9994256,
+            48.40274
+          ],
+          [
+            9.9994725,
+            48.4027392
+          ],
+          [
+            9.9995439,
+            48.4027366
+          ],
+          [
+            9.9996089,
+            48.4027292
+          ],
+          [
+            9.9996654,
+            48.4027214
+          ],
+          [
+            9.9997586,
+            48.4026979
+          ],
+          [
+            10.0001952,
+            48.4025751
+          ],
+          [
+            10.0003332,
+            48.4025425
+          ],
+          [
+            10.0004382,
+            48.4025253
+          ],
+          [
+            10.0005491,
+            48.4025215
+          ],
+          [
+            10.0006859,
+            48.4025237
+          ],
+          [
+            10.000853,
+            48.4025372
+          ],
+          [
+            10.0010036,
+            48.4025585
+          ],
+          [
+            10.001832,
+            48.4027075
+          ],
+          [
+            10.0022319,
+            48.4028055
+          ],
+          [
+            10.0025723,
+            48.4028994
+          ],
+          [
+            10.0032123,
+            48.4030328
+          ],
+          [
+            10.0033565,
+            48.4030751
+          ],
+          [
+            10.0034847,
+            48.4031197
+          ],
+          [
+            10.0036987,
+            48.4032052
+          ],
+          [
+            10.0037548,
+            48.4032313
+          ],
+          [
+            10.0039818,
+            48.403351
+          ],
+          [
+            10.0040716,
+            48.403398
+          ],
+          [
+            10.0044135,
+            48.4035481
+          ],
+          [
+            10.0045711,
+            48.403618
+          ],
+          [
+            10.005103,
+            48.4038412
+          ],
+          [
+            10.0058466,
+            48.4041516
+          ],
+          [
+            10.0060784,
+            48.4042547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167905669",
+      "properties": {
+        "@id": "way/167905669",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9925525,
+            48.401964
+          ],
+          [
+            9.9928148,
+            48.4019919
+          ],
+          [
+            9.9931247,
+            48.4020249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167905672",
+      "properties": {
+        "@id": "way/167905672",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9925661,
+            48.4018903
+          ],
+          [
+            9.9931674,
+            48.4019592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/248783286",
+      "properties": {
+        "@id": "way/248783286",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9998438,
+            48.4027463
+          ],
+          [
+            10.0000595,
+            48.4026822
+          ],
+          [
+            10.0001812,
+            48.4026496
+          ],
+          [
+            10.0002871,
+            48.4026226
+          ],
+          [
+            10.0003976,
+            48.4026004
+          ],
+          [
+            10.0005031,
+            48.4025892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158292921",
+      "properties": {
+        "@id": "way/158292921",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0069553,
+            48.4046761
+          ],
+          [
+            10.0070773,
+            48.4047412
+          ],
+          [
+            10.0076805,
+            48.4050157
+          ],
+          [
+            10.0084309,
+            48.4053425
+          ],
+          [
+            10.0085037,
+            48.4053913
+          ],
+          [
+            10.0085362,
+            48.4054267
+          ],
+          [
+            10.0085787,
+            48.4054834
+          ],
+          [
+            10.00862,
+            48.4055637
+          ],
+          [
+            10.008791,
+            48.4064579
+          ],
+          [
+            10.0088115,
+            48.406565
+          ],
+          [
+            10.0089716,
+            48.4074049
+          ],
+          [
+            10.0090146,
+            48.4075846
+          ],
+          [
+            10.0090482,
+            48.4076786
+          ],
+          [
+            10.0090926,
+            48.4077853
+          ],
+          [
+            10.0091249,
+            48.4078321
+          ],
+          [
+            10.0091531,
+            48.4079276
+          ],
+          [
+            10.0091596,
+            48.4080229
+          ],
+          [
+            10.0091352,
+            48.4081776
+          ],
+          [
+            10.0090886,
+            48.4082993
+          ],
+          [
+            10.0090183,
+            48.4084814
+          ],
+          [
+            10.008981,
+            48.4085813
+          ],
+          [
+            10.0088182,
+            48.4089244
+          ],
+          [
+            10.0087783,
+            48.4090481
+          ],
+          [
+            10.0087564,
+            48.409179
+          ],
+          [
+            10.0087458,
+            48.4092926
+          ],
+          [
+            10.0087539,
+            48.4094097
+          ],
+          [
+            10.0087879,
+            48.4095299
+          ],
+          [
+            10.0088554,
+            48.4096473
+          ],
+          [
+            10.0089291,
+            48.4097264
+          ],
+          [
+            10.0091266,
+            48.4099034
+          ],
+          [
+            10.0106182,
+            48.4108634
+          ],
+          [
+            10.0114117,
+            48.4113234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167904192",
+      "properties": {
+        "@id": "way/167904192",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0073081,
+            48.4048268
+          ],
+          [
+            10.0076503,
+            48.404978
+          ],
+          [
+            10.0079035,
+            48.4050894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167904193",
+      "properties": {
+        "@id": "way/167904193",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0072698,
+            48.4048857
+          ],
+          [
+            10.007806,
+            48.405128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61319338",
+      "properties": {
+        "@id": "way/61319338",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0060784,
+            48.4042547
+          ],
+          [
+            10.0064523,
+            48.4044321
+          ],
+          [
+            10.0066942,
+            48.404553
+          ],
+          [
+            10.0069553,
+            48.4046761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167905099",
+      "properties": {
+        "@id": "way/167905099",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0041671,
+            48.4034096
+          ],
+          [
+            10.0045968,
+            48.4035953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167905101",
+      "properties": {
+        "@id": "way/167905101",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0040674,
+            48.4034605
+          ],
+          [
+            10.00455,
+            48.4036639
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/99354672",
+      "properties": {
+        "@id": "way/99354672",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0304759,
+            48.4343171
+          ],
+          [
+            10.0302253,
+            48.4343968
+          ],
+          [
+            10.0297988,
+            48.4345246
+          ],
+          [
+            10.0296503,
+            48.4345726
+          ],
+          [
+            10.0293999,
+            48.4346439
+          ],
+          [
+            10.0289375,
+            48.4347675
+          ],
+          [
+            10.0285796,
+            48.4348473
+          ],
+          [
+            10.0284346,
+            48.4348796
+          ],
+          [
+            10.0280467,
+            48.4349084
+          ],
+          [
+            10.0277308,
+            48.4349195
+          ],
+          [
+            10.0275016,
+            48.4349197
+          ],
+          [
+            10.0271845,
+            48.4349054
+          ],
+          [
+            10.0268741,
+            48.4348883
+          ],
+          [
+            10.0266371,
+            48.4348624
+          ],
+          [
+            10.0261796,
+            48.4348139
+          ],
+          [
+            10.0253935,
+            48.4347167
+          ],
+          [
+            10.024657,
+            48.4346084
+          ],
+          [
+            10.0241875,
+            48.4345257
+          ],
+          [
+            10.0237615,
+            48.4344387
+          ],
+          [
+            10.0234652,
+            48.4343744
+          ],
+          [
+            10.0229077,
+            48.4342512
+          ],
+          [
+            10.0221825,
+            48.4340699
+          ],
+          [
+            10.0214188,
+            48.4338444
+          ],
+          [
+            10.0211927,
+            48.4337777
+          ],
+          [
+            10.0210425,
+            48.4337296
+          ],
+          [
+            10.0203846,
+            48.4335206
+          ],
+          [
+            10.0198595,
+            48.4333364
+          ],
+          [
+            10.0194597,
+            48.4332022
+          ],
+          [
+            10.0191782,
+            48.4331068
+          ],
+          [
+            10.0187018,
+            48.4329416
+          ],
+          [
+            10.0182469,
+            48.4327677
+          ],
+          [
+            10.0172697,
+            48.4323851
+          ],
+          [
+            10.0166827,
+            48.4321541
+          ],
+          [
+            10.016101,
+            48.4318939
+          ],
+          [
+            10.0158543,
+            48.4317682
+          ],
+          [
+            10.015607,
+            48.4316187
+          ],
+          [
+            10.0153658,
+            48.431461
+          ],
+          [
+            10.0148534,
+            48.4310964
+          ],
+          [
+            10.0142709,
+            48.4306195
+          ],
+          [
+            10.0140912,
+            48.4304348
+          ],
+          [
+            10.0138696,
+            48.4301795
+          ],
+          [
+            10.0136877,
+            48.4299735
+          ],
+          [
+            10.0134872,
+            48.4297224
+          ],
+          [
+            10.0133579,
+            48.42951
+          ],
+          [
+            10.0131024,
+            48.4289857
+          ],
+          [
+            10.0130188,
+            48.4287973
+          ],
+          [
+            10.0127721,
+            48.4282224
+          ],
+          [
+            10.0125698,
+            48.4275982
+          ],
+          [
+            10.0125275,
+            48.4274483
+          ],
+          [
+            10.0124645,
+            48.4271634
+          ],
+          [
+            10.0123998,
+            48.4268535
+          ],
+          [
+            10.0123704,
+            48.4266008
+          ],
+          [
+            10.0123889,
+            48.4264945
+          ],
+          [
+            10.0124261,
+            48.4264151
+          ],
+          [
+            10.0124792,
+            48.4262784
+          ],
+          [
+            10.0124872,
+            48.4262455
+          ],
+          [
+            10.0124839,
+            48.4261913
+          ],
+          [
+            10.0124218,
+            48.4259723
+          ],
+          [
+            10.0123323,
+            48.4256529
+          ],
+          [
+            10.0122474,
+            48.4253576
+          ],
+          [
+            10.0122111,
+            48.4251905
+          ],
+          [
+            10.0121737,
+            48.4249171
+          ],
+          [
+            10.0121587,
+            48.4246905
+          ],
+          [
+            10.0121601,
+            48.4244599
+          ],
+          [
+            10.0121769,
+            48.4242975
+          ],
+          [
+            10.0122351,
+            48.4241191
+          ],
+          [
+            10.0123484,
+            48.4239463
+          ],
+          [
+            10.0124943,
+            48.4238102
+          ],
+          [
+            10.012655,
+            48.4236838
+          ],
+          [
+            10.0127675,
+            48.4236228
+          ],
+          [
+            10.0128154,
+            48.4235902
+          ],
+          [
+            10.0131676,
+            48.4234191
+          ],
+          [
+            10.0133801,
+            48.4233199
+          ],
+          [
+            10.013499,
+            48.4232689
+          ],
+          [
+            10.0136497,
+            48.4232262
+          ],
+          [
+            10.013904,
+            48.4231734
+          ],
+          [
+            10.014195,
+            48.4231461
+          ],
+          [
+            10.0143704,
+            48.4231325
+          ],
+          [
+            10.0146176,
+            48.4231318
+          ],
+          [
+            10.0148411,
+            48.4231388
+          ],
+          [
+            10.0151814,
+            48.4231637
+          ],
+          [
+            10.0155707,
+            48.4231927
+          ],
+          [
+            10.0163283,
+            48.4232422
+          ],
+          [
+            10.0168556,
+            48.4232788
+          ],
+          [
+            10.0173772,
+            48.4233117
+          ],
+          [
+            10.0177672,
+            48.4233302
+          ],
+          [
+            10.0181605,
+            48.4233297
+          ],
+          [
+            10.0184341,
+            48.4233069
+          ],
+          [
+            10.0185859,
+            48.4232858
+          ],
+          [
+            10.0188274,
+            48.4232228
+          ],
+          [
+            10.019014,
+            48.4231582
+          ],
+          [
+            10.0191638,
+            48.4230823
+          ],
+          [
+            10.0193497,
+            48.4229341
+          ],
+          [
+            10.0194647,
+            48.4228044
+          ],
+          [
+            10.0195431,
+            48.4226577
+          ],
+          [
+            10.0196098,
+            48.4224512
+          ],
+          [
+            10.0196085,
+            48.4222988
+          ],
+          [
+            10.0195606,
+            48.4221591
+          ],
+          [
+            10.0194896,
+            48.4220018
+          ],
+          [
+            10.0193093,
+            48.4217665
+          ],
+          [
+            10.0190617,
+            48.4214975
+          ],
+          [
+            10.0188052,
+            48.4212369
+          ],
+          [
+            10.0186051,
+            48.4210511
+          ],
+          [
+            10.018445,
+            48.4209053
+          ],
+          [
+            10.0180004,
+            48.4205361
+          ],
+          [
+            10.0177561,
+            48.4203589
+          ],
+          [
+            10.0176729,
+            48.4202901
+          ],
+          [
+            10.0174366,
+            48.420116
+          ],
+          [
+            10.0172491,
+            48.4199717
+          ],
+          [
+            10.0169648,
+            48.4197714
+          ],
+          [
+            10.0168368,
+            48.4197048
+          ],
+          [
+            10.0165783,
+            48.4195983
+          ],
+          [
+            10.0163201,
+            48.4195198
+          ],
+          [
+            10.0160559,
+            48.4194602
+          ],
+          [
+            10.0158468,
+            48.419431
+          ],
+          [
+            10.0156431,
+            48.4194168
+          ],
+          [
+            10.0154383,
+            48.419421
+          ],
+          [
+            10.0151957,
+            48.4194444
+          ],
+          [
+            10.0148965,
+            48.4194837
+          ],
+          [
+            10.0143392,
+            48.4195951
+          ],
+          [
+            10.0139111,
+            48.4196698
+          ],
+          [
+            10.0137358,
+            48.4196784
+          ],
+          [
+            10.0135455,
+            48.419677
+          ],
+          [
+            10.0133539,
+            48.4196601
+          ],
+          [
+            10.0132153,
+            48.4196307
+          ],
+          [
+            10.0131145,
+            48.4195844
+          ],
+          [
+            10.0130214,
+            48.4195302
+          ],
+          [
+            10.0129384,
+            48.4194579
+          ],
+          [
+            10.0128811,
+            48.4193634
+          ],
+          [
+            10.0128574,
+            48.4192652
+          ],
+          [
+            10.0128621,
+            48.4191221
+          ],
+          [
+            10.0129323,
+            48.418991
+          ],
+          [
+            10.0130638,
+            48.4188632
+          ],
+          [
+            10.0132838,
+            48.4187265
+          ],
+          [
+            10.0134805,
+            48.4186357
+          ],
+          [
+            10.0137363,
+            48.4185636
+          ],
+          [
+            10.0140417,
+            48.418496
+          ],
+          [
+            10.0143203,
+            48.418434
+          ],
+          [
+            10.0145297,
+            48.4183828
+          ],
+          [
+            10.0146649,
+            48.4183459
+          ],
+          [
+            10.0148095,
+            48.4183018
+          ],
+          [
+            10.014939,
+            48.4182436
+          ],
+          [
+            10.0151168,
+            48.4181571
+          ],
+          [
+            10.0152486,
+            48.4180638
+          ],
+          [
+            10.0154353,
+            48.4179283
+          ],
+          [
+            10.0156249,
+            48.4177991
+          ],
+          [
+            10.0156973,
+            48.4177311
+          ],
+          [
+            10.0157523,
+            48.4176666
+          ],
+          [
+            10.015785,
+            48.4176092
+          ],
+          [
+            10.0157974,
+            48.4175133
+          ],
+          [
+            10.0157872,
+            48.4174224
+          ],
+          [
+            10.0157579,
+            48.4173477
+          ],
+          [
+            10.0157195,
+            48.4172781
+          ],
+          [
+            10.015579,
+            48.4171549
+          ],
+          [
+            10.0150855,
+            48.4168352
+          ],
+          [
+            10.0145407,
+            48.4164736
+          ],
+          [
+            10.0143438,
+            48.4163478
+          ],
+          [
+            10.0136281,
+            48.4158789
+          ],
+          [
+            10.0133509,
+            48.4156894
+          ],
+          [
+            10.0131351,
+            48.4155325
+          ],
+          [
+            10.0130034,
+            48.4154442
+          ],
+          [
+            10.012797,
+            48.4152554
+          ],
+          [
+            10.0121806,
+            48.4146441
+          ],
+          [
+            10.0117068,
+            48.4141416
+          ],
+          [
+            10.0114838,
+            48.413865
+          ],
+          [
+            10.0107049,
+            48.4128365
+          ],
+          [
+            10.0106091,
+            48.4127065
+          ],
+          [
+            10.0105407,
+            48.4125957
+          ],
+          [
+            10.0105172,
+            48.412495
+          ],
+          [
+            10.0105527,
+            48.4123856
+          ],
+          [
+            10.0106473,
+            48.4123
+          ],
+          [
+            10.0107784,
+            48.4122376
+          ],
+          [
+            10.0109128,
+            48.4121995
+          ],
+          [
+            10.011297,
+            48.4120867
+          ],
+          [
+            10.0114996,
+            48.4120247
+          ],
+          [
+            10.0116573,
+            48.4119741
+          ],
+          [
+            10.0117432,
+            48.411932
+          ],
+          [
+            10.0118108,
+            48.4118739
+          ],
+          [
+            10.0118531,
+            48.4117779
+          ],
+          [
+            10.0118563,
+            48.411742
+          ],
+          [
+            10.011841,
+            48.4116773
+          ],
+          [
+            10.0117975,
+            48.4116051
+          ],
+          [
+            10.0117294,
+            48.4115497
+          ],
+          [
+            10.0113743,
+            48.4113492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/248321891",
+      "properties": {
+        "@id": "way/248321891",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0114117,
+            48.4113234
+          ],
+          [
+            10.0118024,
+            48.4115478
+          ],
+          [
+            10.0118481,
+            48.4115916
+          ],
+          [
+            10.0118847,
+            48.4116512
+          ],
+          [
+            10.0119119,
+            48.411723
+          ],
+          [
+            10.0119156,
+            48.4117698
+          ],
+          [
+            10.0118681,
+            48.4118647
+          ],
+          [
+            10.0118075,
+            48.4119296
+          ],
+          [
+            10.0117364,
+            48.4119771
+          ],
+          [
+            10.0115388,
+            48.4120421
+          ],
+          [
+            10.0111373,
+            48.4121667
+          ],
+          [
+            10.0109469,
+            48.4122217
+          ],
+          [
+            10.0107925,
+            48.4122761
+          ],
+          [
+            10.0106783,
+            48.4123442
+          ],
+          [
+            10.0106072,
+            48.4124092
+          ],
+          [
+            10.0105822,
+            48.4124957
+          ],
+          [
+            10.0106005,
+            48.4125819
+          ],
+          [
+            10.010672,
+            48.4126916
+          ],
+          [
+            10.0107584,
+            48.4128254
+          ],
+          [
+            10.0115156,
+            48.4138378
+          ],
+          [
+            10.0117575,
+            48.4141372
+          ],
+          [
+            10.0122174,
+            48.4146285
+          ],
+          [
+            10.0128099,
+            48.4152189
+          ],
+          [
+            10.0130406,
+            48.415429
+          ],
+          [
+            10.013239,
+            48.4155732
+          ],
+          [
+            10.0136586,
+            48.4158597
+          ],
+          [
+            10.0143838,
+            48.4163201
+          ],
+          [
+            10.0144759,
+            48.4163864
+          ],
+          [
+            10.0145882,
+            48.4164496
+          ],
+          [
+            10.0152525,
+            48.4168876
+          ],
+          [
+            10.0154613,
+            48.4170185
+          ],
+          [
+            10.0156263,
+            48.417134
+          ],
+          [
+            10.0157655,
+            48.4172638
+          ],
+          [
+            10.0158085,
+            48.4173427
+          ],
+          [
+            10.0158384,
+            48.417404
+          ],
+          [
+            10.0158434,
+            48.4175049
+          ],
+          [
+            10.0158313,
+            48.4175879
+          ],
+          [
+            10.0157976,
+            48.4176507
+          ],
+          [
+            10.0157749,
+            48.4176967
+          ],
+          [
+            10.0157254,
+            48.4177577
+          ],
+          [
+            10.0156545,
+            48.4178218
+          ],
+          [
+            10.0154691,
+            48.4179614
+          ],
+          [
+            10.0152774,
+            48.4180856
+          ],
+          [
+            10.0151217,
+            48.4181819
+          ],
+          [
+            10.0148378,
+            48.4183178
+          ],
+          [
+            10.0146951,
+            48.4183641
+          ],
+          [
+            10.0145475,
+            48.4184049
+          ],
+          [
+            10.0143421,
+            48.4184542
+          ],
+          [
+            10.014268,
+            48.4184721
+          ],
+          [
+            10.0140479,
+            48.4185157
+          ],
+          [
+            10.0137198,
+            48.4185993
+          ],
+          [
+            10.0135116,
+            48.4186593
+          ],
+          [
+            10.0133557,
+            48.4187249
+          ],
+          [
+            10.0132243,
+            48.4187977
+          ],
+          [
+            10.0131013,
+            48.4188743
+          ],
+          [
+            10.0130168,
+            48.4189526
+          ],
+          [
+            10.0129616,
+            48.4190269
+          ],
+          [
+            10.0129076,
+            48.4191309
+          ],
+          [
+            10.0128933,
+            48.4192607
+          ],
+          [
+            10.0129281,
+            48.4193701
+          ],
+          [
+            10.0129886,
+            48.4194513
+          ],
+          [
+            10.0130973,
+            48.4195321
+          ],
+          [
+            10.013238,
+            48.4196039
+          ],
+          [
+            10.0133986,
+            48.4196412
+          ],
+          [
+            10.013623,
+            48.4196556
+          ],
+          [
+            10.0138991,
+            48.4196423
+          ],
+          [
+            10.0142835,
+            48.4195757
+          ],
+          [
+            10.0146507,
+            48.4194995
+          ],
+          [
+            10.0150352,
+            48.4194359
+          ],
+          [
+            10.0152268,
+            48.419415
+          ],
+          [
+            10.0155262,
+            48.4193912
+          ],
+          [
+            10.0157878,
+            48.4193978
+          ],
+          [
+            10.0160049,
+            48.4194253
+          ],
+          [
+            10.016216,
+            48.4194677
+          ],
+          [
+            10.0163445,
+            48.4194959
+          ],
+          [
+            10.0166307,
+            48.4195843
+          ],
+          [
+            10.0169239,
+            48.4197129
+          ],
+          [
+            10.0171398,
+            48.4198489
+          ],
+          [
+            10.0172799,
+            48.4199602
+          ],
+          [
+            10.0175746,
+            48.4201743
+          ],
+          [
+            10.017701,
+            48.4202714
+          ],
+          [
+            10.0177837,
+            48.4203421
+          ],
+          [
+            10.0180189,
+            48.4205071
+          ],
+          [
+            10.0184832,
+            48.4208985
+          ],
+          [
+            10.0186086,
+            48.4210154
+          ],
+          [
+            10.0188341,
+            48.4212143
+          ],
+          [
+            10.0190932,
+            48.4214798
+          ],
+          [
+            10.0193474,
+            48.4217466
+          ],
+          [
+            10.0195378,
+            48.4219926
+          ],
+          [
+            10.0195933,
+            48.4221073
+          ],
+          [
+            10.0196447,
+            48.4222749
+          ],
+          [
+            10.0196534,
+            48.4224401
+          ],
+          [
+            10.0195893,
+            48.4226643
+          ],
+          [
+            10.0195093,
+            48.4227949
+          ],
+          [
+            10.0193782,
+            48.4229579
+          ],
+          [
+            10.0192198,
+            48.4230796
+          ],
+          [
+            10.0191073,
+            48.4231509
+          ],
+          [
+            10.0188965,
+            48.4232302
+          ],
+          [
+            10.0187054,
+            48.4232897
+          ],
+          [
+            10.018483,
+            48.4233336
+          ],
+          [
+            10.0182139,
+            48.4233611
+          ],
+          [
+            10.0176791,
+            48.4233561
+          ],
+          [
+            10.0169602,
+            48.4233156
+          ],
+          [
+            10.0163334,
+            48.4232723
+          ],
+          [
+            10.0155614,
+            48.4232208
+          ],
+          [
+            10.0151916,
+            48.4231902
+          ],
+          [
+            10.0148484,
+            48.4231659
+          ],
+          [
+            10.0145874,
+            48.4231616
+          ],
+          [
+            10.0143755,
+            48.4231643
+          ],
+          [
+            10.014177,
+            48.4231783
+          ],
+          [
+            10.0138912,
+            48.4232051
+          ],
+          [
+            10.0136647,
+            48.4232544
+          ],
+          [
+            10.0135264,
+            48.4232906
+          ],
+          [
+            10.0133978,
+            48.4233397
+          ],
+          [
+            10.0130048,
+            48.4235324
+          ],
+          [
+            10.0128418,
+            48.4236109
+          ],
+          [
+            10.0126838,
+            48.4236989
+          ],
+          [
+            10.0125358,
+            48.4238184
+          ],
+          [
+            10.0123782,
+            48.4239602
+          ],
+          [
+            10.0123023,
+            48.4240756
+          ],
+          [
+            10.0122583,
+            48.4241676
+          ],
+          [
+            10.012221,
+            48.4242894
+          ],
+          [
+            10.0122091,
+            48.4243694
+          ],
+          [
+            10.0121978,
+            48.4246088
+          ],
+          [
+            10.0122119,
+            48.4249224
+          ],
+          [
+            10.0122507,
+            48.4251768
+          ],
+          [
+            10.0123054,
+            48.4254058
+          ],
+          [
+            10.0124078,
+            48.4257588
+          ],
+          [
+            10.0124599,
+            48.4259667
+          ],
+          [
+            10.0125257,
+            48.4262095
+          ],
+          [
+            10.0125337,
+            48.4262514
+          ],
+          [
+            10.0125236,
+            48.426278
+          ],
+          [
+            10.0124449,
+            48.4264702
+          ],
+          [
+            10.0124174,
+            48.4265442
+          ],
+          [
+            10.0124147,
+            48.4266713
+          ],
+          [
+            10.0124394,
+            48.4268641
+          ],
+          [
+            10.0125078,
+            48.4271636
+          ],
+          [
+            10.0125682,
+            48.4274421
+          ],
+          [
+            10.0126072,
+            48.4275894
+          ],
+          [
+            10.0128162,
+            48.4282214
+          ],
+          [
+            10.0130526,
+            48.4287909
+          ],
+          [
+            10.0131371,
+            48.4289743
+          ],
+          [
+            10.0134063,
+            48.4295257
+          ],
+          [
+            10.0135349,
+            48.4297291
+          ],
+          [
+            10.0137233,
+            48.4299636
+          ],
+          [
+            10.0140036,
+            48.4302724
+          ],
+          [
+            10.0141359,
+            48.4304212
+          ],
+          [
+            10.0143063,
+            48.4305944
+          ],
+          [
+            10.0148862,
+            48.4310743
+          ],
+          [
+            10.0153985,
+            48.431441
+          ],
+          [
+            10.0156634,
+            48.4316148
+          ],
+          [
+            10.0158851,
+            48.4317463
+          ],
+          [
+            10.0161283,
+            48.4318701
+          ],
+          [
+            10.0167341,
+            48.4321447
+          ],
+          [
+            10.0183598,
+            48.4327771
+          ],
+          [
+            10.0191959,
+            48.4330833
+          ],
+          [
+            10.0196202,
+            48.4332251
+          ],
+          [
+            10.019876,
+            48.4333149
+          ],
+          [
+            10.020381,
+            48.4334845
+          ],
+          [
+            10.0210457,
+            48.433695
+          ],
+          [
+            10.0211957,
+            48.4337448
+          ],
+          [
+            10.0214357,
+            48.4338165
+          ],
+          [
+            10.0216876,
+            48.4338917
+          ],
+          [
+            10.0221956,
+            48.4340361
+          ],
+          [
+            10.0227451,
+            48.4341769
+          ],
+          [
+            10.023475,
+            48.4343503
+          ],
+          [
+            10.0239586,
+            48.4344557
+          ],
+          [
+            10.0241968,
+            48.4345056
+          ],
+          [
+            10.0247732,
+            48.4345977
+          ],
+          [
+            10.0254035,
+            48.4346877
+          ],
+          [
+            10.02625,
+            48.4347955
+          ],
+          [
+            10.0266734,
+            48.4348368
+          ],
+          [
+            10.0268596,
+            48.4348553
+          ],
+          [
+            10.0271537,
+            48.4348739
+          ],
+          [
+            10.0275708,
+            48.4348918
+          ],
+          [
+            10.0278542,
+            48.4348857
+          ],
+          [
+            10.0280584,
+            48.4348738
+          ],
+          [
+            10.0284195,
+            48.4348389
+          ],
+          [
+            10.0285733,
+            48.4348081
+          ],
+          [
+            10.028915,
+            48.4347396
+          ],
+          [
+            10.0294016,
+            48.4346106
+          ],
+          [
+            10.0297914,
+            48.4344602
+          ],
+          [
+            10.0300122,
+            48.43436
+          ],
+          [
+            10.030187,
+            48.4342729
+          ],
+          [
+            10.0303202,
+            48.4342037
+          ],
+          [
+            10.0304376,
+            48.4341398
+          ],
+          [
+            10.0305736,
+            48.4340361
+          ],
+          [
+            10.0310841,
+            48.4336144
+          ],
+          [
+            10.0312205,
+            48.4335771
+          ],
+          [
+            10.031333,
+            48.4335724
+          ],
+          [
+            10.0314604,
+            48.4336094
+          ],
+          [
+            10.0315394,
+            48.433672
+          ],
+          [
+            10.0316118,
+            48.4337308
+          ],
+          [
+            10.0316371,
+            48.4338781
+          ],
+          [
+            10.0316108,
+            48.4339281
+          ],
+          [
+            10.0314801,
+            48.4340022
+          ],
+          [
+            10.0312936,
+            48.4340634
+          ],
+          [
+            10.0309127,
+            48.4341805
+          ],
+          [
+            10.0304759,
+            48.4343171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167304113",
+      "properties": {
+        "@id": "way/167304113",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0108928,
+            48.4121807
+          ],
+          [
+            10.0114751,
+            48.4120035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167304114",
+      "properties": {
+        "@id": "way/167304114",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0109524,
+            48.4122506
+          ],
+          [
+            10.0115366,
+            48.412074
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167387256",
+      "properties": {
+        "@id": "way/167387256",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0090088,
+            48.4085873
+          ],
+          [
+            10.009064,
+            48.4084447
+          ],
+          [
+            10.0091169,
+            48.4083053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167387257",
+      "properties": {
+        "@id": "way/167387257",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0088935,
+            48.4085671
+          ],
+          [
+            10.009011,
+            48.408287
+          ],
+          [
+            10.0090198,
+            48.4082661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/131647091",
+      "properties": {
+        "@id": "way/131647091",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.012334,
+            48.4253811
+          ],
+          [
+            10.0124975,
+            48.4259626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132422348",
+      "properties": {
+        "@id": "way/132422348",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0128533,
+            48.423623
+          ],
+          [
+            10.0134136,
+            48.4233544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132422355",
+      "properties": {
+        "@id": "way/132422355",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0127968,
+            48.4235704
+          ],
+          [
+            10.0133675,
+            48.423299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224542896",
+      "properties": {
+        "@id": "way/224542896",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0122237,
+            48.4253941
+          ],
+          [
+            10.0122916,
+            48.4256348
+          ],
+          [
+            10.0123538,
+            48.4258556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142312126",
+      "properties": {
+        "@id": "way/142312126",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0137428,
+            48.4299279
+          ],
+          [
+            10.013757,
+            48.4299517
+          ],
+          [
+            10.0141387,
+            48.4303768
+          ],
+          [
+            10.0141689,
+            48.4304093
+          ],
+          [
+            10.0141914,
+            48.4304304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224542915",
+      "properties": {
+        "@id": "way/224542915",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0140558,
+            48.4304456
+          ],
+          [
+            10.0136599,
+            48.4299863
+          ],
+          [
+            10.0136376,
+            48.4299609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167107871",
+      "properties": {
+        "@id": "way/167107871",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0172213,
+            48.4199881
+          ],
+          [
+            10.0176176,
+            48.4202856
+          ],
+          [
+            10.0176463,
+            48.4203032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167107874",
+      "properties": {
+        "@id": "way/167107874",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0172962,
+            48.4199446
+          ],
+          [
+            10.0177252,
+            48.4202625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166530647",
+      "properties": {
+        "@id": "way/166530647",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0234534,
+            48.4343248
+          ],
+          [
+            10.0234836,
+            48.4343316
+          ],
+          [
+            10.0241751,
+            48.4344839
+          ],
+          [
+            10.0242073,
+            48.4344896
+          ],
+          [
+            10.0242427,
+            48.4344962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166530648",
+      "properties": {
+        "@id": "way/166530648",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0234266,
+            48.4343869
+          ],
+          [
+            10.0234569,
+            48.4343936
+          ],
+          [
+            10.0241803,
+            48.4345434
+          ],
+          [
+            10.0242112,
+            48.4345493
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166813366",
+      "properties": {
+        "@id": "way/166813366",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0191281,
+            48.4331146
+          ],
+          [
+            10.0191641,
+            48.4331267
+          ],
+          [
+            10.0193652,
+            48.4331946
+          ],
+          [
+            10.0198443,
+            48.4333562
+          ],
+          [
+            10.0198748,
+            48.4333665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166813367",
+      "properties": {
+        "@id": "way/166813367",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0191724,
+            48.4330464
+          ],
+          [
+            10.0192131,
+            48.4330622
+          ],
+          [
+            10.0198616,
+            48.4332829
+          ],
+          [
+            10.0198928,
+            48.433293
+          ],
+          [
+            10.0199232,
+            48.4333032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166286016",
+      "properties": {
+        "@id": "way/166286016",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.030893,
+            48.4342122
+          ],
+          [
+            10.0302936,
+            48.4344006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279927510",
+      "properties": {
+        "@id": "node/279927510",
+        "@relations": [
+          {
+            "role": "forward_stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward_stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9550259,
+          48.3948642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287821280",
+      "properties": {
+        "@id": "node/287821280",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9577432,
+          48.3945768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287821281",
+      "properties": {
+        "@id": "node/287821281",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9583859,
+          48.3946774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/288668950",
+      "properties": {
+        "@id": "node/288668950",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9610219,
+          48.3945225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/289996829",
+      "properties": {
+        "@id": "node/289996829",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9611947,
+          48.3944584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279927660",
+      "properties": {
+        "@id": "node/279927660",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9644877,
+          48.3944371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/288668949",
+      "properties": {
+        "@id": "node/288668949",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9638986,
+          48.3944108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279927499",
+      "properties": {
+        "@id": "node/279927499",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9683486,
+          48.3947411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279927525",
+      "properties": {
+        "@id": "node/279927525",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9729709,
+          48.3938185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/288670207",
+      "properties": {
+        "@id": "node/288670207",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.968465,
+          48.3946618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/288670839",
+      "properties": {
+        "@id": "node/288670839",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9735021,
+          48.3938422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/310275436",
+      "properties": {
+        "@id": "node/310275436",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9810736,
+          48.3946955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1209174344",
+      "properties": {
+        "@id": "node/1209174344",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9810062,
+          48.3946818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/310275422",
+      "properties": {
+        "@id": "node/310275422",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9841698,
+          48.3992701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/310277199",
+      "properties": {
+        "@id": "node/310277199",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.984212,
+          48.3993497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279927548",
+      "properties": {
+        "@id": "node/279927548",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9880768,
+          48.4011736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/310275414",
+      "properties": {
+        "@id": "node/310275414",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987855,
+          48.4011621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/435591594",
+      "properties": {
+        "@id": "node/435591594",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9927432,
+          48.4019609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/972661417",
+      "properties": {
+        "@id": "node/972661417",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9929586,
+          48.4019485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279925551",
+      "properties": {
+        "@id": "node/279925551",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0001864,
+          48.402629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/449831150",
+      "properties": {
+        "@id": "node/449831150",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.001832,
+          48.4027075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1144030200",
+      "properties": {
+        "@id": "node/1144030200",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0042098,
+          48.4034927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1144030393",
+      "properties": {
+        "@id": "node/1144030393",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0044135,
+          48.4035481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1144029904",
+      "properties": {
+        "@id": "node/1144029904",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0076805,
+          48.4050157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1144030199",
+      "properties": {
+        "@id": "node/1144030199",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0074726,
+          48.4049524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/972661361",
+      "properties": {
+        "@id": "node/972661361",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.011297,
+          48.4120867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/972661433",
+      "properties": {
+        "@id": "node/972661433",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0111373,
+          48.4121667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1139782467",
+      "properties": {
+        "@id": "node/1139782467",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0090058,
+          48.4083844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1787832060",
+      "properties": {
+        "@id": "node/1787832060",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0090183,
+          48.4084814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297880182",
+      "properties": {
+        "@id": "node/297880182",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0131676,
+          48.4234191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297880282",
+      "properties": {
+        "@id": "node/297880282",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0130048,
+          48.4235324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/435591577",
+      "properties": {
+        "@id": "node/435591577",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0124078,
+          48.4257588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1147345957",
+      "properties": {
+        "@id": "node/1147345957",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0123323,
+          48.4256529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297880201",
+      "properties": {
+        "@id": "node/297880201",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0138696,
+          48.4301795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/435591580",
+      "properties": {
+        "@id": "node/435591580",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0174366,
+          48.420116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132661303",
+      "properties": {
+        "@id": "node/1132661303",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0175746,
+          48.4201743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297880262",
+      "properties": {
+        "@id": "node/297880262",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0140036,
+          48.4302724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429588352",
+      "properties": {
+        "@id": "node/429588352",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0194597,
+          48.4332022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1149205323",
+      "properties": {
+        "@id": "node/1149205323",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0196202,
+          48.4332251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429595342",
+      "properties": {
+        "@id": "node/429595342",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0304759,
+          48.4343171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429595343",
+      "properties": {
+        "@id": "node/429595343",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68797,
+            "reltags": {
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Böfingen => Söflingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0237615,
+          48.4344387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1149205332",
+      "properties": {
+        "@id": "node/1149205332",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 68796,
+            "reltags": {
+              "bus": "yes",
+              "from": "Böfingen",
+              "name": "DE_UL_SWU_01_Söflingen => Böfingen",
+              "network": "DING",
+              "operator": "SWU",
+              "psv": "yes",
+              "ref": "1",
+              "route": "tram",
+              "to": "Söflingen",
+              "tram": "yes",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0239586,
+          48.4344557
+        ]
+      }
+    }
+  ]
+}

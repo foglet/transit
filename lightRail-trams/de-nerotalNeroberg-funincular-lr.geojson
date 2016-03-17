@@ -1,0 +1,244 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-11T08:55:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/39223618",
+      "properties": {
+        "@id": "way/39223618",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 284321,
+            "reltags": {
+              "from": "Nerotal",
+              "name": "Nerobergbahn: Bergfahrt",
+              "operator": "ESWE",
+              "ref": "Nerobergbahn",
+              "route": "light_rail",
+              "to": "Neroberg",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3109168,
+            "reltags": {
+              "from": "Neroberg",
+              "name": "Nerobergbahn: Talfahrt",
+              "operator": "ESWE",
+              "ref": "Nerobergbahn",
+              "route": "light_rail",
+              "to": "Nerotal",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2255805,
+            50.0948453
+          ],
+          [
+            8.2259432,
+            50.0951847
+          ],
+          [
+            8.2261406,
+            50.0953781
+          ],
+          [
+            8.2263921,
+            50.0956113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39223619",
+      "properties": {
+        "@id": "way/39223619",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 284321,
+            "reltags": {
+              "from": "Nerotal",
+              "name": "Nerobergbahn: Bergfahrt",
+              "operator": "ESWE",
+              "ref": "Nerobergbahn",
+              "route": "light_rail",
+              "to": "Neroberg",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3109168,
+            "reltags": {
+              "from": "Neroberg",
+              "name": "Nerobergbahn: Talfahrt",
+              "operator": "ESWE",
+              "ref": "Nerobergbahn",
+              "route": "light_rail",
+              "to": "Nerotal",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2263921,
+            50.0956113
+          ],
+          [
+            8.2291438,
+            50.0978532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144909156",
+      "properties": {
+        "@id": "way/144909156",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 284321,
+            "reltags": {
+              "from": "Nerotal",
+              "name": "Nerobergbahn: Bergfahrt",
+              "operator": "ESWE",
+              "ref": "Nerobergbahn",
+              "route": "light_rail",
+              "to": "Neroberg",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3109168,
+            "reltags": {
+              "from": "Neroberg",
+              "name": "Nerobergbahn: Talfahrt",
+              "operator": "ESWE",
+              "ref": "Nerobergbahn",
+              "route": "light_rail",
+              "to": "Nerotal",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2254903,
+            50.0947554
+          ],
+          [
+            8.2255805,
+            50.0948453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/69614851",
+      "properties": {
+        "@id": "node/69614851",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 284321,
+            "reltags": {
+              "from": "Nerotal",
+              "name": "Nerobergbahn: Bergfahrt",
+              "operator": "ESWE",
+              "ref": "Nerobergbahn",
+              "route": "light_rail",
+              "to": "Neroberg",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 3109168,
+            "reltags": {
+              "from": "Neroberg",
+              "name": "Nerobergbahn: Talfahrt",
+              "operator": "ESWE",
+              "ref": "Nerobergbahn",
+              "route": "light_rail",
+              "to": "Nerotal",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2291438,
+          50.0978532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1583910886",
+      "properties": {
+        "@id": "node/1583910886",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 284321,
+            "reltags": {
+              "from": "Nerotal",
+              "name": "Nerobergbahn: Bergfahrt",
+              "operator": "ESWE",
+              "ref": "Nerobergbahn",
+              "route": "light_rail",
+              "to": "Neroberg",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 3109168,
+            "reltags": {
+              "from": "Neroberg",
+              "name": "Nerobergbahn: Talfahrt",
+              "operator": "ESWE",
+              "ref": "Nerobergbahn",
+              "route": "light_rail",
+              "to": "Nerotal",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2254903,
+          50.0947554
+        ]
+      }
+    }
+  ]
+}
