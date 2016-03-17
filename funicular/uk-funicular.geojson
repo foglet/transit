@@ -1,0 +1,1280 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/4687010",
+      "properties": {
+        "@id": "way/4687010",
+        "incline": "up",
+        "name": "Cliff Railway",
+        "railway": "funicular",
+        "source": "survey",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9707547,
+            54.586137
+          ],
+          [
+            -0.9710461,
+            54.585696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/14187322",
+      "properties": {
+        "@id": "way/14187322",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.8423941,
+            52.623193
+          ],
+          [
+            -3.8416947,
+            52.6230914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23497502",
+      "properties": {
+        "@id": "way/23497502",
+        "layer": "-1",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6493694,
+            57.1249465
+          ],
+          [
+            -3.6453886,
+            57.1240153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24269209",
+      "properties": {
+        "@id": "way/24269209",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "Air-Rail Link",
+        "railway": "funicular",
+        "source": "survey",
+        "tracks": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7325907,
+            52.4530118
+          ],
+          [
+            -1.7320843,
+            52.4532145
+          ],
+          [
+            -1.7319154,
+            52.4532448
+          ],
+          [
+            -1.7317513,
+            52.4532519
+          ],
+          [
+            -1.7314584,
+            52.4532339
+          ],
+          [
+            -1.7310846,
+            52.4531193
+          ],
+          [
+            -1.7306498,
+            52.4528989
+          ],
+          [
+            -1.7302259,
+            52.4526568
+          ],
+          [
+            -1.7297796,
+            52.4524162
+          ],
+          [
+            -1.7293976,
+            52.4521925
+          ],
+          [
+            -1.7290158,
+            52.4519689
+          ],
+          [
+            -1.7287398,
+            52.451785
+          ],
+          [
+            -1.7285188,
+            52.4516275
+          ],
+          [
+            -1.7281942,
+            52.4513633
+          ],
+          [
+            -1.7278869,
+            52.4511173
+          ],
+          [
+            -1.727636,
+            52.450919
+          ],
+          [
+            -1.7274205,
+            52.450747
+          ],
+          [
+            -1.727284,
+            52.4506461
+          ],
+          [
+            -1.7271985,
+            52.4505621
+          ],
+          [
+            -1.7270188,
+            52.4504608
+          ],
+          [
+            -1.7268992,
+            52.4504143
+          ],
+          [
+            -1.7267774,
+            52.4503921
+          ],
+          [
+            -1.7266701,
+            52.450384
+          ],
+          [
+            -1.7265227,
+            52.4503915
+          ],
+          [
+            -1.7263482,
+            52.4504248
+          ],
+          [
+            -1.7262168,
+            52.4504494
+          ],
+          [
+            -1.7260451,
+            52.4504935
+          ],
+          [
+            -1.725903,
+            52.4505507
+          ],
+          [
+            -1.7258037,
+            52.4506046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25325776",
+      "properties": {
+        "@id": "way/25325776",
+        "incline": "down",
+        "name": "Babbacombe Cliff Railway",
+        "railway": "funicular",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.5179983,
+            50.4815484
+          ],
+          [
+            -3.515396,
+            50.4817248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25593216",
+      "properties": {
+        "@id": "way/25593216",
+        "aerialway:occupancy": "12",
+        "capacity": "12",
+        "name": "Fisherman's Walk Cliff Lift",
+        "note:capacity": "12 passengers per car",
+        "railway": "funicular",
+        "usage": "tourism",
+        "wikipedia": "en:Fisherman's Walk Cliff Railway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.8173498,
+            50.7212407
+          ],
+          [
+            -1.8173542,
+            50.7209706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55217444",
+      "properties": {
+        "@id": "way/55217444",
+        "name": "Aberystwyth Cliff Railway",
+        "railway": "funicular",
+        "source": "OS_OpenData_StreetView;local_knowledge",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.0838524,
+            52.4224167
+          ],
+          [
+            -4.0827938,
+            52.4242558
+          ],
+          [
+            -4.0827696,
+            52.4242978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59942521",
+      "properties": {
+        "@id": "way/59942521",
+        "name": "West Hill Cliff Railway",
+        "operator": "Hastings Borough Council",
+        "railway": "funicular",
+        "source": "OS_OpenData_StreetView"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.5877023,
+            50.8556857
+          ],
+          [
+            0.5870103,
+            50.8570022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/60256296",
+      "properties": {
+        "@id": "way/60256296",
+        "layer": "0",
+        "name": "Lynton and Lynmouth Cliff Railway",
+        "railway": "funicular",
+        "source:position": "OS_OpenData_StreetView",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.8323694,
+            51.2316264
+          ],
+          [
+            -3.8355181,
+            51.2313275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/72035630",
+      "properties": {
+        "@id": "way/72035630",
+        "aerialway:occupancy": "12",
+        "capacity": "12",
+        "name": "West Cliff Lift",
+        "note:capacity": "12 passengers per car",
+        "railway": "funicular",
+        "source": "GPS",
+        "usage": "tourism",
+        "wikipedia": "en:West Cliff Railway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.8814116,
+            50.7153444
+          ],
+          [
+            -1.8812387,
+            50.7148784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/78255897",
+      "properties": {
+        "@id": "way/78255897",
+        "name": "Bridgnorth Cliff Railway",
+        "railway": "funicular",
+        "source": "OS_OpenData",
+        "usage": "tourism",
+        "website": "http://www.bridgnorthcliffrailway.co.uk/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.4182517,
+            52.5343967
+          ],
+          [
+            -2.4176529,
+            52.5341676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/84037928",
+      "properties": {
+        "@id": "way/84037928",
+        "electrified": "no",
+        "layer": "1",
+        "name": "Southend Cliff Lift",
+        "railway": "funicular",
+        "tourism": "attraction",
+        "website": "http://www.southend.gov.uk/info/733/local_attractions/1284/cliff_lift/1",
+        "wikipedia": "en:Southend Cliff Railway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.7109239,
+            51.5335104
+          ],
+          [
+            0.7109764,
+            51.5340196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93277979",
+      "properties": {
+        "@id": "way/93277979",
+        "gauge": "2000",
+        "name": "Cairngorm Funicular",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.659014,
+            57.1271863
+          ],
+          [
+            -3.6583119,
+            57.1270214
+          ],
+          [
+            -3.6493694,
+            57.1249465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93277980",
+      "properties": {
+        "@id": "way/93277980",
+        "gauge": "2000",
+        "name": "Cairngorm Funicular",
+        "oneway": "no",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.659014,
+            57.1271863
+          ],
+          [
+            -3.6593177,
+            57.1272436
+          ],
+          [
+            -3.6601404,
+            57.1274286
+          ],
+          [
+            -3.66054,
+            57.1275496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93277983",
+      "properties": {
+        "@id": "way/93277983",
+        "gauge": "2000",
+        "name": "Cairngorm Funicular",
+        "oneway": "no",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.66054,
+            57.1275496
+          ],
+          [
+            -3.6600728,
+            57.1274501
+          ],
+          [
+            -3.6596329,
+            57.1273512
+          ],
+          [
+            -3.6593861,
+            57.1272871
+          ],
+          [
+            -3.659014,
+            57.1271863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93277985",
+      "properties": {
+        "@id": "way/93277985",
+        "gauge": "2000",
+        "name": "Cairngorm Funicular Railway",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6700967,
+            57.1337091
+          ],
+          [
+            -3.6676608,
+            57.1325766
+          ],
+          [
+            -3.6659066,
+            57.1317529
+          ],
+          [
+            -3.6655437,
+            57.1315482
+          ],
+          [
+            -3.6651435,
+            57.1312371
+          ],
+          [
+            -3.6640231,
+            57.1300618
+          ],
+          [
+            -3.6632348,
+            57.1292285
+          ],
+          [
+            -3.6629731,
+            57.1289853
+          ],
+          [
+            -3.6626804,
+            57.1287534
+          ],
+          [
+            -3.6621263,
+            57.1283723
+          ],
+          [
+            -3.6614941,
+            57.1279542
+          ],
+          [
+            -3.6612267,
+            57.1278141
+          ],
+          [
+            -3.6609169,
+            57.1276775
+          ],
+          [
+            -3.66054,
+            57.1275496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123220243",
+      "properties": {
+        "@id": "way/123220243",
+        "bridge": "yes",
+        "incline": "down",
+        "name": "Babbacombe Cliff Railway",
+        "railway": "funicular",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.515396,
+            50.4817248
+          ],
+          [
+            -3.515246,
+            50.4817362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123220244",
+      "properties": {
+        "@id": "way/123220244",
+        "incline": "down",
+        "name": "Babbacombe Cliff Railway",
+        "railway": "funicular",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.515246,
+            50.4817362
+          ],
+          [
+            -3.5150813,
+            50.4817468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133759726",
+      "properties": {
+        "@id": "way/133759726",
+        "aerialway:occupancy": "12",
+        "alt_name": "East Cliff Railway",
+        "capacity": "12",
+        "name": "East Cliff cliff lift",
+        "note:capacity": "12 passengers per car",
+        "operator": "Bournemouth Borough Council",
+        "railway": "funicular",
+        "source:additional_information": "wikipedia",
+        "usage": "tourism",
+        "wikipedia": "en:East Cliff Railway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.8653274,
+            50.7181539
+          ],
+          [
+            -1.8653441,
+            50.7177156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146985832",
+      "properties": {
+        "@id": "way/146985832",
+        "designation": "The Leas Lift",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.1785383,
+            51.076923
+          ],
+          [
+            1.1783037,
+            51.0772771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169869606",
+      "properties": {
+        "@id": "way/169869606",
+        "name": "Central Tramway",
+        "note": "Despite the name this is actually a funicular railway, not a tramway",
+        "operator": "Central Tramway Company",
+        "railway": "funicular",
+        "website": "http://www.centraltramway.co.uk/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3971595,
+            54.2808302
+          ],
+          [
+            -0.3982314,
+            54.2809853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169871322",
+      "properties": {
+        "@id": "way/169871322",
+        "name": "South Cliff Lift",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3967417,
+            54.2743463
+          ],
+          [
+            -0.3977072,
+            54.2740641
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187263096",
+      "properties": {
+        "@id": "way/187263096",
+        "media:commons": "https://commons.wikimedia.org/wiki/Category:East_Hill_Cliff_Railway",
+        "name": "East Hill Cliff Railway",
+        "name:ru": "Ист-Хилл-Клифф Рэйлвэй",
+        "railway": "funicular",
+        "wikipedia": "en:East Hill Cliff Railway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.595421,
+            50.8567985
+          ],
+          [
+            0.5947631,
+            50.8563626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198008075",
+      "properties": {
+        "@id": "way/198008075",
+        "name": "Aberystwyth Cliff Railway",
+        "railway": "funicular",
+        "source": "OS_OpenData_StreetView;local_knowledge; Bing",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.0838826,
+            52.4224231
+          ],
+          [
+            -4.0828241,
+            52.4242622
+          ],
+          [
+            -4.0827998,
+            52.4243043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203526276",
+      "properties": {
+        "@id": "way/203526276",
+        "passenger": "unknown",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.1455575,
+            57.4965557
+          ],
+          [
+            -6.1454153,
+            57.4938791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/275492731",
+      "properties": {
+        "@id": "way/275492731",
+        "access": "permissive",
+        "name": "Hill Train",
+        "railway": "funicular",
+        "tracks": "1",
+        "url:more_info": "http://www.funiculars.net/line.php?id=234",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.6536759,
+            51.4642997
+          ],
+          [
+            -0.6536388,
+            51.4641989
+          ],
+          [
+            -0.6535892,
+            51.4641014
+          ],
+          [
+            -0.6535432,
+            51.4640419
+          ],
+          [
+            -0.6534956,
+            51.4639965
+          ],
+          [
+            -0.6534401,
+            51.4639432
+          ],
+          [
+            -0.6534131,
+            51.4639183
+          ],
+          [
+            -0.6533767,
+            51.4638899
+          ],
+          [
+            -0.6533407,
+            51.4638657
+          ],
+          [
+            -0.6533025,
+            51.4638443
+          ],
+          [
+            -0.6532536,
+            51.4638227
+          ],
+          [
+            -0.6532054,
+            51.4638035
+          ],
+          [
+            -0.6531536,
+            51.463785
+          ],
+          [
+            -0.6528823,
+            51.4636904
+          ],
+          [
+            -0.6528045,
+            51.4636712
+          ],
+          [
+            -0.6527388,
+            51.4636559
+          ],
+          [
+            -0.6526723,
+            51.4636455
+          ],
+          [
+            -0.6526077,
+            51.4636414
+          ],
+          [
+            -0.6525358,
+            51.4636387
+          ],
+          [
+            -0.6521835,
+            51.4636313
+          ],
+          [
+            -0.6521147,
+            51.4636309
+          ],
+          [
+            -0.6520646,
+            51.4636319
+          ],
+          [
+            -0.652011,
+            51.4636343
+          ],
+          [
+            -0.6519627,
+            51.4636377
+          ],
+          [
+            -0.6516887,
+            51.4636599
+          ],
+          [
+            -0.6516174,
+            51.4636754
+          ],
+          [
+            -0.6515643,
+            51.4636838
+          ],
+          [
+            -0.6515275,
+            51.4636912
+          ],
+          [
+            -0.6514875,
+            51.4637006
+          ],
+          [
+            -0.6514354,
+            51.4637162
+          ],
+          [
+            -0.6513402,
+            51.4637491
+          ],
+          [
+            -0.6513108,
+            51.4637685
+          ],
+          [
+            -0.6512814,
+            51.4637863
+          ],
+          [
+            -0.6512249,
+            51.4638113
+          ],
+          [
+            -0.6511774,
+            51.4638289
+          ],
+          [
+            -0.6511271,
+            51.463845
+          ],
+          [
+            -0.6510776,
+            51.4638594
+          ],
+          [
+            -0.6510182,
+            51.4638719
+          ],
+          [
+            -0.6509692,
+            51.4638823
+          ],
+          [
+            -0.6509148,
+            51.4638897
+          ],
+          [
+            -0.6508692,
+            51.4638931
+          ],
+          [
+            -0.6508134,
+            51.4638947
+          ],
+          [
+            -0.6507569,
+            51.4638947
+          ],
+          [
+            -0.6507076,
+            51.4638925
+          ],
+          [
+            -0.6506585,
+            51.4638853
+          ],
+          [
+            -0.6505908,
+            51.4638773
+          ],
+          [
+            -0.650526,
+            51.4638595
+          ],
+          [
+            -0.650473,
+            51.4638442
+          ],
+          [
+            -0.6504317,
+            51.463829
+          ],
+          [
+            -0.6502646,
+            51.4637657
+          ],
+          [
+            -0.6501052,
+            51.4637073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/275492740",
+      "properties": {
+        "@id": "way/275492740",
+        "access": "permissive",
+        "name": "Hill Train",
+        "railway": "funicular",
+        "tracks": "1",
+        "url:more_info": "http://www.funiculars.net/line.php?id=234",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.6528823,
+            51.4636904
+          ],
+          [
+            -0.6526975,
+            51.4636338
+          ],
+          [
+            -0.6525849,
+            51.4636071
+          ],
+          [
+            -0.6524856,
+            51.463597
+          ],
+          [
+            -0.6521074,
+            51.4635904
+          ],
+          [
+            -0.6520082,
+            51.4635937
+          ],
+          [
+            -0.651909,
+            51.4636087
+          ],
+          [
+            -0.6516139,
+            51.4636655
+          ],
+          [
+            -0.6515097,
+            51.4636839
+          ],
+          [
+            -0.6514555,
+            51.4636994
+          ],
+          [
+            -0.6514027,
+            51.4637143
+          ],
+          [
+            -0.6513402,
+            51.4637491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/277083882",
+      "properties": {
+        "@id": "way/277083882",
+        "name": "Ebbw Vale Mechanical Link",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.2057752,
+            51.7773693
+          ],
+          [
+            -3.2048954,
+            51.777522
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295643977",
+      "properties": {
+        "@id": "way/295643977",
+        "name": "Central Tramway",
+        "note": "Despite the name this is actually a funicular railway, not a tramway",
+        "operator": "Central Tramway Company",
+        "railway": "funicular",
+        "website": "http://www.centraltramway.co.uk/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.398218,
+            54.2810154
+          ],
+          [
+            -0.3971512,
+            54.2808469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316096241",
+      "properties": {
+        "@id": "way/316096241",
+        "bridge": "yes",
+        "name": "Air-Rail Link",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7326166,
+            52.4530549
+          ],
+          [
+            -1.7321311,
+            52.4532494
+          ],
+          [
+            -1.7319004,
+            52.4533001
+          ],
+          [
+            -1.7316215,
+            52.4532985
+          ],
+          [
+            -1.7314659,
+            52.4532805
+          ],
+          [
+            -1.7312969,
+            52.4532445
+          ],
+          [
+            -1.7311547,
+            52.4532004
+          ],
+          [
+            -1.7309777,
+            52.4531236
+          ],
+          [
+            -1.7307739,
+            52.4530157
+          ],
+          [
+            -1.729583,
+            52.4523635
+          ],
+          [
+            -1.7291753,
+            52.4521396
+          ],
+          [
+            -1.7289124,
+            52.4519679
+          ],
+          [
+            -1.7285691,
+            52.4517293
+          ],
+          [
+            -1.7282687,
+            52.4514874
+          ],
+          [
+            -1.7271931,
+            52.4506259
+          ],
+          [
+            -1.7270107,
+            52.4505213
+          ],
+          [
+            -1.726831,
+            52.4504641
+          ],
+          [
+            -1.7266889,
+            52.450451
+          ],
+          [
+            -1.7265333,
+            52.4504559
+          ],
+          [
+            -1.7263724,
+            52.4504837
+          ],
+          [
+            -1.7262329,
+            52.4505115
+          ],
+          [
+            -1.7260907,
+            52.4505507
+          ],
+          [
+            -1.7259539,
+            52.4506079
+          ],
+          [
+            -1.7258654,
+            52.4506521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/376233237",
+      "properties": {
+        "@id": "way/376233237",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0983787,
+            51.510872
+          ],
+          [
+            -0.0983841,
+            51.5107925
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1042 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:31:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24253204",
+      "properties": {
+        "@id": "way/24253204",
+        "name": "Ascensor Villanelo",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.55752,
+            -33.0265794
+          ],
+          [
+            -71.5575291,
+            -33.0271503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25016962",
+      "properties": {
+        "@id": "way/25016962",
+        "name": "Ascensor Concepción",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.626496,
+            -33.0409414
+          ],
+          [
+            -71.6263236,
+            -33.0413003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27107262",
+      "properties": {
+        "@id": "way/27107262",
+        "layer": "1",
+        "name": "Ascensor Villaseca",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6299253,
+            -33.0315284
+          ],
+          [
+            -71.6304171,
+            -33.0308155
+          ],
+          [
+            -71.6309437,
+            -33.0300522
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28555379",
+      "properties": {
+        "@id": "way/28555379",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0551549,
+            4.6034967
+          ],
+          [
+            -74.0551967,
+            4.6034746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33133993",
+      "properties": {
+        "@id": "way/33133993",
+        "name": "Plano Inclinado Padre Laércio Dias de Moura",
+        "railway": "funicular",
+        "source": "survey",
+        "start_date": "2012-06-10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.2767138,
+            -22.8448642
+          ],
+          [
+            -43.2754369,
+            -22.8444712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44659485",
+      "properties": {
+        "@id": "way/44659485",
+        "name": "Plano Inclinado do Outeiro da Glória",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.1751582,
+            -22.9218253
+          ],
+          [
+            -43.1746531,
+            -22.9216342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44871090",
+      "properties": {
+        "@id": "way/44871090",
+        "capacity": "25",
+        "name": "Plano Inclinado da Comunidade Santa Marta",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.1927021,
+            -22.948611
+          ],
+          [
+            -43.1929914,
+            -22.9480802
+          ],
+          [
+            -43.1933064,
+            -22.9475021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44871091",
+      "properties": {
+        "@id": "way/44871091",
+        "capacity": "20",
+        "name": "Plano Inclinado da Comunidade Santa Marta",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.1939295,
+            -22.9463584
+          ],
+          [
+            -43.193636,
+            -22.9469031
+          ],
+          [
+            -43.1933459,
+            -22.9474412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45305949",
+      "properties": {
+        "@id": "way/45305949",
+        "name": "Funicular",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.6358565,
+            -33.4300711
+          ],
+          [
+            -70.6351214,
+            -33.4289106
+          ],
+          [
+            -70.6342992,
+            -33.4277572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48460604",
+      "properties": {
+        "@id": "way/48460604",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.3303405,
+            -23.9390623
+          ],
+          [
+            -46.3299561,
+            -23.9384802
+          ],
+          [
+            -46.329257,
+            -23.9375805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122793598",
+      "properties": {
+        "@id": "way/122793598",
+        "alt_name": "Plano Inclinado",
+        "bicycle": "no",
+        "charge": "yes",
+        "loc_name": "Plano Inclinado",
+        "name": "Plano Inclinado Gonçalves",
+        "note": "funicular railway up/down the hill",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.5107613,
+            -12.9714152
+          ],
+          [
+            -38.5107014,
+            -12.9724249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143755652",
+      "properties": {
+        "@id": "way/143755652",
+        "name": "Funicular",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.2326358,
+            -34.9798175
+          ],
+          [
+            -71.231005,
+            -34.9797208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165070175",
+      "properties": {
+        "@id": "way/165070175",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6212819,
+            -33.0473447
+          ],
+          [
+            -71.6215205,
+            -33.0478385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183404810",
+      "properties": {
+        "@id": "way/183404810",
+        "name": "Ascensor Florida (fuera de servicio)",
+        "railway": "funicular",
+        "wikipedia": "es:Ascensor Florida"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6193421,
+            -33.0495114
+          ],
+          [
+            -71.6205031,
+            -33.0502255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183404811",
+      "properties": {
+        "@id": "way/183404811",
+        "name": "Ascensor Larraín",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6025932,
+            -33.0464974
+          ],
+          [
+            -71.6019749,
+            -33.0466813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183404813",
+      "properties": {
+        "@id": "way/183404813",
+        "name": "Ascensor Mariposas",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6172912,
+            -33.0500296
+          ],
+          [
+            -71.6173367,
+            -33.050118
+          ],
+          [
+            -71.6177439,
+            -33.0505901
+          ],
+          [
+            -71.6181111,
+            -33.0511207
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183404814",
+      "properties": {
+        "@id": "way/183404814",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "Ascensor Monjas",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6141825,
+            -33.0522141
+          ],
+          [
+            -71.6145637,
+            -33.0524687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183404815",
+      "properties": {
+        "@id": "way/183404815",
+        "name": "Ascensor San Agustín",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6319049,
+            -33.0405303
+          ],
+          [
+            -71.6323519,
+            -33.0404007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183472859",
+      "properties": {
+        "@id": "way/183472859",
+        "name": "Ascensor Carlos van Buren",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6104647,
+            -33.0515957
+          ],
+          [
+            -71.6103775,
+            -33.0517966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183475351",
+      "properties": {
+        "@id": "way/183475351",
+        "name": "Ascensor Condominium Reñaca",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.5467107,
+            -32.9550364
+          ],
+          [
+            -71.5458917,
+            -32.9552312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183475352",
+      "properties": {
+        "@id": "way/183475352",
+        "name": "Ascensor Condominium Reñaca",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.5466219,
+            -32.9551277
+          ],
+          [
+            -71.5457704,
+            -32.9553569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183527241",
+      "properties": {
+        "@id": "way/183527241",
+        "name": "Ascensor Condominium",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.5461725,
+            -32.9634688
+          ],
+          [
+            -71.545924,
+            -32.9634421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183527242",
+      "properties": {
+        "@id": "way/183527242",
+        "name": "Ascensor Condominium",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.5461725,
+            -32.9634892
+          ],
+          [
+            -71.5454301,
+            -32.9634129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183614644",
+      "properties": {
+        "@id": "way/183614644",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.3785826,
+            -34.085535
+          ],
+          [
+            -70.3782364,
+            -34.0836486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183948279",
+      "properties": {
+        "@id": "way/183948279",
+        "name": "Funicular Pavão/Pavãozinho",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.1940999,
+            -22.9809446
+          ],
+          [
+            -43.1943404,
+            -22.9799744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183951294",
+      "properties": {
+        "@id": "way/183951294",
+        "fixme": "resurvey",
+        "name": "Funicular Casa das Arte de Laranjeiras",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.1945139,
+            -22.9394238
+          ],
+          [
+            -43.1945453,
+            -22.9397193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183968912",
+      "properties": {
+        "@id": "way/183968912",
+        "fixme": "resurvey",
+        "name": "Regina Coeli",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.2539371,
+            -22.9460665
+          ],
+          [
+            -43.2528265,
+            -22.9464543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201851446",
+      "properties": {
+        "@id": "way/201851446",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6305531,
+            -33.0379976
+          ],
+          [
+            -71.6302152,
+            -33.0377908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201852345",
+      "properties": {
+        "@id": "way/201852345",
+        "name": "Ascensor Artilleria",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6303868,
+            -33.0325313
+          ],
+          [
+            -71.6301293,
+            -33.0336466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227766623",
+      "properties": {
+        "@id": "way/227766623",
+        "name": "Funicular de la Cumbre",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.3739764,
+            -41.1442029
+          ],
+          [
+            -71.3755185,
+            -41.1446878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227766624",
+      "properties": {
+        "@id": "way/227766624",
+        "name": "Funicular de la Cumbre",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.3739942,
+            -41.1441675
+          ],
+          [
+            -71.3755363,
+            -41.1446523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/279028247",
+      "properties": {
+        "@id": "way/279028247",
+        "bridge": "yes",
+        "name": "Funicular",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.6342992,
+            -33.4277572
+          ],
+          [
+            -70.6342336,
+            -33.4276627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/279028248",
+      "properties": {
+        "@id": "way/279028248",
+        "name": "Funicular",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.6342336,
+            -33.4276627
+          ],
+          [
+            -70.6335106,
+            -33.4265415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292124350",
+      "properties": {
+        "@id": "way/292124350",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.6391533,
+            -33.4190901
+          ],
+          [
+            -70.6384258,
+            -33.4195099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313295095",
+      "properties": {
+        "@id": "way/313295095",
+        "name": "Ascensor Barón",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6038916,
+            -33.0427806
+          ],
+          [
+            -71.6039235,
+            -33.0428099
+          ],
+          [
+            -71.603963,
+            -33.0428726
+          ],
+          [
+            -71.6041047,
+            -33.0431107
+          ],
+          [
+            -71.6041589,
+            -33.0431778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313510905",
+      "properties": {
+        "@id": "way/313510905",
+        "name": "Ascensor El Peral",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6294479,
+            -33.0396093
+          ],
+          [
+            -71.6293262,
+            -33.0398896
+          ],
+          [
+            -71.6291914,
+            -33.0401999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333272417",
+      "properties": {
+        "@id": "way/333272417",
+        "name": "Funicular de Obrajes",
+        "name:es": "Funicular de Obrajes",
+        "operator": "Mi Teleférico",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.1004784,
+            -16.52683
+          ],
+          [
+            -68.1000126,
+            -16.5263718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337689439",
+      "properties": {
+        "@id": "way/337689439",
+        "name": "Ascensor Lecheros",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6034696,
+            -33.0447301
+          ],
+          [
+            -71.6028661,
+            -33.0444221
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/346643586",
+      "properties": {
+        "@id": "way/346643586",
+        "bridge": "yes",
+        "name": "Ascensor Cerro La Cruz",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6132226,
+            -33.05258
+          ],
+          [
+            -71.6125197,
+            -33.0531706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365315053",
+      "properties": {
+        "@id": "way/365315053",
+        "bicycle": "dismount",
+        "name": "Plano Inclinado Liberdade/Calçada",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.4980332,
+            -12.9482157
+          ],
+          [
+            -38.4972575,
+            -12.9488426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370806620",
+      "properties": {
+        "@id": "way/370806620",
+        "name": "Ascensor Reina Victoria",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6265865,
+            -33.043842
+          ],
+          [
+            -71.6262908,
+            -33.0439886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377057092",
+      "properties": {
+        "@id": "way/377057092",
+        "duration": "PT5M",
+        "name": "Plano Inclinado Monsenhor José Carlos Moreira",
+        "opening_hours": "08:00-17:00",
+        "railway": "funicular",
+        "start_date": "2014-08-24"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.34677,
+            -22.9413391
+          ],
+          [
+            -43.3479761,
+            -22.9413032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377210363",
+      "properties": {
+        "@id": "way/377210363",
+        "capacity": "25",
+        "name": "Plano Inclinado Padre Laércio Dias de Moura",
+        "railway": "funicular",
+        "start_date": "2012-06-10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.2773831,
+            -22.844524
+          ],
+          [
+            -43.2771131,
+            -22.8448887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377210364",
+      "properties": {
+        "@id": "way/377210364",
+        "capacity": "25",
+        "name": "Plano Inclinado Padre Laércio Dias de Moura",
+        "railway": "funicular",
+        "start_date": "2012-06-10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.277606,
+            -22.8427505
+          ],
+          [
+            -43.2773315,
+            -22.8444329
+          ]
+        ]
+      }
+    }
+  ]
+}

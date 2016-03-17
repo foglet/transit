@@ -1,0 +1,3372 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:27:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24355020",
+      "properties": {
+        "@id": "way/24355020",
+        "KSJ2:LIN": "十国鋼索線",
+        "name": "伊豆箱根鉄道十国鋼索線",
+        "name:ja": "伊豆箱根鉄道十国鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "伊豆箱根鉄道",
+        "operator:ja": "伊豆箱根鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.041103,
+            35.127675
+          ],
+          [
+            139.040564,
+            35.127675
+          ],
+          [
+            139.039207,
+            35.127681
+          ],
+          [
+            139.03763,
+            35.127674
+          ],
+          [
+            139.037228,
+            35.127685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24355433",
+      "properties": {
+        "@id": "way/24355433",
+        "name": "箱根登山鉄道鋼索線",
+        "name:ja": "箱根登山鉄道鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "operator": "箱根登山鉄道",
+        "railway": "funicular",
+        "source": "KSJ2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.0413712,
+            35.2484698
+          ],
+          [
+            139.0406145,
+            35.2481695
+          ],
+          [
+            139.0400046,
+            35.2479769
+          ],
+          [
+            139.0381248,
+            35.247315
+          ],
+          [
+            139.0373675,
+            35.247065
+          ],
+          [
+            139.0367696,
+            35.2468476
+          ],
+          [
+            139.0364618,
+            35.24673
+          ],
+          [
+            139.0359079,
+            35.246543
+          ],
+          [
+            139.0357193,
+            35.2464798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24355434",
+      "properties": {
+        "@id": "way/24355434",
+        "name": "箱根登山鉄道鋼索線",
+        "name:ja": "箱根登山鉄道鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "operator": "箱根登山鉄道",
+        "operator:ja": "箱根登山鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.0481646,
+            35.2508194
+          ],
+          [
+            139.0476124,
+            35.2506282
+          ],
+          [
+            139.0457211,
+            35.2499439
+          ],
+          [
+            139.0456288,
+            35.2499112
+          ],
+          [
+            139.0454453,
+            35.2498404
+          ],
+          [
+            139.0438026,
+            35.2492762
+          ],
+          [
+            139.0432319,
+            35.2490649
+          ],
+          [
+            139.0429956,
+            35.2489727
+          ],
+          [
+            139.0424013,
+            35.2487749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24410392",
+      "properties": {
+        "@id": "way/24410392",
+        "name": "八栗ケーブル",
+        "operator": "四国ケーブル",
+        "railway": "funicular",
+        "source": "MLIT Japan",
+        "source:ja": "国土画像情報（オルソ化空中写真）国土交通省"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.1398105,
+            34.3581653
+          ],
+          [
+            134.1335827,
+            34.3551109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24925988",
+      "properties": {
+        "@id": "way/24925988",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "比叡山鉄道線",
+        "KSJ2:OPC": "比叡山鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "比叡山鉄道",
+        "name:ja": "比叡山鉄道",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "比叡山鉄道",
+        "operator:ja": "比叡山鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.843948,
+            35.06647
+          ],
+          [
+            135.844432,
+            35.066561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24925989",
+      "properties": {
+        "@id": "way/24925989",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "比叡山鉄道線",
+        "KSJ2:OPC": "比叡山鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "比叡山鉄道",
+        "name:ja": "比叡山鉄道",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "比叡山鉄道",
+        "operator:ja": "比叡山鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.8641923,
+            35.0698706
+          ],
+          [
+            135.863718,
+            35.069654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24925990",
+      "properties": {
+        "@id": "way/24925990",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "比叡山鉄道線",
+        "KSJ2:OPC": "比叡山鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "比叡山鉄道",
+        "name:ja": "比叡山鉄道",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "比叡山鉄道",
+        "operator:ja": "比叡山鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.844432,
+            35.066561
+          ],
+          [
+            135.844629,
+            35.066603
+          ],
+          [
+            135.845001,
+            35.066694
+          ],
+          [
+            135.84559,
+            35.066971
+          ],
+          [
+            135.846151,
+            35.06727
+          ],
+          [
+            135.846468,
+            35.067366
+          ],
+          [
+            135.846972,
+            35.067469
+          ],
+          [
+            135.848389,
+            35.067564
+          ],
+          [
+            135.849431,
+            35.067602
+          ],
+          [
+            135.850103,
+            35.067589
+          ],
+          [
+            135.850652,
+            35.067519
+          ],
+          [
+            135.851451,
+            35.067332
+          ],
+          [
+            135.85221,
+            35.067154
+          ],
+          [
+            135.852967,
+            35.066854
+          ],
+          [
+            135.853698,
+            35.066768
+          ],
+          [
+            135.854924,
+            35.066628
+          ],
+          [
+            135.855421,
+            35.066578
+          ],
+          [
+            135.8567,
+            35.066447
+          ],
+          [
+            135.857113,
+            35.066421
+          ],
+          [
+            135.857501,
+            35.066416
+          ],
+          [
+            135.857872,
+            35.066484
+          ],
+          [
+            135.858326,
+            35.066661
+          ],
+          [
+            135.858769,
+            35.066874
+          ],
+          [
+            135.859388,
+            35.067201
+          ],
+          [
+            135.860366,
+            35.067811
+          ],
+          [
+            135.860906,
+            35.068143
+          ],
+          [
+            135.861308,
+            35.068384
+          ],
+          [
+            135.861979,
+            35.068785
+          ],
+          [
+            135.86252,
+            35.069073
+          ],
+          [
+            135.863144,
+            35.069377
+          ],
+          [
+            135.863625,
+            35.069605
+          ],
+          [
+            135.863718,
+            35.069654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30413931",
+      "properties": {
+        "@id": "way/30413931",
+        "KSJ2:LIN": "天橋立鋼索鉄道",
+        "name": "丹後海陸交通天橋立鋼索鉄道",
+        "name:ja": "丹後海陸交通天橋立鋼索鉄道",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "丹後海陸交通",
+        "operator:ja": "丹後海陸交通",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.1958458,
+            35.5863495
+          ],
+          [
+            135.1954216,
+            35.5840939
+          ],
+          [
+            135.1952669,
+            35.5832712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30415364",
+      "properties": {
+        "@id": "way/30415364",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "鋼索線",
+        "KSJ2:OPC": "京福電気鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "京福電気鉄道鋼索線",
+        "name:ja": "京福電気鉄道鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "京福電気鉄道",
+        "operator:ja": "京福電気鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.8091369,
+            35.0670386
+          ],
+          [
+            135.809501,
+            35.067114
+          ],
+          [
+            135.810009,
+            35.067218
+          ],
+          [
+            135.810376,
+            35.067302
+          ],
+          [
+            135.810705,
+            35.067378
+          ],
+          [
+            135.811198,
+            35.067421
+          ],
+          [
+            135.81193,
+            35.067408
+          ],
+          [
+            135.81238,
+            35.067316
+          ],
+          [
+            135.813112,
+            35.067101
+          ],
+          [
+            135.814008,
+            35.066727
+          ],
+          [
+            135.814767,
+            35.066376
+          ],
+          [
+            135.816166,
+            35.065709
+          ],
+          [
+            135.816964,
+            35.065331
+          ],
+          [
+            135.817568,
+            35.065074
+          ],
+          [
+            135.818227,
+            35.064891
+          ],
+          [
+            135.818879,
+            35.064749
+          ],
+          [
+            135.820639,
+            35.064472
+          ],
+          [
+            135.821495,
+            35.064358
+          ],
+          [
+            135.821944,
+            35.064289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30415366",
+      "properties": {
+        "@id": "way/30415366",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "鋼索線",
+        "KSJ2:OPC": "京福電気鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "京福電気鉄道鋼索線",
+        "name:ja": "京福電気鉄道鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "京福電気鉄道",
+        "operator:ja": "京福電気鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.8086435,
+            35.066916
+          ],
+          [
+            135.8091369,
+            35.0670386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30415368",
+      "properties": {
+        "@id": "way/30415368",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "鋼索線",
+        "KSJ2:OPC": "京福電気鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "京福電気鉄道鋼索線",
+        "name:ja": "京福電気鉄道鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "京福電気鉄道",
+        "operator:ja": "京福電気鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.822389,
+            35.064242
+          ],
+          [
+            135.821944,
+            35.064289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30432373",
+      "properties": {
+        "@id": "way/30432373",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "生駒鋼索線",
+        "KSJ2:OPC": "近畿日本鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "近畿日本鉄道生駒鋼索線",
+        "name:ja": "近畿日本鉄道生駒鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "近畿日本鉄道",
+        "operator:ja": "近畿日本鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.683673,
+            34.681279
+          ],
+          [
+            135.6836258,
+            34.6812578
+          ],
+          [
+            135.6835389,
+            34.6812074
+          ],
+          [
+            135.683169,
+            34.680993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30432374",
+      "properties": {
+        "@id": "way/30432374",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "生駒鋼索線",
+        "KSJ2:OPC": "近畿日本鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "近畿日本鉄道生駒鋼索線",
+        "name:ja": "近畿日本鉄道生駒鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "近畿日本鉄道",
+        "operator:ja": "近畿日本鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.680866,
+            34.679671
+          ],
+          [
+            135.680482,
+            34.67945
+          ],
+          [
+            135.680269,
+            34.679334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30432376",
+      "properties": {
+        "@id": "way/30432376",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "生駒鋼索線",
+        "KSJ2:OPC": "近畿日本鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "近畿日本鉄道生駒鋼索線",
+        "name:ja": "近畿日本鉄道生駒鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "近畿日本鉄道",
+        "operator:ja": "近畿日本鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.696183,
+            34.692305
+          ],
+          [
+            135.69565,
+            34.691821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30432377",
+      "properties": {
+        "@id": "way/30432377",
+        "KSJ2:LIN": "生駒鋼索線",
+        "name": "近畿日本鉄道生駒鋼索線",
+        "name:ja": "近畿日本鉄道生駒鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "近畿日本鉄道",
+        "operator:ja": "近畿日本鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.69565,
+            34.691821
+          ],
+          [
+            135.6953747,
+            34.6915927
+          ],
+          [
+            135.69531,
+            34.6915404
+          ],
+          [
+            135.6951827,
+            34.6914216
+          ],
+          [
+            135.695127,
+            34.691364
+          ],
+          [
+            135.6944339,
+            34.6907383
+          ],
+          [
+            135.694016,
+            34.690361
+          ],
+          [
+            135.693545,
+            34.68995
+          ],
+          [
+            135.69319,
+            34.689617
+          ],
+          [
+            135.693047,
+            34.689504
+          ],
+          [
+            135.69287,
+            34.689336
+          ],
+          [
+            135.6927395,
+            34.689228
+          ],
+          [
+            135.692713,
+            34.689206
+          ],
+          [
+            135.692413,
+            34.68893
+          ],
+          [
+            135.692044,
+            34.688597
+          ],
+          [
+            135.691464,
+            34.688068
+          ],
+          [
+            135.691301,
+            34.687932
+          ],
+          [
+            135.691178,
+            34.687808
+          ],
+          [
+            135.69068,
+            34.687358
+          ],
+          [
+            135.6897054,
+            34.6865283
+          ],
+          [
+            135.6894832,
+            34.6863565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30432378",
+      "properties": {
+        "@id": "way/30432378",
+        "KSJ2:LIN": "生駒鋼索線",
+        "name": "近畿日本鉄道生駒鋼索線",
+        "name:ja": "近畿日本鉄道生駒鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "近畿日本鉄道",
+        "operator:ja": "近畿日本鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.6894832,
+            34.6863565
+          ],
+          [
+            135.6894194,
+            34.6862997
+          ],
+          [
+            135.6892096,
+            34.6861127
+          ],
+          [
+            135.689014,
+            34.685918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30432379",
+      "properties": {
+        "@id": "way/30432379",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "生駒鋼索線",
+        "KSJ2:OPC": "近畿日本鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "近畿日本鉄道生駒鋼索線",
+        "name:ja": "近畿日本鉄道生駒鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "近畿日本鉄道",
+        "operator:ja": "近畿日本鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.68709,
+            34.683318
+          ],
+          [
+            135.68641,
+            34.682926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30432380",
+      "properties": {
+        "@id": "way/30432380",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "生駒鋼索線",
+        "KSJ2:OPC": "近畿日本鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "近畿日本鉄道生駒鋼索線",
+        "name:ja": "近畿日本鉄道生駒鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "近畿日本鉄道",
+        "operator:ja": "近畿日本鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.68641,
+            34.682926
+          ],
+          [
+            135.685973,
+            34.682674
+          ],
+          [
+            135.685509,
+            34.682398
+          ],
+          [
+            135.685339,
+            34.682274
+          ],
+          [
+            135.685176,
+            34.682184
+          ],
+          [
+            135.683961,
+            34.681457
+          ],
+          [
+            135.683673,
+            34.681279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30432381",
+      "properties": {
+        "@id": "way/30432381",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "生駒鋼索線",
+        "KSJ2:OPC": "近畿日本鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "近畿日本鉄道生駒鋼索線",
+        "name:ja": "近畿日本鉄道生駒鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "近畿日本鉄道",
+        "operator:ja": "近畿日本鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.689014,
+            34.685918
+          ],
+          [
+            135.688988,
+            34.685899
+          ],
+          [
+            135.6889406,
+            34.6857864
+          ],
+          [
+            135.6888933,
+            34.6856477
+          ],
+          [
+            135.688831,
+            34.685529
+          ],
+          [
+            135.688734,
+            34.685334
+          ],
+          [
+            135.688568,
+            34.685053
+          ],
+          [
+            135.688257,
+            34.684518
+          ],
+          [
+            135.687822,
+            34.683993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30432382",
+      "properties": {
+        "@id": "way/30432382",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "生駒鋼索線",
+        "KSJ2:OPC": "近畿日本鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "近畿日本鉄道生駒鋼索線",
+        "name:ja": "近畿日本鉄道生駒鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "近畿日本鉄道",
+        "operator:ja": "近畿日本鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.683169,
+            34.680993
+          ],
+          [
+            135.68302,
+            34.680899
+          ],
+          [
+            135.682099,
+            34.680374
+          ],
+          [
+            135.68156,
+            34.68007
+          ],
+          [
+            135.681472,
+            34.680025
+          ],
+          [
+            135.681288,
+            34.679918
+          ],
+          [
+            135.68111,
+            34.679811
+          ],
+          [
+            135.680866,
+            34.679671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30662401",
+      "properties": {
+        "@id": "way/30662401",
+        "KSJ2:LIN": "鋼索線",
+        "name": "京阪電気鉄道鋼索線 (Keihan Electric Railway Cable-Line)",
+        "name:en": "Keihan Electric Railway Cable-Line",
+        "name:ja": "京阪電気鉄道鋼索線",
+        "name:ja_rm": "Keihan Denki Tetsudō keiburu-sen",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "京阪電気鉄道",
+        "operator:ja": "京阪電気鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.699367,
+            34.883963
+          ],
+          [
+            135.699362,
+            34.883595
+          ],
+          [
+            135.699369,
+            34.883398
+          ],
+          [
+            135.69942,
+            34.883184
+          ],
+          [
+            135.6994155,
+            34.8827775
+          ],
+          [
+            135.6995083,
+            34.8824659
+          ],
+          [
+            135.6996252,
+            34.8818844
+          ],
+          [
+            135.6997903,
+            34.8811467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30662402",
+      "properties": {
+        "@id": "way/30662402",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "鋼索線",
+        "KSJ2:OPC": "京阪電気鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "京阪電気鉄道鋼索線 (Keihan Electric Railway Cable-Line)",
+        "name:en": "Keihan Electric Railway Cable-Line",
+        "name:ja": "京阪電気鉄道鋼索線",
+        "name:ja_rm": "Keihan Denki Tetsudō keiburu-sen",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "京阪電気鉄道",
+        "operator:ja": "京阪電気鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.699482,
+            34.884579
+          ],
+          [
+            135.699402,
+            34.884305
+          ],
+          [
+            135.699369,
+            34.884173
+          ],
+          [
+            135.699367,
+            34.883963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30662403",
+      "properties": {
+        "@id": "way/30662403",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "鋼索線",
+        "KSJ2:OPC": "京阪電気鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "京阪電気鉄道鋼索線 (Keihan Electric Railway Cable-Line)",
+        "name:en": "Keihan Electric Railway Cable-Line",
+        "name:ja": "京阪電気鉄道鋼索線",
+        "name:ja_rm": "Keihan Denki Tetsudō keiburu-sen",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "京阪電気鉄道",
+        "operator:ja": "京阪電気鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.6997903,
+            34.8811467
+          ],
+          [
+            135.699819,
+            34.8810333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32052623",
+      "properties": {
+        "@id": "way/32052623",
+        "KSJ2:LIN": "六甲ケーブル線",
+        "gauge": "1067",
+        "name": "六甲摩耶鉄道六甲ケーブル線",
+        "name:ja": "六甲摩耶鉄道六甲ケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "六甲摩耶鉄道",
+        "operator:ja": "六甲摩耶鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.2334811,
+            34.7372418
+          ],
+          [
+            135.2335296,
+            34.7373161
+          ],
+          [
+            135.233744,
+            34.737609
+          ],
+          [
+            135.233886,
+            34.737902
+          ],
+          [
+            135.234087,
+            34.738324
+          ],
+          [
+            135.234162,
+            34.738528
+          ],
+          [
+            135.234247,
+            34.738909
+          ],
+          [
+            135.234375,
+            34.739597
+          ],
+          [
+            135.234472,
+            34.740391
+          ],
+          [
+            135.234539,
+            34.740748
+          ],
+          [
+            135.234612,
+            34.740961
+          ],
+          [
+            135.234892,
+            34.741709
+          ],
+          [
+            135.235064,
+            34.742064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077122",
+      "properties": {
+        "@id": "way/32077122",
+        "KSJ2:LIN": "鋼索線",
+        "name": "南海電気鉄道鋼索線",
+        "name:ja": "南海電気鉄道鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "南海電気鉄道",
+        "operator:ja": "南海電気鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.577305,
+            34.2276
+          ],
+          [
+            135.577765,
+            34.227885
+          ],
+          [
+            135.578427,
+            34.228294
+          ],
+          [
+            135.578846,
+            34.228536
+          ],
+          [
+            135.57899,
+            34.228685
+          ],
+          [
+            135.579107,
+            34.228876
+          ],
+          [
+            135.57963,
+            34.230159
+          ],
+          [
+            135.579988,
+            34.231097
+          ],
+          [
+            135.580111,
+            34.231323
+          ],
+          [
+            135.580366,
+            34.231743
+          ],
+          [
+            135.58067,
+            34.232094
+          ],
+          [
+            135.581003,
+            34.232514
+          ],
+          [
+            135.5819168,
+            34.2336955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34014835",
+      "properties": {
+        "@id": "way/34014835",
+        "name": "筑波山ケーブルカー",
+        "name:en": "Tsukubasan Cable Car",
+        "name:ja": "筑波山ケーブルカー",
+        "name:ja_kana": "つくばさんけーぶるかー",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.1001838,
+            36.2147018
+          ],
+          [
+            140.1014123,
+            36.2163897
+          ],
+          [
+            140.1027105,
+            36.2180776
+          ],
+          [
+            140.1043647,
+            36.2202691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47472602",
+      "properties": {
+        "@id": "way/47472602",
+        "name": "大山ケーブル",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.2444562,
+            35.427935
+          ],
+          [
+            139.2431619,
+            35.428291
+          ],
+          [
+            139.240939,
+            35.4296224
+          ],
+          [
+            139.2379066,
+            35.4314531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53560969",
+      "properties": {
+        "@id": "way/53560969",
+        "name": "高尾登山鉄道(Takao Tozan Tetsudo)",
+        "name:en": "Takao Tozan Tetsudo",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.266722,
+            35.6310763
+          ],
+          [
+            139.2560571,
+            35.6310002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57033635",
+      "properties": {
+        "@id": "way/57033635",
+        "name": "立山ケーブルカー",
+        "name:en": "Tateyama Cablecar",
+        "name:ja_kana": "たてやまけーぶるかー",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.4589213,
+            36.583492
+          ],
+          [
+            137.4455121,
+            36.5831127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57033639",
+      "properties": {
+        "@id": "way/57033639",
+        "name": "黒部ケーブルカー",
+        "name:en": "Kurobe Cablecar",
+        "name:ja_kana": "くろべけーぶるかー",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.6502603,
+            36.5668525
+          ],
+          [
+            137.6503456,
+            36.5668501
+          ],
+          [
+            137.6594642,
+            36.5665962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58228085",
+      "properties": {
+        "@id": "way/58228085",
+        "KSJ2:LIN": "御岳登山鉄道",
+        "layer": "1",
+        "name": "御岳登山鉄道",
+        "name:ja": "御岳登山鉄道",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "御岳登山鉄道",
+        "operator:ja": "御岳登山鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.1613012,
+            35.7958424
+          ],
+          [
+            139.160924,
+            35.795384
+          ],
+          [
+            139.160724,
+            35.795187
+          ],
+          [
+            139.160316,
+            35.794754
+          ],
+          [
+            139.159855,
+            35.794265
+          ],
+          [
+            139.159477,
+            35.793873
+          ],
+          [
+            139.159024,
+            35.793401
+          ],
+          [
+            139.158866,
+            35.79324
+          ],
+          [
+            139.158491,
+            35.792837
+          ],
+          [
+            139.158327,
+            35.79269
+          ],
+          [
+            139.15823,
+            35.792637
+          ],
+          [
+            139.15783,
+            35.792365
+          ],
+          [
+            139.157408,
+            35.792073
+          ],
+          [
+            139.156589,
+            35.791518
+          ],
+          [
+            139.155903,
+            35.791051
+          ],
+          [
+            139.15525,
+            35.790613
+          ],
+          [
+            139.154819,
+            35.790326
+          ],
+          [
+            139.154439,
+            35.790074
+          ],
+          [
+            139.153988,
+            35.789769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58228086",
+      "properties": {
+        "@id": "way/58228086",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "御岳登山鉄道",
+        "KSJ2:OPC": "御岳登山鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "御岳登山鉄道",
+        "name:ja": "御岳登山鉄道",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "御岳登山鉄道",
+        "operator:ja": "御岳登山鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.1614764,
+            35.7959966
+          ],
+          [
+            139.1613012,
+            35.7958424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58228087",
+      "properties": {
+        "@id": "way/58228087",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "御岳登山鉄道",
+        "KSJ2:OPC": "御岳登山鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "御岳登山鉄道",
+        "name:ja": "御岳登山鉄道",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "御岳登山鉄道",
+        "operator:ja": "御岳登山鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.153988,
+            35.789769
+          ],
+          [
+            139.153542,
+            35.789493
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88328941",
+      "properties": {
+        "@id": "way/88328941",
+        "KSJ2:LIN": "帆柱ケーブル",
+        "name": "帆柱ケーブル帆柱ケーブル",
+        "name:ja": "帆柱ケーブル帆柱ケーブル",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "帆柱ケーブル",
+        "operator:ja": "帆柱ケーブル",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.7964953,
+            33.8565037
+          ],
+          [
+            130.796477,
+            33.856237
+          ],
+          [
+            130.796487,
+            33.855949
+          ],
+          [
+            130.7965697,
+            33.8544524
+          ],
+          [
+            130.7966621,
+            33.8540313
+          ],
+          [
+            130.7967235,
+            33.8535569
+          ],
+          [
+            130.7967163,
+            33.8533677
+          ],
+          [
+            130.7967228,
+            33.8531801
+          ],
+          [
+            130.7967118,
+            33.8530548
+          ],
+          [
+            130.796626,
+            33.852686
+          ],
+          [
+            130.7964601,
+            33.8520112
+          ],
+          [
+            130.7964109,
+            33.8518366
+          ],
+          [
+            130.7963033,
+            33.8514545
+          ],
+          [
+            130.7961606,
+            33.8508173
+          ],
+          [
+            130.796024,
+            33.850207
+          ],
+          [
+            130.7958218,
+            33.8495202
+          ],
+          [
+            130.7955999,
+            33.8488606
+          ],
+          [
+            130.7952727,
+            33.8475835
+          ],
+          [
+            130.7952126,
+            33.8473059
+          ],
+          [
+            130.7951472,
+            33.846847
+          ],
+          [
+            130.7951425,
+            33.8467356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91208611",
+      "properties": {
+        "@id": "way/91208611",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "別府ラクテンチケーブル線",
+        "KSJ2:OPC": "岡本製作所",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "岡本製作所別府ラクテンチケーブル線",
+        "name:ja": "岡本製作所別府ラクテンチケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "岡本製作所",
+        "operator:ja": "岡本製作所",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.4856133,
+            33.2748884
+          ],
+          [
+            131.4852635,
+            33.2748566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91208614",
+      "properties": {
+        "@id": "way/91208614",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "別府ラクテンチケーブル線",
+        "KSJ2:OPC": "岡本製作所",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "岡本製作所別府ラクテンチケーブル線",
+        "name:ja": "岡本製作所別府ラクテンチケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "岡本製作所",
+        "operator:ja": "岡本製作所",
+        "railway": "funicular",
+        "source": "KSJ2;Bing",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.4833556,
+            33.2747037
+          ],
+          [
+            131.4840528,
+            33.2747566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91208616",
+      "properties": {
+        "@id": "way/91208616",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "別府ラクテンチケーブル線",
+        "KSJ2:OPC": "岡本製作所",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "岡本製作所別府ラクテンチケーブル線",
+        "name:ja": "岡本製作所別府ラクテンチケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "岡本製作所",
+        "operator:ja": "岡本製作所",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.4830977,
+            33.2746865
+          ],
+          [
+            131.4833556,
+            33.2747037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91875311",
+      "properties": {
+        "@id": "way/91875311",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "別府ラクテンチケーブル線",
+        "KSJ2:OPC": "岡本製作所",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "岡本製作所別府ラクテンチケーブル線",
+        "name:ja": "岡本製作所別府ラクテンチケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "oneway": "yes",
+        "operator": "岡本製作所",
+        "operator:ja": "岡本製作所",
+        "railway": "funicular",
+        "source": "KSJ2;Bing",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.4845765,
+            33.2748016
+          ],
+          [
+            131.4844434,
+            33.2747722
+          ],
+          [
+            131.4843163,
+            33.2747593
+          ],
+          [
+            131.4841747,
+            33.2747512
+          ],
+          [
+            131.4840528,
+            33.2747566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91875316",
+      "properties": {
+        "@id": "way/91875316",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "別府ラクテンチケーブル線",
+        "KSJ2:OPC": "岡本製作所",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "岡本製作所別府ラクテンチケーブル線",
+        "name:ja": "岡本製作所別府ラクテンチケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "岡本製作所",
+        "operator:ja": "岡本製作所",
+        "railway": "funicular",
+        "source": "KSJ2;Bing",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.4845765,
+            33.2748016
+          ],
+          [
+            131.4852635,
+            33.2748566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/91875325",
+      "properties": {
+        "@id": "way/91875325",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "別府ラクテンチケーブル線",
+        "KSJ2:OPC": "岡本製作所",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "岡本製作所別府ラクテンチケーブル線",
+        "name:ja": "岡本製作所別府ラクテンチケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "oneway": "yes",
+        "operator": "岡本製作所",
+        "operator:ja": "岡本製作所",
+        "railway": "funicular",
+        "source": "KSJ2;Bing",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.4840528,
+            33.2747566
+          ],
+          [
+            131.4841661,
+            33.2747794
+          ],
+          [
+            131.4843002,
+            33.2747955
+          ],
+          [
+            131.4843633,
+            33.2747975
+          ],
+          [
+            131.4844719,
+            33.2747987
+          ],
+          [
+            131.4845765,
+            33.2748016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100944600",
+      "properties": {
+        "@id": "way/100944600",
+        "name": "西信貴ケーブル",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.64228,
+            34.6199177
+          ],
+          [
+            135.6468638,
+            34.6185944
+          ],
+          [
+            135.6478437,
+            34.618282
+          ],
+          [
+            135.6481908,
+            34.6181178
+          ],
+          [
+            135.6484978,
+            34.6179105
+          ],
+          [
+            135.6487759,
+            34.6176801
+          ],
+          [
+            135.6489701,
+            34.6175317
+          ],
+          [
+            135.6536393,
+            34.6139633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/111813324",
+      "properties": {
+        "@id": "way/111813324",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "能勢電鉄",
+        "KSJ2:OPC": "能勢電鉄",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "能勢電鉄妙見ケーブル",
+        "name:ja": "能勢電鉄妙見ケーブル",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "能勢電鉄",
+        "operator:ja": "能勢電鉄",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.4570318,
+            34.923811
+          ],
+          [
+            135.456551,
+            34.92363
+          ],
+          [
+            135.456119,
+            34.923487
+          ],
+          [
+            135.455798,
+            34.923374
+          ],
+          [
+            135.455729,
+            34.923358
+          ],
+          [
+            135.455442,
+            34.923245
+          ],
+          [
+            135.455045,
+            34.923115
+          ],
+          [
+            135.454799,
+            34.923031
+          ],
+          [
+            135.454114,
+            34.922805
+          ],
+          [
+            135.454108,
+            34.922794
+          ],
+          [
+            135.453615,
+            34.92263
+          ],
+          [
+            135.453074,
+            34.922444
+          ],
+          [
+            135.453068,
+            34.922433
+          ],
+          [
+            135.453006,
+            34.922428
+          ],
+          [
+            135.452931,
+            34.922399
+          ],
+          [
+            135.452021,
+            34.922084
+          ],
+          [
+            135.45198,
+            34.922072
+          ],
+          [
+            135.4509786,
+            34.9217567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128992066",
+      "properties": {
+        "@id": "way/128992066",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "摩耶ケーブル線",
+        "KSJ2:OPC": "神戸市都市整備公社",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "神戸市都市整備公社営摩耶ケーブル線",
+        "name:ja": "神戸市都市整備公社営摩耶ケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "神戸市都市整備公社",
+        "operator:ja": "神戸市都市整備公社",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.2161612,
+            34.719912
+          ],
+          [
+            135.216108,
+            34.7199552
+          ],
+          [
+            135.2158168,
+            34.7202453
+          ],
+          [
+            135.2154832,
+            34.7205719
+          ],
+          [
+            135.215166,
+            34.721003
+          ],
+          [
+            135.214975,
+            34.721292
+          ],
+          [
+            135.214836,
+            34.721598
+          ],
+          [
+            135.2147494,
+            34.721864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160208871",
+      "properties": {
+        "@id": "way/160208871",
+        "layer": "2",
+        "level": "2",
+        "railway": "funicular",
+        "source": "Bing,2011-03"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.854065,
+            34.375123
+          ],
+          [
+            135.855602,
+            34.372625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161442277",
+      "properties": {
+        "@id": "way/161442277",
+        "KSJ2:INT": "4",
+        "KSJ2:INT_label": "民営鉄道",
+        "KSJ2:LIN": "生駒鋼索線",
+        "KSJ2:OPC": "近畿日本鉄道",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "近畿日本鉄道生駒鋼索線",
+        "name:ja": "近畿日本鉄道生駒鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "近畿日本鉄道",
+        "operator:ja": "近畿日本鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.687822,
+            34.683993
+          ],
+          [
+            135.687508,
+            34.683677
+          ],
+          [
+            135.6871701,
+            34.6833781
+          ],
+          [
+            135.687126,
+            34.683339
+          ],
+          [
+            135.68709,
+            34.683318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172596533",
+      "properties": {
+        "@id": "way/172596533",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9000893,
+            43.1174905
+          ],
+          [
+            131.900207,
+            43.1172564
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172596534",
+      "properties": {
+        "@id": "way/172596534",
+        "bridge": "yes",
+        "layer": "1",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9006716,
+            43.1163537
+          ],
+          [
+            131.9007961,
+            43.116083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172596535",
+      "properties": {
+        "@id": "way/172596535",
+        "bridge": "yes",
+        "layer": "1",
+        "oneway": "yes",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9006716,
+            43.1163537
+          ],
+          [
+            131.9005996,
+            43.1165829
+          ],
+          [
+            131.9004991,
+            43.1167813
+          ],
+          [
+            131.9003482,
+            43.116989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172596536",
+      "properties": {
+        "@id": "way/172596536",
+        "bridge": "yes",
+        "layer": "1",
+        "oneway": "yes",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9003482,
+            43.116989
+          ],
+          [
+            131.9004414,
+            43.1167651
+          ],
+          [
+            131.9005325,
+            43.1165722
+          ],
+          [
+            131.9006716,
+            43.1163537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/180643159",
+      "properties": {
+        "@id": "way/180643159",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9007961,
+            43.116083
+          ],
+          [
+            131.9008963,
+            43.1158551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/180643160",
+      "properties": {
+        "@id": "way/180643160",
+        "bridge": "yes",
+        "layer": "1",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.900207,
+            43.1172564
+          ],
+          [
+            131.9003482,
+            43.116989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183841006",
+      "properties": {
+        "@id": "way/183841006",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "摩耶ケーブル線",
+        "KSJ2:OPC": "神戸市都市整備公社",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "神戸市都市整備公社営摩耶ケーブル線",
+        "name:ja": "神戸市都市整備公社営摩耶ケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "神戸市都市整備公社",
+        "operator:ja": "神戸市都市整備公社",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.2147494,
+            34.721864
+          ],
+          [
+            135.214231,
+            34.7232253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183841007",
+      "properties": {
+        "@id": "way/183841007",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "摩耶ケーブル線",
+        "KSJ2:OPC": "神戸市都市整備公社",
+        "KSJ2:RAC": "13",
+        "KSJ2:RAC_label": "鋼索鉄道",
+        "name": "神戸市都市整備公社営摩耶ケーブル線",
+        "name:ja": "神戸市都市整備公社営摩耶ケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "神戸市都市整備公社",
+        "operator:ja": "神戸市都市整備公社",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.214231,
+            34.7232253
+          ],
+          [
+            135.2141098,
+            34.723434
+          ],
+          [
+            135.213949,
+            34.7238445
+          ],
+          [
+            135.213471,
+            34.725093
+          ],
+          [
+            135.213147,
+            34.725813
+          ],
+          [
+            135.212903,
+            34.726271
+          ],
+          [
+            135.212539,
+            34.726795
+          ],
+          [
+            135.2122137,
+            34.72725
+          ],
+          [
+            135.2121492,
+            34.7273344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199766512",
+      "properties": {
+        "@id": "way/199766512",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.8102273,
+            37.7101867
+          ],
+          [
+            138.8103124,
+            37.7098268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/210351092",
+      "properties": {
+        "@id": "way/210351092",
+        "railway": "funicular",
+        "source": "image,2008-03;Bing",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.7964109,
+            33.8518366
+          ],
+          [
+            130.7963258,
+            33.8513744
+          ],
+          [
+            130.7961606,
+            33.8508173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230341296",
+      "properties": {
+        "@id": "way/230341296",
+        "KSJ2:operationCompany": "財団法人青函トンネル記念館",
+        "KSJ2:railwayLineName": "青函トンネル竜飛斜坑線",
+        "KSJ2:railwayType": "13",
+        "KSJ2:railwayType_label": "鋼索鉄道",
+        "KSJ2:serviceProviderType": "3",
+        "KSJ2:serviceProviderType_label": "公営鉄道",
+        "layer": "-1",
+        "name": "財団法人青函トンネル記念館営青函トンネル竜飛斜坑線",
+        "name:en": "Seikan Tunnel Tappi Shako Line",
+        "name:ja": "財団法人青函トンネル記念館営青函トンネル竜飛斜坑線",
+        "name:ja-Latn": "Seikan Tunnel Tappi Shakō Line",
+        "note": "National-Land Numerical Information (Railway) 2012, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成24年　国土交通省",
+        "operator": "財団法人青函トンネル記念館",
+        "operator:ja": "財団法人青函トンネル記念館",
+        "railway": "funicular",
+        "source": "KSJ2/N02",
+        "source_ref": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Japan_KSJ2_Import",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.347585,
+            41.256284
+          ],
+          [
+            140.347136,
+            41.254533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230341297",
+      "properties": {
+        "@id": "way/230341297",
+        "KSJ2:operationCompany": "財団法人青函トンネル記念館",
+        "KSJ2:railwayLineName": "青函トンネル竜飛斜坑線",
+        "KSJ2:railwayType": "13",
+        "KSJ2:railwayType_label": "鋼索鉄道",
+        "KSJ2:serviceProviderType": "3",
+        "KSJ2:serviceProviderType_label": "公営鉄道",
+        "layer": "-1",
+        "name": "財団法人青函トンネル記念館営青函トンネル竜飛斜坑線",
+        "name:en": "Seikan Tunnel Tappi Shako Line",
+        "name:ja": "財団法人青函トンネル記念館営青函トンネル竜飛斜坑線",
+        "name:ja-Latn": "Seikan Tunnel Tappi Shakō Line",
+        "note": "National-Land Numerical Information (Railway) 2012, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成24年　国土交通省",
+        "operator": "財団法人青函トンネル記念館",
+        "operator:ja": "財団法人青函トンネル記念館",
+        "railway": "funicular",
+        "source": "KSJ2/N02",
+        "source_ref": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Japan_KSJ2_Import",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.347136,
+            41.254533
+          ],
+          [
+            140.347026,
+            41.254097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230341298",
+      "properties": {
+        "@id": "way/230341298",
+        "KSJ2:operationCompany": "財団法人青函トンネル記念館",
+        "KSJ2:railwayLineName": "青函トンネル竜飛斜坑線",
+        "KSJ2:railwayType": "13",
+        "KSJ2:railwayType_label": "鋼索鉄道",
+        "KSJ2:serviceProviderType": "3",
+        "KSJ2:serviceProviderType_label": "公営鉄道",
+        "layer": "-1",
+        "name": "財団法人青函トンネル記念館営青函トンネル竜飛斜坑線",
+        "name:en": "Seikan Tunnel Tappi Shako Line",
+        "name:ja": "財団法人青函トンネル記念館営青函トンネル竜飛斜坑線",
+        "name:ja-Latn": "Seikan Tunnel Tappi Shakō Line",
+        "note": "National-Land Numerical Information (Railway) 2012, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成24年　国土交通省",
+        "operator": "財団法人青函トンネル記念館",
+        "operator:ja": "財団法人青函トンネル記念館",
+        "railway": "funicular",
+        "source": "KSJ2/N02",
+        "source_ref": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Japan_KSJ2_Import",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.347691,
+            41.256716
+          ],
+          [
+            140.347585,
+            41.256284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/235940237",
+      "properties": {
+        "@id": "way/235940237",
+        "name": "箱根登山鉄道鋼索線",
+        "name:ja": "箱根登山鉄道鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "operator": "箱根登山鉄道",
+        "operator:ja": "箱根登山鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.0424013,
+            35.2487749
+          ],
+          [
+            139.0422745,
+            35.2487561
+          ],
+          [
+            139.0414622,
+            35.2484874
+          ],
+          [
+            139.0413712,
+            35.2484698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/235940238",
+      "properties": {
+        "@id": "way/235940238",
+        "name": "箱根登山鉄道鋼索線",
+        "name:ja": "箱根登山鉄道鋼索線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "operator": "箱根登山鉄道",
+        "operator:ja": "箱根登山鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.0413712,
+            35.2484698
+          ],
+          [
+            139.0414907,
+            35.2484513
+          ],
+          [
+            139.0422835,
+            35.2487257
+          ],
+          [
+            139.0424013,
+            35.2487749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260292982",
+      "properties": {
+        "@id": "way/260292982",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.9721235,
+            43.1720474
+          ],
+          [
+            140.975171,
+            43.1777775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/276434597",
+      "properties": {
+        "@id": "way/276434597",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.3888594,
+            33.571667
+          ],
+          [
+            130.3884437,
+            33.5718525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295187754",
+      "properties": {
+        "@id": "way/295187754",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            132.8121419,
+            33.867671
+          ],
+          [
+            132.8124746,
+            33.8686021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/310770667",
+      "properties": {
+        "@id": "way/310770667",
+        "name": "インクライン",
+        "railway": "funicular",
+        "source": "bing; GSI/KIBAN 2500; NARO; survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.2486336,
+            35.5405371
+          ],
+          [
+            139.2499815,
+            35.5416401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/310770668",
+      "properties": {
+        "@id": "way/310770668",
+        "name": "インクライン",
+        "railway": "funicular",
+        "source": "bing; GSI/KIBAN 2500; NARO; survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.2500123,
+            35.541614
+          ],
+          [
+            139.2486738,
+            35.5405064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328621633",
+      "properties": {
+        "@id": "way/328621633",
+        "KSJ2:LIN": "六甲ケーブル線",
+        "gauge": "1067",
+        "name": "六甲摩耶鉄道六甲ケーブル線",
+        "name:ja": "六甲摩耶鉄道六甲ケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "六甲摩耶鉄道",
+        "operator:ja": "六甲摩耶鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.235658,
+            34.743342
+          ],
+          [
+            135.235707,
+            34.743447
+          ],
+          [
+            135.235755,
+            34.743668
+          ],
+          [
+            135.2357855,
+            34.7443831
+          ],
+          [
+            135.2357694,
+            34.744555
+          ],
+          [
+            135.2357747,
+            34.7448173
+          ],
+          [
+            135.2358069,
+            34.7450113
+          ],
+          [
+            135.235789,
+            34.745512
+          ],
+          [
+            135.235793,
+            34.745574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328621635",
+      "properties": {
+        "@id": "way/328621635",
+        "KSJ2:LIN": "六甲ケーブル線",
+        "gauge": "1067",
+        "name": "六甲摩耶鉄道六甲ケーブル線",
+        "name:ja": "六甲摩耶鉄道六甲ケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "六甲摩耶鉄道",
+        "operator:ja": "六甲摩耶鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.235064,
+            34.742064
+          ],
+          [
+            135.235366,
+            34.742684
+          ],
+          [
+            135.235526,
+            34.743043
+          ],
+          [
+            135.235658,
+            34.743342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328621636",
+      "properties": {
+        "@id": "way/328621636",
+        "gauge": "1067",
+        "name": "六甲摩耶鉄道六甲ケーブル線",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.2358069,
+            34.7450113
+          ],
+          [
+            135.235815,
+            34.7448239
+          ],
+          [
+            135.2358043,
+            34.7445462
+          ],
+          [
+            135.2357855,
+            34.7443831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328621637",
+      "properties": {
+        "@id": "way/328621637",
+        "KSJ2:LIN": "六甲ケーブル線",
+        "gauge": "1067",
+        "name": "六甲摩耶鉄道六甲ケーブル線",
+        "name:ja": "六甲摩耶鉄道六甲ケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "六甲摩耶鉄道",
+        "operator:ja": "六甲摩耶鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.235793,
+            34.745574
+          ],
+          [
+            135.235854,
+            34.745996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328621638",
+      "properties": {
+        "@id": "way/328621638",
+        "KSJ2:LIN": "六甲ケーブル線",
+        "gauge": "1067",
+        "name": "六甲摩耶鉄道六甲ケーブル線",
+        "name:ja": "六甲摩耶鉄道六甲ケーブル線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "六甲摩耶鉄道",
+        "operator:ja": "六甲摩耶鉄道",
+        "railway": "funicular",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.235854,
+            34.745996
+          ],
+          [
+            135.235905,
+            34.746155
+          ],
+          [
+            135.235976,
+            34.746376
+          ],
+          [
+            135.236098,
+            34.746627
+          ],
+          [
+            135.236286,
+            34.746948
+          ],
+          [
+            135.237326,
+            34.748686
+          ],
+          [
+            135.237509,
+            34.74906
+          ],
+          [
+            135.237594,
+            34.749377
+          ],
+          [
+            135.237612,
+            34.749668
+          ],
+          [
+            135.237581,
+            34.749994
+          ],
+          [
+            135.237514,
+            34.750326
+          ],
+          [
+            135.237363,
+            34.750823
+          ],
+          [
+            135.23721,
+            34.751139
+          ],
+          [
+            135.23701,
+            34.751501
+          ],
+          [
+            135.236977,
+            34.751591
+          ],
+          [
+            135.236834,
+            34.751983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367074476",
+      "properties": {
+        "@id": "way/367074476",
+        "name": "筑波山ケーブルカー",
+        "name:en": "Tsukubasan Cable Car",
+        "name:ja": "筑波山ケーブルカー",
+        "name:ja_kana": "つくばさんけーぶるかー",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.1046688,
+            36.2206787
+          ],
+          [
+            140.1048648,
+            36.2210729
+          ],
+          [
+            140.1049192,
+            36.2213951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367074477",
+      "properties": {
+        "@id": "way/367074477",
+        "name": "筑波山ケーブルカー",
+        "name:en": "Tsukubasan Cable Car",
+        "name:ja": "筑波山ケーブルカー",
+        "name:ja_kana": "つくばさんけーぶるかー",
+        "oneway": "yes",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.1046688,
+            36.2206787
+          ],
+          [
+            140.1046375,
+            36.2205298
+          ],
+          [
+            140.1045457,
+            36.2203904
+          ],
+          [
+            140.1043647,
+            36.2202691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367074478",
+      "properties": {
+        "@id": "way/367074478",
+        "layer": "-1",
+        "name": "筑波山ケーブルカー",
+        "name:en": "Tsukubasan Cable Car",
+        "name:ja": "筑波山ケーブルカー",
+        "name:ja_kana": "つくばさんけーぶるかー",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.1049192,
+            36.2213951
+          ],
+          [
+            140.1048953,
+            36.2217445
+          ],
+          [
+            140.1048141,
+            36.2220991
+          ],
+          [
+            140.104684,
+            36.2224937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367074479",
+      "properties": {
+        "@id": "way/367074479",
+        "name": "筑波山ケーブルカー",
+        "name:en": "Tsukubasan Cable Car",
+        "name:ja": "筑波山ケーブルカー",
+        "name:ja_kana": "つくばさんけーぶるかー",
+        "oneway": "yes",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.1043647,
+            36.2202691
+          ],
+          [
+            140.1044269,
+            36.2204383
+          ],
+          [
+            140.1045295,
+            36.2205821
+          ],
+          [
+            140.1046688,
+            36.2206787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367074480",
+      "properties": {
+        "@id": "way/367074480",
+        "name": "筑波山ケーブルカー",
+        "name:en": "Tsukubasan Cable Car",
+        "name:ja": "筑波山ケーブルカー",
+        "name:ja_kana": "つくばさんけーぶるかー",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.104684,
+            36.2224937
+          ],
+          [
+            140.1046041,
+            36.222678
+          ],
+          [
+            140.1043167,
+            36.223256
+          ],
+          [
+            140.1041141,
+            36.223567
+          ],
+          [
+            140.1039646,
+            36.2237912
+          ],
+          [
+            140.103753,
+            36.224041
+          ],
+          [
+            140.1035257,
+            36.2242497
+          ],
+          [
+            140.1033203,
+            36.2243969
+          ],
+          [
+            140.1009255,
+            36.2258018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368246366",
+      "properties": {
+        "@id": "way/368246366",
+        "name": "西信貴ケーブル",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.6484978,
+            34.6179105
+          ],
+          [
+            135.6486457,
+            34.6178165
+          ],
+          [
+            135.6488073,
+            34.6176911
+          ],
+          [
+            135.6489701,
+            34.6175317
+          ]
+        ]
+      }
+    }
+  ]
+}

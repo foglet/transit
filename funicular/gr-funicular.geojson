@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:20:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30481095",
+      "properties": {
+        "@id": "way/30481095",
+        "layer": "-1",
+        "name": "Τελεφερίκ Λυκαβηττού",
+        "name:en": "Lycabettus Funicular",
+        "note": "line is approximate",
+        "railway": "funicular",
+        "source": "knowledge",
+        "tunnel": "yes",
+        "wikipedia": "el:Τελεφερίκ Λυκαβηττού"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.7440193,
+            37.9804396
+          ],
+          [
+            23.7435827,
+            37.9820737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/387652324",
+      "properties": {
+        "@id": "way/387652324",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.7503624,
+            43.5724091
+          ],
+          [
+            20.7514965,
+            43.570449
+          ],
+          [
+            20.7535993,
+            43.5665287
+          ],
+          [
+            20.7552887,
+            43.5634214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397318352",
+      "properties": {
+        "@id": "way/397318352",
+        "name": "Жичара",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.1176621,
+            43.221783
+          ],
+          [
+            22.1128759,
+            43.2154027
+          ],
+          [
+            22.112671,
+            43.2151295
+          ]
+        ]
+      }
+    }
+  ]
+}

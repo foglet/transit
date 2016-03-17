@@ -1,0 +1,1278 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/3012119",
+      "properties": {
+        "@id": "way/3012119",
+        "name": "Salzbergbahn",
+        "railway": "funicular",
+        "railway:traction": "cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.645091,
+            47.5563809
+          ],
+          [
+            13.6450166,
+            47.5565142
+          ],
+          [
+            13.644167,
+            47.5581874
+          ],
+          [
+            13.6440872,
+            47.5583002
+          ],
+          [
+            13.6439964,
+            47.5584743
+          ],
+          [
+            13.6439471,
+            47.5586087
+          ],
+          [
+            13.6430892,
+            47.560221
+          ],
+          [
+            13.64303,
+            47.5603337
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/5970574",
+      "properties": {
+        "@id": "way/5970574",
+        "name": "Schloßbergbahn",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wikipedia": "de:Grazer Schloßbergbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.4350822,
+            47.0748754
+          ],
+          [
+            15.4351564,
+            47.074904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/8102503",
+      "properties": {
+        "@id": "way/8102503",
+        "layer": "-1",
+        "name": "Standseilbahn Wurzeralm",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3151663,
+            47.6273616
+          ],
+          [
+            14.3150258,
+            47.6274679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39328490",
+      "properties": {
+        "@id": "way/39328490",
+        "gauge": "1000",
+        "name": "Reißeck Standseilbahn Sektion 1",
+        "railway": "funicular",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3165643,
+            46.8801572
+          ],
+          [
+            13.3165795,
+            46.8802292
+          ],
+          [
+            13.3166369,
+            46.8805011
+          ],
+          [
+            13.3166435,
+            46.8805328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39328491",
+      "properties": {
+        "@id": "way/39328491",
+        "gauge": "1000",
+        "name": "Reißeck Standseilbahn Sektion 2",
+        "railway": "funicular",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3190135,
+            46.8888827
+          ],
+          [
+            13.3199935,
+            46.8925574
+          ],
+          [
+            13.3200913,
+            46.8928082
+          ],
+          [
+            13.3202721,
+            46.8930652
+          ],
+          [
+            13.321741,
+            46.8945041
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39328492",
+      "properties": {
+        "@id": "way/39328492",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3248795,
+            46.8975556
+          ],
+          [
+            13.3248004,
+            46.8974852
+          ],
+          [
+            13.3246272,
+            46.8973504
+          ],
+          [
+            13.3245271,
+            46.8972704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40016494",
+      "properties": {
+        "@id": "way/40016494",
+        "layer": "1",
+        "name": "Kreuzeck Standseilbahn",
+        "railway": "funicular",
+        "wikipedia": "de:Kreuzeckbahn (Kärnten)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3111153,
+            46.8723767
+          ],
+          [
+            13.3097435,
+            46.8704898
+          ],
+          [
+            13.3072469,
+            46.8664535
+          ],
+          [
+            13.3046673,
+            46.862445
+          ],
+          [
+            13.30276,
+            46.8608016
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50906661",
+      "properties": {
+        "@id": "way/50906661",
+        "layer": "1",
+        "name": "Standseilbahn Wurzeralm",
+        "railway": "funicular",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3148415,
+            47.6275991
+          ],
+          [
+            14.3145649,
+            47.6277967
+          ],
+          [
+            14.313946,
+            47.6282263
+          ],
+          [
+            14.3125877,
+            47.6291744
+          ],
+          [
+            14.3112024,
+            47.6301548
+          ],
+          [
+            14.3095294,
+            47.631328
+          ],
+          [
+            14.3086393,
+            47.6319829
+          ],
+          [
+            14.3066433,
+            47.6333996
+          ],
+          [
+            14.3062393,
+            47.6336831
+          ],
+          [
+            14.3058902,
+            47.6339088
+          ],
+          [
+            14.3047692,
+            47.634568
+          ],
+          [
+            14.3028692,
+            47.6356769
+          ],
+          [
+            14.3021185,
+            47.6360888
+          ],
+          [
+            14.301817,
+            47.6362325
+          ],
+          [
+            14.3012257,
+            47.6365838
+          ],
+          [
+            14.3009986,
+            47.6367366
+          ],
+          [
+            14.2991169,
+            47.6378164
+          ],
+          [
+            14.2975814,
+            47.6387359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50906662",
+      "properties": {
+        "@id": "way/50906662",
+        "layer": "1",
+        "name": "Standseilbahn Wurzeralm",
+        "railway": "funicular",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2937689,
+            47.6409977
+          ],
+          [
+            14.293351,
+            47.6413551
+          ],
+          [
+            14.2931931,
+            47.6415107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50906663",
+      "properties": {
+        "@id": "way/50906663",
+        "layer": "-1",
+        "name": "Standseilbahn Wurzeralm",
+        "railway": "funicular",
+        "ref": "A",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2931931,
+            47.6415107
+          ],
+          [
+            14.2928377,
+            47.6418607
+          ],
+          [
+            14.2921019,
+            47.6431447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50906664",
+      "properties": {
+        "@id": "way/50906664",
+        "layer": "1",
+        "name": "Standseilbahn Wurzeralm",
+        "railway": "funicular",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2908001,
+            47.6447546
+          ],
+          [
+            14.2904508,
+            47.6450554
+          ],
+          [
+            14.2898498,
+            47.645532
+          ],
+          [
+            14.2893866,
+            47.6458722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50906665",
+      "properties": {
+        "@id": "way/50906665",
+        "layer": "1",
+        "name": "Standseilbahn Wurzeralm",
+        "railway": "funicular",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2921019,
+            47.6431447
+          ],
+          [
+            14.2917834,
+            47.6436354
+          ],
+          [
+            14.2914491,
+            47.6441191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50906666",
+      "properties": {
+        "@id": "way/50906666",
+        "layer": "-1",
+        "name": "Standseilbahn Wurzeralm",
+        "railway": "funicular",
+        "ref": "A",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2914491,
+            47.6441191
+          ],
+          [
+            14.2911008,
+            47.6444763
+          ],
+          [
+            14.2908001,
+            47.6447546
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50906667",
+      "properties": {
+        "@id": "way/50906667",
+        "layer": "-1",
+        "name": "Standseilbahn Wurzeralm",
+        "railway": "funicular",
+        "ref": "A",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2975814,
+            47.6387359
+          ],
+          [
+            14.2952291,
+            47.6401458
+          ],
+          [
+            14.2937689,
+            47.6409977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/67120118",
+      "properties": {
+        "@id": "way/67120118",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1862184,
+            47.4832702
+          ],
+          [
+            13.1880381,
+            47.4828618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/81178718",
+      "properties": {
+        "@id": "way/81178718",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.644167,
+            47.5581874
+          ],
+          [
+            13.6441321,
+            47.5583101
+          ],
+          [
+            13.6440442,
+            47.5584817
+          ],
+          [
+            13.6439471,
+            47.5586087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/83276829",
+      "properties": {
+        "@id": "way/83276829",
+        "name": "Schloßbergbahn",
+        "railway": "funicular",
+        "wikipedia": "de:Grazer Schloßbergbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.4356128,
+            47.0752367
+          ],
+          [
+            15.4357298,
+            47.0753622
+          ],
+          [
+            15.4358397,
+            47.0754672
+          ],
+          [
+            15.4359732,
+            47.0755752
+          ],
+          [
+            15.4361013,
+            47.0756609
+          ],
+          [
+            15.4361898,
+            47.0757318
+          ],
+          [
+            15.4366194,
+            47.076009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/83277133",
+      "properties": {
+        "@id": "way/83277133",
+        "name": "Schloßbergbahn",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wikipedia": "de:Grazer Schloßbergbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.4366194,
+            47.076009
+          ],
+          [
+            15.4367472,
+            47.0760908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133357033",
+      "properties": {
+        "@id": "way/133357033",
+        "gauge": "600",
+        "railway": "funicular",
+        "source": "geoimage.at",
+        "wikipedia": "de:Reißeck-Höhenbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.36671,
+            46.9169768
+          ],
+          [
+            13.3668073,
+            46.9170264
+          ],
+          [
+            13.3668644,
+            46.9170778
+          ],
+          [
+            13.3674545,
+            46.9176398
+          ],
+          [
+            13.3684546,
+            46.9185574
+          ],
+          [
+            13.3685013,
+            46.9185822
+          ],
+          [
+            13.368548,
+            46.9185911
+          ],
+          [
+            13.368609,
+            46.9185901
+          ],
+          [
+            13.3686829,
+            46.9185751
+          ],
+          [
+            13.3688334,
+            46.918522
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137044438",
+      "properties": {
+        "@id": "way/137044438",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4341559,
+            47.7760991
+          ],
+          [
+            13.4347537,
+            47.7748393
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137598118",
+      "properties": {
+        "@id": "way/137598118",
+        "layer": "1",
+        "name": "Instandhaltungsschrägaufzug",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3299759,
+            46.8708558
+          ],
+          [
+            13.3422552,
+            46.8827689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175244940",
+      "properties": {
+        "@id": "way/175244940",
+        "name": "Schloßbergbahn",
+        "railway": "funicular",
+        "wikipedia": "de:Grazer Schloßbergbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.4351564,
+            47.074904
+          ],
+          [
+            15.4352954,
+            47.0749688
+          ],
+          [
+            15.4354009,
+            47.0750411
+          ],
+          [
+            15.4355368,
+            47.0751571
+          ],
+          [
+            15.4356128,
+            47.0752367
+          ],
+          [
+            15.4357013,
+            47.0753692
+          ],
+          [
+            15.4358052,
+            47.0754825
+          ],
+          [
+            15.4359558,
+            47.0755964
+          ],
+          [
+            15.4360852,
+            47.0756758
+          ],
+          [
+            15.4361898,
+            47.0757318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204619956",
+      "properties": {
+        "@id": "way/204619956",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "Standseilbahn Wurzeralm",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3149919,
+            47.6274917
+          ],
+          [
+            14.3148415,
+            47.6275991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204621456",
+      "properties": {
+        "@id": "way/204621456",
+        "layer": "1",
+        "name": "Standseilbahn Wurzeralm",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3150258,
+            47.6274679
+          ],
+          [
+            14.3149919,
+            47.6274917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204621457",
+      "properties": {
+        "@id": "way/204621457",
+        "aerialway": "cable_car",
+        "layer": "-1",
+        "name": "Standseilbahn Wurzeralm",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2893866,
+            47.6458722
+          ],
+          [
+            14.2891385,
+            47.6460437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204621462",
+      "properties": {
+        "@id": "way/204621462",
+        "aerialway": "cable_car",
+        "layer": "1",
+        "name": "Standseilbahn Wurzeralm",
+        "note": "Ausweiche",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3021185,
+            47.6360888
+          ],
+          [
+            14.3018521,
+            47.6362628
+          ],
+          [
+            14.3012598,
+            47.6366163
+          ],
+          [
+            14.3009986,
+            47.6367366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224491888",
+      "properties": {
+        "@id": "way/224491888",
+        "aerialway:occupancy": "8",
+        "name": "Weltcupexpress",
+        "railway": "funicular",
+        "ref": "16"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4456418,
+            47.2740442
+          ],
+          [
+            13.4463446,
+            47.2732684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237265209",
+      "properties": {
+        "@id": "way/237265209",
+        "access": "private",
+        "railway": "funicular",
+        "usage": "industrial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1341029,
+            47.7082963
+          ],
+          [
+            13.1343743,
+            47.707991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256635594",
+      "properties": {
+        "@id": "way/256635594",
+        "name": "Reißeck Standseilbahn Sektion 3",
+        "railway": "funicular",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3340888,
+            46.9040811
+          ],
+          [
+            13.333327,
+            46.9034878
+          ],
+          [
+            13.332931,
+            46.903194
+          ],
+          [
+            13.3327613,
+            46.9030667
+          ],
+          [
+            13.3325411,
+            46.9029319
+          ],
+          [
+            13.3323597,
+            46.902839
+          ],
+          [
+            13.3321006,
+            46.902726
+          ],
+          [
+            13.3311918,
+            46.9023561
+          ],
+          [
+            13.329536,
+            46.9016784
+          ],
+          [
+            13.3292984,
+            46.9015788
+          ],
+          [
+            13.3290441,
+            46.901459
+          ],
+          [
+            13.3288737,
+            46.9013568
+          ],
+          [
+            13.3287012,
+            46.9012423
+          ],
+          [
+            13.3284603,
+            46.9010375
+          ],
+          [
+            13.3276139,
+            46.900211
+          ],
+          [
+            13.3267074,
+            46.8993463
+          ],
+          [
+            13.3245271,
+            46.8972704
+          ],
+          [
+            13.324367,
+            46.8971148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256635750",
+      "properties": {
+        "@id": "way/256635750",
+        "gauge": "1000",
+        "railway": "funicular",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3188409,
+            46.888272
+          ],
+          [
+            13.3188871,
+            46.8884356
+          ],
+          [
+            13.3190135,
+            46.8888827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256635751",
+      "properties": {
+        "@id": "way/256635751",
+        "gauge": "1000",
+        "railway": "funicular",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3188871,
+            46.8884356
+          ],
+          [
+            13.3189081,
+            46.8886312
+          ],
+          [
+            13.3188935,
+            46.8889617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256635752",
+      "properties": {
+        "@id": "way/256635752",
+        "gauge": "1000",
+        "railway": "funicular",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3188935,
+            46.8889617
+          ],
+          [
+            13.3188894,
+            46.8891577
+          ],
+          [
+            13.3188745,
+            46.8894521
+          ],
+          [
+            13.3188652,
+            46.8896727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295484620",
+      "properties": {
+        "@id": "way/295484620",
+        "gauge": "1000",
+        "name": "Reißeck Standseilbahn Sektion 1",
+        "railway": "funicular",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3167161,
+            46.8807946
+          ],
+          [
+            13.3188544,
+            46.888547
+          ],
+          [
+            13.3188824,
+            46.888714
+          ],
+          [
+            13.3188935,
+            46.8889617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295484626",
+      "properties": {
+        "@id": "way/295484626",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Reißeck Standseilbahn Sektion 1",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3166435,
+            46.8805328
+          ],
+          [
+            13.3167161,
+            46.8807946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295484627",
+      "properties": {
+        "@id": "way/295484627",
+        "gauge": "1000",
+        "railway": "funicular",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3166409,
+            46.8802701
+          ],
+          [
+            13.3166369,
+            46.8805011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336037130",
+      "properties": {
+        "@id": "way/336037130",
+        "gauge": "1000",
+        "name": "Reißeck Standseilbahn Sektion 2",
+        "railway": "funicular",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3220461,
+            46.8948011
+          ],
+          [
+            13.3231017,
+            46.8958261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336037131",
+      "properties": {
+        "@id": "way/336037131",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "name": "Reißeck Standseilbahn Sektion 2",
+        "railway": "funicular",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3231017,
+            46.8958261
+          ],
+          [
+            13.3231538,
+            46.8958767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336037132",
+      "properties": {
+        "@id": "way/336037132",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "name": "Reißeck Standseilbahn Sektion 2",
+        "railway": "funicular",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.321741,
+            46.8945041
+          ],
+          [
+            13.3220461,
+            46.8948011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336037133",
+      "properties": {
+        "@id": "way/336037133",
+        "gauge": "1000",
+        "name": "Reißeck Standseilbahn Sektion 2",
+        "railway": "funicular",
+        "wikipedia": "de:Reißeckbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3231538,
+            46.8958767
+          ],
+          [
+            13.3248795,
+            46.8975556
+          ],
+          [
+            13.3250084,
+            46.8976809
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:29:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/16551175",
+      "properties": {
+        "@id": "way/16551175",
+        "layer": "-5",
+        "name": "Wellington Cablecar",
+        "railway": "funicular",
+        "source": "knowledge",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7699808,
+            -41.2849998
+          ],
+          [
+            174.7710996,
+            -41.2848366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/16551180",
+      "properties": {
+        "@id": "way/16551180",
+        "name": "The Wellington Cablecar",
+        "railway": "funicular",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7676534,
+            -41.2853685
+          ],
+          [
+            174.7691029,
+            -41.2851408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/17564447",
+      "properties": {
+        "@id": "way/17564447",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "Wellington Cablecar",
+        "railway": "funicular",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7710996,
+            -41.2848366
+          ],
+          [
+            174.7712825,
+            -41.2848061
+          ],
+          [
+            174.7714985,
+            -41.2847699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/17564461",
+      "properties": {
+        "@id": "way/17564461",
+        "layer": "-1",
+        "name": "Wellington Cablecar",
+        "railway": "funicular",
+        "source": "knowledge",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7714985,
+            -41.2847699
+          ],
+          [
+            174.7729266,
+            -41.2845301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/17564583",
+      "properties": {
+        "@id": "way/17564583",
+        "bridge": "yes",
+        "layer": "2",
+        "name": "The Wellington Cablecar",
+        "railway": "funicular",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7691029,
+            -41.2851408
+          ],
+          [
+            174.7695705,
+            -41.2850601
+          ],
+          [
+            174.7699808,
+            -41.2849998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/18833254",
+      "properties": {
+        "@id": "way/18833254",
+        "name": "Wellington Cablecar",
+        "railway": "funicular",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7729266,
+            -41.2845301
+          ],
+          [
+            174.7730857,
+            -41.2845035
+          ],
+          [
+            174.7735865,
+            -41.2844057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/18833270",
+      "properties": {
+        "@id": "way/18833270",
+        "layer": "-1",
+        "name": "Wellington Cablecar",
+        "railway": "funicular",
+        "source": "knowledge",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.7735865,
+            -41.2844057
+          ],
+          [
+            174.7744752,
+            -41.2843009
+          ],
+          [
+            174.775088,
+            -41.2842157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200528848",
+      "properties": {
+        "@id": "way/200528848",
+        "alt_name": "The Inclinator",
+        "name": "Tyndall Tramway",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            171.6887175,
+            -43.1298373
+          ],
+          [
+            171.6914923,
+            -43.130989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203846258",
+      "properties": {
+        "@id": "way/203846258",
+        "disused": "yes",
+        "gauge": "1066.8",
+        "historic": "yes",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/5/5e/Denniston_Incline%2C_ca_1880s-1890s.jpg",
+        "name": "Denniston Incline",
+        "railway": "funicular",
+        "url": "http://en.wikipedia.org/wiki/Denniston_Incline#Industrial_history"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            171.780827,
+            -41.7258299
+          ],
+          [
+            171.7893271,
+            -41.7317606
+          ],
+          [
+            171.7957214,
+            -41.7346301
+          ],
+          [
+            171.7966039,
+            -41.7350997
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2324 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:12:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/4643680",
+      "properties": {
+        "@id": "way/4643680",
+        "layer": "-1",
+        "name": "Polybahn",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.544172,
+            47.3765183
+          ],
+          [
+            8.5444437,
+            47.3765209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11489259",
+      "properties": {
+        "@id": "way/11489259",
+        "name": "Seilbahn Rigiblick",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.548931,
+            47.385885
+          ],
+          [
+            8.548971,
+            47.3859011
+          ],
+          [
+            8.5499933,
+            47.3862942
+          ],
+          [
+            8.5507275,
+            47.3866183
+          ],
+          [
+            8.5511497,
+            47.3867645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/12618315",
+      "properties": {
+        "@id": "way/12618315",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "Polybahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5444437,
+            47.3765209
+          ],
+          [
+            8.5448692,
+            47.3765269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/15041961",
+      "properties": {
+        "@id": "way/15041961",
+        "gauge": "1000",
+        "name": "Merkur-Bergbahn",
+        "railway": "funicular",
+        "ref:gnd": "4265874-3",
+        "wikipedia": "de:Merkurbergbahn"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2645861,
+            48.762981
+          ],
+          [
+            8.2707016,
+            48.764517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/15041963",
+      "properties": {
+        "@id": "way/15041963",
+        "gauge": "1000",
+        "name": "Merkur-Bergbahn",
+        "railway": "funicular",
+        "ref:gnd": "4265874-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2707016,
+            48.764517
+          ],
+          [
+            8.2712174,
+            48.7645901
+          ],
+          [
+            8.2717219,
+            48.764676
+          ],
+          [
+            8.2720846,
+            48.7647648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/15041965",
+      "properties": {
+        "@id": "way/15041965",
+        "gauge": "1000",
+        "name": "Merkur-Bergbahn",
+        "railway": "funicular",
+        "ref:gnd": "4265874-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2720846,
+            48.7647648
+          ],
+          [
+            8.2717154,
+            48.7647656
+          ],
+          [
+            8.271211,
+            48.7646821
+          ],
+          [
+            8.2707016,
+            48.764517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/15041966",
+      "properties": {
+        "@id": "way/15041966",
+        "gauge": "1000",
+        "name": "Merkur-Bergbahn",
+        "railway": "funicular",
+        "ref:gnd": "4265874-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2720846,
+            48.7647648
+          ],
+          [
+            8.2721951,
+            48.7647701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23233400",
+      "properties": {
+        "@id": "way/23233400",
+        "gauge": "1000",
+        "incline": "up",
+        "name": "Turmbergbahn",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH",
+        "railway": "funicular",
+        "railway:ballastless": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4828723,
+            48.9980444
+          ],
+          [
+            8.4829956,
+            48.9979949
+          ],
+          [
+            8.4831159,
+            48.9979529
+          ],
+          [
+            8.4834279,
+            48.9978559
+          ],
+          [
+            8.4835477,
+            48.9978227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26607038",
+      "properties": {
+        "@id": "way/26607038",
+        "gauge": "1000",
+        "name": "Sommerbergbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5488128,
+            48.7502847
+          ],
+          [
+            8.5478582,
+            48.7502603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26607042",
+      "properties": {
+        "@id": "way/26607042",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "name": "Sommerbergbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5478582,
+            48.7502603
+          ],
+          [
+            8.5476302,
+            48.7502545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26607043",
+      "properties": {
+        "@id": "way/26607043",
+        "gauge": "1000",
+        "name": "Sommerbergbahn",
+        "railway": "funicular",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5476302,
+            48.7502545
+          ],
+          [
+            8.5463007,
+            48.7502104
+          ],
+          [
+            8.5447608,
+            48.7501718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28349489",
+      "properties": {
+        "@id": "way/28349489",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "Seilbahn Rigiblick",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5511497,
+            47.3867645
+          ],
+          [
+            8.5516934,
+            47.3869621
+          ],
+          [
+            8.5523277,
+            47.3871405
+          ],
+          [
+            8.5527471,
+            47.3872351
+          ],
+          [
+            8.5532983,
+            47.3873264
+          ],
+          [
+            8.5533848,
+            47.3873392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28908993",
+      "properties": {
+        "@id": "way/28908993",
+        "name": "Polybahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5451181,
+            47.3765258
+          ],
+          [
+            8.5451751,
+            47.3765254
+          ],
+          [
+            8.5453166,
+            47.3765399
+          ],
+          [
+            8.5454504,
+            47.3765611
+          ],
+          [
+            8.5455811,
+            47.3765923
+          ],
+          [
+            8.545775,
+            47.3766643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29403578",
+      "properties": {
+        "@id": "way/29403578",
+        "bicycle": "no",
+        "name": "Funiculaire de Montmartre",
+        "operator": "RATP",
+        "railway": "funicular",
+        "wheelchair": "yes",
+        "wikipedia": "fr:Funiculaire de Montmartre",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 224208,
+            "reltags": {
+              "bicycle": "no",
+              "colour": "#622282",
+              "duration": "00:01:30",
+              "name": "Funiculaire de Montmartre",
+              "network": "RATP",
+              "opening_hours": "Mo-Su 06:00-00:45",
+              "operator": "RATP",
+              "railway": "funicular",
+              "ref": "Funiculaire",
+              "ref:FR:STIF": "1001101000001",
+              "ref:colour": "Wikipédia",
+              "ref:structurae": "10000562",
+              "source:ref": "OpenData RATP (Fichier Accessibilité des lignes du réseau de surface RATP)",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3426992,
+            48.8846951
+          ],
+          [
+            2.342692,
+            48.8847584
+          ],
+          [
+            2.3425943,
+            48.8856199
+          ],
+          [
+            2.3425898,
+            48.8856599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32031155",
+      "properties": {
+        "@id": "way/32031155",
+        "name": "Poma 2000",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6252973,
+            49.5700384
+          ],
+          [
+            3.6257833,
+            49.5701343
+          ],
+          [
+            3.6259249,
+            49.5701699
+          ],
+          [
+            3.6260408,
+            49.5702067
+          ],
+          [
+            3.6261726,
+            49.5702678
+          ],
+          [
+            3.6263688,
+            49.5703869
+          ],
+          [
+            3.6265179,
+            49.5704749
+          ],
+          [
+            3.6266489,
+            49.5705332
+          ],
+          [
+            3.626731,
+            49.5705646
+          ],
+          [
+            3.6267773,
+            49.5705798
+          ],
+          [
+            3.626815,
+            49.570589
+          ],
+          [
+            3.6269358,
+            49.5706185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36741667",
+      "properties": {
+        "@id": "way/36741667",
+        "gauge": "1000",
+        "name": "Merkur-Bergbahn",
+        "railway": "funicular",
+        "ref:gnd": "4265874-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2729486,
+            48.7648042
+          ],
+          [
+            8.2731759,
+            48.7648131
+          ],
+          [
+            8.2794429,
+            48.7651182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/36741668",
+      "properties": {
+        "@id": "way/36741668",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Merkur-Bergbahn",
+        "railway": "funicular",
+        "ref:gnd": "4265874-3",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2721951,
+            48.7647701
+          ],
+          [
+            8.2729486,
+            48.7648042
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37911405",
+      "properties": {
+        "@id": "way/37911405",
+        "covered": "yes",
+        "gauge": "1000",
+        "incline": "up",
+        "indoor": "yes",
+        "level": "0",
+        "name": "Turmbergbahn",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH",
+        "railway": "funicular",
+        "railway:ballastless": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4814302,
+            48.998447
+          ],
+          [
+            8.4815393,
+            48.9984176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37911406",
+      "properties": {
+        "@id": "way/37911406",
+        "gauge": "1000",
+        "incline": "up",
+        "name": "Turmbergbahn",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH",
+        "railway": "funicular",
+        "railway:ballastless": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4828723,
+            48.9980444
+          ],
+          [
+            8.4830033,
+            48.9980117
+          ],
+          [
+            8.4831195,
+            48.9979779
+          ],
+          [
+            8.4834531,
+            48.99787
+          ],
+          [
+            8.4835552,
+            48.9978323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37911407",
+      "properties": {
+        "@id": "way/37911407",
+        "bridge": "yes",
+        "gauge": "1000",
+        "incline": "up",
+        "layer": "1",
+        "name": "Turmbergbahn",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH",
+        "railway": "funicular",
+        "railway:ballastless": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.483655,
+            48.9977966
+          ],
+          [
+            8.4837304,
+            48.9977728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39690211",
+      "properties": {
+        "@id": "way/39690211",
+        "gauge": "1200",
+        "name": "Schlossbergbahn",
+        "note": "Das Ding ist eigentlich keine Standseilbahn, sondern ein Schrägaufzug. highway=elevator wird aber bislang wohl nur für vertikale Aufzüge benutzt.",
+        "railway": "funicular",
+        "wikipedia": "de:Schlossbergbahn (Freiburg im Breisgau)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8574144,
+            47.9971536
+          ],
+          [
+            7.8575053,
+            47.9971191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42156823",
+      "properties": {
+        "@id": "way/42156823",
+        "gauge": "1200",
+        "name": "Schlossbergbahn",
+        "note": "Das Ding ist eigentlich keine Standseilbahn, sondern ein Schrägaufzug. highway=elevator wird aber bislang wohl nur für vertikale Aufzüge benutzt.",
+        "railway": "funicular",
+        "wikipedia": "de:Schlossbergbahn (Freiburg im Breisgau)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.860247,
+            47.9961215
+          ],
+          [
+            7.8602953,
+            47.9961031
+          ],
+          [
+            7.8603265,
+            47.9960913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42156825",
+      "properties": {
+        "@id": "way/42156825",
+        "bridge": "yes",
+        "gauge": "1200",
+        "incline": "up",
+        "layer": "1",
+        "name": "Schlossbergbahn",
+        "note": "Die Position ist wohl noch nicht ganz korrekt. Das Ding ist eigentlich keine Standseilbahn, sondern ein Schrägaufzug. highway=elevator wird aber bislang wohl nur für vertikale Aufzüge benutzt.",
+        "railway": "funicular",
+        "start_date": "2008",
+        "wikipedia": "de:Schlossbergbahn (Freiburg im Breisgau)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8575053,
+            47.9971191
+          ],
+          [
+            7.860247,
+            47.9961215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/103187218",
+      "properties": {
+        "@id": "way/103187218",
+        "FIXME": "Typ korrekt?",
+        "detail": "line",
+        "layer": "-1",
+        "maxspeed": "48",
+        "name": "Skymetro",
+        "note": "Luftkissenbahn",
+        "operator": "Flughafen Zürich",
+        "railway": "funicular",
+        "source": "GIS ZH & Bing & Wikipedia",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5602039,
+            47.4512177
+          ],
+          [
+            8.5601879,
+            47.451329
+          ],
+          [
+            8.560162,
+            47.4513997
+          ],
+          [
+            8.5601295,
+            47.4514904
+          ],
+          [
+            8.560127,
+            47.4515955
+          ],
+          [
+            8.5602476,
+            47.4523899
+          ],
+          [
+            8.5605914,
+            47.4547741
+          ],
+          [
+            8.5605889,
+            47.4551731
+          ],
+          [
+            8.5605414,
+            47.455502
+          ],
+          [
+            8.5604189,
+            47.4557747
+          ],
+          [
+            8.5602365,
+            47.4560922
+          ],
+          [
+            8.5600707,
+            47.4563144
+          ],
+          [
+            8.5563887,
+            47.4605894
+          ],
+          [
+            8.5562603,
+            47.4606952
+          ],
+          [
+            8.5561388,
+            47.4607691
+          ],
+          [
+            8.5559834,
+            47.4608463
+          ],
+          [
+            8.5557915,
+            47.4609119
+          ],
+          [
+            8.5555195,
+            47.4609694
+          ],
+          [
+            8.5545361,
+            47.4610597
+          ],
+          [
+            8.5533251,
+            47.4611458
+          ],
+          [
+            8.5518672,
+            47.461266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/126794533",
+      "properties": {
+        "@id": "way/126794533",
+        "fixme": "Vorher war hier \"railway=narrow_gauge, rack=yes\" getaggt. Das Ganze sieht aber eher nach Schrägaufzug aus.",
+        "railway": "funicular",
+        "source:position": "Bing",
+        "usage": "goods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8652862,
+            47.9927607
+          ],
+          [
+            7.8651782,
+            47.9920121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154275890",
+      "properties": {
+        "@id": "way/154275890",
+        "name": "Poma 2000",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6238995,
+            49.5657859
+          ],
+          [
+            3.6238252,
+            49.5657962
+          ],
+          [
+            3.6236093,
+            49.5658364
+          ],
+          [
+            3.6234984,
+            49.5658536
+          ],
+          [
+            3.6233371,
+            49.5658738
+          ],
+          [
+            3.6231743,
+            49.5658806
+          ],
+          [
+            3.6229996,
+            49.5658801
+          ],
+          [
+            3.6228157,
+            49.5658634
+          ],
+          [
+            3.6226156,
+            49.5658306
+          ],
+          [
+            3.6218527,
+            49.5656224
+          ],
+          [
+            3.6207886,
+            49.5653179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154275892",
+      "properties": {
+        "@id": "way/154275892",
+        "name": "Poma 2000",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6245098,
+            49.5657388
+          ],
+          [
+            3.6243764,
+            49.5657467
+          ],
+          [
+            3.6240022,
+            49.5657779
+          ],
+          [
+            3.6238995,
+            49.5657859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160098494",
+      "properties": {
+        "@id": "way/160098494",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "Poma 2000",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6285729,
+            49.5665447
+          ],
+          [
+            3.6280399,
+            49.5661561
+          ],
+          [
+            3.6279457,
+            49.5660935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160098496",
+      "properties": {
+        "@id": "way/160098496",
+        "name": "Poma 2000",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6279457,
+            49.5660935
+          ],
+          [
+            3.6278956,
+            49.5660619
+          ],
+          [
+            3.6277992,
+            49.5660106
+          ],
+          [
+            3.6276311,
+            49.5659347
+          ],
+          [
+            3.6273875,
+            49.565834
+          ],
+          [
+            3.6272927,
+            49.5657982
+          ],
+          [
+            3.6272065,
+            49.5657694
+          ],
+          [
+            3.6270644,
+            49.565732
+          ],
+          [
+            3.626915,
+            49.5656973
+          ],
+          [
+            3.6268483,
+            49.5656845
+          ],
+          [
+            3.6267757,
+            49.5656705
+          ],
+          [
+            3.6266889,
+            49.5656573
+          ],
+          [
+            3.6265998,
+            49.5656441
+          ],
+          [
+            3.6264789,
+            49.5656301
+          ],
+          [
+            3.6263108,
+            49.5656164
+          ],
+          [
+            3.6261104,
+            49.5656066
+          ],
+          [
+            3.6259521,
+            49.5656074
+          ],
+          [
+            3.6257798,
+            49.5656117
+          ],
+          [
+            3.6255568,
+            49.5656257
+          ],
+          [
+            3.625237,
+            49.5656595
+          ],
+          [
+            3.6249022,
+            49.5657042
+          ],
+          [
+            3.624699,
+            49.5657224
+          ],
+          [
+            3.6245098,
+            49.5657388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160098497",
+      "properties": {
+        "@id": "way/160098497",
+        "name": "Poma 2000",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.630018,
+            49.5676202
+          ],
+          [
+            3.6289006,
+            49.5667829
+          ],
+          [
+            3.6285729,
+            49.5665447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160100663",
+      "properties": {
+        "@id": "way/160100663",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "Poma 2000",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6269358,
+            49.5706185
+          ],
+          [
+            3.6270429,
+            49.5706369
+          ],
+          [
+            3.6271345,
+            49.5706468
+          ],
+          [
+            3.6272838,
+            49.5706563
+          ],
+          [
+            3.6274265,
+            49.5706615
+          ],
+          [
+            3.6280536,
+            49.57066
+          ],
+          [
+            3.6284189,
+            49.5706537
+          ],
+          [
+            3.6284816,
+            49.5706511
+          ],
+          [
+            3.6285437,
+            49.5706446
+          ],
+          [
+            3.6285916,
+            49.5706335
+          ],
+          [
+            3.6286651,
+            49.5706125
+          ],
+          [
+            3.629037,
+            49.5704654
+          ],
+          [
+            3.6291563,
+            49.5704169
+          ],
+          [
+            3.6292172,
+            49.5703897
+          ],
+          [
+            3.6292758,
+            49.570362
+          ],
+          [
+            3.6293429,
+            49.5703265
+          ],
+          [
+            3.6293979,
+            49.5702954
+          ],
+          [
+            3.6294454,
+            49.5702627
+          ],
+          [
+            3.6294969,
+            49.5702268
+          ],
+          [
+            3.6295477,
+            49.5701817
+          ],
+          [
+            3.6295986,
+            49.570134
+          ],
+          [
+            3.6296431,
+            49.5700823
+          ],
+          [
+            3.6301701,
+            49.5692665
+          ],
+          [
+            3.6302784,
+            49.5690872
+          ],
+          [
+            3.6303414,
+            49.5689745
+          ],
+          [
+            3.6305773,
+            49.5685313
+          ],
+          [
+            3.6306117,
+            49.5684337
+          ],
+          [
+            3.6306208,
+            49.5683677
+          ],
+          [
+            3.6306192,
+            49.5683094
+          ],
+          [
+            3.6306056,
+            49.5682562
+          ],
+          [
+            3.6305854,
+            49.5681988
+          ],
+          [
+            3.6305604,
+            49.5681494
+          ],
+          [
+            3.6305251,
+            49.5680971
+          ],
+          [
+            3.630335,
+            49.567886
+          ],
+          [
+            3.630018,
+            49.5676202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165824666",
+      "properties": {
+        "@id": "way/165824666",
+        "covered": "yes",
+        "name": "Poma 2000",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6207886,
+            49.5653179
+          ],
+          [
+            3.620763,
+            49.5653106
+          ],
+          [
+            3.6205537,
+            49.5652507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167037989",
+      "properties": {
+        "@id": "way/167037989",
+        "access": "private",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0349574,
+            47.396377
+          ],
+          [
+            8.0349065,
+            47.396708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175879582",
+      "properties": {
+        "@id": "way/175879582",
+        "note": "Seilbahn für die Wartung der Druckrohre",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.353307,
+            48.6680344
+          ],
+          [
+            8.3532028,
+            48.6680165
+          ],
+          [
+            8.3530123,
+            48.6679822
+          ],
+          [
+            8.3440557,
+            48.6660883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/216248416",
+      "properties": {
+        "@id": "way/216248416",
+        "FIXME": "Typ korrekt?",
+        "detail": "line",
+        "layer": "-1",
+        "maxspeed": "48",
+        "name": "Skymetro",
+        "note": "Luftkissenbahn",
+        "operator": "Flughafen Zürich",
+        "railway": "funicular",
+        "source": "GIS ZH & Bing & Wikipedia",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5602039,
+            47.4512177
+          ],
+          [
+            8.560146,
+            47.4508125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/216248417",
+      "properties": {
+        "@id": "way/216248417",
+        "FIXME": "Typ korrekt?",
+        "detail": "line",
+        "layer": "-1",
+        "maxspeed": "48",
+        "name": "Skymetro",
+        "note": "Luftkissenbahn",
+        "operator": "Flughafen Zürich",
+        "railway": "funicular",
+        "source": "GIS ZH & Bing & Wikipedia",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5602039,
+            47.4512177
+          ],
+          [
+            8.5602523,
+            47.4513261
+          ],
+          [
+            8.5602993,
+            47.4513911
+          ],
+          [
+            8.5603503,
+            47.4514744
+          ],
+          [
+            8.5603712,
+            47.4515684
+          ],
+          [
+            8.5604707,
+            47.4523774
+          ],
+          [
+            8.5606691,
+            47.4535276
+          ],
+          [
+            8.5606691,
+            47.4536791
+          ],
+          [
+            8.5606607,
+            47.453822
+          ],
+          [
+            8.5606691,
+            47.4540078
+          ],
+          [
+            8.5607775,
+            47.4547683
+          ],
+          [
+            8.5607749,
+            47.4551795
+          ],
+          [
+            8.5607247,
+            47.4555266
+          ],
+          [
+            8.5605948,
+            47.4558158
+          ],
+          [
+            8.5604066,
+            47.4561434
+          ],
+          [
+            8.5602342,
+            47.4563745
+          ],
+          [
+            8.5565419,
+            47.4606614
+          ],
+          [
+            8.5563951,
+            47.4607824
+          ],
+          [
+            8.5562563,
+            47.4608668
+          ],
+          [
+            8.5560811,
+            47.4609539
+          ],
+          [
+            8.5558616,
+            47.4610289
+          ],
+          [
+            8.5555578,
+            47.4610931
+          ],
+          [
+            8.554552,
+            47.4611826
+          ],
+          [
+            8.5533482,
+            47.4612706
+          ],
+          [
+            8.5528134,
+            47.4613145
+          ],
+          [
+            8.5518883,
+            47.4613918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/216248418",
+      "properties": {
+        "@id": "way/216248418",
+        "FIXME": "Typ korrekt?",
+        "detail": "line",
+        "layer": "-1",
+        "maxspeed": "48",
+        "name": "Skymetro",
+        "note": "Luftkissenbahn",
+        "operator": "Flughafen Zürich",
+        "railway": "funicular",
+        "source": "GIS ZH & Bing & Wikipedia",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5533251,
+            47.4611458
+          ],
+          [
+            8.5531961,
+            47.4611776
+          ],
+          [
+            8.5531124,
+            47.4612059
+          ],
+          [
+            8.5530423,
+            47.4612426
+          ],
+          [
+            8.5529784,
+            47.4612722
+          ],
+          [
+            8.5529031,
+            47.4612989
+          ],
+          [
+            8.5528134,
+            47.4613145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234346550",
+      "properties": {
+        "@id": "way/234346550",
+        "gauge": "1000",
+        "name": "Sommerbergbahn",
+        "railway": "funicular",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.543525,
+            48.7502209
+          ],
+          [
+            8.5396059,
+            48.7506591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234346551",
+      "properties": {
+        "@id": "way/234346551",
+        "gauge": "1000",
+        "name": "Sommerbergbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5447608,
+            48.7501718
+          ],
+          [
+            8.5440957,
+            48.7501936
+          ],
+          [
+            8.543525,
+            48.7502209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234346552",
+      "properties": {
+        "@id": "way/234346552",
+        "gauge": "1000",
+        "name": "Sommerbergbahn",
+        "railway": "funicular",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.543525,
+            48.7502209
+          ],
+          [
+            8.5439407,
+            48.7501684
+          ],
+          [
+            8.5440871,
+            48.7501626
+          ],
+          [
+            8.5443763,
+            48.7501551
+          ],
+          [
+            8.5447608,
+            48.7501718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308882944",
+      "properties": {
+        "@id": "way/308882944",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "Polybahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5451148,
+            47.3765429
+          ],
+          [
+            8.5448692,
+            47.3765269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308882946",
+      "properties": {
+        "@id": "way/308882946",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "Polybahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5448692,
+            47.3765269
+          ],
+          [
+            8.5451181,
+            47.3765258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308882949",
+      "properties": {
+        "@id": "way/308882949",
+        "name": "Polybahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.545775,
+            47.3766643
+          ],
+          [
+            8.5463178,
+            47.3768355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308882959",
+      "properties": {
+        "@id": "way/308882959",
+        "name": "Polybahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.545775,
+            47.3766643
+          ],
+          [
+            8.5455716,
+            47.3766052
+          ],
+          [
+            8.5454443,
+            47.3765811
+          ],
+          [
+            8.5453067,
+            47.3765637
+          ],
+          [
+            8.5451148,
+            47.3765429
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312262905",
+      "properties": {
+        "@id": "way/312262905",
+        "name": "Seilbahn Rigiblick",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5507275,
+            47.3866183
+          ],
+          [
+            8.5509886,
+            47.386747
+          ],
+          [
+            8.5511353,
+            47.3868014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312262906",
+      "properties": {
+        "@id": "way/312262906",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "Seilbahn Rigiblick",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5511353,
+            47.3868014
+          ],
+          [
+            8.5516934,
+            47.3869621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/334709716",
+      "properties": {
+        "@id": "way/334709716",
+        "bicycle": "no",
+        "name": "Funiculaire de Montmartre",
+        "operator": "RATP",
+        "railway": "funicular",
+        "wheelchair": "yes",
+        "wikipedia": "fr:Funiculaire de Montmartre",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 224208,
+            "reltags": {
+              "bicycle": "no",
+              "colour": "#622282",
+              "duration": "00:01:30",
+              "name": "Funiculaire de Montmartre",
+              "network": "RATP",
+              "opening_hours": "Mo-Su 06:00-00:45",
+              "operator": "RATP",
+              "railway": "funicular",
+              "ref": "Funiculaire",
+              "ref:FR:STIF": "1001101000001",
+              "ref:colour": "Wikipédia",
+              "ref:structurae": "10000562",
+              "source:ref": "OpenData RATP (Fichier Accessibilité des lignes du réseau de surface RATP)",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3426225,
+            48.8846915
+          ],
+          [
+            2.3426153,
+            48.8847543
+          ],
+          [
+            2.3425176,
+            48.8856159
+          ],
+          [
+            2.3425129,
+            48.8856575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371970572",
+      "properties": {
+        "@id": "way/371970572",
+        "bridge": "yes",
+        "gauge": "1000",
+        "incline": "up",
+        "layer": "1",
+        "name": "Turmbergbahn",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH",
+        "railway": "funicular",
+        "railway:ballastless": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4827098,
+            48.9980931
+          ],
+          [
+            8.4828142,
+            48.998061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371970573",
+      "properties": {
+        "@id": "way/371970573",
+        "bridge": "yes",
+        "gauge": "1000",
+        "incline": "up",
+        "layer": "1",
+        "name": "Turmbergbahn",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH",
+        "railway": "funicular",
+        "railway:ballastless": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4835477,
+            48.9978227
+          ],
+          [
+            8.483655,
+            48.9977966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371970574",
+      "properties": {
+        "@id": "way/371970574",
+        "bridge": "yes",
+        "gauge": "1000",
+        "incline": "up",
+        "layer": "1",
+        "name": "Turmbergbahn",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH",
+        "railway": "funicular",
+        "railway:ballastless": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4835552,
+            48.9978323
+          ],
+          [
+            8.483655,
+            48.9977966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371970575",
+      "properties": {
+        "@id": "way/371970575",
+        "gauge": "1000",
+        "incline": "up",
+        "name": "Turmbergbahn",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH",
+        "railway": "funicular",
+        "railway:ballastless": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4828142,
+            48.998061
+          ],
+          [
+            8.4828723,
+            48.9980444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371970576",
+      "properties": {
+        "@id": "way/371970576",
+        "covered": "yes",
+        "gauge": "1000",
+        "incline": "up",
+        "indoor": "yes",
+        "level": "0",
+        "name": "Turmbergbahn",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH",
+        "railway": "funicular",
+        "railway:ballastless": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4849682,
+            48.9973649
+          ],
+          [
+            8.4850502,
+            48.9973343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371970577",
+      "properties": {
+        "@id": "way/371970577",
+        "gauge": "1000",
+        "incline": "up",
+        "name": "Turmbergbahn",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH",
+        "railway": "funicular",
+        "railway:ballastless": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4815393,
+            48.9984176
+          ],
+          [
+            8.4824693,
+            48.998167
+          ],
+          [
+            8.4827098,
+            48.9980931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371970578",
+      "properties": {
+        "@id": "way/371970578",
+        "gauge": "1000",
+        "incline": "up",
+        "name": "Turmbergbahn",
+        "operator": "Verkehrsbetriebe Karlsruhe GmbH",
+        "railway": "funicular",
+        "railway:ballastless": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4837304,
+            48.9977728
+          ],
+          [
+            8.4839638,
+            48.9976989
+          ],
+          [
+            8.4843349,
+            48.9975844
+          ],
+          [
+            8.4846164,
+            48.9974935
+          ],
+          [
+            8.4849682,
+            48.9973649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29403578",
+      "properties": {
+        "@id": "way/29403578",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 224208,
+            "reltags": {
+              "bicycle": "no",
+              "colour": "#622282",
+              "duration": "00:01:30",
+              "name": "Funiculaire de Montmartre",
+              "network": "RATP",
+              "opening_hours": "Mo-Su 06:00-00:45",
+              "operator": "RATP",
+              "railway": "funicular",
+              "ref": "Funiculaire",
+              "ref:FR:STIF": "1001101000001",
+              "ref:colour": "Wikipédia",
+              "ref:structurae": "10000562",
+              "source:ref": "OpenData RATP (Fichier Accessibilité des lignes du réseau de surface RATP)",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3426992,
+            48.8846951
+          ],
+          [
+            2.342692,
+            48.8847584
+          ],
+          [
+            2.3425943,
+            48.8856199
+          ],
+          [
+            2.3425898,
+            48.8856599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/334709716",
+      "properties": {
+        "@id": "way/334709716",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 224208,
+            "reltags": {
+              "bicycle": "no",
+              "colour": "#622282",
+              "duration": "00:01:30",
+              "name": "Funiculaire de Montmartre",
+              "network": "RATP",
+              "opening_hours": "Mo-Su 06:00-00:45",
+              "operator": "RATP",
+              "railway": "funicular",
+              "ref": "Funiculaire",
+              "ref:FR:STIF": "1001101000001",
+              "ref:colour": "Wikipédia",
+              "ref:structurae": "10000562",
+              "source:ref": "OpenData RATP (Fichier Accessibilité des lignes du réseau de surface RATP)",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3426225,
+            48.8846915
+          ],
+          [
+            2.3426153,
+            48.8847543
+          ],
+          [
+            2.3425176,
+            48.8856159
+          ],
+          [
+            2.3425129,
+            48.8856575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1507214977",
+      "properties": {
+        "@id": "node/1507214977",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 224208,
+            "reltags": {
+              "bicycle": "no",
+              "colour": "#622282",
+              "duration": "00:01:30",
+              "name": "Funiculaire de Montmartre",
+              "network": "RATP",
+              "opening_hours": "Mo-Su 06:00-00:45",
+              "operator": "RATP",
+              "railway": "funicular",
+              "ref": "Funiculaire",
+              "ref:FR:STIF": "1001101000001",
+              "ref:colour": "Wikipédia",
+              "ref:structurae": "10000562",
+              "source:ref": "OpenData RATP (Fichier Accessibilité des lignes du réseau de surface RATP)",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3426992,
+          48.8846951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1507214979",
+      "properties": {
+        "@id": "node/1507214979",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 224208,
+            "reltags": {
+              "bicycle": "no",
+              "colour": "#622282",
+              "duration": "00:01:30",
+              "name": "Funiculaire de Montmartre",
+              "network": "RATP",
+              "opening_hours": "Mo-Su 06:00-00:45",
+              "operator": "RATP",
+              "railway": "funicular",
+              "ref": "Funiculaire",
+              "ref:FR:STIF": "1001101000001",
+              "ref:colour": "Wikipédia",
+              "ref:structurae": "10000562",
+              "source:ref": "OpenData RATP (Fichier Accessibilité des lignes du réseau de surface RATP)",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3425898,
+          48.8856599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3417692496",
+      "properties": {
+        "@id": "node/3417692496",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 224208,
+            "reltags": {
+              "bicycle": "no",
+              "colour": "#622282",
+              "duration": "00:01:30",
+              "name": "Funiculaire de Montmartre",
+              "network": "RATP",
+              "opening_hours": "Mo-Su 06:00-00:45",
+              "operator": "RATP",
+              "railway": "funicular",
+              "ref": "Funiculaire",
+              "ref:FR:STIF": "1001101000001",
+              "ref:colour": "Wikipédia",
+              "ref:structurae": "10000562",
+              "source:ref": "OpenData RATP (Fichier Accessibilité des lignes du réseau de surface RATP)",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3426225,
+          48.8846915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3417692498",
+      "properties": {
+        "@id": "node/3417692498",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 224208,
+            "reltags": {
+              "bicycle": "no",
+              "colour": "#622282",
+              "duration": "00:01:30",
+              "name": "Funiculaire de Montmartre",
+              "network": "RATP",
+              "opening_hours": "Mo-Su 06:00-00:45",
+              "operator": "RATP",
+              "railway": "funicular",
+              "ref": "Funiculaire",
+              "ref:FR:STIF": "1001101000001",
+              "ref:colour": "Wikipédia",
+              "ref:structurae": "10000562",
+              "source:ref": "OpenData RATP (Fichier Accessibilité des lignes du réseau de surface RATP)",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3425129,
+          48.8856575
+        ]
+      }
+    }
+  ]
+}

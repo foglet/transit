@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:24:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/232252568",
+      "properties": {
+        "@id": "way/232252568",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            99.9351992,
+            13.1090115
+          ],
+          [
+            99.9360883,
+            13.1093928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/243244850",
+      "properties": {
+        "@id": "way/243244850",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.5894225,
+            7.2105506
+          ],
+          [
+            100.5907655,
+            7.2108308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/390456741",
+      "properties": {
+        "@id": "way/390456741",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            99.6055969,
+            13.9537514
+          ],
+          [
+            99.6054642,
+            13.9534483
+          ]
+        ]
+      }
+    }
+  ]
+}

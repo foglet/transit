@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:03:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/4338940",
+      "properties": {
+        "@id": "way/4338940",
+        "electrified": "yes",
+        "gauge": "1520",
+        "maxspeed": "22",
+        "name": "山頂纜車 Peak Tram",
+        "name:en": "Peak Tram",
+        "name:zh": "山頂纜車",
+        "railway": "funicular",
+        "website": "http://www.thepeak.com.hk/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.14999,
+            22.2711364
+          ],
+          [
+            114.1501414,
+            22.271123
+          ],
+          [
+            114.1503039,
+            22.2711097
+          ],
+          [
+            114.1517471,
+            22.2709577
+          ],
+          [
+            114.1534625,
+            22.2707533
+          ],
+          [
+            114.1535337,
+            22.2707494
+          ],
+          [
+            114.1536071,
+            22.2707542
+          ],
+          [
+            114.1536961,
+            22.2707722
+          ],
+          [
+            114.1537996,
+            22.270794
+          ],
+          [
+            114.1538857,
+            22.2708224
+          ],
+          [
+            114.1539661,
+            22.2708634
+          ],
+          [
+            114.1540349,
+            22.2709022
+          ],
+          [
+            114.1541117,
+            22.2709587
+          ],
+          [
+            114.1541655,
+            22.2710027
+          ],
+          [
+            114.1542429,
+            22.2710818
+          ],
+          [
+            114.1548937,
+            22.2719284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/85404052",
+      "properties": {
+        "@id": "way/85404052",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1520",
+        "layer": "1",
+        "maxspeed": "22",
+        "name": "山頂纜車 Peak Tram",
+        "name:en": "Peak Tram",
+        "name:zh": "山頂纜車",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1579775,
+            22.2761984
+          ],
+          [
+            114.1580672,
+            22.27633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/85404150",
+      "properties": {
+        "@id": "way/85404150",
+        "electrified": "yes",
+        "gauge": "1520",
+        "maxspeed": "22",
+        "name": "山頂纜車 Peak Tram",
+        "name:en": "Peak Tram",
+        "name:zh": "山頂纜車",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1580672,
+            22.27633
+          ],
+          [
+            114.1582535,
+            22.2766085
+          ],
+          [
+            114.1587539,
+            22.2773479
+          ],
+          [
+            114.1588164,
+            22.2774223
+          ],
+          [
+            114.1588923,
+            22.2774759
+          ],
+          [
+            114.1590136,
+            22.2775357
+          ],
+          [
+            114.1592155,
+            22.277624
+          ],
+          [
+            114.1592841,
+            22.2776511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/92167201",
+      "properties": {
+        "@id": "way/92167201",
+        "layer": "-1",
+        "name": "海洋列車 Ocean Express",
+        "name:en": "Ocean Express",
+        "name:zh": "海洋列車",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.17591,
+            22.2454781
+          ],
+          [
+            114.1758249,
+            22.2453002
+          ],
+          [
+            114.1738891,
+            22.2411835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250700764",
+      "properties": {
+        "@id": "way/250700764",
+        "layer": "-1",
+        "name": "海洋列車 Ocean Express",
+        "name:en": "Ocean Express",
+        "name:zh": "海洋列車",
+        "oneway": "yes",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1731387,
+            22.2395879
+          ],
+          [
+            114.1732203,
+            22.2399281
+          ],
+          [
+            114.1736654,
+            22.2408874
+          ],
+          [
+            114.1738891,
+            22.2411835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250700765",
+      "properties": {
+        "@id": "way/250700765",
+        "layer": "-1",
+        "name": "海洋列車 Ocean Express",
+        "name:en": "Ocean Express",
+        "name:zh": "海洋列車",
+        "oneway": "yes",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1738891,
+            22.2411835
+          ],
+          [
+            114.1738098,
+            22.2408383
+          ],
+          [
+            114.1733614,
+            22.239872
+          ],
+          [
+            114.1731387,
+            22.2395879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250700766",
+      "properties": {
+        "@id": "way/250700766",
+        "layer": "-1",
+        "name": "海洋列車 Ocean Express",
+        "name:en": "Ocean Express",
+        "name:zh": "海洋列車",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1731387,
+            22.2395879
+          ],
+          [
+            114.1709773,
+            22.2349925
+          ],
+          [
+            114.1708042,
+            22.234621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265943512",
+      "properties": {
+        "@id": "way/265943512",
+        "electrified": "yes",
+        "gauge": "1520",
+        "maxspeed": "22",
+        "name": "山頂纜車 Peak Tram",
+        "name:en": "Peak Tram",
+        "name:zh": "山頂纜車",
+        "oneway": "yes",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1548937,
+            22.2719284
+          ],
+          [
+            114.1553431,
+            22.2725327
+          ],
+          [
+            114.1555295,
+            22.2726797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265943513",
+      "properties": {
+        "@id": "way/265943513",
+        "electrified": "yes",
+        "gauge": "1520",
+        "maxspeed": "22",
+        "name": "山頂纜車 Peak Tram",
+        "name:en": "Peak Tram",
+        "name:zh": "山頂纜車",
+        "oneway": "yes",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1555295,
+            22.2726797
+          ],
+          [
+            114.1550924,
+            22.272079
+          ],
+          [
+            114.1548937,
+            22.2719284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265943515",
+      "properties": {
+        "@id": "way/265943515",
+        "electrified": "yes",
+        "gauge": "1520",
+        "maxspeed": "22",
+        "name": "山頂纜車 Peak Tram",
+        "name:en": "Peak Tram",
+        "name:zh": "山頂纜車",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1555295,
+            22.2726797
+          ],
+          [
+            114.1560636,
+            22.2733954
+          ],
+          [
+            114.1567657,
+            22.2743905
+          ],
+          [
+            114.1573763,
+            22.2752755
+          ],
+          [
+            114.1579775,
+            22.2761984
+          ]
+        ]
+      }
+    }
+  ]
+}

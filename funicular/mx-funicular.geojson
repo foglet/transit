@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:31:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/188924125",
+      "properties": {
+        "@id": "way/188924125",
+        "name": "Funular a Pípila",
+        "name:en": "Funicular to Pípila",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -101.2539032,
+            21.0142963
+          ],
+          [
+            -101.2532568,
+            21.0148947
+          ]
+        ]
+      }
+    }
+  ]
+}

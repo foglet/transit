@@ -1,0 +1,246 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:21:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/38138374",
+      "properties": {
+        "@id": "way/38138374",
+        "railway": "funicular",
+        "wikipedia": "uk:Одеський фунікулер"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7416815,
+            46.488071
+          ],
+          [
+            30.741781,
+            46.488122
+          ],
+          [
+            30.7427609,
+            46.4886262
+          ],
+          [
+            30.7428385,
+            46.4886661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130279870",
+      "properties": {
+        "@id": "way/130279870",
+        "covered": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "name:uk": "Київський фунікулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.524183,
+            50.4585128
+          ],
+          [
+            30.5243611,
+            50.4587362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271173743",
+      "properties": {
+        "@id": "way/271173743",
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "layer": "1",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5232638,
+            50.4573476
+          ],
+          [
+            30.5229865,
+            50.4570121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271173745",
+      "properties": {
+        "@id": "way/271173745",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "layer": "1",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5229865,
+            50.4570121
+          ],
+          [
+            30.5228331,
+            50.4568198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271173747",
+      "properties": {
+        "@id": "way/271173747",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5237997,
+            50.4580269
+          ],
+          [
+            30.5236872,
+            50.457913
+          ],
+          [
+            30.5233406,
+            50.4574737
+          ],
+          [
+            30.5232638,
+            50.4573476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271173749",
+      "properties": {
+        "@id": "way/271173749",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "layer": "1",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5237997,
+            50.4580269
+          ],
+          [
+            30.523725,
+            50.4579009
+          ],
+          [
+            30.5233784,
+            50.4574616
+          ],
+          [
+            30.5232638,
+            50.4573476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271173764",
+      "properties": {
+        "@id": "way/271173764",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5237997,
+            50.4580269
+          ],
+          [
+            30.524183,
+            50.4585128
+          ]
+        ]
+      }
+    }
+  ]
+}

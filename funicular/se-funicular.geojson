@@ -1,0 +1,178 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:22:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/5192207",
+      "properties": {
+        "@id": "way/5192207",
+        "name": "Bergbanan",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0996554,
+            59.3276323
+          ],
+          [
+            18.0999139,
+            59.3276964
+          ],
+          [
+            18.1001942,
+            59.3277473
+          ],
+          [
+            18.1005155,
+            59.3277718
+          ],
+          [
+            18.1007832,
+            59.3277636
+          ],
+          [
+            18.101053,
+            59.3277419
+          ],
+          [
+            18.1029327,
+            59.3274567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38331704",
+      "properties": {
+        "@id": "way/38331704",
+        "layer": "1",
+        "name": "Kiskohissi",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.8031606,
+            63.0958943
+          ],
+          [
+            29.8047874,
+            63.0964331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62061920",
+      "properties": {
+        "@id": "way/62061920",
+        "fee": "no",
+        "name": "Nybohovshissen",
+        "operator": "SL",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wikipedia": "sv:Nybohovshissen"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0201362,
+            59.3098641
+          ],
+          [
+            18.0165774,
+            59.3086394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238911268",
+      "properties": {
+        "@id": "way/238911268",
+        "fee": "no",
+        "incline": "up",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.1599202,
+            59.3177653
+          ],
+          [
+            18.1602521,
+            59.3169889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365533703",
+      "properties": {
+        "@id": "way/365533703",
+        "access": "private",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.3801382,
+            69.9718324
+          ],
+          [
+            23.3800148,
+            69.9718324
+          ],
+          [
+            23.3799102,
+            69.9718324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365534816",
+      "properties": {
+        "@id": "way/365534816",
+        "access": "private",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.2384089,
+            69.9705372
+          ],
+          [
+            23.2387849,
+            69.9706288
+          ],
+          [
+            23.2389189,
+            69.9706619
+          ],
+          [
+            23.2392704,
+            69.9707501
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:18:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/144340188",
+      "properties": {
+        "@id": "way/144340188",
+        "name": "Uspinjača",
+        "operator": "ZET",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.9731024,
+            45.8139504
+          ],
+          [
+            15.9730828,
+            45.8144865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144464067",
+      "properties": {
+        "@id": "way/144464067",
+        "fee": "yes",
+        "name": "Vzpenjača",
+        "name:en": "Ljubljana Castle funicular",
+        "name:sl": "Ljubljanska vzpenjača",
+        "railway": "funicular",
+        "website": "http://www.ljubljanskigrad.si/gremo-na-grad/tirna-vzpenjaca/",
+        "wikipedia": "en:Ljubljana Castle funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.5089868,
+            46.0492808
+          ],
+          [
+            14.5095785,
+            46.0499927
+          ],
+          [
+            14.509692,
+            46.0501346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159064940",
+      "properties": {
+        "@id": "way/159064940",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.9760638,
+            45.8320497
+          ],
+          [
+            15.9758371,
+            45.8320682
+          ],
+          [
+            15.9756073,
+            45.8320855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373928775",
+      "properties": {
+        "@id": "way/373928775",
+        "railway": "funicular",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.7222419,
+            46.477438
+          ],
+          [
+            13.7203306,
+            46.4773485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373928777",
+      "properties": {
+        "@id": "way/373928777",
+        "railway": "funicular",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.7223447,
+            46.4780986
+          ],
+          [
+            13.7202829,
+            46.4778618
+          ]
+        ]
+      }
+    }
+  ]
+}

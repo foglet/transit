@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:29:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/3999468",
+      "properties": {
+        "@id": "way/3999468",
+        "name": "Scenic Railway",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "operator:wikipedia": "en:Katoomba Scenic World",
+        "railway": "funicular",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.3013212,
+            -33.7291815
+          ],
+          [
+            150.3018859,
+            -33.7311947
+          ],
+          [
+            150.3019104,
+            -33.7312856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336643745",
+      "properties": {
+        "@id": "way/336643745",
+        "name": "The Inclinator",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.121309,
+            -41.4456344
+          ],
+          [
+            147.1209932,
+            -41.4458465
+          ]
+        ]
+      }
+    }
+  ]
+}

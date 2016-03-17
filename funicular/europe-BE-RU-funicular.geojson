@@ -1,0 +1,2661 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:06:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/3498300",
+      "properties": {
+        "@id": "way/3498300",
+        "layer": "-1",
+        "name": "Fløibanen",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3294846,
+            60.3966125
+          ],
+          [
+            5.3310374,
+            60.3963144
+          ],
+          [
+            5.3316037,
+            60.3961777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/5192207",
+      "properties": {
+        "@id": "way/5192207",
+        "name": "Bergbanan",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0996554,
+            59.3276323
+          ],
+          [
+            18.0999139,
+            59.3276964
+          ],
+          [
+            18.1001942,
+            59.3277473
+          ],
+          [
+            18.1005155,
+            59.3277718
+          ],
+          [
+            18.1007832,
+            59.3277636
+          ],
+          [
+            18.101053,
+            59.3277419
+          ],
+          [
+            18.1029327,
+            59.3274567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22926883",
+      "properties": {
+        "@id": "way/22926883",
+        "gauge": "1000",
+        "name": "Standseilbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8188029,
+            51.0585867
+          ],
+          [
+            13.8188263,
+            51.0582591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24567045",
+      "properties": {
+        "@id": "way/24567045",
+        "name": "Aufzug",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6980977,
+            54.3830368
+          ],
+          [
+            13.6982349,
+            54.3832216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24614527",
+      "properties": {
+        "@id": "way/24614527",
+        "gauge": "1000",
+        "name": "Drahtseilbahn Augustusburg",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0844973,
+            50.820702
+          ],
+          [
+            13.0851487,
+            50.8198684
+          ],
+          [
+            13.0855282,
+            50.8193394
+          ],
+          [
+            13.0857458,
+            50.8191643
+          ],
+          [
+            13.085951,
+            50.8190402
+          ],
+          [
+            13.0861539,
+            50.8189377
+          ],
+          [
+            13.0863405,
+            50.8188612
+          ],
+          [
+            13.086573,
+            50.8187847
+          ],
+          [
+            13.0866888,
+            50.8187537
+          ],
+          [
+            13.0867805,
+            50.8187313
+          ],
+          [
+            13.087023,
+            50.8186844
+          ],
+          [
+            13.0872721,
+            50.81866
+          ],
+          [
+            13.0876252,
+            50.8186495
+          ],
+          [
+            13.0877782,
+            50.8186495
+          ],
+          [
+            13.0879221,
+            50.8186545
+          ],
+          [
+            13.0880677,
+            50.81867
+          ],
+          [
+            13.0882239,
+            50.8187005
+          ],
+          [
+            13.0883783,
+            50.8187304
+          ],
+          [
+            13.088488,
+            50.8187545
+          ],
+          [
+            13.0891181,
+            50.818876
+          ],
+          [
+            13.0894419,
+            50.8189505
+          ],
+          [
+            13.08959,
+            50.8189837
+          ],
+          [
+            13.0897582,
+            50.8190085
+          ],
+          [
+            13.0899852,
+            50.8190343
+          ],
+          [
+            13.0901986,
+            50.8190445
+          ],
+          [
+            13.0904306,
+            50.8190437
+          ],
+          [
+            13.0905882,
+            50.819032
+          ],
+          [
+            13.0907504,
+            50.8190152
+          ],
+          [
+            13.0908937,
+            50.8189954
+          ],
+          [
+            13.0913672,
+            50.8189128
+          ],
+          [
+            13.0916141,
+            50.8188815
+          ],
+          [
+            13.0918076,
+            50.818865
+          ],
+          [
+            13.0919528,
+            50.8188556
+          ],
+          [
+            13.0920515,
+            50.8188429
+          ],
+          [
+            13.0929787,
+            50.8187122
+          ],
+          [
+            13.0934009,
+            50.8186585
+          ],
+          [
+            13.0937528,
+            50.8185892
+          ],
+          [
+            13.0938657,
+            50.8185633
+          ],
+          [
+            13.0939674,
+            50.8185312
+          ],
+          [
+            13.094013,
+            50.8185141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30014437",
+      "properties": {
+        "@id": "way/30014437",
+        "name": "33 Bergbanan",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0789825,
+            63.4006452
+          ],
+          [
+            13.0853162,
+            63.402783
+          ],
+          [
+            13.0853959,
+            63.4028097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30014567",
+      "properties": {
+        "@id": "way/30014567",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "33 Bergbanan",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0853959,
+            63.4028097
+          ],
+          [
+            13.0857107,
+            63.4029189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30014568",
+      "properties": {
+        "@id": "way/30014568",
+        "name": "33 Bergbanan",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0857107,
+            63.4029189
+          ],
+          [
+            13.0870339,
+            63.4033601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38331704",
+      "properties": {
+        "@id": "way/38331704",
+        "layer": "1",
+        "name": "Kiskohissi",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.8031606,
+            63.0958943
+          ],
+          [
+            29.8047874,
+            63.0964331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40513037",
+      "properties": {
+        "@id": "way/40513037",
+        "name": "Peterskopfbahn",
+        "note": "ab 5.5.2014 bis Ende 2014 außer Betrieb",
+        "railway": "funicular",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0353256,
+            51.16172
+          ],
+          [
+            9.0380929,
+            51.1618677
+          ],
+          [
+            9.0382983,
+            51.1618966
+          ],
+          [
+            9.0384622,
+            51.1619354
+          ],
+          [
+            9.0387046,
+            51.162026
+          ],
+          [
+            9.038993,
+            51.1621367
+          ],
+          [
+            9.0454868,
+            51.1655553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43268290",
+      "properties": {
+        "@id": "way/43268290",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Standseilbahn",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8188263,
+            51.0582591
+          ],
+          [
+            13.818752,
+            51.0578217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43268295",
+      "properties": {
+        "@id": "way/43268295",
+        "gauge": "1000",
+        "name": "Standseilbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.818752,
+            51.0578217
+          ],
+          [
+            13.8186632,
+            51.0576601
+          ],
+          [
+            13.8185409,
+            51.0575183
+          ],
+          [
+            13.8183939,
+            51.0574051
+          ],
+          [
+            13.8183323,
+            51.0573577
+          ],
+          [
+            13.8175308,
+            51.0568954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43268312",
+      "properties": {
+        "@id": "way/43268312",
+        "gauge": "1000",
+        "name": "Standseilbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8163342,
+            51.0560623
+          ],
+          [
+            13.8161758,
+            51.0557893
+          ],
+          [
+            13.8161203,
+            51.0556079
+          ],
+          [
+            13.8160793,
+            51.0553224
+          ],
+          [
+            13.8159634,
+            51.0550831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43268313",
+      "properties": {
+        "@id": "way/43268313",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "name": "Standseilbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8175308,
+            51.0568954
+          ],
+          [
+            13.8173645,
+            51.0567799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62061920",
+      "properties": {
+        "@id": "way/62061920",
+        "fee": "no",
+        "name": "Nybohovshissen",
+        "operator": "SL",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wikipedia": "sv:Nybohovshissen"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.0201362,
+            59.3098641
+          ],
+          [
+            18.0165774,
+            59.3086394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74489407",
+      "properties": {
+        "@id": "way/74489407",
+        "historic": "yes",
+        "name": "Žaliakalnio funikulierius",
+        "name:en": "Žaliakalnis Funicular Railway",
+        "name:eo": "Funikularo Žaliakalnis en Kaŭno",
+        "name:hr": "Žaliakalnska uspinjača",
+        "name:lt": "Žaliakalnio funikulierius",
+        "name:pl": "Kolej Linowa na Zielonej Górze",
+        "railway": "funicular",
+        "wikipedia": "lt:Žaliakalnio funikulierius"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9176483,
+            54.9008044
+          ],
+          [
+            23.9180375,
+            54.9019488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87195107",
+      "properties": {
+        "@id": "way/87195107",
+        "historic": "yes",
+        "name": "Aleksoto funikulierius",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8870092,
+            54.8910654
+          ],
+          [
+            23.8877411,
+            54.8920897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96193450",
+      "properties": {
+        "@id": "way/96193450",
+        "name": "Le Funiculaire de Spa",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.8637444,
+            50.4941726
+          ],
+          [
+            5.8630944,
+            50.493328
+          ],
+          [
+            5.8629113,
+            50.4930725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97422851",
+      "properties": {
+        "@id": "way/97422851",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6121781,
+            51.2754094
+          ],
+          [
+            8.6155907,
+            51.2741434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/106830035",
+      "properties": {
+        "@id": "way/106830035",
+        "incline": "up",
+        "railway": "funicular",
+        "traffic_mode": "freight",
+        "usage": "goods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2337507,
+            50.6673798
+          ],
+          [
+            11.2326621,
+            50.6679784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123614277",
+      "properties": {
+        "@id": "way/123614277",
+        "disused": "yes",
+        "name:no": "Mågelibanen",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6338278,
+            60.1400725
+          ],
+          [
+            6.629049,
+            60.1351934
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123614278",
+      "properties": {
+        "@id": "way/123614278",
+        "layer": "1",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.629049,
+            60.1351934
+          ],
+          [
+            6.6289943,
+            60.1351375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123614279",
+      "properties": {
+        "@id": "way/123614279",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6289943,
+            60.1351375
+          ],
+          [
+            6.6271451,
+            60.1332493
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128630641",
+      "properties": {
+        "@id": "way/128630641",
+        "fixme": "yes",
+        "layer": "-1",
+        "railway": "funicular",
+        "source": "Bing",
+        "usage": "industrial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.43007,
+            59.01473
+          ],
+          [
+            6.4300842,
+            59.0147127
+          ],
+          [
+            6.4299966,
+            59.0145943
+          ],
+          [
+            6.4301449,
+            59.0143543
+          ],
+          [
+            6.4327419,
+            59.0112379
+          ],
+          [
+            6.4332364,
+            59.010903
+          ],
+          [
+            6.4341743,
+            59.0105682
+          ],
+          [
+            6.4346088,
+            59.0101825
+          ],
+          [
+            6.4350314,
+            59.0099649
+          ],
+          [
+            6.4358315,
+            59.0097474
+          ],
+          [
+            6.4366886,
+            59.0093554
+          ],
+          [
+            6.4369163,
+            59.0093184
+          ],
+          [
+            6.4377464,
+            59.0090823
+          ],
+          [
+            6.4383457,
+            59.0088833
+          ],
+          [
+            6.438978,
+            59.0087537
+          ],
+          [
+            6.4391399,
+            59.0087506
+          ],
+          [
+            6.4394845,
+            59.008658
+          ],
+          [
+            6.4400059,
+            59.0084019
+          ],
+          [
+            6.4408749,
+            59.0082969
+          ],
+          [
+            6.4416883,
+            59.0079014
+          ],
+          [
+            6.4424944,
+            59.0077348
+          ],
+          [
+            6.4430069,
+            59.0075589
+          ],
+          [
+            6.4434534,
+            59.0075805
+          ],
+          [
+            6.4440797,
+            59.00767
+          ],
+          [
+            6.4445831,
+            59.0076978
+          ],
+          [
+            6.4458777,
+            59.0077811
+          ],
+          [
+            6.4468486,
+            59.0077996
+          ],
+          [
+            6.4478855,
+            59.0080295
+          ],
+          [
+            6.4481367,
+            59.0080911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130279870",
+      "properties": {
+        "@id": "way/130279870",
+        "covered": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "name:uk": "Київський фунікулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.524183,
+            50.4585128
+          ],
+          [
+            30.5243611,
+            50.4587362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/138775779",
+      "properties": {
+        "@id": "way/138775779",
+        "bridge": "yes",
+        "gauge": "1800",
+        "layer": "1",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1321271,
+            50.5928145
+          ],
+          [
+            11.1321435,
+            50.5927622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/138775780",
+      "properties": {
+        "@id": "way/138775780",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1321435,
+            50.5927622
+          ],
+          [
+            11.1321737,
+            50.5926657
+          ],
+          [
+            11.1323451,
+            50.5921188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/139012967",
+      "properties": {
+        "@id": "way/139012967",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1334522,
+            50.603693
+          ],
+          [
+            11.1333723,
+            50.6035917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/139058846",
+      "properties": {
+        "@id": "way/139058846",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.132965,
+            50.6031085
+          ],
+          [
+            11.1333628,
+            50.6034706
+          ],
+          [
+            11.1335912,
+            50.6036266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143028271",
+      "properties": {
+        "@id": "way/143028271",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1314741,
+            50.5949305
+          ],
+          [
+            11.1321271,
+            50.5928145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143028272",
+      "properties": {
+        "@id": "way/143028272",
+        "bridge": "yes",
+        "gauge": "1800",
+        "layer": "1",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.131458,
+            50.5949818
+          ],
+          [
+            11.1314741,
+            50.5949305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143054945",
+      "properties": {
+        "@id": "way/143054945",
+        "disused": "yes",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7218955,
+            50.6884024
+          ],
+          [
+            5.7218536,
+            50.6872549
+          ],
+          [
+            5.7218517,
+            50.6870007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143286422",
+      "properties": {
+        "@id": "way/143286422",
+        "layer": "1",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4487557,
+            50.3827943
+          ],
+          [
+            12.4485595,
+            50.382934
+          ],
+          [
+            12.4485417,
+            50.3831784
+          ],
+          [
+            12.4484284,
+            50.3832583
+          ],
+          [
+            12.4481992,
+            50.3832914
+          ],
+          [
+            12.4481236,
+            50.3833577
+          ],
+          [
+            12.4482063,
+            50.3834631
+          ],
+          [
+            12.4484732,
+            50.3834661
+          ],
+          [
+            12.4488063,
+            50.3836137
+          ],
+          [
+            12.4488299,
+            50.3836635
+          ],
+          [
+            12.4487945,
+            50.3837207
+          ],
+          [
+            12.4483386,
+            50.3839255
+          ],
+          [
+            12.4483221,
+            50.3841997
+          ],
+          [
+            12.448674,
+            50.384403
+          ],
+          [
+            12.4486693,
+            50.3844452
+          ],
+          [
+            12.4485087,
+            50.3845566
+          ],
+          [
+            12.4485158,
+            50.384635
+          ],
+          [
+            12.4485795,
+            50.3846621
+          ],
+          [
+            12.4486628,
+            50.3846391
+          ],
+          [
+            12.4487886,
+            50.3845506
+          ],
+          [
+            12.4489043,
+            50.3845747
+          ],
+          [
+            12.4489374,
+            50.3846289
+          ],
+          [
+            12.4487658,
+            50.3849536
+          ],
+          [
+            12.4485621,
+            50.3852028
+          ],
+          [
+            12.4486431,
+            50.3852704
+          ],
+          [
+            12.4487709,
+            50.3852757
+          ],
+          [
+            12.4490286,
+            50.3852067
+          ],
+          [
+            12.4492907,
+            50.385131
+          ],
+          [
+            12.4493139,
+            50.3850559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143286426",
+      "properties": {
+        "@id": "way/143286426",
+        "layer": "1",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4493139,
+            50.3850559
+          ],
+          [
+            12.4489298,
+            50.3826787
+          ],
+          [
+            12.4487557,
+            50.3827943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156867970",
+      "properties": {
+        "@id": "way/156867970",
+        "fixme": "yes",
+        "name": "Gaustabanen",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6565911,
+            59.8516468
+          ],
+          [
+            8.6697796,
+            59.8531105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157523759",
+      "properties": {
+        "@id": "way/157523759",
+        "bridge": "yes",
+        "layer": "1",
+        "name": "33 Bergbanan",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0870339,
+            63.4033601
+          ],
+          [
+            13.0872815,
+            63.4034448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157523762",
+      "properties": {
+        "@id": "way/157523762",
+        "name": "33 - Bergbanan",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0872815,
+            63.4034448
+          ],
+          [
+            13.08809,
+            63.4037716
+          ],
+          [
+            13.0885156,
+            63.4040057
+          ],
+          [
+            13.0905726,
+            63.4051029
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159209183",
+      "properties": {
+        "@id": "way/159209183",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1305328,
+            50.5986785
+          ],
+          [
+            11.1307264,
+            50.5972835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160708451",
+      "properties": {
+        "@id": "way/160708451",
+        "gauge": "1000",
+        "name": "Standseilbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8150425,
+            51.0543722
+          ],
+          [
+            13.8152453,
+            51.054531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160708452",
+      "properties": {
+        "@id": "way/160708452",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Standseilbahn",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8152453,
+            51.054531
+          ],
+          [
+            13.8154396,
+            51.0546656
+          ],
+          [
+            13.8156627,
+            51.0548164
+          ],
+          [
+            13.8158754,
+            51.0549811
+          ],
+          [
+            13.8159634,
+            51.0550831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160709145",
+      "properties": {
+        "@id": "way/160709145",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "name": "Standseilbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8165615,
+            51.0562846
+          ],
+          [
+            13.8167361,
+            51.0563804
+          ],
+          [
+            13.8169817,
+            51.0565324
+          ],
+          [
+            13.8171751,
+            51.056654
+          ],
+          [
+            13.8173645,
+            51.0567799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/164338996",
+      "properties": {
+        "@id": "way/164338996",
+        "incline": "up",
+        "railway": "funicular",
+        "traffic_mode": "freight",
+        "usage": "goods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2313078,
+            50.6665017
+          ],
+          [
+            11.2312287,
+            50.6676193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297870",
+      "properties": {
+        "@id": "way/165297870",
+        "layer": "-1",
+        "name": "Fløibanen",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3361937,
+            60.3953895
+          ],
+          [
+            5.3366657,
+            60.3953871
+          ],
+          [
+            5.33746,
+            60.3953467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297872",
+      "properties": {
+        "@id": "way/165297872",
+        "name": "Fløibanen",
+        "railway": "funicular",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3316037,
+            60.3961777
+          ],
+          [
+            5.3318637,
+            60.396106
+          ],
+          [
+            5.3327311,
+            60.3958859
+          ],
+          [
+            5.3331689,
+            60.3957817
+          ],
+          [
+            5.333511,
+            60.3957065
+          ],
+          [
+            5.3339079,
+            60.3956264
+          ],
+          [
+            5.3343471,
+            60.3955561
+          ],
+          [
+            5.3346348,
+            60.395519
+          ],
+          [
+            5.3348446,
+            60.395497
+          ],
+          [
+            5.3352549,
+            60.3954716
+          ],
+          [
+            5.3357565,
+            60.3954332
+          ],
+          [
+            5.3361628,
+            60.3954069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297873",
+      "properties": {
+        "@id": "way/165297873",
+        "layer": "-1",
+        "name": "Fløibanen",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3361628,
+            60.3954069
+          ],
+          [
+            5.3366657,
+            60.3953871
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297876",
+      "properties": {
+        "@id": "way/165297876",
+        "name": "Fløibanen",
+        "railway": "funicular",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3348446,
+            60.395497
+          ],
+          [
+            5.3353784,
+            60.3954411
+          ],
+          [
+            5.3356568,
+            60.395414
+          ],
+          [
+            5.3358772,
+            60.3953987
+          ],
+          [
+            5.3361937,
+            60.3953895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297877",
+      "properties": {
+        "@id": "way/165297877",
+        "name": "Fløibanen",
+        "railway": "funicular",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.33746,
+            60.3953467
+          ],
+          [
+            5.3375971,
+            60.3953343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297878",
+      "properties": {
+        "@id": "way/165297878",
+        "name": "Fløibanen",
+        "railway": "funicular",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3375971,
+            60.3953343
+          ],
+          [
+            5.3379458,
+            60.3953066
+          ],
+          [
+            5.3386815,
+            60.3952217
+          ],
+          [
+            5.3391943,
+            60.3951638
+          ],
+          [
+            5.3398965,
+            60.3950743
+          ],
+          [
+            5.3406921,
+            60.3949655
+          ],
+          [
+            5.3417887,
+            60.3948608
+          ],
+          [
+            5.3421777,
+            60.3948223
+          ],
+          [
+            5.3425076,
+            60.3948011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181097611",
+      "properties": {
+        "@id": "way/181097611",
+        "gauge": "1000",
+        "name": "Drahtseilbahn Augustusburg",
+        "railway": "funicular",
+        "website": "http://www.drahtseilbahn-augustusburg.de/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0944445,
+            50.8183482
+          ],
+          [
+            13.096973,
+            50.8172803
+          ],
+          [
+            13.0990474,
+            50.8164023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181097616",
+      "properties": {
+        "@id": "way/181097616",
+        "bridge": "yes",
+        "gauge": "1000",
+        "name": "Drahtseilbahn Augustusburg",
+        "railway": "funicular",
+        "website": "http://www.drahtseilbahn-augustusburg.de/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.094013,
+            50.8185141
+          ],
+          [
+            13.0944445,
+            50.8183482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190663400",
+      "properties": {
+        "@id": "way/190663400",
+        "gauge": "1000",
+        "name": "Drahtseilbahn Augustusburg",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0919528,
+            50.8188556
+          ],
+          [
+            13.0918758,
+            50.8188737
+          ],
+          [
+            13.0917468,
+            50.8188972
+          ],
+          [
+            13.0914987,
+            50.8189348
+          ],
+          [
+            13.0913256,
+            50.8189594
+          ],
+          [
+            13.0911668,
+            50.8189755
+          ],
+          [
+            13.0910396,
+            50.8189838
+          ],
+          [
+            13.0908937,
+            50.8189954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204627276",
+      "properties": {
+        "@id": "way/204627276",
+        "highway": "elevator",
+        "layer": "1",
+        "name": "Panoramaaufzug Burgberg Meißen",
+        "railway": "funicular",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4696445,
+            51.1659991
+          ],
+          [
+            13.4696419,
+            51.1660015
+          ],
+          [
+            13.4692911,
+            51.1663096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/210948076",
+      "properties": {
+        "@id": "way/210948076",
+        "description": "Schrägaufzug",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.7161947,
+            50.5246942
+          ],
+          [
+            11.7152827,
+            50.5249363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/216271600",
+      "properties": {
+        "@id": "way/216271600",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "name": "Standseilbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8165615,
+            51.0562846
+          ],
+          [
+            13.8164714,
+            51.0562
+          ],
+          [
+            13.8163342,
+            51.0560623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/216271601",
+      "properties": {
+        "@id": "way/216271601",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "name": "Standseilbahn",
+        "railway": "funicular",
+        "seamark:landmark:conspicuity": "conspicuous",
+        "seamark:landmark:name": "Standseilbahn",
+        "seamark:type": "landmark"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8173645,
+            51.0567799
+          ],
+          [
+            13.81695,
+            51.0565529
+          ],
+          [
+            13.8166979,
+            51.0563913
+          ],
+          [
+            13.8165615,
+            51.0562846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225972620",
+      "properties": {
+        "@id": "way/225972620",
+        "designation": "Schrägaufzug",
+        "railway": "funicular",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7869057,
+            50.5372214
+          ],
+          [
+            12.7868135,
+            50.5369307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231712230",
+      "properties": {
+        "@id": "way/231712230",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1307264,
+            50.5972835
+          ],
+          [
+            11.131458,
+            50.5949818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231712231",
+      "properties": {
+        "@id": "way/231712231",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1305328,
+            50.5986785
+          ],
+          [
+            11.1305053,
+            50.5982231
+          ],
+          [
+            11.1305841,
+            50.5977251
+          ],
+          [
+            11.1307264,
+            50.5972835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231712232",
+      "properties": {
+        "@id": "way/231712232",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1333723,
+            50.6035917
+          ],
+          [
+            11.132965,
+            50.6031085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238911268",
+      "properties": {
+        "@id": "way/238911268",
+        "fee": "no",
+        "incline": "up",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.1599202,
+            59.3177653
+          ],
+          [
+            18.1602521,
+            59.3169889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/244924557",
+      "properties": {
+        "@id": "way/244924557",
+        "length": "71",
+        "name": "Gedimino kalno funikulierius",
+        "name:de": "Schrägaufzug Gediminas-Berg",
+        "name:en": "Gediminas Hill Funicular Railway",
+        "name:lt": "Gedimino kalno funikulierius",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.2909942,
+            54.6875871
+          ],
+          [
+            25.2912565,
+            54.6871583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/249266714",
+      "properties": {
+        "@id": "way/249266714",
+        "note": "for cargo (private)",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1703045,
+            50.9156156
+          ],
+          [
+            14.1701648,
+            50.9157898
+          ],
+          [
+            14.169875,
+            50.9161795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271173743",
+      "properties": {
+        "@id": "way/271173743",
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "layer": "1",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5232638,
+            50.4573476
+          ],
+          [
+            30.5229865,
+            50.4570121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271173745",
+      "properties": {
+        "@id": "way/271173745",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "layer": "1",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5229865,
+            50.4570121
+          ],
+          [
+            30.5228331,
+            50.4568198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271173747",
+      "properties": {
+        "@id": "way/271173747",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5237997,
+            50.4580269
+          ],
+          [
+            30.5236872,
+            50.457913
+          ],
+          [
+            30.5233406,
+            50.4574737
+          ],
+          [
+            30.5232638,
+            50.4573476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271173749",
+      "properties": {
+        "@id": "way/271173749",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "layer": "1",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5237997,
+            50.4580269
+          ],
+          [
+            30.523725,
+            50.4579009
+          ],
+          [
+            30.5233784,
+            50.4574616
+          ],
+          [
+            30.5232638,
+            50.4573476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271173764",
+      "properties": {
+        "@id": "way/271173764",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1200",
+        "maxspeed": "9",
+        "name": "Київський фунікулер",
+        "name:de": "Standseilbahn Kiew",
+        "name:en": "Kiev Funicular",
+        "name:ru": "Киевский фуникулер",
+        "network": "Київський фунікулер",
+        "railway": "funicular",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5237997,
+            50.4580269
+          ],
+          [
+            30.524183,
+            50.4585128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287281609",
+      "properties": {
+        "@id": "way/287281609",
+        "description": "Schrägaufzug",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.7117347,
+            50.5733607
+          ],
+          [
+            11.7099394,
+            50.5730238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313416094",
+      "properties": {
+        "@id": "way/313416094",
+        "access": "private",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0905492,
+            58.9644736
+          ],
+          [
+            8.0904956,
+            58.9644433
+          ],
+          [
+            8.0904215,
+            58.9644039
+          ],
+          [
+            8.0900587,
+            58.9642422
+          ],
+          [
+            8.0899723,
+            58.9642034
+          ],
+          [
+            8.0899251,
+            58.9641881
+          ],
+          [
+            8.0896229,
+            58.9641065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313424613",
+      "properties": {
+        "@id": "way/313424613",
+        "access": "private",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0882763,
+            58.9635571
+          ],
+          [
+            8.0886385,
+            58.963439
+          ],
+          [
+            8.0887498,
+            58.963401
+          ],
+          [
+            8.0889712,
+            58.9633193
+          ],
+          [
+            8.0889926,
+            58.9633117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314077056",
+      "properties": {
+        "@id": "way/314077056",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.5806063,
+            50.5375116
+          ],
+          [
+            5.5803084,
+            50.5377298
+          ],
+          [
+            5.5802522,
+            50.5377367
+          ],
+          [
+            5.5802174,
+            50.5377401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353862310",
+      "properties": {
+        "@id": "way/353862310",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.132965,
+            50.6031085
+          ],
+          [
+            11.131471,
+            50.6013633
+          ],
+          [
+            11.1309932,
+            50.6006536
+          ],
+          [
+            11.1306653,
+            50.5998709
+          ],
+          [
+            11.1305718,
+            50.5992284
+          ],
+          [
+            11.130533,
+            50.5990047
+          ],
+          [
+            11.1305328,
+            50.5986785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355444054",
+      "properties": {
+        "@id": "way/355444054",
+        "capacity": "12",
+        "distance": "96",
+        "duration": "2m",
+        "layer": "1",
+        "name": "Kolejka na Kamienną Górę",
+        "opening_hours": "10:00-22:00",
+        "railway": "funicular",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.5434602,
+            54.516396
+          ],
+          [
+            18.5439304,
+            54.5157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365177967",
+      "properties": {
+        "@id": "way/365177967",
+        "access": "private",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0625496,
+            58.991498
+          ],
+          [
+            8.0629264,
+            58.9915968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365179084",
+      "properties": {
+        "@id": "way/365179084",
+        "access": "private",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0776918,
+            58.977002
+          ],
+          [
+            8.0784133,
+            58.9772826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365181210",
+      "properties": {
+        "@id": "way/365181210",
+        "access": "private",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0664304,
+            59.0591765
+          ],
+          [
+            8.0660971,
+            59.0590995
+          ],
+          [
+            8.0660307,
+            59.0590829
+          ],
+          [
+            8.065202,
+            59.0588759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365533703",
+      "properties": {
+        "@id": "way/365533703",
+        "access": "private",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.3801382,
+            69.9718324
+          ],
+          [
+            23.3800148,
+            69.9718324
+          ],
+          [
+            23.3799102,
+            69.9718324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365534816",
+      "properties": {
+        "@id": "way/365534816",
+        "access": "private",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.2384089,
+            69.9705372
+          ],
+          [
+            23.2387849,
+            69.9706288
+          ],
+          [
+            23.2389189,
+            69.9706619
+          ],
+          [
+            23.2392704,
+            69.9707501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378953183",
+      "properties": {
+        "@id": "way/378953183",
+        "railway": "funicular",
+        "usage": "industrial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.5517575,
+            54.5588317
+          ],
+          [
+            18.5526189,
+            54.5589969
+          ]
+        ]
+      }
+    }
+  ]
+}

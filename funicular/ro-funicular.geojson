@@ -1,0 +1,688 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:20:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/4815817",
+      "properties": {
+        "@id": "way/4815817",
+        "note": "pozemná lanovka",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.2203904,
+            49.141582
+          ],
+          [
+            20.2197704,
+            49.1425523
+          ],
+          [
+            20.2195694,
+            49.1430789
+          ],
+          [
+            20.2195075,
+            49.1436019
+          ],
+          [
+            20.219592,
+            49.144106
+          ],
+          [
+            20.219688,
+            49.1443655
+          ],
+          [
+            20.219806,
+            49.1445751
+          ],
+          [
+            20.2200327,
+            49.1448801
+          ],
+          [
+            20.2222301,
+            49.1471058
+          ],
+          [
+            20.2225802,
+            49.1475455
+          ],
+          [
+            20.2227528,
+            49.1478673
+          ],
+          [
+            20.2228894,
+            49.1483506
+          ],
+          [
+            20.2228843,
+            49.1488318
+          ],
+          [
+            20.2224563,
+            49.1511751
+          ],
+          [
+            20.2223776,
+            49.1519301
+          ],
+          [
+            20.222391,
+            49.1523303
+          ],
+          [
+            20.2225904,
+            49.1530759
+          ],
+          [
+            20.2227317,
+            49.1533667
+          ],
+          [
+            20.2229381,
+            49.1537408
+          ],
+          [
+            20.2232624,
+            49.1541821
+          ],
+          [
+            20.2234865,
+            49.154541
+          ],
+          [
+            20.223679,
+            49.1549256
+          ],
+          [
+            20.2246442,
+            49.158087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13969512",
+      "properties": {
+        "@id": "way/13969512",
+        "name": "Kolej Linowo-Terenowa Gubałówka",
+        "railway": "funicular",
+        "source": "Geoportal.gov.pl: Ortofoto"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.9453482,
+            49.2984537
+          ],
+          [
+            19.9423176,
+            49.29969
+          ],
+          [
+            19.9398371,
+            49.3006977
+          ],
+          [
+            19.939462,
+            49.3008587
+          ],
+          [
+            19.9391354,
+            49.3010249
+          ],
+          [
+            19.9389479,
+            49.3011313
+          ],
+          [
+            19.9385231,
+            49.3014118
+          ],
+          [
+            19.9382948,
+            49.3015523
+          ],
+          [
+            19.9380555,
+            49.301714
+          ],
+          [
+            19.9378243,
+            49.3018805
+          ],
+          [
+            19.9376299,
+            49.3020335
+          ],
+          [
+            19.9373276,
+            49.3022425
+          ],
+          [
+            19.9367522,
+            49.3026561
+          ],
+          [
+            19.9364692,
+            49.3028902
+          ],
+          [
+            19.9361421,
+            49.303211
+          ],
+          [
+            19.9350756,
+            49.3042182
+          ],
+          [
+            19.9327883,
+            49.3064098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/18900957",
+      "properties": {
+        "@id": "way/18900957",
+        "is_in:city": "Deva",
+        "name": "Deva Funicular",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.8980541,
+            45.888531
+          ],
+          [
+            22.9008205,
+            45.8885705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30663493",
+      "properties": {
+        "@id": "way/30663493",
+        "name": "Kolej linowo-terenowa na Żar",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.221991,
+            49.7753525
+          ],
+          [
+            19.2225256,
+            49.7771372
+          ],
+          [
+            19.2229541,
+            49.7785914
+          ],
+          [
+            19.223314,
+            49.779843
+          ],
+          [
+            19.2235491,
+            49.7806244
+          ],
+          [
+            19.2236373,
+            49.780854
+          ],
+          [
+            19.2237008,
+            49.7810663
+          ],
+          [
+            19.2237473,
+            49.7812388
+          ],
+          [
+            19.2237758,
+            49.7814015
+          ],
+          [
+            19.2241408,
+            49.782652
+          ],
+          [
+            19.2243319,
+            49.7832467
+          ],
+          [
+            19.2248196,
+            49.7849665
+          ],
+          [
+            19.2251182,
+            49.7859493
+          ],
+          [
+            19.2251715,
+            49.7861377
+          ],
+          [
+            19.2252449,
+            49.7864976
+          ],
+          [
+            19.2253007,
+            49.7867221
+          ],
+          [
+            19.2253655,
+            49.7869387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68678589",
+      "properties": {
+        "@id": "way/68678589",
+        "bridge": "yes",
+        "layer": "1",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.9614698,
+            49.4198481
+          ],
+          [
+            20.9614255,
+            49.4198856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68678590",
+      "properties": {
+        "@id": "way/68678590",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.9663644,
+            49.415703
+          ],
+          [
+            20.9623566,
+            49.4190971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68678593",
+      "properties": {
+        "@id": "way/68678593",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.9614255,
+            49.4198856
+          ],
+          [
+            20.9609531,
+            49.4202857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68679748",
+      "properties": {
+        "@id": "way/68679748",
+        "bridge": "yes",
+        "layer": "1",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.9623566,
+            49.4190971
+          ],
+          [
+            20.9623047,
+            49.4191411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68679757",
+      "properties": {
+        "@id": "way/68679757",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.9623047,
+            49.4191411
+          ],
+          [
+            20.9614698,
+            49.4198481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/74489407",
+      "properties": {
+        "@id": "way/74489407",
+        "historic": "yes",
+        "name": "Žaliakalnio funikulierius",
+        "name:en": "Žaliakalnis Funicular Railway",
+        "name:eo": "Funikularo Žaliakalnis en Kaŭno",
+        "name:hr": "Žaliakalnska uspinjača",
+        "name:lt": "Žaliakalnio funikulierius",
+        "name:pl": "Kolej Linowa na Zielonej Górze",
+        "railway": "funicular",
+        "wikipedia": "lt:Žaliakalnio funikulierius"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9176483,
+            54.9008044
+          ],
+          [
+            23.9180375,
+            54.9019488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87195107",
+      "properties": {
+        "@id": "way/87195107",
+        "historic": "yes",
+        "name": "Aleksoto funikulierius",
+        "railway": "funicular",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8870092,
+            54.8910654
+          ],
+          [
+            23.8877411,
+            54.8920897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/99192083",
+      "properties": {
+        "@id": "way/99192083",
+        "name": "Kolej linowo-terenowa na Żar",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.2237758,
+            49.7814015
+          ],
+          [
+            19.223709,
+            49.7812398
+          ],
+          [
+            19.2236552,
+            49.7810725
+          ],
+          [
+            19.2235916,
+            49.7808567
+          ],
+          [
+            19.2235491,
+            49.7806244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183774993",
+      "properties": {
+        "@id": "way/183774993",
+        "railway": "funicular",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2721224,
+            "reltags": {
+              "name": "Jasná - Priehyba",
+              "railway": "funicular",
+              "ref": "A4",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.5890179,
+            48.9627184
+          ],
+          [
+            19.5863213,
+            48.9628146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202740601",
+      "properties": {
+        "@id": "way/202740601",
+        "bridge": "yes",
+        "layer": "1",
+        "railway": "funicular",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2721224,
+            "reltags": {
+              "name": "Jasná - Priehyba",
+              "railway": "funicular",
+              "ref": "A4",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.5863213,
+            48.9628146
+          ],
+          [
+            19.5845926,
+            48.9628906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202740662",
+      "properties": {
+        "@id": "way/202740662",
+        "access": "no",
+        "name": "pozemná lanová drahá",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.5836924,
+            48.9973057
+          ],
+          [
+            19.5846693,
+            48.9970331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/267743088",
+      "properties": {
+        "@id": "way/267743088",
+        "name": "Kolej Linowo-Terenowa Gubałówka",
+        "railway": "funicular",
+        "source": "Geoportal.gov.pl: Ortofoto"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.9385231,
+            49.3014118
+          ],
+          [
+            19.9383178,
+            49.3015744
+          ],
+          [
+            19.9380889,
+            49.3017365
+          ],
+          [
+            19.9378565,
+            49.3018978
+          ],
+          [
+            19.9376299,
+            49.3020335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202740601",
+      "properties": {
+        "@id": "way/202740601",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2721224,
+            "reltags": {
+              "name": "Jasná - Priehyba",
+              "railway": "funicular",
+              "ref": "A4",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.5863213,
+            48.9628146
+          ],
+          [
+            19.5845926,
+            48.9628906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183774993",
+      "properties": {
+        "@id": "way/183774993",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2721224,
+            "reltags": {
+              "name": "Jasná - Priehyba",
+              "railway": "funicular",
+              "ref": "A4",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.5890179,
+            48.9627184
+          ],
+          [
+            19.5863213,
+            48.9628146
+          ]
+        ]
+      }
+    }
+  ]
+}

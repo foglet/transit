@@ -1,0 +1,2599 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:16:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/5082726",
+      "properties": {
+        "@id": "way/5082726",
+        "electrified": "no",
+        "gauge": "1000",
+        "loc_name": "Erbschleicher-Express",
+        "maxspeed": "11",
+        "operator": "Stuttgarter Straßenbahnen AG",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.145492,
+            48.7516648
+          ],
+          [
+            9.1452886,
+            48.7518817
+          ],
+          [
+            9.1450772,
+            48.7521121
+          ],
+          [
+            9.1449504,
+            48.7522536
+          ],
+          [
+            9.1448266,
+            48.7524021
+          ],
+          [
+            9.1446986,
+            48.7525645
+          ],
+          [
+            9.1445723,
+            48.7527433
+          ],
+          [
+            9.1444182,
+            48.7529626
+          ],
+          [
+            9.1442756,
+            48.7531794
+          ],
+          [
+            9.1440795,
+            48.7534733
+          ],
+          [
+            9.1440204,
+            48.7536207
+          ],
+          [
+            9.1439467,
+            48.7537732
+          ],
+          [
+            9.1438564,
+            48.7539424
+          ],
+          [
+            9.1437546,
+            48.7541173
+          ],
+          [
+            9.1436979,
+            48.7542142
+          ],
+          [
+            9.1436401,
+            48.7542996
+          ],
+          [
+            9.1435611,
+            48.7544296
+          ],
+          [
+            9.143468,
+            48.7545635
+          ],
+          [
+            9.1433682,
+            48.7546832
+          ],
+          [
+            9.1432471,
+            48.7548081
+          ],
+          [
+            9.1431134,
+            48.7549433
+          ],
+          [
+            9.1429847,
+            48.7550724
+          ],
+          [
+            9.1428508,
+            48.7552067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/5209311",
+      "properties": {
+        "@id": "way/5209311",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7119186,
+            49.4111178
+          ],
+          [
+            8.7122033,
+            49.4105107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24614527",
+      "properties": {
+        "@id": "way/24614527",
+        "gauge": "1000",
+        "name": "Drahtseilbahn Augustusburg",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0844973,
+            50.820702
+          ],
+          [
+            13.0851487,
+            50.8198684
+          ],
+          [
+            13.0855282,
+            50.8193394
+          ],
+          [
+            13.0857458,
+            50.8191643
+          ],
+          [
+            13.085951,
+            50.8190402
+          ],
+          [
+            13.0861539,
+            50.8189377
+          ],
+          [
+            13.0863405,
+            50.8188612
+          ],
+          [
+            13.086573,
+            50.8187847
+          ],
+          [
+            13.0866888,
+            50.8187537
+          ],
+          [
+            13.0867805,
+            50.8187313
+          ],
+          [
+            13.087023,
+            50.8186844
+          ],
+          [
+            13.0872721,
+            50.81866
+          ],
+          [
+            13.0876252,
+            50.8186495
+          ],
+          [
+            13.0877782,
+            50.8186495
+          ],
+          [
+            13.0879221,
+            50.8186545
+          ],
+          [
+            13.0880677,
+            50.81867
+          ],
+          [
+            13.0882239,
+            50.8187005
+          ],
+          [
+            13.0883783,
+            50.8187304
+          ],
+          [
+            13.088488,
+            50.8187545
+          ],
+          [
+            13.0891181,
+            50.818876
+          ],
+          [
+            13.0894419,
+            50.8189505
+          ],
+          [
+            13.08959,
+            50.8189837
+          ],
+          [
+            13.0897582,
+            50.8190085
+          ],
+          [
+            13.0899852,
+            50.8190343
+          ],
+          [
+            13.0901986,
+            50.8190445
+          ],
+          [
+            13.0904306,
+            50.8190437
+          ],
+          [
+            13.0905882,
+            50.819032
+          ],
+          [
+            13.0907504,
+            50.8190152
+          ],
+          [
+            13.0908937,
+            50.8189954
+          ],
+          [
+            13.0913672,
+            50.8189128
+          ],
+          [
+            13.0916141,
+            50.8188815
+          ],
+          [
+            13.0918076,
+            50.818865
+          ],
+          [
+            13.0919528,
+            50.8188556
+          ],
+          [
+            13.0920515,
+            50.8188429
+          ],
+          [
+            13.0929787,
+            50.8187122
+          ],
+          [
+            13.0934009,
+            50.8186585
+          ],
+          [
+            13.0937528,
+            50.8185892
+          ],
+          [
+            13.0938657,
+            50.8185633
+          ],
+          [
+            13.0939674,
+            50.8185312
+          ],
+          [
+            13.094013,
+            50.8185141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26607038",
+      "properties": {
+        "@id": "way/26607038",
+        "gauge": "1000",
+        "name": "Sommerbergbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5488128,
+            48.7502847
+          ],
+          [
+            8.5478582,
+            48.7502603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26607042",
+      "properties": {
+        "@id": "way/26607042",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "name": "Sommerbergbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5478582,
+            48.7502603
+          ],
+          [
+            8.5476302,
+            48.7502545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26607043",
+      "properties": {
+        "@id": "way/26607043",
+        "gauge": "1000",
+        "name": "Sommerbergbahn",
+        "railway": "funicular",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5476302,
+            48.7502545
+          ],
+          [
+            8.5463007,
+            48.7502104
+          ],
+          [
+            8.5447608,
+            48.7501718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26710321",
+      "properties": {
+        "@id": "way/26710321",
+        "railway": "funicular",
+        "wikipedia": "de:Standseilbahnen in Karlsbad"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.877856,
+            50.2199433
+          ],
+          [
+            12.8772612,
+            50.2200342
+          ],
+          [
+            12.8766044,
+            50.2201311
+          ],
+          [
+            12.8759896,
+            50.2201728
+          ],
+          [
+            12.8753348,
+            50.2201578
+          ],
+          [
+            12.8750392,
+            50.2201209
+          ],
+          [
+            12.8747069,
+            50.2200795
+          ],
+          [
+            12.8742129,
+            50.2199623
+          ],
+          [
+            12.8737373,
+            50.2198034
+          ],
+          [
+            12.8732755,
+            50.2195683
+          ],
+          [
+            12.8729069,
+            50.2192966
+          ],
+          [
+            12.8726621,
+            50.2190124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26989936",
+      "properties": {
+        "@id": "way/26989936",
+        "gauge": "1000",
+        "name": "Bergbahn Heidelberg",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7227409,
+            49.4048339
+          ],
+          [
+            8.7248308,
+            49.4041639
+          ],
+          [
+            8.7260115,
+            49.4037873
+          ],
+          [
+            8.7262609,
+            49.4037054
+          ],
+          [
+            8.7266944,
+            49.4035617
+          ],
+          [
+            8.7267764,
+            49.4035345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26989972",
+      "properties": {
+        "@id": "way/26989972",
+        "gauge": "1000",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7134639,
+            49.4085211
+          ],
+          [
+            8.7133357,
+            49.4086373
+          ],
+          [
+            8.7132931,
+            49.4086756
+          ],
+          [
+            8.7132514,
+            49.4087196
+          ],
+          [
+            8.7132262,
+            49.4087458
+          ],
+          [
+            8.7132032,
+            49.4087747
+          ],
+          [
+            8.7131838,
+            49.4088052
+          ],
+          [
+            8.713159,
+            49.4088438
+          ],
+          [
+            8.7131328,
+            49.4088914
+          ],
+          [
+            8.7130963,
+            49.4089498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30068986",
+      "properties": {
+        "@id": "way/30068986",
+        "gauge": "1000",
+        "name": "Bergbahn Heidelberg",
+        "railway": "funicular",
+        "source": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7146699,
+            49.407157
+          ],
+          [
+            8.7147473,
+            49.4071072
+          ],
+          [
+            8.7148823,
+            49.4070204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34722428",
+      "properties": {
+        "@id": "way/34722428",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1000",
+        "layer": "1",
+        "loc_name": "Erbschleicher-Express",
+        "maxspeed": "11",
+        "operator": "Stuttgarter Straßenbahnen AG",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1428508,
+            48.7552067
+          ],
+          [
+            9.1426409,
+            48.7554243
+          ],
+          [
+            9.1425327,
+            48.7555398
+          ],
+          [
+            9.1424327,
+            48.7556486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34722429",
+      "properties": {
+        "@id": "way/34722429",
+        "electrified": "no",
+        "gauge": "1000",
+        "loc_name": "Erbschleicher-Express",
+        "maxspeed": "11",
+        "operator": "Stuttgarter Straßenbahnen AG",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1424327,
+            48.7556486
+          ],
+          [
+            9.1421775,
+            48.755916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45323702",
+      "properties": {
+        "@id": "way/45323702",
+        "gauge": "1000",
+        "name": "Künzelsauer Bergbahn",
+        "railway": "funicular",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6842889,
+            49.2771645
+          ],
+          [
+            9.6837632,
+            49.2768614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45323703",
+      "properties": {
+        "@id": "way/45323703",
+        "alt_name": "Taläckerbahn",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "name": "Künzelsauer Bergbahn",
+        "name:teen": "Talibahn",
+        "railway": "funicular",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6837632,
+            49.2768614
+          ],
+          [
+            9.6833802,
+            49.2766592
+          ],
+          [
+            9.6831577,
+            49.2765559
+          ],
+          [
+            9.6829205,
+            49.276468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45323704",
+      "properties": {
+        "@id": "way/45323704",
+        "alt_name": "Taläckerbahn",
+        "gauge": "1000",
+        "name": "Künzelsauer Bergbahn",
+        "name:teen": "Talibahn",
+        "railway": "funicular",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6829205,
+            49.276468
+          ],
+          [
+            9.6826287,
+            49.2763769
+          ],
+          [
+            9.6823406,
+            49.2763119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47015377",
+      "properties": {
+        "@id": "way/47015377",
+        "gauge": "1000",
+        "name": "Bergbahn Heidelberg",
+        "railway": "funicular",
+        "source": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7203258,
+            49.4056048
+          ],
+          [
+            8.7204001,
+            49.4055875
+          ],
+          [
+            8.7206153,
+            49.4055306
+          ],
+          [
+            8.7206712,
+            49.4055145
+          ],
+          [
+            8.7207858,
+            49.4054793
+          ],
+          [
+            8.7208944,
+            49.4054422
+          ],
+          [
+            8.7210189,
+            49.405397
+          ],
+          [
+            8.7211175,
+            49.4053615
+          ],
+          [
+            8.7211562,
+            49.405348
+          ],
+          [
+            8.721207,
+            49.405331
+          ],
+          [
+            8.7212483,
+            49.4053136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47222100",
+      "properties": {
+        "@id": "way/47222100",
+        "alt_name": "Taläckerbahn",
+        "gauge": "1000",
+        "name": "Künzelsauer Bergbahn",
+        "name:teen": "Talibahn",
+        "railway": "funicular",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6817484,
+            49.2762194
+          ],
+          [
+            9.6807699,
+            49.2762252
+          ],
+          [
+            9.6802769,
+            49.2762
+          ],
+          [
+            9.6798106,
+            49.276103
+          ],
+          [
+            9.679448,
+            49.2759903
+          ],
+          [
+            9.6788987,
+            49.2758464
+          ],
+          [
+            9.6783667,
+            49.275673
+          ],
+          [
+            9.6779668,
+            49.2755383
+          ],
+          [
+            9.6775779,
+            49.2753699
+          ],
+          [
+            9.6772944,
+            49.2752158
+          ],
+          [
+            9.6768822,
+            49.2750526
+          ],
+          [
+            9.6763727,
+            49.2749529
+          ],
+          [
+            9.6760535,
+            49.2749223
+          ],
+          [
+            9.6757331,
+            49.2749103
+          ],
+          [
+            9.6754158,
+            49.2749142
+          ],
+          [
+            9.6750981,
+            49.2749422
+          ],
+          [
+            9.6747558,
+            49.2750061
+          ],
+          [
+            9.6744553,
+            49.2750911
+          ],
+          [
+            9.6737967,
+            49.2753787
+          ],
+          [
+            9.6731497,
+            49.2756813
+          ],
+          [
+            9.6719697,
+            49.2762222
+          ],
+          [
+            9.6714954,
+            49.2764315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47222102",
+      "properties": {
+        "@id": "way/47222102",
+        "alt_name": "Taläckerbahn",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "name": "Künzelsauer Bergbahn",
+        "name:teen": "Talibahn",
+        "railway": "funicular",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6823406,
+            49.2763119
+          ],
+          [
+            9.6820479,
+            49.2762608
+          ],
+          [
+            9.6817484,
+            49.2762194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71524848",
+      "properties": {
+        "@id": "way/71524848",
+        "gauge": "1000",
+        "name": "Bergbahn Heidelberg",
+        "railway": "funicular",
+        "source": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7203258,
+            49.4056048
+          ],
+          [
+            8.7203939,
+            49.4055798
+          ],
+          [
+            8.7204919,
+            49.4055447
+          ],
+          [
+            8.7205867,
+            49.4055124
+          ],
+          [
+            8.7206872,
+            49.4054775
+          ],
+          [
+            8.7207875,
+            49.4054456
+          ],
+          [
+            8.7208817,
+            49.4054163
+          ],
+          [
+            8.7209709,
+            49.4053902
+          ],
+          [
+            8.7210685,
+            49.4053625
+          ],
+          [
+            8.7211504,
+            49.4053401
+          ],
+          [
+            8.7212024,
+            49.4053247
+          ],
+          [
+            8.7212483,
+            49.4053136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71524853",
+      "properties": {
+        "@id": "way/71524853",
+        "gauge": "1000",
+        "name": "Bergbahn Heidelberg",
+        "railway": "funicular",
+        "source": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7212483,
+            49.4053136
+          ],
+          [
+            8.7214636,
+            49.4052451
+          ],
+          [
+            8.7216297,
+            49.405192
+          ],
+          [
+            8.7218187,
+            49.4051307
+          ],
+          [
+            8.7220123,
+            49.4050676
+          ],
+          [
+            8.7222063,
+            49.4050067
+          ],
+          [
+            8.7225861,
+            49.4048839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/106830035",
+      "properties": {
+        "@id": "way/106830035",
+        "incline": "up",
+        "railway": "funicular",
+        "traffic_mode": "freight",
+        "usage": "goods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2337507,
+            50.6673798
+          ],
+          [
+            11.2326621,
+            50.6679784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113472544",
+      "properties": {
+        "@id": "way/113472544",
+        "electrified": "no",
+        "gauge": "1000",
+        "loc_name": "Erbschleicher-Express",
+        "maxspeed": "11",
+        "operator": "Stuttgarter Straßenbahnen AG",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1440795,
+            48.7534733
+          ],
+          [
+            9.1439846,
+            48.7536071
+          ],
+          [
+            9.1438905,
+            48.7537548
+          ],
+          [
+            9.1437987,
+            48.7539207
+          ],
+          [
+            9.1437221,
+            48.7540812
+          ],
+          [
+            9.1436745,
+            48.7542078
+          ],
+          [
+            9.1436401,
+            48.7542996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/131479863",
+      "properties": {
+        "@id": "way/131479863",
+        "gauge": "1000",
+        "name": "Bergbahn Heidelberg",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7134639,
+            49.4085211
+          ],
+          [
+            8.7136409,
+            49.4083713
+          ],
+          [
+            8.7139895,
+            49.4080651
+          ],
+          [
+            8.7146786,
+            49.4074717
+          ],
+          [
+            8.714737,
+            49.4074214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/131479864",
+      "properties": {
+        "@id": "way/131479864",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7127603,
+            49.4095111
+          ],
+          [
+            8.7127913,
+            49.4094451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/131479865",
+      "properties": {
+        "@id": "way/131479865",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7130963,
+            49.4089498
+          ],
+          [
+            8.7130291,
+            49.4090671
+          ],
+          [
+            8.7129648,
+            49.4091717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/131479866",
+      "properties": {
+        "@id": "way/131479866",
+        "gauge": "1000",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7130465,
+            49.4089445
+          ],
+          [
+            8.7130815,
+            49.4088805
+          ],
+          [
+            8.7131173,
+            49.4088309
+          ],
+          [
+            8.7131479,
+            49.4087902
+          ],
+          [
+            8.7131848,
+            49.4087457
+          ],
+          [
+            8.713231,
+            49.4087019
+          ],
+          [
+            8.7133186,
+            49.408626
+          ],
+          [
+            8.7134639,
+            49.4085211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133616213",
+      "properties": {
+        "@id": "way/133616213",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7128321,
+            49.4093584
+          ],
+          [
+            8.7129095,
+            49.4092065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133616214",
+      "properties": {
+        "@id": "way/133616214",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7122844,
+            49.4103634
+          ],
+          [
+            8.7127603,
+            49.4095111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133616215",
+      "properties": {
+        "@id": "way/133616215",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7129095,
+            49.4092065
+          ],
+          [
+            8.7129318,
+            49.4091645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133616216",
+      "properties": {
+        "@id": "way/133616216",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7122033,
+            49.4105107
+          ],
+          [
+            8.7122844,
+            49.4103634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133616217",
+      "properties": {
+        "@id": "way/133616217",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7129421,
+            49.4092145
+          ],
+          [
+            8.7128536,
+            49.4093608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133616218",
+      "properties": {
+        "@id": "way/133616218",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7128536,
+            49.4093608
+          ],
+          [
+            8.7128001,
+            49.409447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133616219",
+      "properties": {
+        "@id": "way/133616219",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7129648,
+            49.4091717
+          ],
+          [
+            8.7129421,
+            49.4092145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133616220",
+      "properties": {
+        "@id": "way/133616220",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7129318,
+            49.4091645
+          ],
+          [
+            8.7129853,
+            49.4090544
+          ],
+          [
+            8.7130465,
+            49.4089445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/138775779",
+      "properties": {
+        "@id": "way/138775779",
+        "bridge": "yes",
+        "gauge": "1800",
+        "layer": "1",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1321271,
+            50.5928145
+          ],
+          [
+            11.1321435,
+            50.5927622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/138775780",
+      "properties": {
+        "@id": "way/138775780",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1321435,
+            50.5927622
+          ],
+          [
+            11.1321737,
+            50.5926657
+          ],
+          [
+            11.1323451,
+            50.5921188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/139012967",
+      "properties": {
+        "@id": "way/139012967",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1334522,
+            50.603693
+          ],
+          [
+            11.1333723,
+            50.6035917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/139058846",
+      "properties": {
+        "@id": "way/139058846",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.132965,
+            50.6031085
+          ],
+          [
+            11.1333628,
+            50.6034706
+          ],
+          [
+            11.1335912,
+            50.6036266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143028271",
+      "properties": {
+        "@id": "way/143028271",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1314741,
+            50.5949305
+          ],
+          [
+            11.1321271,
+            50.5928145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143028272",
+      "properties": {
+        "@id": "way/143028272",
+        "bridge": "yes",
+        "gauge": "1800",
+        "layer": "1",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.131458,
+            50.5949818
+          ],
+          [
+            11.1314741,
+            50.5949305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143286422",
+      "properties": {
+        "@id": "way/143286422",
+        "layer": "1",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4487557,
+            50.3827943
+          ],
+          [
+            12.4485595,
+            50.382934
+          ],
+          [
+            12.4485417,
+            50.3831784
+          ],
+          [
+            12.4484284,
+            50.3832583
+          ],
+          [
+            12.4481992,
+            50.3832914
+          ],
+          [
+            12.4481236,
+            50.3833577
+          ],
+          [
+            12.4482063,
+            50.3834631
+          ],
+          [
+            12.4484732,
+            50.3834661
+          ],
+          [
+            12.4488063,
+            50.3836137
+          ],
+          [
+            12.4488299,
+            50.3836635
+          ],
+          [
+            12.4487945,
+            50.3837207
+          ],
+          [
+            12.4483386,
+            50.3839255
+          ],
+          [
+            12.4483221,
+            50.3841997
+          ],
+          [
+            12.448674,
+            50.384403
+          ],
+          [
+            12.4486693,
+            50.3844452
+          ],
+          [
+            12.4485087,
+            50.3845566
+          ],
+          [
+            12.4485158,
+            50.384635
+          ],
+          [
+            12.4485795,
+            50.3846621
+          ],
+          [
+            12.4486628,
+            50.3846391
+          ],
+          [
+            12.4487886,
+            50.3845506
+          ],
+          [
+            12.4489043,
+            50.3845747
+          ],
+          [
+            12.4489374,
+            50.3846289
+          ],
+          [
+            12.4487658,
+            50.3849536
+          ],
+          [
+            12.4485621,
+            50.3852028
+          ],
+          [
+            12.4486431,
+            50.3852704
+          ],
+          [
+            12.4487709,
+            50.3852757
+          ],
+          [
+            12.4490286,
+            50.3852067
+          ],
+          [
+            12.4492907,
+            50.385131
+          ],
+          [
+            12.4493139,
+            50.3850559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143286426",
+      "properties": {
+        "@id": "way/143286426",
+        "layer": "1",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4493139,
+            50.3850559
+          ],
+          [
+            12.4489298,
+            50.3826787
+          ],
+          [
+            12.4487557,
+            50.3827943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146271888",
+      "properties": {
+        "@id": "way/146271888",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "railway": "funicular",
+        "source": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7225861,
+            49.4048839
+          ],
+          [
+            8.7227409,
+            49.4048339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146348592",
+      "properties": {
+        "@id": "way/146348592",
+        "gauge": "1000",
+        "name": "Bergbahn Heidelberg",
+        "railway": "funicular",
+        "source:geometry": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7152548,
+            49.4067931
+          ],
+          [
+            8.7152865,
+            49.4067756
+          ],
+          [
+            8.7153267,
+            49.4067544
+          ],
+          [
+            8.7153638,
+            49.4067354
+          ],
+          [
+            8.7154057,
+            49.406715
+          ],
+          [
+            8.71546,
+            49.4066902
+          ],
+          [
+            8.7155179,
+            49.4066648
+          ],
+          [
+            8.7155789,
+            49.4066386
+          ],
+          [
+            8.7156424,
+            49.4066128
+          ],
+          [
+            8.7156984,
+            49.4065893
+          ],
+          [
+            8.7157376,
+            49.4065735
+          ],
+          [
+            8.7157975,
+            49.4065496
+          ],
+          [
+            8.7158412,
+            49.4065334
+          ],
+          [
+            8.7159004,
+            49.4065124
+          ],
+          [
+            8.7159403,
+            49.4064978
+          ],
+          [
+            8.7159907,
+            49.4064805
+          ],
+          [
+            8.7160361,
+            49.4064662
+          ],
+          [
+            8.7160703,
+            49.4064559
+          ],
+          [
+            8.7161073,
+            49.4064445
+          ],
+          [
+            8.7161411,
+            49.406434
+          ],
+          [
+            8.7161767,
+            49.4064236
+          ],
+          [
+            8.7162127,
+            49.4064133
+          ],
+          [
+            8.7162525,
+            49.4064022
+          ],
+          [
+            8.7162986,
+            49.4063901
+          ],
+          [
+            8.716349,
+            49.4063774
+          ],
+          [
+            8.7163962,
+            49.406366
+          ],
+          [
+            8.7164533,
+            49.4063526
+          ],
+          [
+            8.71651,
+            49.4063404
+          ],
+          [
+            8.716585,
+            49.406325
+          ],
+          [
+            8.7166501,
+            49.406312
+          ],
+          [
+            8.7167206,
+            49.4062989
+          ],
+          [
+            8.7167896,
+            49.4062874
+          ],
+          [
+            8.7168582,
+            49.406277
+          ],
+          [
+            8.7169364,
+            49.4062659
+          ],
+          [
+            8.7170001,
+            49.4062573
+          ],
+          [
+            8.7170737,
+            49.4062488
+          ],
+          [
+            8.7171275,
+            49.406243
+          ],
+          [
+            8.7171782,
+            49.4062385
+          ],
+          [
+            8.7172229,
+            49.4062349
+          ],
+          [
+            8.7172887,
+            49.40623
+          ],
+          [
+            8.7173559,
+            49.4062256
+          ],
+          [
+            8.7174326,
+            49.4062201
+          ],
+          [
+            8.7175541,
+            49.4062107
+          ],
+          [
+            8.717641,
+            49.4062036
+          ],
+          [
+            8.7177223,
+            49.4061964
+          ],
+          [
+            8.7178127,
+            49.4061868
+          ],
+          [
+            8.7178796,
+            49.4061791
+          ],
+          [
+            8.717969,
+            49.4061683
+          ],
+          [
+            8.7180753,
+            49.4061553
+          ],
+          [
+            8.718169,
+            49.4061429
+          ],
+          [
+            8.7182559,
+            49.4061309
+          ],
+          [
+            8.718326,
+            49.4061208
+          ],
+          [
+            8.7183992,
+            49.4061088
+          ],
+          [
+            8.7184918,
+            49.4060932
+          ],
+          [
+            8.7185703,
+            49.4060791
+          ],
+          [
+            8.7186767,
+            49.4060601
+          ],
+          [
+            8.7187605,
+            49.4060438
+          ],
+          [
+            8.7188669,
+            49.4060225
+          ],
+          [
+            8.7189489,
+            49.4060048
+          ],
+          [
+            8.7190275,
+            49.4059871
+          ],
+          [
+            8.7191303,
+            49.4059634
+          ],
+          [
+            8.7192067,
+            49.405945
+          ],
+          [
+            8.7192832,
+            49.4059252
+          ],
+          [
+            8.7193632,
+            49.4059032
+          ],
+          [
+            8.7194646,
+            49.4058743
+          ],
+          [
+            8.7195344,
+            49.4058549
+          ],
+          [
+            8.7196482,
+            49.4058215
+          ],
+          [
+            8.7197532,
+            49.4057898
+          ],
+          [
+            8.7198783,
+            49.4057522
+          ],
+          [
+            8.7199766,
+            49.4057194
+          ],
+          [
+            8.7200996,
+            49.4056793
+          ],
+          [
+            8.7202297,
+            49.4056369
+          ],
+          [
+            8.7203258,
+            49.4056048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146348597",
+      "properties": {
+        "@id": "way/146348597",
+        "bridge": "yes",
+        "gauge": "1000",
+        "layer": "1",
+        "name": "Bergbahn Heidelberg",
+        "railway": "funicular",
+        "source": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7148823,
+            49.4070204
+          ],
+          [
+            8.7149294,
+            49.4069896
+          ],
+          [
+            8.7149643,
+            49.406968
+          ],
+          [
+            8.7150043,
+            49.4069424
+          ],
+          [
+            8.7150522,
+            49.4069124
+          ],
+          [
+            8.7150996,
+            49.4068823
+          ],
+          [
+            8.7151411,
+            49.4068567
+          ],
+          [
+            8.71519,
+            49.4068296
+          ],
+          [
+            8.7152548,
+            49.4067931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159209183",
+      "properties": {
+        "@id": "way/159209183",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1305328,
+            50.5986785
+          ],
+          [
+            11.1307264,
+            50.5972835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160035275",
+      "properties": {
+        "@id": "way/160035275",
+        "layer": "-1",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wikipedia": "de:Standseilbahnen in Karlsbad"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8833018,
+            50.222047
+          ],
+          [
+            12.8843197,
+            50.220619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/164338996",
+      "properties": {
+        "@id": "way/164338996",
+        "incline": "up",
+        "railway": "funicular",
+        "traffic_mode": "freight",
+        "usage": "goods"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2313078,
+            50.6665017
+          ],
+          [
+            11.2312287,
+            50.6676193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181097611",
+      "properties": {
+        "@id": "way/181097611",
+        "gauge": "1000",
+        "name": "Drahtseilbahn Augustusburg",
+        "railway": "funicular",
+        "website": "http://www.drahtseilbahn-augustusburg.de/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0944445,
+            50.8183482
+          ],
+          [
+            13.096973,
+            50.8172803
+          ],
+          [
+            13.0990474,
+            50.8164023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181097616",
+      "properties": {
+        "@id": "way/181097616",
+        "bridge": "yes",
+        "gauge": "1000",
+        "name": "Drahtseilbahn Augustusburg",
+        "railway": "funicular",
+        "website": "http://www.drahtseilbahn-augustusburg.de/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.094013,
+            50.8185141
+          ],
+          [
+            13.0944445,
+            50.8183482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190663400",
+      "properties": {
+        "@id": "way/190663400",
+        "gauge": "1000",
+        "name": "Drahtseilbahn Augustusburg",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0919528,
+            50.8188556
+          ],
+          [
+            13.0918758,
+            50.8188737
+          ],
+          [
+            13.0917468,
+            50.8188972
+          ],
+          [
+            13.0914987,
+            50.8189348
+          ],
+          [
+            13.0913256,
+            50.8189594
+          ],
+          [
+            13.0911668,
+            50.8189755
+          ],
+          [
+            13.0910396,
+            50.8189838
+          ],
+          [
+            13.0908937,
+            50.8189954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/210948076",
+      "properties": {
+        "@id": "way/210948076",
+        "description": "Schrägaufzug",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.7161947,
+            50.5246942
+          ],
+          [
+            11.7152827,
+            50.5249363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225972620",
+      "properties": {
+        "@id": "way/225972620",
+        "designation": "Schrägaufzug",
+        "railway": "funicular",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7869057,
+            50.5372214
+          ],
+          [
+            12.7868135,
+            50.5369307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231073543",
+      "properties": {
+        "@id": "way/231073543",
+        "fixme": "Wie taggt man das am besten? Eine Art „Schrägaufzug“, eine Röhre, in der eine Passagier-Kabine schräg den Hang hinauf- und hinabgleitet.",
+        "highway": "elevator",
+        "note": "Schrägaufzug",
+        "railway": "funicular",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2134801,
+            48.9108931
+          ],
+          [
+            9.2130258,
+            48.9102345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231712230",
+      "properties": {
+        "@id": "way/231712230",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1307264,
+            50.5972835
+          ],
+          [
+            11.131458,
+            50.5949818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231712231",
+      "properties": {
+        "@id": "way/231712231",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1305328,
+            50.5986785
+          ],
+          [
+            11.1305053,
+            50.5982231
+          ],
+          [
+            11.1305841,
+            50.5977251
+          ],
+          [
+            11.1307264,
+            50.5972835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231712232",
+      "properties": {
+        "@id": "way/231712232",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1333723,
+            50.6035917
+          ],
+          [
+            11.132965,
+            50.6031085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253080536",
+      "properties": {
+        "@id": "way/253080536",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7128001,
+            49.409447
+          ],
+          [
+            8.7127603,
+            49.4095111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253080537",
+      "properties": {
+        "@id": "way/253080537",
+        "gauge": "1000",
+        "layer": "-1",
+        "name": "Bergbahn Heidelberg",
+        "oneway": "no",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7127913,
+            49.4094451
+          ],
+          [
+            8.7128321,
+            49.4093584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287281609",
+      "properties": {
+        "@id": "way/287281609",
+        "description": "Schrägaufzug",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.7117347,
+            50.5733607
+          ],
+          [
+            11.7099394,
+            50.5730238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353862310",
+      "properties": {
+        "@id": "way/353862310",
+        "gauge": "1800",
+        "name": "Oberweißbacher Bergbahn",
+        "railway": "funicular",
+        "usage": "branch",
+        "usage_1": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.132965,
+            50.6031085
+          ],
+          [
+            11.131471,
+            50.6013633
+          ],
+          [
+            11.1309932,
+            50.6006536
+          ],
+          [
+            11.1306653,
+            50.5998709
+          ],
+          [
+            11.1305718,
+            50.5992284
+          ],
+          [
+            11.130533,
+            50.5990047
+          ],
+          [
+            11.1305328,
+            50.5986785
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:26:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/256842061",
+      "properties": {
+        "@id": "way/256842061",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.22928,
+            39.52404
+          ],
+          [
+            126.2314419,
+            39.5281902
+          ]
+        ]
+      }
+    }
+  ]
+}

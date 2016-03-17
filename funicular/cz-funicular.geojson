@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/22908650",
+      "properties": {
+        "@id": "way/22908650",
+        "incline": "down",
+        "name": "hotelová lanová dráha",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3965,
+            50.0698526
+          ],
+          [
+            14.3968431,
+            50.0710525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/395220843",
+      "properties": {
+        "@id": "way/395220843",
+        "name": "ČEZ - servis only",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4184065,
+            49.8432961
+          ],
+          [
+            14.4195939,
+            49.8460954
+          ]
+        ]
+      }
+    }
+  ]
+}

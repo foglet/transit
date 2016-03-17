@@ -1,0 +1,1515 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:10:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/26307689",
+      "properties": {
+        "@id": "way/26307689",
+        "name": "Elevador do Bom Jesus",
+        "railway": "funicular",
+        "wikipedia": "pt:Elevador do Bom Jesus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3779333,
+            41.55492
+          ],
+          [
+            -8.3807467,
+            41.5546923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26644937",
+      "properties": {
+        "@id": "way/26644937",
+        "railway": "funicular",
+        "source": "PNOA"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.1548979,
+            40.6419688
+          ],
+          [
+            -4.1541526,
+            40.6412528
+          ],
+          [
+            -4.1539761,
+            40.6411125
+          ],
+          [
+            -4.1538509,
+            40.6409592
+          ],
+          [
+            -4.1531689,
+            40.6402907
+          ],
+          [
+            -4.153109,
+            40.6402319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26644938",
+      "properties": {
+        "@id": "way/26644938",
+        "railway": "funicular",
+        "source": "PNOA"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.1541526,
+            40.6412528
+          ],
+          [
+            -4.1540103,
+            40.6410887
+          ],
+          [
+            -4.1538509,
+            40.6409592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27076273",
+      "properties": {
+        "@id": "way/27076273",
+        "bridge": "yes",
+        "layer": "1",
+        "railway": "funicular",
+        "wikipedia": "fr:Funiculaire du Pic du Jer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0329079,
+            43.0804789
+          ],
+          [
+            -0.0331247,
+            43.0805521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31573133",
+      "properties": {
+        "@id": "way/31573133",
+        "incline": "up",
+        "layer": "-1",
+        "name": "Funicular dos Guindais",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wikipedia": "pt:Funicular dos Guindais"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.609497,
+            41.1409461
+          ],
+          [
+            -8.609478,
+            41.1409784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35803919",
+      "properties": {
+        "@id": "way/35803919",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0063819,
+            43.3191204
+          ],
+          [
+            -2.0065452,
+            43.3192572
+          ],
+          [
+            -2.0065921,
+            43.3193019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35803920",
+      "properties": {
+        "@id": "way/35803920",
+        "bridge": "yes",
+        "layer": "2",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0065452,
+            43.3192572
+          ],
+          [
+            -2.0065921,
+            43.3193019
+          ],
+          [
+            -2.0066334,
+            43.3193413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35803921",
+      "properties": {
+        "@id": "way/35803921",
+        "railway": "funicular",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0066334,
+            43.3193413
+          ],
+          [
+            -2.0073135,
+            43.3199632
+          ],
+          [
+            -2.007439,
+            43.3201079
+          ],
+          [
+            -2.0077115,
+            43.3203575
+          ],
+          [
+            -2.0079092,
+            43.3205103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40111357",
+      "properties": {
+        "@id": "way/40111357",
+        "name": "Funicular",
+        "railway": "funicular",
+        "toll": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9142834,
+            43.2559633
+          ],
+          [
+            -2.9141353,
+            43.2557563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41937126",
+      "properties": {
+        "@id": "way/41937126",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.0115817,
+            43.3466806
+          ],
+          [
+            -3.0107759,
+            43.3469538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52493559",
+      "properties": {
+        "@id": "way/52493559",
+        "railway": "funicular",
+        "wikipedia": "fr:Funiculaire du Pic du Jer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0406401,
+            43.0829018
+          ],
+          [
+            -0.0426355,
+            43.0834383
+          ],
+          [
+            -0.0440033,
+            43.0835995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52493560",
+      "properties": {
+        "@id": "way/52493560",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wikipedia": "fr:Funiculaire du Pic du Jer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0339639,
+            43.0808268
+          ],
+          [
+            -0.0348994,
+            43.0811202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52493561",
+      "properties": {
+        "@id": "way/52493561",
+        "name": "Funiculaire du Pic du Jer",
+        "railway": "funicular",
+        "wikipedia": "fr:Funiculaire du Pic du Jer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0348994,
+            43.0811202
+          ],
+          [
+            -0.0370966,
+            43.0817878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52493562",
+      "properties": {
+        "@id": "way/52493562",
+        "bridge": "yes",
+        "layer": "2",
+        "note": "Evitement",
+        "railway": "funicular",
+        "wikipedia": "fr:Funiculaire du Pic du Jer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0370966,
+            43.0817878
+          ],
+          [
+            -0.0388259,
+            43.0823296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52493563",
+      "properties": {
+        "@id": "way/52493563",
+        "name": "Funiculaire du Pic du Jer",
+        "railway": "funicular",
+        "wikipedia": "fr:Funiculaire du Pic du Jer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0388259,
+            43.0823296
+          ],
+          [
+            -0.0392544,
+            43.0824626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52493564",
+      "properties": {
+        "@id": "way/52493564",
+        "name": "Funiculaire du Pic du Jer",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wikipedia": "fr:Funiculaire du Pic du Jer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0392544,
+            43.0824626
+          ],
+          [
+            -0.0406401,
+            43.0829018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54152607",
+      "properties": {
+        "@id": "way/54152607",
+        "operator": "Euskotren",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.0420069,
+            43.3012262
+          ],
+          [
+            -3.0420778,
+            43.3010661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108014689",
+      "properties": {
+        "@id": "way/108014689",
+        "bridge": "yes",
+        "layer": "1",
+        "operator": "Euskotren",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.0432855,
+            43.2987495
+          ],
+          [
+            -3.0438191,
+            43.2977347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108014703",
+      "properties": {
+        "@id": "way/108014703",
+        "name": "Funicular de La Reineta",
+        "operator": "Euskotren",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.0438191,
+            43.2977347
+          ],
+          [
+            -3.0443442,
+            43.2967257
+          ],
+          [
+            -3.0447547,
+            43.2958931
+          ],
+          [
+            -3.0449576,
+            43.2955298
+          ],
+          [
+            -3.0451152,
+            43.2953129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151965602",
+      "properties": {
+        "@id": "way/151965602",
+        "layer": "-1",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.0744841,
+            39.6052235
+          ],
+          [
+            -9.0743261,
+            39.604874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154529863",
+      "properties": {
+        "@id": "way/154529863",
+        "layer": "-1",
+        "name": "Ascensor de la Rochapea",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6483516,
+            42.8194668
+          ],
+          [
+            -1.6480384,
+            42.8189561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156208913",
+      "properties": {
+        "@id": "way/156208913",
+        "incline": "down",
+        "layer": "-2",
+        "railway": "funicular",
+        "source": "Bing",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.6082713,
+            41.1431584
+          ],
+          [
+            -8.608443,
+            41.1427524
+          ],
+          [
+            -8.6087262,
+            41.1422117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158483716",
+      "properties": {
+        "@id": "way/158483716",
+        "bridge": "yes",
+        "layer": "1",
+        "operator": "Euskotren",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.0420778,
+            43.3010661
+          ],
+          [
+            -3.042529,
+            43.3002117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158483723",
+      "properties": {
+        "@id": "way/158483723",
+        "operator": "Euskotren",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.042529,
+            43.3002117
+          ],
+          [
+            -3.0430378,
+            43.2992438
+          ],
+          [
+            -3.0432855,
+            43.2987495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160327196",
+      "properties": {
+        "@id": "way/160327196",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.0743261,
+            39.604874
+          ],
+          [
+            -9.0734663,
+            39.6028442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178939297",
+      "properties": {
+        "@id": "way/178939297",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4320333,
+            43.377498
+          ],
+          [
+            -8.4318513,
+            43.3777015
+          ],
+          [
+            -8.4315642,
+            43.377951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/179250490",
+      "properties": {
+        "@id": "way/179250490",
+        "bridge": "yes",
+        "layer": "1",
+        "railway": "funicular",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0086505,
+            43.32119
+          ],
+          [
+            -2.0087222,
+            43.3212501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/179250492",
+      "properties": {
+        "@id": "way/179250492",
+        "railway": "funicular",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0087222,
+            43.3212501
+          ],
+          [
+            -2.0087669,
+            43.3212888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185207565",
+      "properties": {
+        "@id": "way/185207565",
+        "name": "Funicular de Artxanda",
+        "railway": "funicular",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.920302,
+            43.2739056
+          ],
+          [
+            -2.9211125,
+            43.2729311
+          ],
+          [
+            -2.9221712,
+            43.2716922
+          ],
+          [
+            -2.9222702,
+            43.2715763
+          ],
+          [
+            -2.9225346,
+            43.2712944
+          ],
+          [
+            -2.922678,
+            43.2711213
+          ],
+          [
+            -2.9228502,
+            43.2708826
+          ],
+          [
+            -2.9230735,
+            43.2706528
+          ],
+          [
+            -2.9232784,
+            43.2704707
+          ],
+          [
+            -2.9235633,
+            43.2702813
+          ],
+          [
+            -2.9238891,
+            43.2700753
+          ],
+          [
+            -2.9244874,
+            43.269759
+          ],
+          [
+            -2.9246616,
+            43.2696397
+          ],
+          [
+            -2.924783,
+            43.269558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185207566",
+      "properties": {
+        "@id": "way/185207566",
+        "railway": "funicular",
+        "service": "siding",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.924783,
+            43.269558
+          ],
+          [
+            -2.9259427,
+            43.2687779
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185207781",
+      "properties": {
+        "@id": "way/185207781",
+        "name": "Funicular de Artxanda",
+        "railway": "funicular",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9221712,
+            43.2716922
+          ],
+          [
+            -2.9223191,
+            43.2714889
+          ],
+          [
+            -2.9224374,
+            43.2713349
+          ],
+          [
+            -2.922584,
+            43.2711663
+          ],
+          [
+            -2.9228502,
+            43.2708826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190708234",
+      "properties": {
+        "@id": "way/190708234",
+        "bridge": "yes",
+        "layer": "1",
+        "railway": "funicular",
+        "wikipedia": "fr:Funiculaire du Pic du Jer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0440033,
+            43.0835995
+          ],
+          [
+            -0.0441613,
+            43.0836205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192223037",
+      "properties": {
+        "@id": "way/192223037",
+        "bicycle": "destination",
+        "bridge": "yes",
+        "electrified": "yes",
+        "lanes": "Funiculaire",
+        "name": "Chemin de Fer de la Côte",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1115756,
+            49.4979751
+          ],
+          [
+            0.1111182,
+            49.4991031
+          ],
+          [
+            0.1110182,
+            49.4993365
+          ],
+          [
+            0.1109596,
+            49.4994831
+          ],
+          [
+            0.1108697,
+            49.4997295
+          ],
+          [
+            0.1107499,
+            49.5000185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192223044",
+      "properties": {
+        "@id": "way/192223044",
+        "electrified": "yes",
+        "name": "Chemin de Fer de la Côte",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1111182,
+            49.4991031
+          ],
+          [
+            0.111075,
+            49.4992588
+          ],
+          [
+            0.1110528,
+            49.4993421
+          ],
+          [
+            0.1110387,
+            49.4993797
+          ],
+          [
+            0.1109969,
+            49.4994874
+          ],
+          [
+            0.1109813,
+            49.4995187
+          ],
+          [
+            0.1108697,
+            49.4997295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234291267",
+      "properties": {
+        "@id": "way/234291267",
+        "railway": "funicular",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0073135,
+            43.3199632
+          ],
+          [
+            -2.0074838,
+            43.3200949
+          ],
+          [
+            -2.0077594,
+            43.3203436
+          ],
+          [
+            -2.0079092,
+            43.3205103
+          ],
+          [
+            -2.0086505,
+            43.32119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238899871",
+      "properties": {
+        "@id": "way/238899871",
+        "incline": "down",
+        "name": "Funicular dos Guindais",
+        "railway": "funicular",
+        "source": "Bing",
+        "wikipedia": "pt:Funicular dos Guindais"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.6087262,
+            41.1422117
+          ],
+          [
+            -8.608742,
+            41.1421854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261086789",
+      "properties": {
+        "@id": "way/261086789",
+        "foot": "yes",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9840274,
+            43.3126035
+          ],
+          [
+            -1.9837645,
+            43.3127257
+          ],
+          [
+            -1.9836031,
+            43.3129776
+          ],
+          [
+            -1.9835446,
+            43.3133951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261086794",
+      "properties": {
+        "@id": "way/261086794",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9840274,
+            43.3126035
+          ],
+          [
+            -1.9841061,
+            43.3125669
+          ],
+          [
+            -1.9845166,
+            43.3124046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307009711",
+      "properties": {
+        "@id": "way/307009711",
+        "bicycle": "designated",
+        "name": "Le Chemin de Fer de la Côte",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1103883,
+            49.5008589
+          ],
+          [
+            0.1107499,
+            49.5000185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/329286786",
+      "properties": {
+        "@id": "way/329286786",
+        "name": "Funicular de Larreineta",
+        "operator": "Euskotren",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.045679,
+            43.2946892
+          ],
+          [
+            -3.0464376,
+            43.2941165
+          ],
+          [
+            -3.0472348,
+            43.2935974
+          ],
+          [
+            -3.0481637,
+            43.2930314
+          ],
+          [
+            -3.0488431,
+            43.2925871
+          ],
+          [
+            -3.0489332,
+            43.2925363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/329286787",
+      "properties": {
+        "@id": "way/329286787",
+        "bridge": "yes",
+        "name": "Funicular de La Reineta",
+        "operator": "Euskotren",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.0451152,
+            43.2953129
+          ],
+          [
+            -3.0452744,
+            43.2951104
+          ],
+          [
+            -3.0454975,
+            43.2948646
+          ],
+          [
+            -3.045679,
+            43.2946892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/332568541",
+      "properties": {
+        "@id": "way/332568541",
+        "incline": "up",
+        "name": "Funicular dos Guindais",
+        "railway": "funicular",
+        "wikipedia": "pt:Funicular dos Guindais"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.609478,
+            41.1409784
+          ],
+          [
+            -8.6090278,
+            41.1417721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/332568544",
+      "properties": {
+        "@id": "way/332568544",
+        "incline": "up",
+        "name": "Funicular dos Guindais",
+        "railway": "funicular",
+        "wikipedia": "pt:Funicular dos Guindais"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.6090278,
+            41.1417721
+          ],
+          [
+            -8.6089848,
+            41.141835
+          ],
+          [
+            -8.6088789,
+            41.1419687
+          ],
+          [
+            -8.608742,
+            41.1421854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/332568547",
+      "properties": {
+        "@id": "way/332568547",
+        "incline": "down",
+        "name": "Funicular dos Guindais",
+        "railway": "funicular",
+        "source": "Bing",
+        "wikipedia": "pt:Funicular dos Guindais"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.608742,
+            41.1421854
+          ],
+          [
+            -8.6088744,
+            41.142061
+          ],
+          [
+            -8.6089987,
+            41.141878
+          ],
+          [
+            -8.6090278,
+            41.1417721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/364225934",
+      "properties": {
+        "@id": "way/364225934",
+        "disused:railway": "yes",
+        "railway": "funicular",
+        "source": "http://www.funimag.com/photoblog/index.php/articles/fr-le-plan-incline-des-eaux-bonnes-france/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3925157,
+            42.9742119
+          ],
+          [
+            -0.3916718,
+            42.9736414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367878653",
+      "properties": {
+        "@id": "way/367878653",
+        "access:conditional": "yes @ (Mo-Th 06:30-23:00;Fr 6:30-24:00;Sa 00:00-02:00,07:30-24:00;Su 00:00-02:00,07:30-23:00)",
+        "bicycle": "yes",
+        "foot": "yes",
+        "horse": "no",
+        "motor_vehicle": "no",
+        "name": "Ascensor de San Juan",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0264643,
+            37.3669499
+          ],
+          [
+            -6.0265381,
+            37.3669469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367878769",
+      "properties": {
+        "@id": "way/367878769",
+        "access:conditional": "yes @ (Mo-Th 06:30-23:00;Fr 6:30-24:00;Sa 00:00-02:00,07:30-24:00;Su 00:00-02:00,07:30-23:00)",
+        "bicycle": "yes",
+        "foot": "yes",
+        "horse": "no",
+        "motor_vehicle": "no",
+        "name": "Ascensor de San Juan",
+        "railway": "funicular",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0265381,
+            37.3669469
+          ],
+          [
+            -6.0277684,
+            37.3669036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367878770",
+      "properties": {
+        "@id": "way/367878770",
+        "access:conditional": "yes @ (Mo-Th 06:30-23:00;Fr 6:30-24:00;Sa 00:00-02:00,07:30-24:00;Su 00:00-02:00,07:30-23:00)",
+        "bicycle": "yes",
+        "foot": "yes",
+        "horse": "no",
+        "motor_vehicle": "no",
+        "name": "Ascensor de San Juan",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0277684,
+            37.3669036
+          ],
+          [
+            -6.0279317,
+            37.3668978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368452299",
+      "properties": {
+        "@id": "way/368452299",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.8886626,
+            42.6858506
+          ],
+          [
+            0.8871541,
+            42.6869922
+          ],
+          [
+            0.8862157,
+            42.6881699
+          ],
+          [
+            0.8841793,
+            42.6906941
+          ],
+          [
+            0.8838798,
+            42.6910537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373700429",
+      "properties": {
+        "@id": "way/373700429",
+        "railway": "funicular",
+        "toll": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9149369,
+            43.2550631
+          ],
+          [
+            -2.9149381,
+            43.2548407
+          ],
+          [
+            -2.9149394,
+            43.2546173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/375238741",
+      "properties": {
+        "@id": "way/375238741",
+        "name": "Ascensor Funiculado de Arangoiti",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9512247,
+            43.2729954
+          ],
+          [
+            -2.9514136,
+            43.273249
+          ],
+          [
+            -2.9503705,
+            43.2743128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377724315",
+      "properties": {
+        "@id": "way/377724315",
+        "capacity": "25",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7307059,
+            42.2304063
+          ],
+          [
+            -8.7302227,
+            42.2303048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386848810",
+      "properties": {
+        "@id": "way/386848810",
+        "name": "Ascensor de Zurbaranbarri",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9128366,
+            43.2639448
+          ],
+          [
+            -2.9122841,
+            43.263728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391666336",
+      "properties": {
+        "@id": "way/391666336",
+        "railway": "funicular",
+        "wikipedia": "fr:Funiculaire du Pic du Jer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0331247,
+            43.0805521
+          ],
+          [
+            -0.0339639,
+            43.0808268
+          ]
+        ]
+      }
+    }
+  ]
+}

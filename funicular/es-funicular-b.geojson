@@ -1,0 +1,434 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:13:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23425063",
+      "properties": {
+        "@id": "way/23425063",
+        "layer": "-1",
+        "name": "Dôme Express",
+        "railway": "funicular",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.202462,
+            44.9969536
+          ],
+          [
+            6.2033601,
+            44.9966274
+          ],
+          [
+            6.2050112,
+            44.995969
+          ],
+          [
+            6.206371,
+            44.9956072
+          ],
+          [
+            6.2080991,
+            44.9953979
+          ],
+          [
+            6.2102632,
+            44.9954104
+          ],
+          [
+            6.212667,
+            44.9957769
+          ],
+          [
+            6.2255463,
+            44.9973208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23425064",
+      "properties": {
+        "@id": "way/23425064",
+        "bridge": "yes",
+        "name": "Ascenseur incliné Glacier",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.202737,
+            44.9970924
+          ],
+          [
+            6.2041132,
+            44.9971309
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32678348",
+      "properties": {
+        "@id": "way/32678348",
+        "name": "Funicular de Sant Joan",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.8363415,
+            41.5919751
+          ],
+          [
+            1.8339278,
+            41.5894307
+          ],
+          [
+            1.8332818,
+            41.5887497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42459280",
+      "properties": {
+        "@id": "way/42459280",
+        "name": "Funicular de santa Cova",
+        "operator": "FGC",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.8368561,
+            41.592273
+          ],
+          [
+            1.83714,
+            41.5923739
+          ],
+          [
+            1.8373025,
+            41.5924216
+          ],
+          [
+            1.8374689,
+            41.5924593
+          ],
+          [
+            1.8377076,
+            41.5924939
+          ],
+          [
+            1.8379037,
+            41.5925152
+          ],
+          [
+            1.8380571,
+            41.5925216
+          ],
+          [
+            1.8382335,
+            41.5925358
+          ],
+          [
+            1.8384253,
+            41.5925383
+          ],
+          [
+            1.838604,
+            41.5925376
+          ],
+          [
+            1.8387956,
+            41.5925277
+          ],
+          [
+            1.8394061,
+            41.5924515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68697848",
+      "properties": {
+        "@id": "way/68697848",
+        "layer": "-1",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6182496,
+            44.8000653
+          ],
+          [
+            1.6177846,
+            44.8000653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68697863",
+      "properties": {
+        "@id": "way/68697863",
+        "layer": "-1",
+        "name": "Ascenseur incliné",
+        "railway": "funicular",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6161381,
+            44.8007903
+          ],
+          [
+            1.6181919,
+            44.8008973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/82221597",
+      "properties": {
+        "@id": "way/82221597",
+        "layer": "1",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0173854,
+            43.8765294
+          ],
+          [
+            8.0169409,
+            43.8763591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/83469312",
+      "properties": {
+        "@id": "way/83469312",
+        "gauge": "1200",
+        "layer": "-1",
+        "maxspeed": "3.6",
+        "name": "Ascensor inclinat",
+        "railway": "funicular",
+        "start_date": "2003-05-03",
+        "website:unofficial": "http://www.trenscat.com/funis/puigcerda_ct.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.9260757,
+            42.4304434
+          ],
+          [
+            1.9267244,
+            42.4309062
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/135252131",
+      "properties": {
+        "@id": "way/135252131",
+        "bicycle": "no",
+        "motor_vehicle": "no",
+        "railway": "funicular",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.3547569,
+            44.0136936
+          ],
+          [
+            1.3545393,
+            44.0134754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181194213",
+      "properties": {
+        "@id": "way/181194213",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8229844,
+            44.3891618
+          ],
+          [
+            7.8238599,
+            44.3888735
+          ],
+          [
+            7.8251397,
+            44.3885231
+          ],
+          [
+            7.8257662,
+            44.3883321
+          ],
+          [
+            7.8260541,
+            44.3882499
+          ],
+          [
+            7.8265008,
+            44.3881595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202054299",
+      "properties": {
+        "@id": "way/202054299",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8257662,
+            44.3883321
+          ],
+          [
+            7.8260633,
+            44.3882866
+          ],
+          [
+            7.8265008,
+            44.3881595
+          ],
+          [
+            7.827259,
+            44.3881431
+          ],
+          [
+            7.8284973,
+            44.3882024
+          ],
+          [
+            7.8290187,
+            44.3882137
+          ],
+          [
+            7.8290803,
+            44.3882174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219056685",
+      "properties": {
+        "@id": "way/219056685",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.7408739,
+            41.6469955
+          ],
+          [
+            2.7405145,
+            41.6474765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264006270",
+      "properties": {
+        "@id": "way/264006270",
+        "name": "Funicolare Bottini (in costruzione)",
+        "railway": "funicular",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5421384,
+            44.3399375
+          ],
+          [
+            8.5419352,
+            44.3393652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317901528",
+      "properties": {
+        "@id": "way/317901528",
+        "embankment": "yes",
+        "railway": "funicular"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.1594157,
+            44.18588
+          ],
+          [
+            7.1596196,
+            44.1871639
+          ]
+        ]
+      }
+    }
+  ]
+}

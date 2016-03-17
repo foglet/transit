@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T02:23:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/178464250",
+      "properties": {
+        "@id": "way/178464250",
+        "layer": "-1",
+        "name:en": "Baku Funicular",
+        "railway": "funicular",
+        "tunnel": "yes",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8294121,
+            40.3588366
+          ],
+          [
+            49.8305282,
+            40.3592818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178464251",
+      "properties": {
+        "@id": "way/178464251",
+        "name": "Funikulyor",
+        "name:en": "Baku Funicular",
+        "railway": "funicular",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8305282,
+            40.3592818
+          ],
+          [
+            49.8329594,
+            40.3601922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178464252",
+      "properties": {
+        "@id": "way/178464252",
+        "name": "Funikulyor",
+        "name:en": "Baku Funicular",
+        "railway": "funicular",
+        "usage": "tourism"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8287547,
+            40.3586099
+          ],
+          [
+            49.8294121,
+            40.3588366
+          ]
+        ]
+      }
+    }
+  ]
+}

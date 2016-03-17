@@ -1,0 +1,2284 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/142961070",
+      "properties": {
+        "@id": "way/142961070",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2852265,
+            "reltags": {
+              "from": "California St & Van Ness Ave",
+              "name": "61-California: Inbound to Embarcadero",
+              "operator": "San Francisco Municipal Railway",
+              "railway": "tram",
+              "ref": "61",
+              "route": "tram",
+              "to": "Ferry Plaza",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4218431,
+            37.7904522
+          ],
+          [
+            -122.4217844,
+            37.7904576
+          ],
+          [
+            -122.4217641,
+            37.7904589
+          ],
+          [
+            -122.4216496,
+            37.7904582
+          ],
+          [
+            -122.4216184,
+            37.7904588
+          ],
+          [
+            -122.4215926,
+            37.7904601
+          ],
+          [
+            -122.4206003,
+            37.7905827
+          ],
+          [
+            -122.4191604,
+            37.7907674
+          ],
+          [
+            -122.4190632,
+            37.7907799
+          ],
+          [
+            -122.4189616,
+            37.7907942
+          ],
+          [
+            -122.4176725,
+            37.790956
+          ],
+          [
+            -122.417156,
+            37.7910184
+          ],
+          [
+            -122.4166093,
+            37.7910879
+          ],
+          [
+            -122.4161129,
+            37.7911477
+          ],
+          [
+            -122.415853,
+            37.7911802
+          ],
+          [
+            -122.4156567,
+            37.7911956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142961076",
+      "properties": {
+        "@id": "way/142961076",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2852264,
+            "reltags": {
+              "from": "Ferry Plaza",
+              "name": "61-California: Outbound to Van Ness",
+              "operator": "San Francisco Municipal Railway",
+              "railway": "tram",
+              "ref": "61",
+              "route": "tram",
+              "to": "California St & Van Ness Ave",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4156665,
+            37.7912396
+          ],
+          [
+            -122.4158608,
+            37.7912112
+          ],
+          [
+            -122.4168602,
+            37.7910822
+          ],
+          [
+            -122.4171724,
+            37.7910424
+          ],
+          [
+            -122.4176716,
+            37.79098
+          ],
+          [
+            -122.4189633,
+            37.7908177
+          ],
+          [
+            -122.4191552,
+            37.7907953
+          ],
+          [
+            -122.4206042,
+            37.7906088
+          ],
+          [
+            -122.4215969,
+            37.7904856
+          ],
+          [
+            -122.4218431,
+            37.7904522
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142961065",
+      "properties": {
+        "@id": "way/142961065",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2852264,
+            "reltags": {
+              "from": "Ferry Plaza",
+              "name": "61-California: Outbound to Van Ness",
+              "operator": "San Francisco Municipal Railway",
+              "railway": "tram",
+              "ref": "61",
+              "route": "tram",
+              "to": "California St & Van Ness Ave",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 2852265,
+            "reltags": {
+              "from": "California St & Van Ness Ave",
+              "name": "61-California: Inbound to Embarcadero",
+              "operator": "San Francisco Municipal Railway",
+              "railway": "tram",
+              "ref": "61",
+              "route": "tram",
+              "to": "Ferry Plaza",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4220631,
+            37.7904048
+          ],
+          [
+            -122.4218551,
+            37.7904316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142961068",
+      "properties": {
+        "@id": "way/142961068",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2852264,
+            "reltags": {
+              "from": "Ferry Plaza",
+              "name": "61-California: Outbound to Van Ness",
+              "operator": "San Francisco Municipal Railway",
+              "railway": "tram",
+              "ref": "61",
+              "route": "tram",
+              "to": "California St & Van Ness Ave",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2852265,
+            "reltags": {
+              "from": "California St & Van Ness Ave",
+              "name": "61-California: Inbound to Embarcadero",
+              "operator": "San Francisco Municipal Railway",
+              "railway": "tram",
+              "ref": "61",
+              "route": "tram",
+              "to": "Ferry Plaza",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4220702,
+            37.7904237
+          ],
+          [
+            -122.4218431,
+            37.7904522
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144344606",
+      "properties": {
+        "@id": "way/144344606",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1959009,
+            "reltags": {
+              "from": "Powell St & Market St",
+              "name": "60-Powell/Hyde: Outbound to Fisherman's Wharf",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Hyde St & Beach St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1959010,
+            "reltags": {
+              "from": "Powell St & Market St",
+              "name": "59-Powell/Mason: Outbound to Fisherman's Wharf",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "59",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "59",
+              "route": "tram",
+              "to": "Taylor St & Bay St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4076935,
+            37.784711
+          ],
+          [
+            -122.4076995,
+            37.7847373
+          ],
+          [
+            -122.4077233,
+            37.7848521
+          ],
+          [
+            -122.4078511,
+            37.7854976
+          ],
+          [
+            -122.4080177,
+            37.7863433
+          ],
+          [
+            -122.4080344,
+            37.786431
+          ],
+          [
+            -122.4080605,
+            37.7865486
+          ],
+          [
+            -122.4082179,
+            37.7873747
+          ],
+          [
+            -122.4083552,
+            37.7880586
+          ],
+          [
+            -122.408379,
+            37.7882114
+          ],
+          [
+            -122.4083925,
+            37.7882932
+          ],
+          [
+            -122.4085855,
+            37.7891556
+          ],
+          [
+            -122.4085987,
+            37.7892287
+          ],
+          [
+            -122.4087766,
+            37.7900848
+          ],
+          [
+            -122.4087932,
+            37.7901739
+          ],
+          [
+            -122.408811,
+            37.7902554
+          ],
+          [
+            -122.4089179,
+            37.7908192
+          ],
+          [
+            -122.4089642,
+            37.7910208
+          ],
+          [
+            -122.408977,
+            37.7910931
+          ],
+          [
+            -122.408992,
+            37.791171
+          ],
+          [
+            -122.4091618,
+            37.7920291
+          ],
+          [
+            -122.4091692,
+            37.7920665
+          ],
+          [
+            -122.4093458,
+            37.7929588
+          ],
+          [
+            -122.4095063,
+            37.7938004
+          ],
+          [
+            -122.4095207,
+            37.7938542
+          ],
+          [
+            -122.4095374,
+            37.7939211
+          ],
+          [
+            -122.4096748,
+            37.7945585
+          ],
+          [
+            -122.4097179,
+            37.7947528
+          ],
+          [
+            -122.409756,
+            37.7949295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144344607",
+      "properties": {
+        "@id": "way/144344607",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3433157,
+            "reltags": {
+              "from": "Taylor St & Bay St",
+              "name": "59-Powell/Mason: Inbound to Downtown",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "59",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "59",
+              "route": "tram",
+              "to": "Powell St & Market St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3433158,
+            "reltags": {
+              "from": "Hyde St & Beach St",
+              "name": "60-Powell/Hyde: Inbound to Downtown",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Powell St & Market St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4103104,
+            37.7946602
+          ],
+          [
+            -122.4101983,
+            37.7946749
+          ],
+          [
+            -122.4099094,
+            37.7947098
+          ],
+          [
+            -122.4098856,
+            37.7947113
+          ],
+          [
+            -122.4098625,
+            37.7947111
+          ],
+          [
+            -122.4098388,
+            37.7947081
+          ],
+          [
+            -122.4098152,
+            37.794701
+          ],
+          [
+            -122.4097953,
+            37.7946925
+          ],
+          [
+            -122.4097766,
+            37.7946803
+          ],
+          [
+            -122.4097635,
+            37.7946666
+          ],
+          [
+            -122.4097472,
+            37.7946456
+          ],
+          [
+            -122.4097332,
+            37.7946209
+          ],
+          [
+            -122.4097218,
+            37.7945916
+          ],
+          [
+            -122.4097106,
+            37.794549
+          ],
+          [
+            -122.4095795,
+            37.7939146
+          ],
+          [
+            -122.4095673,
+            37.7938483
+          ],
+          [
+            -122.4095584,
+            37.793791
+          ],
+          [
+            -122.4093759,
+            37.7929553
+          ],
+          [
+            -122.4092048,
+            37.7920621
+          ],
+          [
+            -122.4091976,
+            37.7920245
+          ],
+          [
+            -122.4090332,
+            37.7911667
+          ],
+          [
+            -122.4090157,
+            37.7910883
+          ],
+          [
+            -122.4089996,
+            37.7910147
+          ],
+          [
+            -122.408961,
+            37.7908118
+          ],
+          [
+            -122.4088391,
+            37.7902483
+          ],
+          [
+            -122.4088219,
+            37.7901702
+          ],
+          [
+            -122.4088033,
+            37.7900786
+          ],
+          [
+            -122.4086331,
+            37.7892244
+          ],
+          [
+            -122.4084426,
+            37.7882868
+          ],
+          [
+            -122.4084278,
+            37.7882104
+          ],
+          [
+            -122.4082626,
+            37.7873631
+          ],
+          [
+            -122.4080921,
+            37.7865447
+          ],
+          [
+            -122.4080685,
+            37.7864255
+          ],
+          [
+            -122.4080487,
+            37.7863193
+          ],
+          [
+            -122.4078838,
+            37.7854934
+          ],
+          [
+            -122.4077462,
+            37.7847869
+          ],
+          [
+            -122.4077426,
+            37.7847741
+          ],
+          [
+            -122.4077355,
+            37.7847621
+          ],
+          [
+            -122.4077265,
+            37.7847502
+          ],
+          [
+            -122.4076935,
+            37.784711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144783747",
+      "properties": {
+        "@id": "way/144783747",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2852264,
+            "reltags": {
+              "from": "Ferry Plaza",
+              "name": "61-California: Outbound to Van Ness",
+              "operator": "San Francisco Municipal Railway",
+              "railway": "tram",
+              "ref": "61",
+              "route": "tram",
+              "to": "California St & Van Ness Ave",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3962531,
+            37.7936956
+          ],
+          [
+            -122.3976139,
+            37.7935346
+          ],
+          [
+            -122.4034847,
+            37.7927898
+          ],
+          [
+            -122.4056631,
+            37.7925135
+          ],
+          [
+            -122.4080957,
+            37.792209
+          ],
+          [
+            -122.4083636,
+            37.7921709
+          ],
+          [
+            -122.4091009,
+            37.7920749
+          ],
+          [
+            -122.4091692,
+            37.7920665
+          ],
+          [
+            -122.4092048,
+            37.7920621
+          ],
+          [
+            -122.4092961,
+            37.7920508
+          ],
+          [
+            -122.4124637,
+            37.7916478
+          ],
+          [
+            -122.4131179,
+            37.7915645
+          ],
+          [
+            -122.4141101,
+            37.791435
+          ],
+          [
+            -122.4156665,
+            37.7912396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144783748",
+      "properties": {
+        "@id": "way/144783748",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2852265,
+            "reltags": {
+              "from": "California St & Van Ness Ave",
+              "name": "61-California: Inbound to Embarcadero",
+              "operator": "San Francisco Municipal Railway",
+              "railway": "tram",
+              "ref": "61",
+              "route": "tram",
+              "to": "Ferry Plaza",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4156567,
+            37.7911956
+          ],
+          [
+            -122.4141021,
+            37.7913965
+          ],
+          [
+            -122.4127671,
+            37.7915668
+          ],
+          [
+            -122.4124499,
+            37.7916174
+          ],
+          [
+            -122.4120611,
+            37.7916547
+          ],
+          [
+            -122.4117125,
+            37.7916977
+          ],
+          [
+            -122.4091976,
+            37.7920245
+          ],
+          [
+            -122.4091618,
+            37.7920291
+          ],
+          [
+            -122.4088304,
+            37.7920722
+          ],
+          [
+            -122.4083642,
+            37.7921343
+          ],
+          [
+            -122.4080939,
+            37.7921693
+          ],
+          [
+            -122.4067212,
+            37.7923298
+          ],
+          [
+            -122.4037812,
+            37.7927103
+          ],
+          [
+            -122.3976136,
+            37.7934945
+          ],
+          [
+            -122.3965866,
+            37.7936254
+          ],
+          [
+            -122.3965501,
+            37.7936305
+          ],
+          [
+            -122.3965064,
+            37.7936395
+          ],
+          [
+            -122.3964163,
+            37.7936624
+          ],
+          [
+            -122.3963809,
+            37.7936719
+          ],
+          [
+            -122.3963517,
+            37.7936794
+          ],
+          [
+            -122.3963181,
+            37.7936854
+          ],
+          [
+            -122.3962531,
+            37.7936956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197979143",
+      "properties": {
+        "@id": "way/197979143",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3433158,
+            "reltags": {
+              "from": "Hyde St & Beach St",
+              "name": "60-Powell/Hyde: Inbound to Downtown",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Powell St & Market St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4184789,
+            37.7962142
+          ],
+          [
+            -122.4183717,
+            37.795706
+          ],
+          [
+            -122.4183356,
+            37.7955239
+          ],
+          [
+            -122.4183167,
+            37.7954138
+          ],
+          [
+            -122.4182537,
+            37.7951089
+          ],
+          [
+            -122.4182065,
+            37.7948768
+          ],
+          [
+            -122.4181553,
+            37.7946175
+          ],
+          [
+            -122.4181449,
+            37.7945627
+          ],
+          [
+            -122.418006,
+            37.7938571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197979146",
+      "properties": {
+        "@id": "way/197979146",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1959009,
+            "reltags": {
+              "from": "Powell St & Market St",
+              "name": "60-Powell/Hyde: Outbound to Fisherman's Wharf",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Hyde St & Beach St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4184417,
+            37.796218
+          ],
+          [
+            -122.4184829,
+            37.7964007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197979147",
+      "properties": {
+        "@id": "way/197979147",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3433158,
+            "reltags": {
+              "from": "Hyde St & Beach St",
+              "name": "60-Powell/Hyde: Inbound to Downtown",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Powell St & Market St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4185174,
+            37.7963967
+          ],
+          [
+            -122.4184789,
+            37.7962142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144344604",
+      "properties": {
+        "@id": "way/144344604",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1959009,
+            "reltags": {
+              "from": "Powell St & Market St",
+              "name": "60-Powell/Hyde: Outbound to Fisherman's Wharf",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Hyde St & Beach St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1959010,
+            "reltags": {
+              "from": "Powell St & Market St",
+              "name": "59-Powell/Mason: Outbound to Fisherman's Wharf",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "59",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "59",
+              "route": "tram",
+              "to": "Taylor St & Bay St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.409756,
+            37.7949295
+          ],
+          [
+            -122.4097968,
+            37.7951441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144779080",
+      "properties": {
+        "@id": "way/144779080",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3433157,
+            "reltags": {
+              "from": "Taylor St & Bay St",
+              "name": "59-Powell/Mason: Inbound to Downtown",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "59",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "59",
+              "route": "tram",
+              "to": "Powell St & Market St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4117586,
+            37.7962872
+          ],
+          [
+            -122.4116665,
+            37.7958374
+          ],
+          [
+            -122.4115765,
+            37.7954031
+          ],
+          [
+            -122.4115732,
+            37.7953874
+          ],
+          [
+            -122.4115379,
+            37.7951891
+          ],
+          [
+            -122.411428,
+            37.7946859
+          ],
+          [
+            -122.4114189,
+            37.794652
+          ],
+          [
+            -122.4114059,
+            37.7946242
+          ],
+          [
+            -122.4113858,
+            37.7946002
+          ],
+          [
+            -122.4113627,
+            37.7945804
+          ],
+          [
+            -122.4113324,
+            37.7945638
+          ],
+          [
+            -122.4112936,
+            37.7945514
+          ],
+          [
+            -122.4112586,
+            37.7945466
+          ],
+          [
+            -122.4112221,
+            37.7945441
+          ],
+          [
+            -122.4111901,
+            37.7945461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144801036",
+      "properties": {
+        "@id": "way/144801036",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1959010,
+            "reltags": {
+              "from": "Powell St & Market St",
+              "name": "59-Powell/Mason: Outbound to Fisherman's Wharf",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "59",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "59",
+              "route": "tram",
+              "to": "Taylor St & Bay St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4097968,
+            37.7951441
+          ],
+          [
+            -122.409822,
+            37.7952672
+          ],
+          [
+            -122.4098586,
+            37.7954626
+          ],
+          [
+            -122.4098655,
+            37.7954897
+          ],
+          [
+            -122.4098809,
+            37.7955251
+          ],
+          [
+            -122.4098975,
+            37.7955452
+          ],
+          [
+            -122.4099117,
+            37.7955592
+          ],
+          [
+            -122.4099287,
+            37.7955726
+          ],
+          [
+            -122.409948,
+            37.7955839
+          ],
+          [
+            -122.4099697,
+            37.7955934
+          ],
+          [
+            -122.4100005,
+            37.7956039
+          ],
+          [
+            -122.4100313,
+            37.7956094
+          ],
+          [
+            -122.4100674,
+            37.7956108
+          ],
+          [
+            -122.410107,
+            37.7956069
+          ],
+          [
+            -122.4113571,
+            37.7954408
+          ],
+          [
+            -122.4113947,
+            37.7954405
+          ],
+          [
+            -122.4114295,
+            37.7954446
+          ],
+          [
+            -122.4114601,
+            37.7954537
+          ],
+          [
+            -122.411487,
+            37.7954644
+          ],
+          [
+            -122.4115137,
+            37.7954803
+          ],
+          [
+            -122.4115366,
+            37.7955024
+          ],
+          [
+            -122.4115551,
+            37.7955305
+          ],
+          [
+            -122.4115655,
+            37.7955612
+          ],
+          [
+            -122.4115738,
+            37.7955954
+          ],
+          [
+            -122.4116181,
+            37.7958374
+          ],
+          [
+            -122.4117165,
+            37.7962939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144801045",
+      "properties": {
+        "@id": "way/144801045",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3433157,
+            "reltags": {
+              "from": "Taylor St & Bay St",
+              "name": "59-Powell/Mason: Inbound to Downtown",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "59",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "59",
+              "route": "tram",
+              "to": "Powell St & Market St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3433158,
+            "reltags": {
+              "from": "Hyde St & Beach St",
+              "name": "60-Powell/Hyde: Inbound to Downtown",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Powell St & Market St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4111901,
+            37.7945461
+          ],
+          [
+            -122.4103104,
+            37.7946602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144346225",
+      "properties": {
+        "@id": "way/144346225",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3433158,
+            "reltags": {
+              "from": "Hyde St & Beach St",
+              "name": "60-Powell/Hyde: Inbound to Downtown",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Powell St & Market St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.418006,
+            37.7938571
+          ],
+          [
+            -122.4179945,
+            37.7938184
+          ],
+          [
+            -122.4179843,
+            37.7937971
+          ],
+          [
+            -122.4179675,
+            37.7937779
+          ],
+          [
+            -122.4179458,
+            37.7937593
+          ],
+          [
+            -122.4179156,
+            37.7937441
+          ],
+          [
+            -122.4178792,
+            37.7937314
+          ],
+          [
+            -122.4178475,
+            37.7937229
+          ],
+          [
+            -122.4178053,
+            37.7937179
+          ],
+          [
+            -122.4177691,
+            37.7937185
+          ],
+          [
+            -122.417715,
+            37.7937217
+          ],
+          [
+            -122.4117758,
+            37.7944724
+          ],
+          [
+            -122.4113807,
+            37.794524
+          ],
+          [
+            -122.4111901,
+            37.7945461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144346227",
+      "properties": {
+        "@id": "way/144346227",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3433158,
+            "reltags": {
+              "from": "Hyde St & Beach St",
+              "name": "60-Powell/Hyde: Inbound to Downtown",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Powell St & Market St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4203841,
+            37.8056658
+          ],
+          [
+            -122.4201914,
+            37.8046916
+          ],
+          [
+            -122.4196615,
+            37.8020638
+          ],
+          [
+            -122.4193025,
+            37.8002834
+          ],
+          [
+            -122.4190814,
+            37.7991904
+          ],
+          [
+            -122.4189167,
+            37.7983759
+          ],
+          [
+            -122.418555,
+            37.7965931
+          ],
+          [
+            -122.4185374,
+            37.7965025
+          ],
+          [
+            -122.4185174,
+            37.7963967
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144346228",
+      "properties": {
+        "@id": "way/144346228",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1959009,
+            "reltags": {
+              "from": "Powell St & Market St",
+              "name": "60-Powell/Hyde: Outbound to Fisherman's Wharf",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Hyde St & Beach St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4097968,
+            37.7951441
+          ],
+          [
+            -122.4098078,
+            37.7951771
+          ],
+          [
+            -122.4098172,
+            37.795202
+          ],
+          [
+            -122.4098285,
+            37.7952291
+          ],
+          [
+            -122.4098354,
+            37.7952503
+          ],
+          [
+            -122.4098407,
+            37.7952801
+          ],
+          [
+            -122.4098712,
+            37.7954547
+          ],
+          [
+            -122.4098803,
+            37.7954894
+          ],
+          [
+            -122.4098958,
+            37.79552
+          ],
+          [
+            -122.4099143,
+            37.795542
+          ],
+          [
+            -122.4099351,
+            37.7955613
+          ],
+          [
+            -122.4099558,
+            37.7955747
+          ],
+          [
+            -122.4099801,
+            37.795586
+          ],
+          [
+            -122.4100047,
+            37.7955942
+          ],
+          [
+            -122.4100326,
+            37.7956
+          ],
+          [
+            -122.410065,
+            37.7956009
+          ],
+          [
+            -122.410098,
+            37.7955984
+          ],
+          [
+            -122.4110802,
+            37.7954714
+          ],
+          [
+            -122.4113406,
+            37.7954359
+          ],
+          [
+            -122.4114171,
+            37.795426
+          ],
+          [
+            -122.4115139,
+            37.7954113
+          ],
+          [
+            -122.4115421,
+            37.7954072
+          ],
+          [
+            -122.4115765,
+            37.7954031
+          ],
+          [
+            -122.412522,
+            37.7952915
+          ],
+          [
+            -122.4131765,
+            37.7951986
+          ],
+          [
+            -122.4179156,
+            37.7945901
+          ],
+          [
+            -122.4179543,
+            37.794591
+          ],
+          [
+            -122.41798,
+            37.7945926
+          ],
+          [
+            -122.4179996,
+            37.7945961
+          ],
+          [
+            -122.4180273,
+            37.7946028
+          ],
+          [
+            -122.4180511,
+            37.7946115
+          ],
+          [
+            -122.418073,
+            37.794624
+          ],
+          [
+            -122.4180953,
+            37.7946421
+          ],
+          [
+            -122.4181133,
+            37.7946644
+          ],
+          [
+            -122.4181275,
+            37.7946892
+          ],
+          [
+            -122.4181336,
+            37.7947048
+          ],
+          [
+            -122.4181379,
+            37.7947158
+          ],
+          [
+            -122.418145,
+            37.7947438
+          ],
+          [
+            -122.418162,
+            37.7948332
+          ],
+          [
+            -122.4182118,
+            37.7950764
+          ],
+          [
+            -122.4182825,
+            37.7954168
+          ],
+          [
+            -122.4183015,
+            37.7955277
+          ],
+          [
+            -122.4184417,
+            37.796218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144779083",
+      "properties": {
+        "@id": "way/144779083",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1959010,
+            "reltags": {
+              "from": "Powell St & Market St",
+              "name": "59-Powell/Mason: Outbound to Fisherman's Wharf",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "59",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "59",
+              "route": "tram",
+              "to": "Taylor St & Bay St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4117165,
+            37.7962939
+          ],
+          [
+            -122.4118531,
+            37.7969998
+          ],
+          [
+            -122.4119082,
+            37.7972693
+          ],
+          [
+            -122.412036,
+            37.797931
+          ],
+          [
+            -122.4120814,
+            37.7981668
+          ],
+          [
+            -122.4122753,
+            37.7990949
+          ],
+          [
+            -122.4123931,
+            37.7997311
+          ],
+          [
+            -122.4124506,
+            37.7999593
+          ],
+          [
+            -122.4124638,
+            37.8000418
+          ],
+          [
+            -122.4124783,
+            37.8001142
+          ],
+          [
+            -122.4125291,
+            37.8003414
+          ],
+          [
+            -122.4126544,
+            37.8009653
+          ],
+          [
+            -122.412744,
+            37.8014298
+          ],
+          [
+            -122.412818,
+            37.8018262
+          ],
+          [
+            -122.4128293,
+            37.8018933
+          ],
+          [
+            -122.4128642,
+            37.8020141
+          ],
+          [
+            -122.412908,
+            37.802184
+          ],
+          [
+            -122.412986,
+            37.8022655
+          ],
+          [
+            -122.4131248,
+            37.8023893
+          ],
+          [
+            -122.4135694,
+            37.8026899
+          ],
+          [
+            -122.4136541,
+            37.8027511
+          ],
+          [
+            -122.4138007,
+            37.8028555
+          ],
+          [
+            -122.4146542,
+            37.8034351
+          ],
+          [
+            -122.4147994,
+            37.8035522
+          ],
+          [
+            -122.4148769,
+            37.8036783
+          ],
+          [
+            -122.4149157,
+            37.8037931
+          ],
+          [
+            -122.4149964,
+            37.8042048
+          ],
+          [
+            -122.4150415,
+            37.804416
+          ],
+          [
+            -122.4150561,
+            37.8044805
+          ],
+          [
+            -122.4150717,
+            37.8045622
+          ],
+          [
+            -122.415113,
+            37.8048188
+          ],
+          [
+            -122.415163,
+            37.8050261
+          ],
+          [
+            -122.4151894,
+            37.8051693
+          ],
+          [
+            -122.4152376,
+            37.805223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144779085",
+      "properties": {
+        "@id": "way/144779085",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3433157,
+            "reltags": {
+              "from": "Taylor St & Bay St",
+              "name": "59-Powell/Mason: Inbound to Downtown",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "59",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "59",
+              "route": "tram",
+              "to": "Powell St & Market St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4152376,
+            37.805223
+          ],
+          [
+            -122.4151857,
+            37.8049426
+          ],
+          [
+            -122.4151035,
+            37.8045584
+          ],
+          [
+            -122.415089,
+            37.8044764
+          ],
+          [
+            -122.4150757,
+            37.8044119
+          ],
+          [
+            -122.4150308,
+            37.8042004
+          ],
+          [
+            -122.4149345,
+            37.8037118
+          ],
+          [
+            -122.414877,
+            37.803542
+          ],
+          [
+            -122.4147948,
+            37.8034366
+          ],
+          [
+            -122.4146919,
+            37.8033546
+          ],
+          [
+            -122.4139235,
+            37.8028227
+          ],
+          [
+            -122.4137851,
+            37.8027259
+          ],
+          [
+            -122.4136978,
+            37.8026676
+          ],
+          [
+            -122.4130634,
+            37.802223
+          ],
+          [
+            -122.4129822,
+            37.8021402
+          ],
+          [
+            -122.4129492,
+            37.8020738
+          ],
+          [
+            -122.4129058,
+            37.8019843
+          ],
+          [
+            -122.4128865,
+            37.801887
+          ],
+          [
+            -122.4128718,
+            37.8018239
+          ],
+          [
+            -122.4127851,
+            37.8014261
+          ],
+          [
+            -122.4126931,
+            37.8009603
+          ],
+          [
+            -122.4125676,
+            37.800335
+          ],
+          [
+            -122.412524,
+            37.8001114
+          ],
+          [
+            -122.4125145,
+            37.8000353
+          ],
+          [
+            -122.4124988,
+            37.7999507
+          ],
+          [
+            -122.4124493,
+            37.7997592
+          ],
+          [
+            -122.4123292,
+            37.7991781
+          ],
+          [
+            -122.4123165,
+            37.7990893
+          ],
+          [
+            -122.4123039,
+            37.7990298
+          ],
+          [
+            -122.4121463,
+            37.7982362
+          ],
+          [
+            -122.4121337,
+            37.7981604
+          ],
+          [
+            -122.4121175,
+            37.7980927
+          ],
+          [
+            -122.4120504,
+            37.7977654
+          ],
+          [
+            -122.4119489,
+            37.7972674
+          ],
+          [
+            -122.4118897,
+            37.7969952
+          ],
+          [
+            -122.4117586,
+            37.7962872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197979148",
+      "properties": {
+        "@id": "way/197979148",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1959009,
+            "reltags": {
+              "from": "Powell St & Market St",
+              "name": "60-Powell/Hyde: Outbound to Fisherman's Wharf",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Hyde St & Beach St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4184829,
+            37.7964007
+          ],
+          [
+            -122.4185065,
+            37.7965182
+          ],
+          [
+            -122.4185227,
+            37.7965984
+          ],
+          [
+            -122.4188722,
+            37.7983329
+          ],
+          [
+            -122.4188817,
+            37.79838
+          ],
+          [
+            -122.4190459,
+            37.7991949
+          ],
+          [
+            -122.4193038,
+            37.8004745
+          ],
+          [
+            -122.4196249,
+            37.8020679
+          ],
+          [
+            -122.4201545,
+            37.8046961
+          ],
+          [
+            -122.4203512,
+            37.805672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30035709",
+      "properties": {
+        "@id": "way/30035709",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2852264,
+            "reltags": {
+              "from": "Ferry Plaza",
+              "name": "61-California: Outbound to Van Ness",
+              "operator": "San Francisco Municipal Railway",
+              "railway": "tram",
+              "ref": "61",
+              "route": "tram",
+              "to": "California St & Van Ness Ave",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2852265,
+            "reltags": {
+              "from": "California St & Van Ness Ave",
+              "name": "61-California: Inbound to Embarcadero",
+              "operator": "San Francisco Municipal Railway",
+              "railway": "tram",
+              "ref": "61",
+              "route": "tram",
+              "to": "Ferry Plaza",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3960333,
+            37.7937361
+          ],
+          [
+            -122.3962531,
+            37.7936956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30035696",
+      "properties": {
+        "@id": "way/30035696",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1959009,
+            "reltags": {
+              "from": "Powell St & Market St",
+              "name": "60-Powell/Hyde: Outbound to Fisherman's Wharf",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Hyde St & Beach St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4203512,
+            37.805672
+          ],
+          [
+            -122.4205367,
+            37.8065616
+          ],
+          [
+            -122.4205634,
+            37.8066495
+          ],
+          [
+            -122.4205844,
+            37.8066757
+          ],
+          [
+            -122.42066,
+            37.8067434
+          ],
+          [
+            -122.4207345,
+            37.8067897
+          ],
+          [
+            -122.4209604,
+            37.8069224
+          ],
+          [
+            -122.4211389,
+            37.8070243
+          ],
+          [
+            -122.4212046,
+            37.8070397
+          ],
+          [
+            -122.4212347,
+            37.8070409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142961078",
+      "properties": {
+        "@id": "way/142961078",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3433158,
+            "reltags": {
+              "from": "Hyde St & Beach St",
+              "name": "60-Powell/Hyde: Inbound to Downtown",
+              "nextbus:agency": "sf-muni",
+              "nextbus:route": "60",
+              "operator": "Muni",
+              "railway": "tram",
+              "ref": "60",
+              "route": "tram",
+              "to": "Powell St & Market St",
+              "tram": "cable_car",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4212347,
+            37.8070409
+          ],
+          [
+            -122.4210097,
+            37.8069094
+          ],
+          [
+            -122.4207427,
+            37.8067533
+          ],
+          [
+            -122.4206803,
+            37.8067107
+          ],
+          [
+            -122.4206318,
+            37.8066636
+          ],
+          [
+            -122.420591,
+            37.8066039
+          ],
+          [
+            -122.4205647,
+            37.806526
+          ],
+          [
+            -122.4203841,
+            37.8056658
+          ]
+        ]
+      }
+    }
+  ]
+}
