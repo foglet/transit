@@ -1,0 +1,2000 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-03T07:52:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/126944759",
+      "properties": {
+        "@id": "way/126944759",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4306727,
+            43.0906074
+          ],
+          [
+            12.4302659,
+            43.090614
+          ],
+          [
+            12.4297706,
+            43.0906534
+          ],
+          [
+            12.4291539,
+            43.0907682
+          ],
+          [
+            12.4289177,
+            43.0908174
+          ],
+          [
+            12.4284224,
+            43.090988
+          ],
+          [
+            12.4279926,
+            43.0911684
+          ],
+          [
+            12.4275531,
+            43.0914013
+          ],
+          [
+            12.4271562,
+            43.0916407
+          ],
+          [
+            12.4269233,
+            43.0917851
+          ],
+          [
+            12.4265755,
+            43.0920213
+          ],
+          [
+            12.4261786,
+            43.0923198
+          ],
+          [
+            12.4256505,
+            43.0927298
+          ],
+          [
+            12.425001,
+            43.093235
+          ],
+          [
+            12.4245286,
+            43.0935466
+          ],
+          [
+            12.4241383,
+            43.0938254
+          ],
+          [
+            12.4236003,
+            43.0942256
+          ],
+          [
+            12.4231574,
+            43.0946324
+          ],
+          [
+            12.4228392,
+            43.0949126
+          ],
+          [
+            12.4225473,
+            43.0951179
+          ],
+          [
+            12.4223505,
+            43.0952294
+          ],
+          [
+            12.421888,
+            43.0954426
+          ],
+          [
+            12.4215271,
+            43.0955739
+          ],
+          [
+            12.4212614,
+            43.0956395
+          ],
+          [
+            12.420894,
+            43.0957182
+          ],
+          [
+            12.4205233,
+            43.095751
+          ],
+          [
+            12.4201625,
+            43.0957641
+          ],
+          [
+            12.4198377,
+            43.095751
+          ],
+          [
+            12.4193588,
+            43.0957149
+          ],
+          [
+            12.4187487,
+            43.0956624
+          ],
+          [
+            12.4183747,
+            43.0956329
+          ],
+          [
+            12.4174825,
+            43.0955279
+          ],
+          [
+            12.4166224,
+            43.09544
+          ],
+          [
+            12.4157999,
+            43.0953419
+          ],
+          [
+            12.4153788,
+            43.0952798
+          ],
+          [
+            12.4137654,
+            43.0950185
+          ],
+          [
+            12.4134491,
+            43.0949751
+          ],
+          [
+            12.4131327,
+            43.0949492
+          ],
+          [
+            12.4128421,
+            43.0949362
+          ],
+          [
+            12.4125475,
+            43.0949333
+          ],
+          [
+            12.4122312,
+            43.0949463
+          ],
+          [
+            12.4118812,
+            43.0949795
+          ],
+          [
+            12.4113993,
+            43.0950434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61787309",
+      "properties": {
+        "@id": "way/61787309",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3969111,
+            43.0946144
+          ],
+          [
+            12.3966398,
+            43.0946585
+          ],
+          [
+            12.3963768,
+            43.0947249
+          ],
+          [
+            12.3961356,
+            43.0948058
+          ],
+          [
+            12.3959083,
+            43.0948953
+          ],
+          [
+            12.3957382,
+            43.094979
+          ],
+          [
+            12.3955919,
+            43.0950599
+          ],
+          [
+            12.3954239,
+            43.0951638
+          ],
+          [
+            12.3952499,
+            43.0952836
+          ],
+          [
+            12.3945262,
+            43.0957834
+          ],
+          [
+            12.3942526,
+            43.0959745
+          ],
+          [
+            12.39316,
+            43.0967216
+          ],
+          [
+            12.3926142,
+            43.0971813
+          ],
+          [
+            12.3923887,
+            43.0974561
+          ],
+          [
+            12.3922042,
+            43.0978169
+          ],
+          [
+            12.3920894,
+            43.0981449
+          ],
+          [
+            12.392073,
+            43.0983992
+          ],
+          [
+            12.3920976,
+            43.0986903
+          ],
+          [
+            12.3921755,
+            43.0990265
+          ],
+          [
+            12.3922657,
+            43.0992766
+          ],
+          [
+            12.3924338,
+            43.0996252
+          ],
+          [
+            12.392647,
+            43.0999901
+          ],
+          [
+            12.3927455,
+            43.1001541
+          ],
+          [
+            12.3928316,
+            43.1003715
+          ],
+          [
+            12.3928767,
+            43.1006052
+          ],
+          [
+            12.3928897,
+            43.1007477
+          ],
+          [
+            12.3928891,
+            43.1009267
+          ],
+          [
+            12.3928317,
+            43.1012466
+          ],
+          [
+            12.3926676,
+            43.1015869
+          ],
+          [
+            12.3924476,
+            43.1021382
+          ],
+          [
+            12.3922043,
+            43.1026325
+          ],
+          [
+            12.3919214,
+            43.1030261
+          ],
+          [
+            12.3917036,
+            43.1032509
+          ],
+          [
+            12.3914416,
+            43.1034567
+          ],
+          [
+            12.3912712,
+            43.1036467
+          ],
+          [
+            12.3911144,
+            43.1038334
+          ],
+          [
+            12.3908471,
+            43.1042358
+          ],
+          [
+            12.390738,
+            43.1045748
+          ],
+          [
+            12.3906493,
+            43.1049648
+          ],
+          [
+            12.3905633,
+            43.1053774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61787311",
+      "properties": {
+        "@id": "way/61787311",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4005424,
+            43.0952578
+          ],
+          [
+            12.398729,
+            43.0948162
+          ],
+          [
+            12.3978064,
+            43.0946047
+          ],
+          [
+            12.3969111,
+            43.0946144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/126736599",
+      "properties": {
+        "@id": "way/126736599",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3905633,
+            43.1053774
+          ],
+          [
+            12.3905103,
+            43.1055843
+          ],
+          [
+            12.3904378,
+            43.105789
+          ],
+          [
+            12.3902855,
+            43.1060429
+          ],
+          [
+            12.390179,
+            43.1062206
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/126944762",
+      "properties": {
+        "@id": "way/126944762",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4113993,
+            43.0950434
+          ],
+          [
+            12.4106223,
+            43.0951517
+          ],
+          [
+            12.410383,
+            43.0951906
+          ],
+          [
+            12.4101201,
+            43.0952455
+          ],
+          [
+            12.4099026,
+            43.0952917
+          ],
+          [
+            12.409619,
+            43.0953611
+          ],
+          [
+            12.40926,
+            43.0954577
+          ],
+          [
+            12.4089496,
+            43.0955472
+          ],
+          [
+            12.4085997,
+            43.0956382
+          ],
+          [
+            12.4083149,
+            43.0957017
+          ],
+          [
+            12.4081113,
+            43.0957349
+          ],
+          [
+            12.4078879,
+            43.0957537
+          ],
+          [
+            12.4076486,
+            43.0957624
+          ],
+          [
+            12.407249,
+            43.0957529
+          ],
+          [
+            12.4063981,
+            43.0956196
+          ],
+          [
+            12.4054038,
+            43.0954504
+          ],
+          [
+            12.4049527,
+            43.0954146
+          ],
+          [
+            12.4046111,
+            43.0954271
+          ],
+          [
+            12.4042089,
+            43.0954722
+          ],
+          [
+            12.4038842,
+            43.0955279
+          ],
+          [
+            12.4033489,
+            43.0956169
+          ],
+          [
+            12.4029951,
+            43.0956631
+          ],
+          [
+            12.4027401,
+            43.0956711
+          ],
+          [
+            12.4022755,
+            43.0956592
+          ],
+          [
+            12.4017979,
+            43.0955859
+          ],
+          [
+            12.4014623,
+            43.0955022
+          ],
+          [
+            12.4005424,
+            43.0952578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/126988640",
+      "properties": {
+        "@id": "way/126988640",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4311319,
+            43.0906107
+          ],
+          [
+            12.4306727,
+            43.0906074
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80875158",
+      "properties": {
+        "@id": "way/80875158",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4347996,
+            43.0912114
+          ],
+          [
+            12.4345402,
+            43.0911881
+          ],
+          [
+            12.4342928,
+            43.0911431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/126738933",
+      "properties": {
+        "@id": "way/126738933",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4351529,
+            43.0912431
+          ],
+          [
+            12.4347996,
+            43.0912114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/126738934",
+      "properties": {
+        "@id": "way/126738934",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4382002,
+            43.0918226
+          ],
+          [
+            12.4360339,
+            43.0914106
+          ],
+          [
+            12.4351529,
+            43.0912431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/80875153",
+      "properties": {
+        "@id": "way/80875153",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4342928,
+            43.0911431
+          ],
+          [
+            12.4339628,
+            43.0910831
+          ],
+          [
+            12.4330345,
+            43.0909191
+          ],
+          [
+            12.4321226,
+            43.0907452
+          ],
+          [
+            12.4317224,
+            43.0906796
+          ],
+          [
+            12.4311319,
+            43.0906107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191385165",
+      "properties": {
+        "@id": "way/191385165",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9161596,
+            44.4219585
+          ],
+          [
+            8.9160795,
+            44.4220747
+          ],
+          [
+            8.9159782,
+            44.4222563
+          ],
+          [
+            8.9159453,
+            44.4223434
+          ],
+          [
+            8.9158618,
+            44.4225487
+          ],
+          [
+            8.9157778,
+            44.4227276
+          ],
+          [
+            8.9156363,
+            44.4229532
+          ],
+          [
+            8.9155116,
+            44.4231986
+          ],
+          [
+            8.9154056,
+            44.4233622
+          ],
+          [
+            8.9152566,
+            44.4235462
+          ],
+          [
+            8.9151683,
+            44.4236522
+          ],
+          [
+            8.9149194,
+            44.4238606
+          ],
+          [
+            8.9147993,
+            44.4239554
+          ],
+          [
+            8.9146863,
+            44.4240369
+          ],
+          [
+            8.9144551,
+            44.4241807
+          ],
+          [
+            8.914285,
+            44.4242895
+          ],
+          [
+            8.9141641,
+            44.4243694
+          ],
+          [
+            8.913795,
+            44.42459
+          ],
+          [
+            8.9134946,
+            44.4247739
+          ],
+          [
+            8.913074,
+            44.4250743
+          ],
+          [
+            8.9129024,
+            44.4252275
+          ],
+          [
+            8.9128079,
+            44.4253563
+          ],
+          [
+            8.9127135,
+            44.4255034
+          ],
+          [
+            8.9126611,
+            44.4255539
+          ],
+          [
+            8.9126167,
+            44.4256027
+          ],
+          [
+            8.9124948,
+            44.4257131
+          ],
+          [
+            8.912384,
+            44.4259369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191385166",
+      "properties": {
+        "@id": "way/191385166",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.912384,
+            44.4259369
+          ],
+          [
+            8.9123552,
+            44.4259916
+          ],
+          [
+            8.9123381,
+            44.4260395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95383200",
+      "properties": {
+        "@id": "way/95383200",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9177178,
+            44.4173315
+          ],
+          [
+            8.917446,
+            44.4179063
+          ],
+          [
+            8.917323,
+            44.418163
+          ],
+          [
+            8.9172559,
+            44.4183092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95383201",
+      "properties": {
+        "@id": "way/95383201",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9166887,
+            44.420521
+          ],
+          [
+            8.916656,
+            44.4207184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/179307372",
+      "properties": {
+        "@id": "way/179307372",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9165026,
+            44.4212057
+          ],
+          [
+            8.9164271,
+            44.4213064
+          ],
+          [
+            8.9163976,
+            44.4213716
+          ],
+          [
+            8.9163305,
+            44.4215459
+          ],
+          [
+            8.9162286,
+            44.4217758
+          ],
+          [
+            8.9161596,
+            44.4219585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191385168",
+      "properties": {
+        "@id": "way/191385168",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9161596,
+            44.4219585
+          ],
+          [
+            8.916212,
+            44.4218825
+          ],
+          [
+            8.9162611,
+            44.4217911
+          ],
+          [
+            8.9163628,
+            44.4215678
+          ],
+          [
+            8.9164145,
+            44.4214009
+          ],
+          [
+            8.9164495,
+            44.4213066
+          ],
+          [
+            8.9165026,
+            44.4212057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191385171",
+      "properties": {
+        "@id": "way/191385171",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.916656,
+            44.4207184
+          ],
+          [
+            8.9166559,
+            44.4207917
+          ],
+          [
+            8.9166539,
+            44.4208348
+          ],
+          [
+            8.9166336,
+            44.4209354
+          ],
+          [
+            8.9166059,
+            44.4210291
+          ],
+          [
+            8.9165561,
+            44.4211281
+          ],
+          [
+            8.9165026,
+            44.4212057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394393913",
+      "properties": {
+        "@id": "way/394393913",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9172559,
+            44.4183092
+          ],
+          [
+            8.9170818,
+            44.4186979
+          ],
+          [
+            8.9168787,
+            44.4191987
+          ],
+          [
+            8.9167089,
+            44.4196806
+          ],
+          [
+            8.9166495,
+            44.4198745
+          ],
+          [
+            8.9166273,
+            44.4199818
+          ],
+          [
+            8.916631,
+            44.420006
+          ],
+          [
+            8.9166385,
+            44.4201338
+          ],
+          [
+            8.9166816,
+            44.4203154
+          ],
+          [
+            8.9166887,
+            44.420521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1406273022",
+      "properties": {
+        "@id": "node/1406273022",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3902855,
+          43.1060429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769861221",
+      "properties": {
+        "@id": "node/769861221",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1717001,
+            "reltags": {
+              "from": "Perugia Sant'Anna",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Sant'Anna → Ponte San Giovanni)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Ponte San Giovanni",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2189100,
+            "reltags": {
+              "from": "Perugia Ponte San Giovanni",
+              "name": "Servizio Ferroviario Metropolitano (Perugia Ponte San Giovanni → Perugia Sant'Anna)",
+              "network": "FCU",
+              "operator": "Ferrovia Centrale Umbra",
+              "route": "light_rail",
+              "to": "Perugia Sant'Anna",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4382002,
+          43.0918226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2019700588",
+      "properties": {
+        "@id": "node/2019700588",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9123552,
+          44.4259916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2019700596",
+      "properties": {
+        "@id": "node/2019700596",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9126611,
+          44.4255539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/247607439",
+      "properties": {
+        "@id": "node/247607439",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9166059,
+          44.4210291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/247607448",
+      "properties": {
+        "@id": "node/247607448",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9166273,
+          44.4199818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/247607454",
+      "properties": {
+        "@id": "node/247607454",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9177178,
+          44.4173315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/247613086",
+      "properties": {
+        "@id": "node/247613086",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9159453,
+          44.4223434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2019700592",
+      "properties": {
+        "@id": "node/2019700592",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.917323,
+          44.418163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/247607418",
+      "properties": {
+        "@id": "node/247607418",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9134946,
+          44.4247739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2019700582",
+      "properties": {
+        "@id": "node/2019700582",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2581231,
+            "reltags": {
+              "from": "Granarolo",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Principe",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2581232,
+            "reltags": {
+              "from": "Principe",
+              "name": "Ferrovia a cremagliera di Granarolo",
+              "network": "AMT Genova",
+              "operator": "AMT",
+              "ref": "Principe-Granarolo",
+              "route": "light_rail",
+              "to": "Granarolo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9144551,
+          44.4241807
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,4525 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-11T19:53:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/162387506",
+      "properties": {
+        "@id": "way/162387506",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1896081,
+            43.7624253
+          ],
+          [
+            11.1887395,
+            43.762279
+          ],
+          [
+            11.1883268,
+            43.7622121
+          ],
+          [
+            11.188059,
+            43.7621612
+          ],
+          [
+            11.1878571,
+            43.7621055
+          ],
+          [
+            11.1873435,
+            43.761933
+          ],
+          [
+            11.1871481,
+            43.7618674
+          ],
+          [
+            11.1870302,
+            43.7618288
+          ],
+          [
+            11.1868264,
+            43.761762
+          ],
+          [
+            11.1865415,
+            43.7616653
+          ],
+          [
+            11.1863431,
+            43.7615761
+          ],
+          [
+            11.1860814,
+            43.7614483
+          ],
+          [
+            11.1859139,
+            43.7613529
+          ],
+          [
+            11.1856694,
+            43.7611743
+          ],
+          [
+            11.1854974,
+            43.7610243
+          ],
+          [
+            11.1854762,
+            43.7610058
+          ],
+          [
+            11.1849389,
+            43.760542
+          ],
+          [
+            11.1844325,
+            43.760106
+          ],
+          [
+            11.1841613,
+            43.7598725
+          ],
+          [
+            11.1832841,
+            43.7590964
+          ],
+          [
+            11.1829616,
+            43.7587665
+          ],
+          [
+            11.18277,
+            43.7585706
+          ],
+          [
+            11.1825193,
+            43.7583066
+          ],
+          [
+            11.1821825,
+            43.7579796
+          ],
+          [
+            11.1818182,
+            43.7576332
+          ],
+          [
+            11.1808892,
+            43.7567499
+          ],
+          [
+            11.1808854,
+            43.7567459
+          ],
+          [
+            11.1789951,
+            43.7547683
+          ],
+          [
+            11.1787836,
+            43.754547
+          ],
+          [
+            11.1786723,
+            43.7544318
+          ],
+          [
+            11.1785597,
+            43.7543323
+          ],
+          [
+            11.1785453,
+            43.7543196
+          ],
+          [
+            11.1783569,
+            43.7541844
+          ],
+          [
+            11.1782156,
+            43.7541106
+          ],
+          [
+            11.1780379,
+            43.754035
+          ],
+          [
+            11.1775581,
+            43.7539097
+          ],
+          [
+            11.1770638,
+            43.7537952
+          ],
+          [
+            11.1767385,
+            43.7537524
+          ],
+          [
+            11.1765366,
+            43.7537811
+          ],
+          [
+            11.1763866,
+            43.7538387
+          ],
+          [
+            11.1762992,
+            43.7538871
+          ],
+          [
+            11.1760707,
+            43.7540173
+          ],
+          [
+            11.1760005,
+            43.7540573
+          ],
+          [
+            11.175402,
+            43.7543983
+          ],
+          [
+            11.1743675,
+            43.7549898
+          ],
+          [
+            11.174105,
+            43.7551399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162387507",
+      "properties": {
+        "@id": "way/162387507",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1740718,
+            43.7551143
+          ],
+          [
+            11.1743366,
+            43.7549638
+          ],
+          [
+            11.175375,
+            43.7543736
+          ],
+          [
+            11.1759959,
+            43.7540161
+          ],
+          [
+            11.1760443,
+            43.7539883
+          ],
+          [
+            11.1760826,
+            43.7539662
+          ],
+          [
+            11.1761672,
+            43.7539177
+          ],
+          [
+            11.1763516,
+            43.753813
+          ],
+          [
+            11.1765159,
+            43.7537452
+          ],
+          [
+            11.1767421,
+            43.7537144
+          ],
+          [
+            11.177075,
+            43.7537648
+          ],
+          [
+            11.1775722,
+            43.75388
+          ],
+          [
+            11.1780565,
+            43.7540064
+          ],
+          [
+            11.1782395,
+            43.7540843
+          ],
+          [
+            11.1783851,
+            43.7541603
+          ],
+          [
+            11.1785776,
+            43.7542985
+          ],
+          [
+            11.1785955,
+            43.7543143
+          ],
+          [
+            11.178707,
+            43.7544128
+          ],
+          [
+            11.1788193,
+            43.754529
+          ],
+          [
+            11.1790294,
+            43.7547512
+          ],
+          [
+            11.1809226,
+            43.7567295
+          ],
+          [
+            11.1809245,
+            43.7567315
+          ],
+          [
+            11.1818457,
+            43.7576197
+          ],
+          [
+            11.1822064,
+            43.7579675
+          ],
+          [
+            11.1825547,
+            43.7582882
+          ],
+          [
+            11.1828057,
+            43.7585527
+          ],
+          [
+            11.1830009,
+            43.7587523
+          ],
+          [
+            11.1833188,
+            43.7590774
+          ],
+          [
+            11.1841948,
+            43.7598525
+          ],
+          [
+            11.1844663,
+            43.7600862
+          ],
+          [
+            11.1849722,
+            43.7605218
+          ],
+          [
+            11.1855097,
+            43.7609857
+          ],
+          [
+            11.1855278,
+            43.7610015
+          ],
+          [
+            11.1857017,
+            43.7611532
+          ],
+          [
+            11.185943,
+            43.7613294
+          ],
+          [
+            11.1861071,
+            43.7614229
+          ],
+          [
+            11.1863668,
+            43.7615497
+          ],
+          [
+            11.1865623,
+            43.7616376
+          ],
+          [
+            11.1868447,
+            43.7617335
+          ],
+          [
+            11.187047,
+            43.7617997
+          ],
+          [
+            11.1871663,
+            43.7618388
+          ],
+          [
+            11.1873619,
+            43.7619045
+          ],
+          [
+            11.1878741,
+            43.7620765
+          ],
+          [
+            11.1880724,
+            43.7621313
+          ],
+          [
+            11.1883371,
+            43.7621815
+          ],
+          [
+            11.1887492,
+            43.7622483
+          ],
+          [
+            11.1896178,
+            43.7623946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170031",
+      "properties": {
+        "@id": "way/352170031",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1743837,
+            43.7550219
+          ],
+          [
+            11.1738752,
+            43.7553098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170032",
+      "properties": {
+        "@id": "way/352170032",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1743108,
+            43.7549547
+          ],
+          [
+            11.1738023,
+            43.7552426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42680725",
+      "properties": {
+        "@id": "way/42680725",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2127867,
+            43.7729148
+          ],
+          [
+            11.211938,
+            43.771516
+          ],
+          [
+            11.2117941,
+            43.7712869
+          ],
+          [
+            11.2117017,
+            43.7711399
+          ],
+          [
+            11.2114483,
+            43.7707928
+          ],
+          [
+            11.2113461,
+            43.7706312
+          ],
+          [
+            11.2111384,
+            43.7702802
+          ],
+          [
+            11.2110242,
+            43.7700871
+          ],
+          [
+            11.2102295,
+            43.7688118
+          ],
+          [
+            11.2097986,
+            43.7681721
+          ],
+          [
+            11.2097042,
+            43.7680283
+          ],
+          [
+            11.209572,
+            43.7678647
+          ],
+          [
+            11.2094412,
+            43.7677047
+          ],
+          [
+            11.2093285,
+            43.7675667
+          ],
+          [
+            11.2092252,
+            43.7674535
+          ],
+          [
+            11.2090073,
+            43.7672016
+          ],
+          [
+            11.2089647,
+            43.7671523
+          ],
+          [
+            11.2087428,
+            43.7669138
+          ],
+          [
+            11.2084621,
+            43.7666777
+          ],
+          [
+            11.2082181,
+            43.7664779
+          ],
+          [
+            11.2077289,
+            43.7661076
+          ],
+          [
+            11.2066254,
+            43.7654854
+          ],
+          [
+            11.20632,
+            43.7653266
+          ],
+          [
+            11.2060304,
+            43.7651972
+          ],
+          [
+            11.2057077,
+            43.7650989
+          ],
+          [
+            11.2053666,
+            43.7650237
+          ],
+          [
+            11.2045237,
+            43.7648862
+          ],
+          [
+            11.2039529,
+            43.7648089
+          ],
+          [
+            11.2034379,
+            43.7647531
+          ],
+          [
+            11.2023718,
+            43.7646688
+          ],
+          [
+            11.2013109,
+            43.764592
+          ],
+          [
+            11.20065,
+            43.7645362
+          ],
+          [
+            11.2001017,
+            43.7645006
+          ],
+          [
+            11.2000062,
+            43.7644922
+          ],
+          [
+            11.1996011,
+            43.7644593
+          ],
+          [
+            11.1992801,
+            43.7644308
+          ],
+          [
+            11.1990061,
+            43.7643982
+          ],
+          [
+            11.1987239,
+            43.7643341
+          ],
+          [
+            11.1984514,
+            43.7642695
+          ],
+          [
+            11.1982852,
+            43.764228
+          ],
+          [
+            11.1979629,
+            43.7641474
+          ],
+          [
+            11.1975641,
+            43.7640477
+          ],
+          [
+            11.196815,
+            43.7638506
+          ],
+          [
+            11.1964287,
+            43.7637427
+          ],
+          [
+            11.1960401,
+            43.7636407
+          ],
+          [
+            11.1952866,
+            43.7634382
+          ],
+          [
+            11.1948429,
+            43.763318
+          ],
+          [
+            11.1942757,
+            43.7632115
+          ],
+          [
+            11.1938275,
+            43.7631299
+          ],
+          [
+            11.1934712,
+            43.7630655
+          ],
+          [
+            11.193192,
+            43.7630224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162387512",
+      "properties": {
+        "@id": "way/162387512",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1932015,
+            43.7629917
+          ],
+          [
+            11.1934798,
+            43.7630347
+          ],
+          [
+            11.1938299,
+            43.7630912
+          ],
+          [
+            11.1943277,
+            43.7631747
+          ],
+          [
+            11.1948576,
+            43.7632884
+          ],
+          [
+            11.1953019,
+            43.7634087
+          ],
+          [
+            11.1960461,
+            43.7636092
+          ],
+          [
+            11.196444,
+            43.7637133
+          ],
+          [
+            11.1968303,
+            43.7638212
+          ],
+          [
+            11.1975787,
+            43.7640181
+          ],
+          [
+            11.1979799,
+            43.7641184
+          ],
+          [
+            11.1982977,
+            43.7641978
+          ],
+          [
+            11.1984653,
+            43.7642397
+          ],
+          [
+            11.1987373,
+            43.7643042
+          ],
+          [
+            11.1990162,
+            43.7643676
+          ],
+          [
+            11.1992863,
+            43.7643997
+          ],
+          [
+            11.1996063,
+            43.7644281
+          ],
+          [
+            11.2000117,
+            43.7644613
+          ],
+          [
+            11.2001062,
+            43.7644694
+          ],
+          [
+            11.2006545,
+            43.7645049
+          ],
+          [
+            11.2013157,
+            43.7645607
+          ],
+          [
+            11.2023764,
+            43.7646376
+          ],
+          [
+            11.2034435,
+            43.7647219
+          ],
+          [
+            11.2039601,
+            43.7647779
+          ],
+          [
+            11.2045325,
+            43.7648554
+          ],
+          [
+            11.2053777,
+            43.7649933
+          ],
+          [
+            11.2057226,
+            43.7650693
+          ],
+          [
+            11.2060504,
+            43.7651691
+          ],
+          [
+            11.2063442,
+            43.7653004
+          ],
+          [
+            11.2066516,
+            43.7654603
+          ],
+          [
+            11.2077582,
+            43.7660842
+          ],
+          [
+            11.2082502,
+            43.7664566
+          ],
+          [
+            11.2084949,
+            43.7666571
+          ],
+          [
+            11.2087775,
+            43.7668948
+          ],
+          [
+            11.2090013,
+            43.7671353
+          ],
+          [
+            11.2090457,
+            43.7671859
+          ],
+          [
+            11.209266,
+            43.7674374
+          ],
+          [
+            11.2093654,
+            43.76755
+          ],
+          [
+            11.2094746,
+            43.7676837
+          ],
+          [
+            11.2096095,
+            43.7678488
+          ],
+          [
+            11.2097427,
+            43.7680137
+          ],
+          [
+            11.2098378,
+            43.7681585
+          ],
+          [
+            11.2102689,
+            43.7687985
+          ],
+          [
+            11.211064,
+            43.7700744
+          ],
+          [
+            11.2111903,
+            43.7702899
+          ],
+          [
+            11.2113915,
+            43.7706332
+          ],
+          [
+            11.2114879,
+            43.7707797
+          ],
+          [
+            11.2117326,
+            43.7711101
+          ],
+          [
+            11.211835,
+            43.7712743
+          ],
+          [
+            11.2119802,
+            43.7715072
+          ],
+          [
+            11.2128293,
+            43.772903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170009",
+      "properties": {
+        "@id": "way/352170009",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1788134,
+            43.7546353
+          ],
+          [
+            11.1791057,
+            43.7549432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170010",
+      "properties": {
+        "@id": "way/352170010",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1789109,
+            43.754587
+          ],
+          [
+            11.1792031,
+            43.754895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170025",
+      "properties": {
+        "@id": "way/352170025",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1819871,
+            43.7576878
+          ],
+          [
+            11.1824692,
+            43.7581464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170026",
+      "properties": {
+        "@id": "way/352170026",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1818591,
+            43.757746
+          ],
+          [
+            11.182349,
+            43.7582154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42680726",
+      "properties": {
+        "@id": "way/42680726",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.193192,
+            43.7630224
+          ],
+          [
+            11.1916939,
+            43.7627722
+          ],
+          [
+            11.1905406,
+            43.7625771
+          ],
+          [
+            11.1896081,
+            43.7624253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162387510",
+      "properties": {
+        "@id": "way/162387510",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1896178,
+            43.7623946
+          ],
+          [
+            11.1905503,
+            43.7625465
+          ],
+          [
+            11.1917037,
+            43.7627415
+          ],
+          [
+            11.1932015,
+            43.7629917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170001",
+      "properties": {
+        "@id": "way/352170001",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1870841,
+            43.7618802
+          ],
+          [
+            11.1875547,
+            43.7620344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170002",
+      "properties": {
+        "@id": "way/352170002",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1871329,
+            43.7618024
+          ],
+          [
+            11.1876035,
+            43.7619567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170019",
+      "properties": {
+        "@id": "way/352170019",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1977032,
+            43.7641159
+          ],
+          [
+            11.1981892,
+            43.7642368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170020",
+      "properties": {
+        "@id": "way/352170020",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1977417,
+            43.7640352
+          ],
+          [
+            11.1982277,
+            43.7641561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170003",
+      "properties": {
+        "@id": "way/352170003",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2090532,
+            43.7673158
+          ],
+          [
+            11.2093275,
+            43.7676285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170004",
+      "properties": {
+        "@id": "way/352170004",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.209153,
+            43.7672701
+          ],
+          [
+            11.2094274,
+            43.7675828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170011",
+      "properties": {
+        "@id": "way/352170011",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2119007,
+            43.7713174
+          ],
+          [
+            11.2121108,
+            43.7716554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170012",
+      "properties": {
+        "@id": "way/352170012",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2117929,
+            43.7713524
+          ],
+          [
+            11.212003,
+            43.7716903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170029",
+      "properties": {
+        "@id": "way/352170029",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2167321,
+            43.7735136
+          ],
+          [
+            11.21723,
+            43.7735685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170030",
+      "properties": {
+        "@id": "way/352170030",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2167143,
+            43.773598
+          ],
+          [
+            11.2172122,
+            43.7736528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42681086",
+      "properties": {
+        "@id": "way/42681086",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2133152,
+            43.7731804
+          ],
+          [
+            11.2131121,
+            43.7731512
+          ],
+          [
+            11.2129778,
+            43.7730839
+          ],
+          [
+            11.2128911,
+            43.7730201
+          ],
+          [
+            11.2127867,
+            43.7729148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159919759",
+      "properties": {
+        "@id": "way/159919759",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2133237,
+            43.7731496
+          ],
+          [
+            11.2149072,
+            43.7733319
+          ],
+          [
+            11.216645,
+            43.773526
+          ],
+          [
+            11.2167521,
+            43.773538
+          ],
+          [
+            11.2169786,
+            43.7735634
+          ],
+          [
+            11.2178219,
+            43.7736581
+          ],
+          [
+            11.2189037,
+            43.7737722
+          ],
+          [
+            11.2197763,
+            43.7738676
+          ],
+          [
+            11.2206433,
+            43.7739795
+          ],
+          [
+            11.220787,
+            43.7740055
+          ],
+          [
+            11.2209373,
+            43.7740411
+          ],
+          [
+            11.221282,
+            43.7741134
+          ],
+          [
+            11.2215876,
+            43.7741775
+          ],
+          [
+            11.2216752,
+            43.7741959
+          ],
+          [
+            11.2217352,
+            43.7742076
+          ],
+          [
+            11.2219,
+            43.7742398
+          ],
+          [
+            11.2220557,
+            43.774261
+          ],
+          [
+            11.2234895,
+            43.7744281
+          ],
+          [
+            11.2248381,
+            43.7745815
+          ],
+          [
+            11.2252099,
+            43.7746238
+          ],
+          [
+            11.2277595,
+            43.7749137
+          ],
+          [
+            11.2282276,
+            43.7749678
+          ],
+          [
+            11.2283624,
+            43.7749981
+          ],
+          [
+            11.2284326,
+            43.7750413
+          ],
+          [
+            11.2284747,
+            43.7750673
+          ],
+          [
+            11.2285454,
+            43.7751467
+          ],
+          [
+            11.2286108,
+            43.7752286
+          ],
+          [
+            11.2287628,
+            43.7754328
+          ],
+          [
+            11.2289366,
+            43.7756661
+          ],
+          [
+            11.2289495,
+            43.7756802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162387513",
+      "properties": {
+        "@id": "way/162387513",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2128293,
+            43.772903
+          ],
+          [
+            11.2129233,
+            43.7729989
+          ],
+          [
+            11.213006,
+            43.7730597
+          ],
+          [
+            11.2131295,
+            43.7731216
+          ],
+          [
+            11.2133237,
+            43.7731496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172666066",
+      "properties": {
+        "@id": "way/172666066",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2289074,
+            43.7756915
+          ],
+          [
+            11.2288973,
+            43.7756809
+          ],
+          [
+            11.2287215,
+            43.7754442
+          ],
+          [
+            11.2285731,
+            43.7752442
+          ],
+          [
+            11.2285083,
+            43.775163
+          ],
+          [
+            11.2284416,
+            43.7750882
+          ],
+          [
+            11.2283995,
+            43.7750622
+          ],
+          [
+            11.228341,
+            43.7750261
+          ],
+          [
+            11.2282177,
+            43.7749984
+          ],
+          [
+            11.2277527,
+            43.7749447
+          ],
+          [
+            11.2252022,
+            43.7746547
+          ],
+          [
+            11.2248316,
+            43.7746125
+          ],
+          [
+            11.2234827,
+            43.7744591
+          ],
+          [
+            11.2220482,
+            43.7742919
+          ],
+          [
+            11.2218903,
+            43.7742704
+          ],
+          [
+            11.2217261,
+            43.7742383
+          ],
+          [
+            11.2216635,
+            43.7742261
+          ],
+          [
+            11.2215736,
+            43.7742073
+          ],
+          [
+            11.2212682,
+            43.7741432
+          ],
+          [
+            11.2209256,
+            43.7740714
+          ],
+          [
+            11.2207692,
+            43.7740414
+          ],
+          [
+            11.2206334,
+            43.7740101
+          ],
+          [
+            11.2197692,
+            43.7738986
+          ],
+          [
+            11.2188974,
+            43.7738033
+          ],
+          [
+            11.2178154,
+            43.7736892
+          ],
+          [
+            11.2169697,
+            43.7735942
+          ],
+          [
+            11.2167455,
+            43.773569
+          ],
+          [
+            11.2166401,
+            43.7735572
+          ],
+          [
+            11.2149005,
+            43.7733629
+          ],
+          [
+            11.2133152,
+            43.7731804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159919748",
+      "properties": {
+        "@id": "way/159919748",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.229863,
+            43.7767945
+          ],
+          [
+            11.2299508,
+            43.7768621
+          ],
+          [
+            11.230342,
+            43.777178
+          ],
+          [
+            11.230594,
+            43.7773911
+          ],
+          [
+            11.2306888,
+            43.7774561
+          ],
+          [
+            11.2307495,
+            43.7774783
+          ],
+          [
+            11.2308326,
+            43.7774967
+          ],
+          [
+            11.2309182,
+            43.7775052
+          ],
+          [
+            11.2309699,
+            43.7775018
+          ],
+          [
+            11.2310329,
+            43.7774887
+          ],
+          [
+            11.2324108,
+            43.7770422
+          ],
+          [
+            11.2327319,
+            43.7769371
+          ],
+          [
+            11.2331041,
+            43.7768152
+          ],
+          [
+            11.2336141,
+            43.7766532
+          ],
+          [
+            11.2337176,
+            43.7766329
+          ],
+          [
+            11.2338071,
+            43.7766271
+          ],
+          [
+            11.2338947,
+            43.7766357
+          ],
+          [
+            11.2339621,
+            43.7766468
+          ],
+          [
+            11.2340206,
+            43.7766589
+          ],
+          [
+            11.2341126,
+            43.7766943
+          ],
+          [
+            11.2342157,
+            43.7767565
+          ],
+          [
+            11.2343087,
+            43.776834
+          ],
+          [
+            11.2344294,
+            43.7769286
+          ],
+          [
+            11.2345033,
+            43.776985
+          ],
+          [
+            11.2345788,
+            43.7770219
+          ],
+          [
+            11.2346831,
+            43.7770702
+          ],
+          [
+            11.2348064,
+            43.7771084
+          ],
+          [
+            11.2349088,
+            43.7771364
+          ],
+          [
+            11.2350106,
+            43.7771462
+          ],
+          [
+            11.235107,
+            43.7771516
+          ],
+          [
+            11.2352091,
+            43.7771494
+          ],
+          [
+            11.2353109,
+            43.7771402
+          ],
+          [
+            11.2354428,
+            43.7771143
+          ],
+          [
+            11.2355932,
+            43.7770623
+          ],
+          [
+            11.2356651,
+            43.7770301
+          ],
+          [
+            11.2357425,
+            43.776982
+          ],
+          [
+            11.2358238,
+            43.7769205
+          ],
+          [
+            11.2358965,
+            43.776856
+          ],
+          [
+            11.2359431,
+            43.7767965
+          ],
+          [
+            11.2360028,
+            43.7767093
+          ],
+          [
+            11.2360308,
+            43.776623
+          ],
+          [
+            11.2360521,
+            43.7765303
+          ],
+          [
+            11.2360537,
+            43.7764649
+          ],
+          [
+            11.2360557,
+            43.7763801
+          ],
+          [
+            11.2360484,
+            43.7762765
+          ],
+          [
+            11.2360508,
+            43.7761702
+          ],
+          [
+            11.2360753,
+            43.7761031
+          ],
+          [
+            11.2361149,
+            43.7760562
+          ],
+          [
+            11.236187,
+            43.7760016
+          ],
+          [
+            11.2362882,
+            43.7759619
+          ],
+          [
+            11.2364004,
+            43.7759474
+          ],
+          [
+            11.2365167,
+            43.7759575
+          ],
+          [
+            11.2366013,
+            43.7759893
+          ],
+          [
+            11.2366863,
+            43.7760339
+          ],
+          [
+            11.2368905,
+            43.7763079
+          ],
+          [
+            11.2369945,
+            43.77645
+          ],
+          [
+            11.2370284,
+            43.7765091
+          ],
+          [
+            11.2370784,
+            43.77656
+          ],
+          [
+            11.2371279,
+            43.7766058
+          ],
+          [
+            11.2371869,
+            43.7766399
+          ],
+          [
+            11.2373234,
+            43.7767062
+          ],
+          [
+            11.2376738,
+            43.7768641
+          ],
+          [
+            11.2380249,
+            43.7770172
+          ],
+          [
+            11.2382098,
+            43.7771
+          ],
+          [
+            11.2383806,
+            43.7771766
+          ],
+          [
+            11.2386648,
+            43.7773123
+          ],
+          [
+            11.2390543,
+            43.7774777
+          ],
+          [
+            11.2391668,
+            43.7775314
+          ],
+          [
+            11.2392986,
+            43.777579
+          ],
+          [
+            11.2394991,
+            43.7776343
+          ],
+          [
+            11.2396235,
+            43.77767
+          ],
+          [
+            11.2397304,
+            43.7776967
+          ],
+          [
+            11.2398827,
+            43.7777441
+          ],
+          [
+            11.2400063,
+            43.777791
+          ],
+          [
+            11.2400393,
+            43.7778053
+          ],
+          [
+            11.240209,
+            43.7778789
+          ],
+          [
+            11.2404095,
+            43.7779665
+          ],
+          [
+            11.2404728,
+            43.7779942
+          ],
+          [
+            11.2407577,
+            43.778092
+          ],
+          [
+            11.2413801,
+            43.7782926
+          ],
+          [
+            11.2415815,
+            43.7783605
+          ],
+          [
+            11.241959,
+            43.7784878
+          ],
+          [
+            11.2422998,
+            43.7786211
+          ],
+          [
+            11.2424661,
+            43.7786836
+          ],
+          [
+            11.242533,
+            43.7787057
+          ],
+          [
+            11.2425908,
+            43.7787114
+          ],
+          [
+            11.2426398,
+            43.7787139
+          ],
+          [
+            11.2427026,
+            43.778704
+          ],
+          [
+            11.2427533,
+            43.7786939
+          ],
+          [
+            11.242794,
+            43.7786753
+          ],
+          [
+            11.242928,
+            43.7786096
+          ],
+          [
+            11.2447625,
+            43.7777024
+          ],
+          [
+            11.2455448,
+            43.7773243
+          ],
+          [
+            11.2456197,
+            43.7772861
+          ],
+          [
+            11.2456579,
+            43.7772681
+          ],
+          [
+            11.2457052,
+            43.7772476
+          ],
+          [
+            11.2457808,
+            43.7771942
+          ],
+          [
+            11.2458709,
+            43.7770936
+          ],
+          [
+            11.2460641,
+            43.7768162
+          ],
+          [
+            11.2460955,
+            43.7767711
+          ],
+          [
+            11.2461656,
+            43.7766976
+          ],
+          [
+            11.2461823,
+            43.7766774
+          ],
+          [
+            11.246225,
+            43.7766373
+          ],
+          [
+            11.2462734,
+            43.7766004
+          ],
+          [
+            11.2463885,
+            43.776508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170013",
+      "properties": {
+        "@id": "way/352170013",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2466255,
+            43.7763677
+          ],
+          [
+            11.2464222,
+            43.7765287
+          ],
+          [
+            11.2463049,
+            43.7766215
+          ],
+          [
+            11.2462578,
+            43.7766575
+          ],
+          [
+            11.2462041,
+            43.7767094
+          ],
+          [
+            11.2461839,
+            43.7767332
+          ],
+          [
+            11.2461604,
+            43.77676
+          ],
+          [
+            11.2461059,
+            43.7768354
+          ],
+          [
+            11.2459303,
+            43.777079
+          ],
+          [
+            11.2458143,
+            43.777214
+          ],
+          [
+            11.2457316,
+            43.7772724
+          ],
+          [
+            11.2456787,
+            43.7772953
+          ],
+          [
+            11.2456494,
+            43.77731
+          ],
+          [
+            11.2455698,
+            43.7773496
+          ],
+          [
+            11.2447866,
+            43.7777281
+          ],
+          [
+            11.2429522,
+            43.7786352
+          ],
+          [
+            11.2428175,
+            43.7787013
+          ],
+          [
+            11.2427709,
+            43.7787226
+          ],
+          [
+            11.2427129,
+            43.7787342
+          ],
+          [
+            11.2426429,
+            43.7787452
+          ],
+          [
+            11.2425864,
+            43.7787423
+          ],
+          [
+            11.2425208,
+            43.7787358
+          ],
+          [
+            11.2424473,
+            43.7787115
+          ],
+          [
+            11.2422796,
+            43.7786486
+          ],
+          [
+            11.2419397,
+            43.7785155
+          ],
+          [
+            11.2415485,
+            43.7783836
+          ],
+          [
+            11.2413622,
+            43.7783208
+          ],
+          [
+            11.2407397,
+            43.7781202
+          ],
+          [
+            11.2404523,
+            43.7780216
+          ],
+          [
+            11.2404421,
+            43.7780171
+          ],
+          [
+            11.2401868,
+            43.7779055
+          ],
+          [
+            11.240009,
+            43.7778284
+          ],
+          [
+            11.2399852,
+            43.7778181
+          ],
+          [
+            11.2398641,
+            43.7777721
+          ],
+          [
+            11.2397149,
+            43.7777256
+          ],
+          [
+            11.2396086,
+            43.7776991
+          ],
+          [
+            11.2394836,
+            43.7776632
+          ],
+          [
+            11.2392813,
+            43.7776075
+          ],
+          [
+            11.2391453,
+            43.7775584
+          ],
+          [
+            11.2390313,
+            43.7775039
+          ],
+          [
+            11.2386481,
+            43.7773356
+          ],
+          [
+            11.2383578,
+            43.777203
+          ],
+          [
+            11.2380024,
+            43.7770437
+          ],
+          [
+            11.2379572,
+            43.777024
+          ],
+          [
+            11.2376513,
+            43.7768906
+          ],
+          [
+            11.2373,
+            43.7767322
+          ],
+          [
+            11.2371615,
+            43.776665
+          ],
+          [
+            11.2370971,
+            43.7766278
+          ],
+          [
+            11.2370439,
+            43.7765786
+          ],
+          [
+            11.2369905,
+            43.7765242
+          ],
+          [
+            11.2369555,
+            43.7764632
+          ],
+          [
+            11.2368526,
+            43.7763225
+          ],
+          [
+            11.2366531,
+            43.7760548
+          ],
+          [
+            11.2365786,
+            43.7760158
+          ],
+          [
+            11.2365038,
+            43.7759877
+          ],
+          [
+            11.2364016,
+            43.7759787
+          ],
+          [
+            11.2363026,
+            43.7759915
+          ],
+          [
+            11.2362135,
+            43.7760265
+          ],
+          [
+            11.2361492,
+            43.7760752
+          ],
+          [
+            11.2361153,
+            43.7761154
+          ],
+          [
+            11.2360937,
+            43.7761745
+          ],
+          [
+            11.2360914,
+            43.776276
+          ],
+          [
+            11.2360988,
+            43.7763795
+          ],
+          [
+            11.2360963,
+            43.7764845
+          ],
+          [
+            11.2360951,
+            43.7765331
+          ],
+          [
+            11.236073,
+            43.7766291
+          ],
+          [
+            11.2360435,
+            43.7767198
+          ],
+          [
+            11.2359811,
+            43.776811
+          ],
+          [
+            11.2359322,
+            43.7768736
+          ],
+          [
+            11.2358561,
+            43.7769411
+          ],
+          [
+            11.2357721,
+            43.7770046
+          ],
+          [
+            11.2356906,
+            43.7770552
+          ],
+          [
+            11.2356139,
+            43.7770896
+          ],
+          [
+            11.2354578,
+            43.7771435
+          ],
+          [
+            11.2353192,
+            43.7771707
+          ],
+          [
+            11.2352124,
+            43.7771804
+          ],
+          [
+            11.235106,
+            43.7771827
+          ],
+          [
+            11.2350061,
+            43.777177
+          ],
+          [
+            11.2348982,
+            43.7771668
+          ],
+          [
+            11.2347903,
+            43.7771372
+          ],
+          [
+            11.2346629,
+            43.7770977
+          ],
+          [
+            11.2345551,
+            43.7770478
+          ],
+          [
+            11.2344753,
+            43.7770088
+          ],
+          [
+            11.234398,
+            43.7769498
+          ],
+          [
+            11.2342766,
+            43.7768547
+          ],
+          [
+            11.2341855,
+            43.7767787
+          ],
+          [
+            11.2340884,
+            43.7767202
+          ],
+          [
+            11.2340043,
+            43.7766879
+          ],
+          [
+            11.2339513,
+            43.7766769
+          ],
+          [
+            11.233887,
+            43.7766663
+          ],
+          [
+            11.2338061,
+            43.7766583
+          ],
+          [
+            11.2337252,
+            43.7766636
+          ],
+          [
+            11.2336284,
+            43.7766826
+          ],
+          [
+            11.2331216,
+            43.7768435
+          ],
+          [
+            11.232748,
+            43.7769658
+          ],
+          [
+            11.2324285,
+            43.7770705
+          ],
+          [
+            11.2310478,
+            43.777518
+          ],
+          [
+            11.2309779,
+            43.7775325
+          ],
+          [
+            11.2309172,
+            43.7775365
+          ],
+          [
+            11.2308233,
+            43.7775271
+          ],
+          [
+            11.2307333,
+            43.7775073
+          ],
+          [
+            11.2306637,
+            43.7774817
+          ],
+          [
+            11.2305628,
+            43.7774125
+          ],
+          [
+            11.2303094,
+            43.7771984
+          ],
+          [
+            11.2299158,
+            43.7768787
+          ],
+          [
+            11.2298218,
+            43.7768079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170005",
+      "properties": {
+        "@id": "way/352170005",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2214924,
+            43.7742206
+          ],
+          [
+            11.2209938,
+            43.7741182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170006",
+      "properties": {
+        "@id": "way/352170006",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2215247,
+            43.7741385
+          ],
+          [
+            11.2210261,
+            43.7740361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170027",
+      "properties": {
+        "@id": "way/352170027",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2249555,
+            43.774569
+          ],
+          [
+            11.2254645,
+            43.7746258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170028",
+      "properties": {
+        "@id": "way/352170028",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2249375,
+            43.7746534
+          ],
+          [
+            11.2254465,
+            43.7747101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170007",
+      "properties": {
+        "@id": "way/352170007",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2330278,
+            43.7769104
+          ],
+          [
+            11.2325076,
+            43.7770812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170008",
+      "properties": {
+        "@id": "way/352170008",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2329788,
+            43.7768327
+          ],
+          [
+            11.2324587,
+            43.7770035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42681060",
+      "properties": {
+        "@id": "way/42681060",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2290279,
+            43.7758247
+          ],
+          [
+            11.2290094,
+            43.7758043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159919763",
+      "properties": {
+        "@id": "way/159919763",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2290641,
+            43.7758144
+          ],
+          [
+            11.2294637,
+            43.7763528
+          ],
+          [
+            11.2296207,
+            43.7765571
+          ],
+          [
+            11.2297249,
+            43.7766717
+          ],
+          [
+            11.229786,
+            43.7767299
+          ],
+          [
+            11.229863,
+            43.7767945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172666062",
+      "properties": {
+        "@id": "way/172666062",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2289495,
+            43.7756802
+          ],
+          [
+            11.2290467,
+            43.7757911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172666063",
+      "properties": {
+        "@id": "way/172666063",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2290094,
+            43.7758043
+          ],
+          [
+            11.2289074,
+            43.7756915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172666064",
+      "properties": {
+        "@id": "way/172666064",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2290467,
+            43.7757911
+          ],
+          [
+            11.2290641,
+            43.7758144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172666067",
+      "properties": {
+        "@id": "way/172666067",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2298218,
+            43.7768079
+          ],
+          [
+            11.2297545,
+            43.7767476
+          ],
+          [
+            11.2296867,
+            43.7766849
+          ],
+          [
+            11.229575,
+            43.7765659
+          ],
+          [
+            11.2294163,
+            43.7763603
+          ],
+          [
+            11.2290279,
+            43.7758247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170021",
+      "properties": {
+        "@id": "way/352170021",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2289224,
+            43.7755739
+          ],
+          [
+            11.2286715,
+            43.7752449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170022",
+      "properties": {
+        "@id": "way/352170022",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2288189,
+            43.7756151
+          ],
+          [
+            11.2285679,
+            43.7752861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170023",
+      "properties": {
+        "@id": "way/352170023",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2384141,
+            43.7772651
+          ],
+          [
+            11.238848,
+            43.7774581
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170024",
+      "properties": {
+        "@id": "way/352170024",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2384729,
+            43.7771963
+          ],
+          [
+            11.2389067,
+            43.7773893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27605435",
+      "properties": {
+        "@id": "way/27605435",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2469951,
+            43.7760744
+          ],
+          [
+            11.246907,
+            43.7761449
+          ],
+          [
+            11.2466255,
+            43.7763677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352169999",
+      "properties": {
+        "@id": "way/352169999",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2468238,
+            43.7762515
+          ],
+          [
+            11.2471714,
+            43.7759783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352170018",
+      "properties": {
+        "@id": "way/352170018",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2463885,
+            43.776508
+          ],
+          [
+            11.2465191,
+            43.7764307
+          ],
+          [
+            11.2466255,
+            43.7763677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/533595820",
+      "properties": {
+        "@id": "node/533595820",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1789951,
+          43.7547683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957246",
+      "properties": {
+        "@id": "node/1742957246",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1790294,
+          43.7547512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957295",
+      "properties": {
+        "@id": "node/1742957295",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1740718,
+          43.7551143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957298",
+      "properties": {
+        "@id": "node/1742957298",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.174105,
+          43.7551399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/533583882",
+      "properties": {
+        "@id": "node/533583882",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1821825,
+          43.7579796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957362",
+      "properties": {
+        "@id": "node/1742957362",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1822064,
+          43.7579675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536397062",
+      "properties": {
+        "@id": "node/536397062",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1873435,
+          43.761933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957210",
+      "properties": {
+        "@id": "node/1742957210",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1873619,
+          43.7619045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/534939434",
+      "properties": {
+        "@id": "node/534939434",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1979629,
+          43.7641474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957255",
+      "properties": {
+        "@id": "node/1742957255",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1979799,
+          43.7641184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/533592243",
+      "properties": {
+        "@id": "node/533592243",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2092252,
+          43.7674535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957232",
+      "properties": {
+        "@id": "node/1742957232",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.209266,
+          43.7674374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/305679515",
+      "properties": {
+        "@id": "node/305679515",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.211938,
+          43.771516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536398523",
+      "properties": {
+        "@id": "node/536398523",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2119802,
+          43.7715072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536399001",
+      "properties": {
+        "@id": "node/536399001",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2169697,
+          43.7735942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957291",
+      "properties": {
+        "@id": "node/1742957291",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2169786,
+          43.7735634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536399684",
+      "properties": {
+        "@id": "node/536399684",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.221282,
+          43.7741134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536400284",
+      "properties": {
+        "@id": "node/536400284",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2252099,
+          43.7746238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957238",
+      "properties": {
+        "@id": "node/1742957238",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2212682,
+          43.7741432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957286",
+      "properties": {
+        "@id": "node/1742957286",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2252022,
+          43.7746547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536400703",
+      "properties": {
+        "@id": "node/536400703",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2287215,
+          43.7754442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536400790",
+      "properties": {
+        "@id": "node/536400790",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.232748,
+          43.7769658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957243",
+      "properties": {
+        "@id": "node/1742957243",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2327319,
+          43.7769371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1742957256",
+      "properties": {
+        "@id": "node/1742957256",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2287628,
+          43.7754328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536396494",
+      "properties": {
+        "@id": "node/536396494",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2386481,
+          43.7773356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719819773",
+      "properties": {
+        "@id": "node/1719819773",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2386648,
+          43.7773123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536400924",
+      "properties": {
+        "@id": "node/536400924",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172768,
+            "reltags": {
+              "colour": "red",
+              "from": "Alamanni - Stazione (Santa Maria Novella)",
+              "name": "T1 (Villa Costanza)",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Villa Costanza",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2469951,
+          43.7760744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719819767",
+      "properties": {
+        "@id": "node/1719819767",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2172769,
+            "reltags": {
+              "colour": "red",
+              "from": "Villa Costanza",
+              "name": "T1 (Alamanni - Stazione (Santa Maria Novella))",
+              "network": "Firenze",
+              "operator": "GEST",
+              "ref": "T1",
+              "route": "tram",
+              "to": "Alamanni - Stazione (Santa Maria Novella)",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2469646,
+          43.7760556
+        ]
+      }
+    }
+  ]
+}

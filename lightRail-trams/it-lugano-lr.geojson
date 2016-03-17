@@ -1,0 +1,2342 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-03T08:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/101164590",
+      "properties": {
+        "@id": "way/101164590",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.8798996,
+            45.9797611
+          ],
+          [
+            8.8777587,
+            45.9785387
+          ],
+          [
+            8.8762474,
+            45.9776751
+          ],
+          [
+            8.8758093,
+            45.9774236
+          ],
+          [
+            8.8755194,
+            45.9772601
+          ],
+          [
+            8.8744383,
+            45.9766422
+          ],
+          [
+            8.8738765,
+            45.9763099
+          ],
+          [
+            8.8728226,
+            45.9756383
+          ],
+          [
+            8.8717961,
+            45.974979
+          ],
+          [
+            8.8704536,
+            45.97412
+          ],
+          [
+            8.8699211,
+            45.9737755
+          ],
+          [
+            8.8691301,
+            45.973277
+          ],
+          [
+            8.8685305,
+            45.9729882
+          ],
+          [
+            8.8681266,
+            45.9727971
+          ],
+          [
+            8.8677088,
+            45.972536
+          ],
+          [
+            8.8672529,
+            45.9722426
+          ],
+          [
+            8.8663866,
+            45.9716759
+          ],
+          [
+            8.8662028,
+            45.9715743
+          ],
+          [
+            8.8660422,
+            45.9714953
+          ],
+          [
+            8.8658035,
+            45.971399
+          ],
+          [
+            8.8655572,
+            45.9713188
+          ],
+          [
+            8.8642035,
+            45.9709551
+          ],
+          [
+            8.8623464,
+            45.9704356
+          ],
+          [
+            8.8620315,
+            45.9703484
+          ],
+          [
+            8.8619316,
+            45.9703222
+          ],
+          [
+            8.8618104,
+            45.9702925
+          ],
+          [
+            8.8617058,
+            45.970272
+          ],
+          [
+            8.8615857,
+            45.9702509
+          ],
+          [
+            8.8614995,
+            45.9702381
+          ],
+          [
+            8.861355,
+            45.9702135
+          ],
+          [
+            8.8603547,
+            45.9699325
+          ],
+          [
+            8.8597855,
+            45.9697266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25118985",
+      "properties": {
+        "@id": "way/25118985",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.8956906,
+            45.9908996
+          ],
+          [
+            8.8953267,
+            45.9905029
+          ],
+          [
+            8.8951798,
+            45.9902777
+          ],
+          [
+            8.8950213,
+            45.9899877
+          ],
+          [
+            8.8948138,
+            45.9897561
+          ],
+          [
+            8.8944663,
+            45.9894693
+          ],
+          [
+            8.8942215,
+            45.9892571
+          ],
+          [
+            8.8939281,
+            45.9890693
+          ],
+          [
+            8.893564,
+            45.98881
+          ],
+          [
+            8.8934264,
+            45.988682
+          ],
+          [
+            8.8933218,
+            45.9885525
+          ],
+          [
+            8.8929954,
+            45.9881637
+          ],
+          [
+            8.8927462,
+            45.9878472
+          ],
+          [
+            8.8925788,
+            45.9875462
+          ],
+          [
+            8.8924751,
+            45.9872655
+          ],
+          [
+            8.8923811,
+            45.9869425
+          ],
+          [
+            8.8922509,
+            45.9866286
+          ],
+          [
+            8.8919327,
+            45.9859389
+          ],
+          [
+            8.8915881,
+            45.9851874
+          ],
+          [
+            8.8910704,
+            45.9840555
+          ],
+          [
+            8.8909467,
+            45.983847
+          ],
+          [
+            8.8907258,
+            45.9835457
+          ],
+          [
+            8.8905477,
+            45.9833487
+          ],
+          [
+            8.8903548,
+            45.9831894
+          ],
+          [
+            8.8902365,
+            45.9830997
+          ],
+          [
+            8.8900101,
+            45.9829294
+          ],
+          [
+            8.8896921,
+            45.9827583
+          ],
+          [
+            8.88927,
+            45.9825705
+          ],
+          [
+            8.8890897,
+            45.982516
+          ],
+          [
+            8.8887012,
+            45.9823986
+          ],
+          [
+            8.8879426,
+            45.9822572
+          ],
+          [
+            8.8859989,
+            45.9819327
+          ],
+          [
+            8.883868,
+            45.981584
+          ],
+          [
+            8.8835214,
+            45.9815332
+          ],
+          [
+            8.8831341,
+            45.9814514
+          ],
+          [
+            8.8827737,
+            45.9813492
+          ],
+          [
+            8.8825578,
+            45.9812845
+          ],
+          [
+            8.8823556,
+            45.9811913
+          ],
+          [
+            8.8819763,
+            45.9809901
+          ],
+          [
+            8.8813739,
+            45.980628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38188445",
+      "properties": {
+        "@id": "way/38188445",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.8809223,
+            45.9803476
+          ],
+          [
+            8.8801263,
+            45.9798975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101164568",
+      "properties": {
+        "@id": "way/101164568",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.8801263,
+            45.9798975
+          ],
+          [
+            8.8798996,
+            45.9797611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38188513",
+      "properties": {
+        "@id": "way/38188513",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.8813739,
+            45.980628
+          ],
+          [
+            8.8809223,
+            45.9803476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172147841",
+      "properties": {
+        "@id": "way/172147841",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9013757,
+            45.9990484
+          ],
+          [
+            8.9014118,
+            45.998942
+          ],
+          [
+            8.9017541,
+            45.9981035
+          ],
+          [
+            8.9018678,
+            45.9978218
+          ],
+          [
+            8.9019165,
+            45.9975953
+          ],
+          [
+            8.9019184,
+            45.9973571
+          ],
+          [
+            8.9018847,
+            45.9971228
+          ],
+          [
+            8.9018386,
+            45.996984
+          ],
+          [
+            8.90177,
+            45.9968494
+          ],
+          [
+            8.9017054,
+            45.9967555
+          ],
+          [
+            8.901625,
+            45.9966655
+          ],
+          [
+            8.9014665,
+            45.9964845
+          ],
+          [
+            8.9009684,
+            45.995965
+          ],
+          [
+            8.9005447,
+            45.9955264
+          ],
+          [
+            8.9004679,
+            45.9954397
+          ],
+          [
+            8.9004006,
+            45.9953505
+          ],
+          [
+            8.900271,
+            45.9951637
+          ],
+          [
+            8.8994102,
+            45.9942582
+          ],
+          [
+            8.8990456,
+            45.9939421
+          ],
+          [
+            8.8985513,
+            45.9935613
+          ],
+          [
+            8.8980609,
+            45.9932665
+          ],
+          [
+            8.8975348,
+            45.9930434
+          ],
+          [
+            8.897192,
+            45.9928604
+          ],
+          [
+            8.8969589,
+            45.9926595
+          ],
+          [
+            8.896833,
+            45.992504
+          ],
+          [
+            8.8966208,
+            45.9920812
+          ],
+          [
+            8.8964995,
+            45.9918609
+          ],
+          [
+            8.8963713,
+            45.9917086
+          ],
+          [
+            8.8960233,
+            45.9913521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25118984",
+      "properties": {
+        "@id": "way/25118984",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.8960233,
+            45.9913521
+          ],
+          [
+            8.8956906,
+            45.9908996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172147838",
+      "properties": {
+        "@id": "way/172147838",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9013393,
+            45.9991348
+          ],
+          [
+            8.9013757,
+            45.9990484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25170077",
+      "properties": {
+        "@id": "way/25170077",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9152774,
+            46.0118345
+          ],
+          [
+            8.914221,
+            46.012214
+          ],
+          [
+            8.9130891,
+            46.0126213
+          ],
+          [
+            8.9128378,
+            46.01271
+          ],
+          [
+            8.9118816,
+            46.0129936
+          ],
+          [
+            8.911209,
+            46.0130908
+          ],
+          [
+            8.9104878,
+            46.0130422
+          ],
+          [
+            8.9099286,
+            46.0128396
+          ],
+          [
+            8.9093614,
+            46.012402
+          ],
+          [
+            8.909163,
+            46.0122006
+          ],
+          [
+            8.908646,
+            46.011695
+          ],
+          [
+            8.906987,
+            46.0100358
+          ],
+          [
+            8.9064522,
+            46.0095739
+          ],
+          [
+            8.9057715,
+            46.0091444
+          ],
+          [
+            8.9051471,
+            46.0088355
+          ],
+          [
+            8.9045495,
+            46.0085062
+          ],
+          [
+            8.9043049,
+            46.008316
+          ],
+          [
+            8.9039158,
+            46.0079127
+          ],
+          [
+            8.9035349,
+            46.0073778
+          ],
+          [
+            8.903227,
+            46.0067701
+          ],
+          [
+            8.9029353,
+            46.0062352
+          ],
+          [
+            8.9026435,
+            46.0058544
+          ],
+          [
+            8.9021735,
+            46.0053195
+          ],
+          [
+            8.9020352,
+            46.0051055
+          ],
+          [
+            8.9019304,
+            46.0048981
+          ],
+          [
+            8.9018008,
+            46.0044119
+          ],
+          [
+            8.9014262,
+            46.0018884
+          ],
+          [
+            8.9012594,
+            46.000765
+          ],
+          [
+            8.9011957,
+            46.0001728
+          ],
+          [
+            8.9012051,
+            45.9997511
+          ],
+          [
+            8.9012707,
+            45.9993736
+          ],
+          [
+            8.9013393,
+            45.9991348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34262591",
+      "properties": {
+        "@id": "way/34262591",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9335181,
+            45.9983262
+          ],
+          [
+            8.9335505,
+            45.9980425
+          ],
+          [
+            8.9336027,
+            45.997501
+          ],
+          [
+            8.9335991,
+            45.9972674
+          ],
+          [
+            8.9335001,
+            45.9969723
+          ],
+          [
+            8.9334,
+            45.996799
+          ],
+          [
+            8.9332263,
+            45.9966325
+          ],
+          [
+            8.9327887,
+            45.9963894
+          ],
+          [
+            8.9318325,
+            45.9960329
+          ],
+          [
+            8.9312977,
+            45.9958303
+          ],
+          [
+            8.9309492,
+            45.995652
+          ],
+          [
+            8.9305765,
+            45.9953846
+          ],
+          [
+            8.9302199,
+            45.9949875
+          ],
+          [
+            8.9297742,
+            45.9945175
+          ],
+          [
+            8.9292961,
+            45.9942015
+          ],
+          [
+            8.9287208,
+            45.9939746
+          ],
+          [
+            8.9280644,
+            45.993853
+          ],
+          [
+            8.9261438,
+            45.9935451
+          ],
+          [
+            8.9251228,
+            45.9933506
+          ],
+          [
+            8.924661,
+            45.993278
+          ],
+          [
+            8.9240387,
+            45.9931854
+          ],
+          [
+            8.9235901,
+            45.9931557
+          ],
+          [
+            8.9231596,
+            45.9931476
+          ],
+          [
+            8.9226431,
+            45.9931966
+          ],
+          [
+            8.9212412,
+            45.9935451
+          ],
+          [
+            8.9206658,
+            45.9937639
+          ],
+          [
+            8.9201229,
+            45.9941042
+          ],
+          [
+            8.9198231,
+            45.9942663
+          ],
+          [
+            8.9191991,
+            45.9944284
+          ],
+          [
+            8.9185346,
+            45.9947039
+          ],
+          [
+            8.9181699,
+            45.9949713
+          ],
+          [
+            8.9179998,
+            45.9952387
+          ],
+          [
+            8.9179025,
+            45.9956763
+          ],
+          [
+            8.9177486,
+            45.9961706
+          ],
+          [
+            8.9175298,
+            45.9964218
+          ],
+          [
+            8.9170841,
+            45.9967622
+          ],
+          [
+            8.9167518,
+            45.9971187
+          ],
+          [
+            8.9164601,
+            45.9977346
+          ],
+          [
+            8.9159658,
+            45.9990312
+          ],
+          [
+            8.9158442,
+            45.9994931
+          ],
+          [
+            8.9158442,
+            46.0001576
+          ],
+          [
+            8.9159658,
+            46.0019079
+          ],
+          [
+            8.9158769,
+            46.0024733
+          ],
+          [
+            8.9157321,
+            46.0029447
+          ],
+          [
+            8.9155497,
+            46.0035595
+          ],
+          [
+            8.915488,
+            46.0040346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32318255",
+      "properties": {
+        "@id": "way/32318255",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9182839,
+            46.0093465
+          ],
+          [
+            8.9183239,
+            46.0095739
+          ],
+          [
+            8.9182996,
+            46.0098332
+          ],
+          [
+            8.918178,
+            46.0101898
+          ],
+          [
+            8.917862,
+            46.0106273
+          ],
+          [
+            8.9174406,
+            46.0109677
+          ],
+          [
+            8.9168329,
+            46.0112513
+          ],
+          [
+            8.9165549,
+            46.0113547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25118981",
+      "properties": {
+        "@id": "way/25118981",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.915488,
+            46.0040346
+          ],
+          [
+            8.9154022,
+            46.0044631
+          ],
+          [
+            8.91537,
+            46.0049083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25118982",
+      "properties": {
+        "@id": "way/25118982",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.91537,
+            46.0049083
+          ],
+          [
+            8.9154022,
+            46.0053126
+          ],
+          [
+            8.9155765,
+            46.0058082
+          ],
+          [
+            8.9158635,
+            46.006287
+          ],
+          [
+            8.916121,
+            46.0066615
+          ],
+          [
+            8.9164778,
+            46.006967
+          ],
+          [
+            8.9169096,
+            46.0073452
+          ],
+          [
+            8.9172234,
+            46.0075929
+          ],
+          [
+            8.917627,
+            46.0080585
+          ],
+          [
+            8.9178944,
+            46.0084961
+          ],
+          [
+            8.9182309,
+            46.0091815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32318253",
+      "properties": {
+        "@id": "way/32318253",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9182309,
+            46.0091815
+          ],
+          [
+            8.9182839,
+            46.0093465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25118980",
+      "properties": {
+        "@id": "way/25118980",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9359206,
+            46.0011492
+          ],
+          [
+            8.9356465,
+            46.0010489
+          ],
+          [
+            8.9353588,
+            46.0008905
+          ],
+          [
+            8.9350334,
+            46.0006195
+          ],
+          [
+            8.934798,
+            46.000328
+          ],
+          [
+            8.9345148,
+            45.9999874
+          ],
+          [
+            8.9340772,
+            45.9994526
+          ],
+          [
+            8.9337693,
+            45.9990474
+          ],
+          [
+            8.9335991,
+            45.998707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34262592",
+      "properties": {
+        "@id": "way/34262592",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9335991,
+            45.998707
+          ],
+          [
+            8.9335181,
+            45.9983262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25118978",
+      "properties": {
+        "@id": "way/25118978",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9405301,
+            46.0011426
+          ],
+          [
+            8.9401149,
+            46.0010559
+          ],
+          [
+            8.9395616,
+            46.0009663
+          ],
+          [
+            8.9388849,
+            46.0009335
+          ],
+          [
+            8.9380212,
+            46.0009544
+          ],
+          [
+            8.93727,
+            46.0010409
+          ],
+          [
+            8.9367919,
+            46.0011381
+          ],
+          [
+            8.9363219,
+            46.0011867
+          ],
+          [
+            8.9360649,
+            46.001176
+          ],
+          [
+            8.9359206,
+            46.0011492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25170074",
+      "properties": {
+        "@id": "way/25170074",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9165549,
+            46.0113547
+          ],
+          [
+            8.9152774,
+            46.0118345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25118976",
+      "properties": {
+        "@id": "way/25118976",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9436961,
+            46.0020295
+          ],
+          [
+            8.9432504,
+            46.0019971
+          ],
+          [
+            8.9429101,
+            46.0019241
+          ],
+          [
+            8.9424725,
+            46.0017459
+          ],
+          [
+            8.9419525,
+            46.0015351
+          ],
+          [
+            8.9413808,
+            46.0013824
+          ],
+          [
+            8.9408048,
+            46.0011976
+          ],
+          [
+            8.9405301,
+            46.0011426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239482150",
+      "properties": {
+        "@id": "way/239482150",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9477348,
+            46.0048063
+          ],
+          [
+            8.9477768,
+            46.0045707
+          ],
+          [
+            8.9477964,
+            46.0044719
+          ],
+          [
+            8.9478126,
+            46.0042048
+          ],
+          [
+            8.9477754,
+            46.0038139
+          ],
+          [
+            8.9478439,
+            46.0034245
+          ],
+          [
+            8.947856,
+            46.0032576
+          ],
+          [
+            8.9478352,
+            46.0030857
+          ],
+          [
+            8.9477936,
+            46.0029812
+          ],
+          [
+            8.9477562,
+            46.0029054
+          ],
+          [
+            8.9476839,
+            46.002797
+          ],
+          [
+            8.9476767,
+            46.0028011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239482154",
+      "properties": {
+        "@id": "way/239482154",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148250,
+            "reltags": {
+              "name": "Ferrovia Lugano-Ponte Tresa",
+              "network": "FLP SA",
+              "operator": "Ferrovia Lugano-Ponte Tresa",
+              "ref": "S60",
+              "route": "light_rail",
+              "type": "route",
+              "wikidata": "Q440182",
+              "wikipedia": "it:Ferrovia Lugano-Ponte Tresa"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9476839,
+            46.002797
+          ],
+          [
+            8.9475657,
+            46.0026551
+          ],
+          [
+            8.9473702,
+            46.0024401
+          ],
+          [
+            8.9471862,
+            46.0022843
+          ],
+          [
+            8.9469046,
+            46.0021278
+          ],
+          [
+            8.9466578,
+            46.0020384
+          ],
+          [
+            8.9464459,
+            46.0019993
+          ],
+          [
+            8.9463166,
+            46.0019875
+          ],
+          [
+            8.9447334,
+            46.0020133
+          ],
+          [
+            8.9436961,
+            46.0020295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28283993",
+      "properties": {
+        "@id": "way/28283993",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148243,
+            "reltags": {
+              "name": "Stazione FFS-Centro",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "railway": "funicular",
+              "ref": "funicolare stazione",
+              "route": "light_rail",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9496797,
+            46.0044799
+          ],
+          [
+            8.9495909,
+            46.0045348
+          ],
+          [
+            8.9494595,
+            46.0045889
+          ],
+          [
+            8.9486457,
+            46.004814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28283994",
+      "properties": {
+        "@id": "way/28283994",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148243,
+            "reltags": {
+              "name": "Stazione FFS-Centro",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "railway": "funicular",
+              "ref": "funicolare stazione",
+              "route": "light_rail",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9486457,
+            46.004814
+          ],
+          [
+            8.9479925,
+            46.0049389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28283995",
+      "properties": {
+        "@id": "way/28283995",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148243,
+            "reltags": {
+              "name": "Stazione FFS-Centro",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "railway": "funicular",
+              "ref": "funicolare stazione",
+              "route": "light_rail",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9479925,
+            46.0049389
+          ],
+          [
+            8.9478586,
+            46.0049671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28283996",
+      "properties": {
+        "@id": "way/28283996",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148243,
+            "reltags": {
+              "name": "Stazione FFS-Centro",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "railway": "funicular",
+              "ref": "funicolare stazione",
+              "route": "light_rail",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9478586,
+            46.0049671
+          ],
+          [
+            8.9475691,
+            46.005024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28283997",
+      "properties": {
+        "@id": "way/28283997",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 148243,
+            "reltags": {
+              "name": "Stazione FFS-Centro",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "railway": "funicular",
+              "ref": "funicolare stazione",
+              "route": "light_rail",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9475691,
+            46.005024
+          ],
+          [
+            8.9468897,
+            46.0051566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368598733",
+      "properties": {
+        "@id": "way/368598733",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9702624,
+            46.0064603
+          ],
+          [
+            8.9705939,
+            46.0065536
+          ],
+          [
+            8.9714404,
+            46.0067185
+          ],
+          [
+            8.9721851,
+            46.0069285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368605535",
+      "properties": {
+        "@id": "way/368605535",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9729777,
+            46.0072587
+          ],
+          [
+            8.9750146,
+            46.0085186
+          ],
+          [
+            8.9770581,
+            46.0097207
+          ],
+          [
+            8.9777339,
+            46.0099147
+          ],
+          [
+            8.978253,
+            46.0100325
+          ],
+          [
+            8.9786495,
+            46.0101021
+          ],
+          [
+            8.9790124,
+            46.0102561
+          ],
+          [
+            8.9802174,
+            46.0108933
+          ],
+          [
+            8.9806465,
+            46.0111231
+          ],
+          [
+            8.981183,
+            46.0113246
+          ],
+          [
+            8.9813956,
+            46.0113802
+          ],
+          [
+            8.981991,
+            46.0114845
+          ],
+          [
+            8.982881,
+            46.0115575
+          ],
+          [
+            8.9837929,
+            46.0113861
+          ],
+          [
+            8.9842095,
+            46.011236
+          ],
+          [
+            8.9846003,
+            46.0110822
+          ],
+          [
+            8.9848918,
+            46.0108428
+          ],
+          [
+            8.9852995,
+            46.0104041
+          ],
+          [
+            8.9857475,
+            46.0097586
+          ],
+          [
+            8.9860297,
+            46.0093131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27265328",
+      "properties": {
+        "@id": "way/27265328",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9702256,
+            46.0064499
+          ],
+          [
+            8.9702624,
+            46.0064603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27265329",
+      "properties": {
+        "@id": "way/27265329",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.972941,
+            46.007236
+          ],
+          [
+            8.9729777,
+            46.0072587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368598732",
+      "properties": {
+        "@id": "way/368598732",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9721851,
+            46.0069285
+          ],
+          [
+            8.9722718,
+            46.0069529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368605534",
+      "properties": {
+        "@id": "way/368605534",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9860297,
+            46.0093131
+          ],
+          [
+            8.9860885,
+            46.0092202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299270340",
+      "properties": {
+        "@id": "node/299270340",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9702256,
+          46.0064499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299270341",
+      "properties": {
+        "@id": "node/299270341",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9722718,
+          46.0069529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299270342",
+      "properties": {
+        "@id": "node/299270342",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.972941,
+          46.007236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/984003073",
+      "properties": {
+        "@id": "node/984003073",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9750146,
+          46.0085186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299270349",
+      "properties": {
+        "@id": "node/299270349",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9860885,
+          46.0092202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/984003037",
+      "properties": {
+        "@id": "node/984003037",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9802174,
+          46.0108933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/984003281",
+      "properties": {
+        "@id": "node/984003281",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.981183,
+          46.0113246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2460241274",
+      "properties": {
+        "@id": "node/2460241274",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 148244,
+            "reltags": {
+              "name": "Cassarate-Bré",
+              "network": "TPL SA",
+              "operator": "Trasporti Pubblici Luganesi SA",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9848918,
+          46.0108428
+        ]
+      }
+    }
+  ]
+}

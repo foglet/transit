@@ -1,0 +1,950 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-11T20:06:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/117963870",
+      "properties": {
+        "@id": "way/117963870",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1809012,
+            "reltags": {
+              "from": "Santa Maria di Pisa",
+              "name": "Santa Maria di Pisa → Emicidio Garibaldi",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Emicidio Garibaldi",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2160531,
+            "reltags": {
+              "from": "Emicidio Garibaldi",
+              "name": "Emicidio Garibaldi → Santa Maria di Pisa",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Santa Maria di Pisa",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5454632,
+            40.742114
+          ],
+          [
+            8.5471788,
+            40.7408036
+          ],
+          [
+            8.5479557,
+            40.7402747
+          ],
+          [
+            8.548993,
+            40.7398822
+          ],
+          [
+            8.5494989,
+            40.7397436
+          ],
+          [
+            8.549904,
+            40.7396133
+          ],
+          [
+            8.5516735,
+            40.7390323
+          ],
+          [
+            8.5520137,
+            40.7388696
+          ],
+          [
+            8.5523177,
+            40.7386795
+          ],
+          [
+            8.5528942,
+            40.7381545
+          ],
+          [
+            8.5538328,
+            40.7372312
+          ],
+          [
+            8.5542861,
+            40.7368037
+          ],
+          [
+            8.5544822,
+            40.7365784
+          ],
+          [
+            8.5546548,
+            40.7363387
+          ],
+          [
+            8.5548392,
+            40.7360342
+          ],
+          [
+            8.5549335,
+            40.7358368
+          ],
+          [
+            8.5550159,
+            40.7356516
+          ],
+          [
+            8.5551608,
+            40.7354403
+          ],
+          [
+            8.5553673,
+            40.7351517
+          ],
+          [
+            8.5555014,
+            40.7348468
+          ],
+          [
+            8.5556141,
+            40.7344952
+          ],
+          [
+            8.5556918,
+            40.7341802
+          ],
+          [
+            8.5557425,
+            40.733891
+          ],
+          [
+            8.5558122,
+            40.7335536
+          ],
+          [
+            8.5558551,
+            40.7331654
+          ],
+          [
+            8.5558525,
+            40.7328605
+          ],
+          [
+            8.5558283,
+            40.7325617
+          ],
+          [
+            8.5557827,
+            40.7323056
+          ],
+          [
+            8.5556915,
+            40.7319784
+          ],
+          [
+            8.5555568,
+            40.7316268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134420645",
+      "properties": {
+        "@id": "way/134420645",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1809012,
+            "reltags": {
+              "from": "Santa Maria di Pisa",
+              "name": "Santa Maria di Pisa → Emicidio Garibaldi",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Emicidio Garibaldi",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2160531,
+            "reltags": {
+              "from": "Emicidio Garibaldi",
+              "name": "Emicidio Garibaldi → Santa Maria di Pisa",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Santa Maria di Pisa",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5617642,
+            40.722784
+          ],
+          [
+            8.5616086,
+            40.7228948
+          ],
+          [
+            8.5614397,
+            40.7230137
+          ],
+          [
+            8.5613659,
+            40.7230493
+          ],
+          [
+            8.5612841,
+            40.7230757
+          ],
+          [
+            8.5611687,
+            40.723101
+          ],
+          [
+            8.5611218,
+            40.7231113
+          ],
+          [
+            8.5609958,
+            40.7231357
+          ],
+          [
+            8.5609166,
+            40.7231357
+          ],
+          [
+            8.5608348,
+            40.7231245
+          ],
+          [
+            8.5607503,
+            40.7231021
+          ],
+          [
+            8.5606605,
+            40.7230615
+          ],
+          [
+            8.560572,
+            40.7229944
+          ],
+          [
+            8.5602119,
+            40.7226663
+          ],
+          [
+            8.5594351,
+            40.7219183
+          ],
+          [
+            8.5589452,
+            40.7214671
+          ],
+          [
+            8.5582334,
+            40.720787
+          ],
+          [
+            8.5580873,
+            40.720646
+          ],
+          [
+            8.5576933,
+            40.7202561
+          ],
+          [
+            8.5572622,
+            40.7197841
+          ],
+          [
+            8.5567073,
+            40.7192747
+          ],
+          [
+            8.5559898,
+            40.7185593
+          ],
+          [
+            8.5556662,
+            40.7182812
+          ],
+          [
+            8.5552746,
+            40.7179113
+          ],
+          [
+            8.5548803,
+            40.7175494
+          ],
+          [
+            8.5547811,
+            40.7174782
+          ],
+          [
+            8.5546751,
+            40.7174509
+          ],
+          [
+            8.5545531,
+            40.7174355
+          ],
+          [
+            8.554492,
+            40.7174361
+          ],
+          [
+            8.5543922,
+            40.7174457
+          ],
+          [
+            8.5542473,
+            40.7175067
+          ],
+          [
+            8.5533971,
+            40.7180129
+          ],
+          [
+            8.5531852,
+            40.7181247
+          ],
+          [
+            8.5530601,
+            40.7181956
+          ],
+          [
+            8.5529196,
+            40.7182711
+          ],
+          [
+            8.5527855,
+            40.7183544
+          ],
+          [
+            8.5526997,
+            40.7184236
+          ],
+          [
+            8.5526741,
+            40.7184996
+          ],
+          [
+            8.5526916,
+            40.7186186
+          ],
+          [
+            8.5527143,
+            40.7187293
+          ],
+          [
+            8.5527733,
+            40.7188757
+          ],
+          [
+            8.5529772,
+            40.719268
+          ],
+          [
+            8.5531797,
+            40.7196494
+          ],
+          [
+            8.5532481,
+            40.7197925
+          ],
+          [
+            8.5533151,
+            40.7199633
+          ],
+          [
+            8.5533714,
+            40.7201909
+          ],
+          [
+            8.5534734,
+            40.7206971
+          ],
+          [
+            8.5536234,
+            40.7213802
+          ],
+          [
+            8.5536468,
+            40.721499
+          ],
+          [
+            8.5538352,
+            40.7222585
+          ],
+          [
+            8.554012,
+            40.7230661
+          ],
+          [
+            8.5538894,
+            40.7225366
+          ],
+          [
+            8.5541129,
+            40.7234687
+          ],
+          [
+            8.5541451,
+            40.7235998
+          ],
+          [
+            8.5543036,
+            40.7243106
+          ],
+          [
+            8.5543546,
+            40.7244773
+          ],
+          [
+            8.5543978,
+            40.724565
+          ],
+          [
+            8.554486,
+            40.724705
+          ],
+          [
+            8.5549769,
+            40.7251969
+          ],
+          [
+            8.5550288,
+            40.7252496
+          ],
+          [
+            8.5555106,
+            40.7257335
+          ],
+          [
+            8.5555375,
+            40.7258189
+          ],
+          [
+            8.5555385,
+            40.7259071
+          ],
+          [
+            8.5554766,
+            40.7260187
+          ],
+          [
+            8.5539354,
+            40.7270984
+          ],
+          [
+            8.5538782,
+            40.7271909
+          ],
+          [
+            8.5538708,
+            40.7274551
+          ],
+          [
+            8.5546331,
+            40.72849
+          ],
+          [
+            8.554814,
+            40.7287428
+          ],
+          [
+            8.5548248,
+            40.7288678
+          ],
+          [
+            8.5548186,
+            40.7289791
+          ],
+          [
+            8.5548181,
+            40.7289877
+          ],
+          [
+            8.554798,
+            40.7293457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134586160",
+      "properties": {
+        "@id": "way/134586160",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1809012,
+            "reltags": {
+              "from": "Santa Maria di Pisa",
+              "name": "Santa Maria di Pisa → Emicidio Garibaldi",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Emicidio Garibaldi",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2160531,
+            "reltags": {
+              "from": "Emicidio Garibaldi",
+              "name": "Emicidio Garibaldi → Santa Maria di Pisa",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Santa Maria di Pisa",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.554798,
+            40.7293457
+          ],
+          [
+            8.5547431,
+            40.7296032
+          ],
+          [
+            8.5547403,
+            40.7296269
+          ],
+          [
+            8.5547382,
+            40.7296443
+          ],
+          [
+            8.5547255,
+            40.7297531
+          ],
+          [
+            8.5547683,
+            40.7298895
+          ],
+          [
+            8.554824,
+            40.730004
+          ],
+          [
+            8.5548803,
+            40.730124
+          ],
+          [
+            8.5551969,
+            40.7305929
+          ],
+          [
+            8.5552908,
+            40.7307556
+          ],
+          [
+            8.555394,
+            40.7310126
+          ],
+          [
+            8.5554785,
+            40.7312967
+          ],
+          [
+            8.5555568,
+            40.7316268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1332804847",
+      "properties": {
+        "@id": "node/1332804847",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1809012,
+            "reltags": {
+              "from": "Santa Maria di Pisa",
+              "name": "Santa Maria di Pisa → Emicidio Garibaldi",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Emicidio Garibaldi",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2160531,
+            "reltags": {
+              "from": "Emicidio Garibaldi",
+              "name": "Emicidio Garibaldi → Santa Maria di Pisa",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Santa Maria di Pisa",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5454632,
+          40.742114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1478012032",
+      "properties": {
+        "@id": "node/1478012032",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1809012,
+            "reltags": {
+              "from": "Santa Maria di Pisa",
+              "name": "Santa Maria di Pisa → Emicidio Garibaldi",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Emicidio Garibaldi",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2160531,
+            "reltags": {
+              "from": "Emicidio Garibaldi",
+              "name": "Emicidio Garibaldi → Santa Maria di Pisa",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Santa Maria di Pisa",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5552746,
+          40.7179113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1478012047",
+      "properties": {
+        "@id": "node/1478012047",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1809012,
+            "reltags": {
+              "from": "Santa Maria di Pisa",
+              "name": "Santa Maria di Pisa → Emicidio Garibaldi",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Emicidio Garibaldi",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2160531,
+            "reltags": {
+              "from": "Emicidio Garibaldi",
+              "name": "Emicidio Garibaldi → Santa Maria di Pisa",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Santa Maria di Pisa",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5529772,
+          40.719268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1478012835",
+      "properties": {
+        "@id": "node/1478012835",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1809012,
+            "reltags": {
+              "from": "Santa Maria di Pisa",
+              "name": "Santa Maria di Pisa → Emicidio Garibaldi",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Emicidio Garibaldi",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2160531,
+            "reltags": {
+              "from": "Emicidio Garibaldi",
+              "name": "Emicidio Garibaldi → Santa Maria di Pisa",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Santa Maria di Pisa",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5580873,
+          40.720646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1478012105",
+      "properties": {
+        "@id": "node/1478012105",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1809012,
+            "reltags": {
+              "from": "Santa Maria di Pisa",
+              "name": "Santa Maria di Pisa → Emicidio Garibaldi",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Emicidio Garibaldi",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2160531,
+            "reltags": {
+              "from": "Emicidio Garibaldi",
+              "name": "Emicidio Garibaldi → Santa Maria di Pisa",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Santa Maria di Pisa",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5550288,
+          40.7252496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1478013704",
+      "properties": {
+        "@id": "node/1478013704",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1809012,
+            "reltags": {
+              "from": "Santa Maria di Pisa",
+              "name": "Santa Maria di Pisa → Emicidio Garibaldi",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Emicidio Garibaldi",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2160531,
+            "reltags": {
+              "from": "Emicidio Garibaldi",
+              "name": "Emicidio Garibaldi → Santa Maria di Pisa",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Santa Maria di Pisa",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.554012,
+          40.7230661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1478012012",
+      "properties": {
+        "@id": "node/1478012012",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1809012,
+            "reltags": {
+              "from": "Santa Maria di Pisa",
+              "name": "Santa Maria di Pisa → Emicidio Garibaldi",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Emicidio Garibaldi",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2160531,
+            "reltags": {
+              "from": "Emicidio Garibaldi",
+              "name": "Emicidio Garibaldi → Santa Maria di Pisa",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Santa Maria di Pisa",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5616086,
+          40.7228948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1478015648",
+      "properties": {
+        "@id": "node/1478015648",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1809012,
+            "reltags": {
+              "from": "Santa Maria di Pisa",
+              "name": "Santa Maria di Pisa → Emicidio Garibaldi",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Emicidio Garibaldi",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2160531,
+            "reltags": {
+              "from": "Emicidio Garibaldi",
+              "name": "Emicidio Garibaldi → Santa Maria di Pisa",
+              "operator": "ARST",
+              "route": "tram",
+              "start_date": "2006 (tratta tranviaria urbana);2009 (servizio tram-treno)",
+              "to": "Santa Maria di Pisa",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Sassari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.554798,
+          40.7293457
+        ]
+      }
+    }
+  ]
+}

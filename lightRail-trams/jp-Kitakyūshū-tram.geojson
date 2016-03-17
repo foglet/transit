@@ -1,0 +1,2178 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-01T05:55:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/68355508",
+      "properties": {
+        "@id": "way/68355508",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.7118483,
+            33.8098769
+          ],
+          [
+            130.711578,
+            33.808824
+          ],
+          [
+            130.711461,
+            33.808185
+          ],
+          [
+            130.711169,
+            33.806737
+          ],
+          [
+            130.711101,
+            33.806422
+          ],
+          [
+            130.711093,
+            33.806274
+          ],
+          [
+            130.711085,
+            33.8061
+          ],
+          [
+            130.7111357,
+            33.8057603
+          ],
+          [
+            130.7111867,
+            33.80547
+          ],
+          [
+            130.7112773,
+            33.805083
+          ],
+          [
+            130.711341,
+            33.80487
+          ],
+          [
+            130.7114399,
+            33.804643
+          ],
+          [
+            130.7115532,
+            33.804362
+          ],
+          [
+            130.7116617,
+            33.8041232
+          ],
+          [
+            130.711889,
+            33.803676
+          ],
+          [
+            130.712062,
+            33.803429
+          ],
+          [
+            130.712476,
+            33.802969
+          ],
+          [
+            130.712987,
+            33.802518
+          ],
+          [
+            130.713799,
+            33.801961
+          ],
+          [
+            130.714366,
+            33.801651
+          ],
+          [
+            130.71522,
+            33.801291
+          ],
+          [
+            130.71663,
+            33.800709
+          ],
+          [
+            130.717941,
+            33.800163
+          ],
+          [
+            130.718493,
+            33.799892
+          ],
+          [
+            130.718708,
+            33.799764
+          ],
+          [
+            130.719355,
+            33.79929
+          ],
+          [
+            130.719765,
+            33.79901
+          ],
+          [
+            130.72018,
+            33.798631
+          ],
+          [
+            130.720457,
+            33.798309
+          ],
+          [
+            130.720608,
+            33.798089
+          ],
+          [
+            130.720742,
+            33.797892
+          ],
+          [
+            130.720973,
+            33.797454
+          ],
+          [
+            130.721146,
+            33.796968
+          ],
+          [
+            130.721246,
+            33.796593
+          ],
+          [
+            130.721428,
+            33.795633
+          ],
+          [
+            130.721589,
+            33.7948
+          ],
+          [
+            130.721671,
+            33.794519
+          ],
+          [
+            130.721813,
+            33.794079
+          ],
+          [
+            130.722115,
+            33.793396
+          ],
+          [
+            130.722438,
+            33.792826
+          ],
+          [
+            130.722719,
+            33.792358
+          ],
+          [
+            130.723118,
+            33.791772
+          ],
+          [
+            130.723488,
+            33.791244
+          ],
+          [
+            130.724144,
+            33.790164
+          ],
+          [
+            130.724381,
+            33.789693
+          ],
+          [
+            130.724645,
+            33.789039
+          ],
+          [
+            130.724834,
+            33.78819
+          ],
+          [
+            130.724862,
+            33.787758
+          ],
+          [
+            130.724861,
+            33.787499
+          ],
+          [
+            130.724792,
+            33.786666
+          ],
+          [
+            130.724745,
+            33.786108
+          ],
+          [
+            130.724586,
+            33.784381
+          ],
+          [
+            130.724552,
+            33.784021
+          ],
+          [
+            130.724481,
+            33.783294
+          ],
+          [
+            130.724421,
+            33.782738
+          ],
+          [
+            130.724404,
+            33.782372
+          ],
+          [
+            130.724356,
+            33.781841
+          ],
+          [
+            130.724313,
+            33.781489
+          ],
+          [
+            130.724343,
+            33.780824
+          ],
+          [
+            130.724376,
+            33.780569
+          ],
+          [
+            130.724423,
+            33.780285
+          ],
+          [
+            130.724494,
+            33.779954
+          ],
+          [
+            130.724532,
+            33.779798
+          ],
+          [
+            130.724739,
+            33.779011
+          ],
+          [
+            130.724807,
+            33.778798
+          ],
+          [
+            130.725102,
+            33.778134
+          ],
+          [
+            130.725174,
+            33.777958
+          ],
+          [
+            130.725348,
+            33.777645
+          ],
+          [
+            130.725565,
+            33.777327
+          ],
+          [
+            130.726239,
+            33.776421
+          ],
+          [
+            130.7266754,
+            33.775806
+          ],
+          [
+            130.726884,
+            33.775512
+          ],
+          [
+            130.727432,
+            33.77474
+          ],
+          [
+            130.7275859,
+            33.7744444
+          ],
+          [
+            130.7277625,
+            33.7741482
+          ],
+          [
+            130.7279067,
+            33.7739065
+          ],
+          [
+            130.7282455,
+            33.7733265
+          ],
+          [
+            130.7284043,
+            33.7730282
+          ],
+          [
+            130.7286532,
+            33.7725605
+          ],
+          [
+            130.7289196,
+            33.77209
+          ],
+          [
+            130.7289846,
+            33.7719765
+          ],
+          [
+            130.7295183,
+            33.7710743
+          ],
+          [
+            130.7301453,
+            33.7699678
+          ],
+          [
+            130.7302702,
+            33.7697341
+          ],
+          [
+            130.7306477,
+            33.7690628
+          ],
+          [
+            130.7307547,
+            33.7688985
+          ],
+          [
+            130.7310893,
+            33.7682857
+          ],
+          [
+            130.7311854,
+            33.7681275
+          ],
+          [
+            130.731345,
+            33.767865
+          ],
+          [
+            130.731413,
+            33.767744
+          ],
+          [
+            130.7317162,
+            33.7672046
+          ],
+          [
+            130.732156,
+            33.766422
+          ],
+          [
+            130.732411,
+            33.7659851
+          ],
+          [
+            130.732622,
+            33.765611
+          ],
+          [
+            130.733051,
+            33.764804
+          ],
+          [
+            130.733343,
+            33.764108
+          ],
+          [
+            130.733416,
+            33.763757
+          ],
+          [
+            130.733619,
+            33.762611
+          ],
+          [
+            130.7339133,
+            33.7612641
+          ],
+          [
+            130.7339319,
+            33.7609985
+          ],
+          [
+            130.7339411,
+            33.7609496
+          ],
+          [
+            130.7339585,
+            33.7605301
+          ],
+          [
+            130.7339514,
+            33.7603071
+          ],
+          [
+            130.7339264,
+            33.7602358
+          ],
+          [
+            130.7339056,
+            33.7601899
+          ],
+          [
+            130.7338235,
+            33.7599396
+          ],
+          [
+            130.733518,
+            33.759461
+          ],
+          [
+            130.733348,
+            33.759155
+          ],
+          [
+            130.7330332,
+            33.7586028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/140484445",
+      "properties": {
+        "@id": "way/140484445",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.731468,
+            33.756578
+          ],
+          [
+            130.7313,
+            33.756432
+          ],
+          [
+            130.7275727,
+            33.7542211
+          ],
+          [
+            130.7274306,
+            33.754138
+          ],
+          [
+            130.7264942,
+            33.7536143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355481",
+      "properties": {
+        "@id": "way/68355481",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.7264942,
+            33.7536143
+          ],
+          [
+            130.7262797,
+            33.7534901
+          ],
+          [
+            130.726068,
+            33.753361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355532",
+      "properties": {
+        "@id": "way/68355532",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.7330332,
+            33.7586028
+          ],
+          [
+            130.732804,
+            33.7582697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/140484446",
+      "properties": {
+        "@id": "way/140484446",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.732804,
+            33.7582697
+          ],
+          [
+            130.7326229,
+            33.7580159
+          ],
+          [
+            130.7324811,
+            33.7578453
+          ],
+          [
+            130.732316,
+            33.757634
+          ],
+          [
+            130.731863,
+            33.756996
+          ],
+          [
+            130.731709,
+            33.756803
+          ],
+          [
+            130.731468,
+            33.756578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355467",
+      "properties": {
+        "@id": "way/68355467",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.736373,
+            33.83516
+          ],
+          [
+            130.735816,
+            33.834594
+          ],
+          [
+            130.734094,
+            33.832883
+          ],
+          [
+            130.733565,
+            33.832296
+          ],
+          [
+            130.733401,
+            33.832088
+          ],
+          [
+            130.733138,
+            33.831739
+          ],
+          [
+            130.732818,
+            33.831149
+          ],
+          [
+            130.732598,
+            33.83068
+          ],
+          [
+            130.732521,
+            33.830406
+          ],
+          [
+            130.732324,
+            33.8297
+          ],
+          [
+            130.731764,
+            33.827477
+          ],
+          [
+            130.731669,
+            33.827158
+          ],
+          [
+            130.73142,
+            33.826572
+          ],
+          [
+            130.731195,
+            33.826099
+          ],
+          [
+            130.731141,
+            33.826008
+          ],
+          [
+            130.731033,
+            33.825824
+          ],
+          [
+            130.730704,
+            33.825385
+          ],
+          [
+            130.730074,
+            33.824701
+          ],
+          [
+            130.729439,
+            33.824161
+          ],
+          [
+            130.728681,
+            33.8235999
+          ],
+          [
+            130.7283494,
+            33.8234424
+          ],
+          [
+            130.7280236,
+            33.8233108
+          ],
+          [
+            130.7267112,
+            33.8228448
+          ],
+          [
+            130.726498,
+            33.8227676
+          ],
+          [
+            130.7258319,
+            33.822627
+          ],
+          [
+            130.725131,
+            33.822413
+          ],
+          [
+            130.724589,
+            33.822208
+          ],
+          [
+            130.724021,
+            33.821962
+          ],
+          [
+            130.723273,
+            33.821551
+          ],
+          [
+            130.722493,
+            33.821009
+          ],
+          [
+            130.722173,
+            33.820726
+          ],
+          [
+            130.721565,
+            33.820238
+          ],
+          [
+            130.720984,
+            33.819788
+          ],
+          [
+            130.719358,
+            33.818673
+          ],
+          [
+            130.717763,
+            33.817609
+          ],
+          [
+            130.7169015,
+            33.816928
+          ],
+          [
+            130.7168004,
+            33.8168383
+          ],
+          [
+            130.7166794,
+            33.8167373
+          ],
+          [
+            130.7165661,
+            33.8166375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355475",
+      "properties": {
+        "@id": "way/68355475",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.7165661,
+            33.8166375
+          ],
+          [
+            130.7163169,
+            33.8163498
+          ],
+          [
+            130.715903,
+            33.8156184
+          ],
+          [
+            130.715779,
+            33.815228
+          ],
+          [
+            130.715254,
+            33.8141104
+          ],
+          [
+            130.715076,
+            33.8138058
+          ],
+          [
+            130.714897,
+            33.813599
+          ],
+          [
+            130.71464,
+            33.813253
+          ],
+          [
+            130.714274,
+            33.812874
+          ],
+          [
+            130.713638,
+            33.812286
+          ],
+          [
+            130.7132347,
+            33.8119371
+          ],
+          [
+            130.712979,
+            33.8116963
+          ],
+          [
+            130.7127166,
+            33.8113843
+          ],
+          [
+            130.7124195,
+            33.8110052
+          ],
+          [
+            130.7122557,
+            33.8107669
+          ],
+          [
+            130.7121119,
+            33.8104918
+          ],
+          [
+            130.7119508,
+            33.8101229
+          ],
+          [
+            130.7118483,
+            33.8098769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355574",
+      "properties": {
+        "@id": "way/68355574",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.7382654,
+            33.8393893
+          ],
+          [
+            130.7380539,
+            33.8386942
+          ],
+          [
+            130.7379663,
+            33.8383936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355490",
+      "properties": {
+        "@id": "way/68355490",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.7395831,
+            33.8451852
+          ],
+          [
+            130.7395719,
+            33.844745
+          ],
+          [
+            130.7395291,
+            33.8435981
+          ],
+          [
+            130.7394877,
+            33.8430285
+          ],
+          [
+            130.73939,
+            33.842441
+          ],
+          [
+            130.7392366,
+            33.8419933
+          ],
+          [
+            130.7391938,
+            33.841878
+          ],
+          [
+            130.739005,
+            33.84137
+          ],
+          [
+            130.7382654,
+            33.8393893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355511",
+      "properties": {
+        "@id": "way/68355511",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.7379663,
+            33.8383936
+          ],
+          [
+            130.737516,
+            33.836991
+          ],
+          [
+            130.737451,
+            33.836786
+          ],
+          [
+            130.737409,
+            33.836603
+          ],
+          [
+            130.737211,
+            33.836269
+          ],
+          [
+            130.736968,
+            33.835917
+          ],
+          [
+            130.736758,
+            33.835608
+          ],
+          [
+            130.736565,
+            33.835366
+          ],
+          [
+            130.736373,
+            33.83516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355529",
+      "properties": {
+        "@id": "way/68355529",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.740605,
+            33.852819
+          ],
+          [
+            130.740538,
+            33.852604
+          ],
+          [
+            130.740496,
+            33.852385
+          ],
+          [
+            130.7401934,
+            33.8500415
+          ],
+          [
+            130.7400684,
+            33.849072
+          ],
+          [
+            130.7396234,
+            33.8455089
+          ],
+          [
+            130.7395831,
+            33.8451852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355449",
+      "properties": {
+        "@id": "way/68355449",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.744638,
+            33.857157
+          ],
+          [
+            130.744599,
+            33.857127
+          ],
+          [
+            130.743268,
+            33.856154
+          ],
+          [
+            130.742658,
+            33.855711
+          ],
+          [
+            130.741975,
+            33.855188
+          ],
+          [
+            130.741864,
+            33.855067
+          ],
+          [
+            130.7417497,
+            33.8549212
+          ],
+          [
+            130.74157,
+            33.854746
+          ],
+          [
+            130.741382,
+            33.854529
+          ],
+          [
+            130.741204,
+            33.854219
+          ],
+          [
+            130.740909,
+            33.853627
+          ],
+          [
+            130.7408578,
+            33.8535035
+          ],
+          [
+            130.740693,
+            33.853106
+          ],
+          [
+            130.740605,
+            33.852819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355451",
+      "properties": {
+        "@id": "way/68355451",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.749044,
+            33.860961
+          ],
+          [
+            130.748583,
+            33.860443
+          ],
+          [
+            130.748268,
+            33.860129
+          ],
+          [
+            130.747636,
+            33.859455
+          ],
+          [
+            130.745239,
+            33.857605
+          ],
+          [
+            130.745208,
+            33.857579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355431",
+      "properties": {
+        "@id": "way/68355431",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.745208,
+            33.857579
+          ],
+          [
+            130.744638,
+            33.857157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355446",
+      "properties": {
+        "@id": "way/68355446",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.749295,
+            33.861324
+          ],
+          [
+            130.749044,
+            33.860961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355523",
+      "properties": {
+        "@id": "way/68355523",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.757629,
+            33.866096
+          ],
+          [
+            130.756866,
+            33.866058
+          ],
+          [
+            130.755846,
+            33.866035
+          ],
+          [
+            130.755563,
+            33.866041
+          ],
+          [
+            130.755218,
+            33.866069
+          ],
+          [
+            130.754712,
+            33.866114
+          ],
+          [
+            130.753949,
+            33.866052
+          ],
+          [
+            130.753564,
+            33.865996
+          ],
+          [
+            130.753132,
+            33.865854
+          ],
+          [
+            130.752963,
+            33.865793
+          ],
+          [
+            130.7527,
+            33.865657
+          ],
+          [
+            130.752463,
+            33.865511
+          ],
+          [
+            130.752315,
+            33.865415
+          ],
+          [
+            130.751903,
+            33.865077
+          ],
+          [
+            130.751586,
+            33.864767
+          ],
+          [
+            130.751208,
+            33.864322
+          ],
+          [
+            130.751028,
+            33.864081
+          ],
+          [
+            130.750768,
+            33.863694
+          ],
+          [
+            130.749668,
+            33.861961
+          ],
+          [
+            130.749398,
+            33.861504
+          ],
+          [
+            130.749295,
+            33.861324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68355423",
+      "properties": {
+        "@id": "way/68355423",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.765415,
+            33.866379
+          ],
+          [
+            130.764986,
+            33.866377
+          ],
+          [
+            130.76366,
+            33.866357
+          ],
+          [
+            130.763148,
+            33.866357
+          ],
+          [
+            130.761944,
+            33.866328
+          ],
+          [
+            130.7614233,
+            33.8662701
+          ],
+          [
+            130.7605384,
+            33.8662385
+          ],
+          [
+            130.7594953,
+            33.8661746
+          ],
+          [
+            130.758376,
+            33.866158
+          ],
+          [
+            130.757629,
+            33.866096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822966699",
+      "properties": {
+        "@id": "node/822966699",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7262797,
+          33.7534901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822967180",
+      "properties": {
+        "@id": "node/822967180",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7307547,
+          33.7688985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822967361",
+      "properties": {
+        "@id": "node/822967361",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.724807,
+          33.778798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822966191",
+      "properties": {
+        "@id": "node/822966191",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.733348,
+          33.759155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822965712",
+      "properties": {
+        "@id": "node/822965712",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.724552,
+          33.784021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822967441",
+      "properties": {
+        "@id": "node/822967441",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.724381,
+          33.789693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822965460",
+      "properties": {
+        "@id": "node/822965460",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.718708,
+          33.799764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822967170",
+      "properties": {
+        "@id": "node/822967170",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.711578,
+          33.808824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822965849",
+      "properties": {
+        "@id": "node/822965849",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7169015,
+          33.816928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822965594",
+      "properties": {
+        "@id": "node/822965594",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.722173,
+          33.820726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822965939",
+      "properties": {
+        "@id": "node/822965939",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7267112,
+          33.8228448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822966848",
+      "properties": {
+        "@id": "node/822966848",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.732521,
+          33.830406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822965006",
+      "properties": {
+        "@id": "node/822965006",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.736373,
+          33.83516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822965577",
+      "properties": {
+        "@id": "node/822965577",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7380539,
+          33.8386942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822965993",
+      "properties": {
+        "@id": "node/822965993",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7396234,
+          33.8455089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822966030",
+      "properties": {
+        "@id": "node/822966030",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.741204,
+          33.854219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822967385",
+      "properties": {
+        "@id": "node/822967385",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.745208,
+          33.857579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822967340",
+      "properties": {
+        "@id": "node/822967340",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.749295,
+          33.861324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822964864",
+      "properties": {
+        "@id": "node/822964864",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.758376,
+          33.866158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822965774",
+      "properties": {
+        "@id": "node/822965774",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.761944,
+          33.866328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/822966626",
+      "properties": {
+        "@id": "node/822966626",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4570417,
+            "reltags": {
+              "name": "筑豊電気鉄道線",
+              "name:en": "Chikuhō Electric Railroad Line",
+              "name:ja": "筑豊電気鉄道線",
+              "operator": "筑豊電気鉄道",
+              "operator:en": "Chikuhō Electric Railroad",
+              "public_transport:version": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.765415,
+          33.866379
+        ]
+      }
+    }
+  ]
+}

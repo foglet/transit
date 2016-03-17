@@ -1,0 +1,5774 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-11T19:51:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/274618112",
+      "properties": {
+        "@id": "way/274618112",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0349621,
+            39.2704448
+          ],
+          [
+            9.0363943,
+            39.2692831
+          ],
+          [
+            9.0374135,
+            39.2684525
+          ],
+          [
+            9.0381984,
+            39.2678831
+          ],
+          [
+            9.0390443,
+            39.2673561
+          ],
+          [
+            9.0405571,
+            39.2665919
+          ],
+          [
+            9.0419843,
+            39.2658624
+          ],
+          [
+            9.0430899,
+            39.2652972
+          ],
+          [
+            9.0444097,
+            39.2646847
+          ],
+          [
+            9.0491418,
+            39.2627331
+          ],
+          [
+            9.0612439,
+            39.2578818
+          ],
+          [
+            9.0629485,
+            39.2571822
+          ],
+          [
+            9.0721428,
+            39.2534085
+          ],
+          [
+            9.0727436,
+            39.2531759
+          ],
+          [
+            9.0741705,
+            39.2527189
+          ],
+          [
+            9.0746871,
+            39.2525814
+          ],
+          [
+            9.0753829,
+            39.2523866
+          ],
+          [
+            9.0759746,
+            39.2521993
+          ],
+          [
+            9.0767578,
+            39.2519002
+          ],
+          [
+            9.0773892,
+            39.2515973
+          ],
+          [
+            9.0778521,
+            39.2513186
+          ],
+          [
+            9.0782582,
+            39.251049
+          ],
+          [
+            9.0789127,
+            39.2505339
+          ],
+          [
+            9.0792346,
+            39.2502348
+          ],
+          [
+            9.0795135,
+            39.2499938
+          ],
+          [
+            9.0796975,
+            39.249765
+          ],
+          [
+            9.0799013,
+            39.2495323
+          ],
+          [
+            9.0801143,
+            39.2492212
+          ],
+          [
+            9.0803396,
+            39.2488224
+          ],
+          [
+            9.0805327,
+            39.2483986
+          ],
+          [
+            9.0806937,
+            39.2480164
+          ],
+          [
+            9.0808546,
+            39.2475761
+          ],
+          [
+            9.0810477,
+            39.2469031
+          ],
+          [
+            9.0812945,
+            39.2460057
+          ],
+          [
+            9.0814232,
+            39.2456152
+          ],
+          [
+            9.0815965,
+            39.2452118
+          ],
+          [
+            9.0818095,
+            39.2447926
+          ],
+          [
+            9.0822145,
+            39.2442005
+          ],
+          [
+            9.0823754,
+            39.2439928
+          ],
+          [
+            9.0825095,
+            39.2438183
+          ],
+          [
+            9.0826678,
+            39.2436397
+          ],
+          [
+            9.0828207,
+            39.2434756
+          ],
+          [
+            9.0830594,
+            39.243245
+          ],
+          [
+            9.0833008,
+            39.2430227
+          ],
+          [
+            9.0835341,
+            39.2428337
+          ],
+          [
+            9.0838345,
+            39.2426031
+          ],
+          [
+            9.0841993,
+            39.2423538
+          ],
+          [
+            9.0846955,
+            39.2420485
+          ],
+          [
+            9.0859562,
+            39.2413463
+          ],
+          [
+            9.0871927,
+            39.2406608
+          ],
+          [
+            9.0877549,
+            39.2403364
+          ],
+          [
+            9.0880939,
+            39.2401186
+          ],
+          [
+            9.0883594,
+            39.2399399
+          ],
+          [
+            9.088692,
+            39.2396803
+          ],
+          [
+            9.0890273,
+            39.2393894
+          ],
+          [
+            9.0893733,
+            39.2390654
+          ],
+          [
+            9.0896871,
+            39.2386977
+          ],
+          [
+            9.0898738,
+            39.2384709
+          ],
+          [
+            9.0900653,
+            39.2382074
+          ],
+          [
+            9.090186,
+            39.2380183
+          ],
+          [
+            9.0903872,
+            39.2376943
+          ],
+          [
+            9.0905551,
+            39.2373574
+          ],
+          [
+            9.0906715,
+            39.2370876
+          ],
+          [
+            9.090768,
+            39.2368155
+          ],
+          [
+            9.0908833,
+            39.2364376
+          ],
+          [
+            9.0909504,
+            39.2361922
+          ],
+          [
+            9.0910363,
+            39.2358245
+          ],
+          [
+            9.0911382,
+            39.2353696
+          ],
+          [
+            9.0912669,
+            39.234873
+          ],
+          [
+            9.0913581,
+            39.2345718
+          ],
+          [
+            9.0914896,
+            39.2342207
+          ],
+          [
+            9.0916371,
+            39.2339153
+          ],
+          [
+            9.0918222,
+            39.23356
+          ],
+          [
+            9.0919686,
+            39.2333104
+          ],
+          [
+            9.0921065,
+            39.2331113
+          ],
+          [
+            9.0924364,
+            39.2326646
+          ],
+          [
+            9.0926644,
+            39.2323799
+          ],
+          [
+            9.0930587,
+            39.2318979
+          ],
+          [
+            9.0937201,
+            39.2310832
+          ],
+          [
+            9.0945366,
+            39.2300945
+          ],
+          [
+            9.0955209,
+            39.2288833
+          ],
+          [
+            9.096913,
+            39.2271733
+          ],
+          [
+            9.0975889,
+            39.22634
+          ],
+          [
+            9.0978237,
+            39.2260526
+          ],
+          [
+            9.0982241,
+            39.2255695
+          ],
+          [
+            9.0985265,
+            39.2251976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162836311",
+      "properties": {
+        "@id": "way/162836311",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1036762,
+            39.218977
+          ],
+          [
+            9.1035005,
+            39.2191453
+          ],
+          [
+            9.1032014,
+            39.2194476
+          ],
+          [
+            9.1029842,
+            39.2196918
+          ],
+          [
+            9.1027012,
+            39.2200346
+          ],
+          [
+            9.1025228,
+            39.220256
+          ],
+          [
+            9.1021528,
+            39.2207166
+          ],
+          [
+            9.1019891,
+            39.2209219
+          ],
+          [
+            9.1010208,
+            39.2221136
+          ],
+          [
+            9.1003784,
+            39.2229053
+          ],
+          [
+            9.0998205,
+            39.223591
+          ],
+          [
+            9.0993149,
+            39.2242227
+          ],
+          [
+            9.0989275,
+            39.2247041
+          ],
+          [
+            9.0985265,
+            39.2251976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/138438608",
+      "properties": {
+        "@id": "way/138438608",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1080053,
+            39.2160729
+          ],
+          [
+            9.1079291,
+            39.2161196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/277183946",
+      "properties": {
+        "@id": "way/277183946",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1079291,
+            39.2161196
+          ],
+          [
+            9.107642,
+            39.2162957
+          ],
+          [
+            9.1069069,
+            39.216741
+          ],
+          [
+            9.1058851,
+            39.2173596
+          ],
+          [
+            9.1053566,
+            39.2176824
+          ],
+          [
+            9.1048993,
+            39.2179806
+          ],
+          [
+            9.1045331,
+            39.2182528
+          ],
+          [
+            9.1041497,
+            39.2185628
+          ],
+          [
+            9.1038478,
+            39.2188118
+          ],
+          [
+            9.1036762,
+            39.218977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921850",
+      "properties": {
+        "@id": "way/351921850",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1273223,
+            39.2186028
+          ],
+          [
+            9.1280989,
+            39.2190553
+          ],
+          [
+            9.1286704,
+            39.2193872
+          ],
+          [
+            9.1290948,
+            39.219638
+          ],
+          [
+            9.1293526,
+            39.2197885
+          ],
+          [
+            9.1294838,
+            39.2198585
+          ],
+          [
+            9.1296303,
+            39.2199265
+          ],
+          [
+            9.1298293,
+            39.2200081
+          ],
+          [
+            9.1299787,
+            39.2200542
+          ],
+          [
+            9.1301404,
+            39.2200891
+          ],
+          [
+            9.1302093,
+            39.2201006
+          ],
+          [
+            9.1303278,
+            39.2201187
+          ],
+          [
+            9.1304047,
+            39.2201302
+          ],
+          [
+            9.131069,
+            39.2202153
+          ],
+          [
+            9.1312666,
+            39.2202409
+          ],
+          [
+            9.1315056,
+            39.2202718
+          ],
+          [
+            9.1321297,
+            39.220359
+          ],
+          [
+            9.1323895,
+            39.2204053
+          ],
+          [
+            9.1325448,
+            39.2204478
+          ],
+          [
+            9.1326656,
+            39.2204952
+          ],
+          [
+            9.1327627,
+            39.2205409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921857",
+      "properties": {
+        "@id": "way/351921857",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1327627,
+            39.2205409
+          ],
+          [
+            9.1326057,
+            39.2204942
+          ],
+          [
+            9.1324344,
+            39.220449
+          ],
+          [
+            9.1321479,
+            39.2203907
+          ],
+          [
+            9.1319214,
+            39.2203563
+          ],
+          [
+            9.1317078,
+            39.2203267
+          ],
+          [
+            9.1313058,
+            39.2202731
+          ],
+          [
+            9.1310563,
+            39.2202398
+          ],
+          [
+            9.1305074,
+            39.2201714
+          ],
+          [
+            9.1303763,
+            39.2201546
+          ],
+          [
+            9.1303148,
+            39.2201437
+          ],
+          [
+            9.1302002,
+            39.220125
+          ],
+          [
+            9.1301413,
+            39.2201141
+          ],
+          [
+            9.1299704,
+            39.2200794
+          ],
+          [
+            9.1298134,
+            39.2200372
+          ],
+          [
+            9.129607,
+            39.2199509
+          ],
+          [
+            9.1294059,
+            39.2198586
+          ],
+          [
+            9.1291534,
+            39.2197048
+          ],
+          [
+            9.1286748,
+            39.2194233
+          ],
+          [
+            9.1280681,
+            39.2190716
+          ],
+          [
+            9.1277637,
+            39.2188909
+          ],
+          [
+            9.1274001,
+            39.218686
+          ],
+          [
+            9.1270299,
+            39.218461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27668809",
+      "properties": {
+        "@id": "way/27668809",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1251548,
+            39.2172182
+          ],
+          [
+            9.1252497,
+            39.2173432
+          ],
+          [
+            9.1253269,
+            39.2174304
+          ],
+          [
+            9.1254228,
+            39.2175213
+          ],
+          [
+            9.1255922,
+            39.2176286
+          ],
+          [
+            9.1256729,
+            39.2176765
+          ],
+          [
+            9.1257775,
+            39.2177328
+          ],
+          [
+            9.12605,
+            39.2178911
+          ],
+          [
+            9.1264289,
+            39.218115
+          ],
+          [
+            9.1270299,
+            39.218461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921842",
+      "properties": {
+        "@id": "way/351921842",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1273223,
+            39.2186028
+          ],
+          [
+            9.1270299,
+            39.218461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921923",
+      "properties": {
+        "@id": "way/351921923",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1253744,
+            39.2174453
+          ],
+          [
+            9.1252736,
+            39.2173386
+          ],
+          [
+            9.1252132,
+            39.2172535
+          ],
+          [
+            9.1251871,
+            39.2172172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/189379904",
+      "properties": {
+        "@id": "way/189379904",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1331388,
+            39.2223324
+          ],
+          [
+            9.1329512,
+            39.2225344
+          ],
+          [
+            9.1326052,
+            39.2228087
+          ],
+          [
+            9.1323504,
+            39.2230165
+          ],
+          [
+            9.132171,
+            39.2231594
+          ],
+          [
+            9.1320007,
+            39.2232657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/342804220",
+      "properties": {
+        "@id": "way/342804220",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1320739,
+            39.2261261
+          ],
+          [
+            9.1318639,
+            39.2257768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921827",
+      "properties": {
+        "@id": "way/351921827",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1320007,
+            39.2232657
+          ],
+          [
+            9.1319229,
+            39.2233254
+          ],
+          [
+            9.131705,
+            39.2235009
+          ],
+          [
+            9.1315805,
+            39.2236319
+          ],
+          [
+            9.1314389,
+            39.2237888
+          ],
+          [
+            9.1313768,
+            39.2239186
+          ],
+          [
+            9.1312926,
+            39.2240928
+          ],
+          [
+            9.1312508,
+            39.2242417
+          ],
+          [
+            9.1312274,
+            39.2243529
+          ],
+          [
+            9.1312254,
+            39.2244545
+          ],
+          [
+            9.1312411,
+            39.2246165
+          ],
+          [
+            9.1312803,
+            39.2247747
+          ],
+          [
+            9.1313405,
+            39.2249183
+          ],
+          [
+            9.131415,
+            39.2250919
+          ],
+          [
+            9.1315296,
+            39.2252804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921839",
+      "properties": {
+        "@id": "way/351921839",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1327627,
+            39.2205409
+          ],
+          [
+            9.1328882,
+            39.2205747
+          ],
+          [
+            9.1330287,
+            39.2206152
+          ],
+          [
+            9.1331968,
+            39.2206656
+          ],
+          [
+            9.1333302,
+            39.2207492
+          ],
+          [
+            9.1334531,
+            39.2208791
+          ],
+          [
+            9.1335368,
+            39.2209911
+          ],
+          [
+            9.1336046,
+            39.221137
+          ],
+          [
+            9.1336541,
+            39.2212795
+          ],
+          [
+            9.1336791,
+            39.2214243
+          ],
+          [
+            9.1336758,
+            39.2215435
+          ],
+          [
+            9.1336546,
+            39.2216668
+          ],
+          [
+            9.1336089,
+            39.221802
+          ],
+          [
+            9.1335589,
+            39.2219044
+          ],
+          [
+            9.1334778,
+            39.2220328
+          ],
+          [
+            9.133412,
+            39.2221129
+          ],
+          [
+            9.1331388,
+            39.2223324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921884",
+      "properties": {
+        "@id": "way/351921884",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1320007,
+            39.2232657
+          ],
+          [
+            9.1323355,
+            39.2229948
+          ],
+          [
+            9.1329167,
+            39.2225182
+          ],
+          [
+            9.1331388,
+            39.2223324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921912",
+      "properties": {
+        "@id": "way/351921912",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1310615,
+            39.2202641
+          ],
+          [
+            9.1314891,
+            39.2203171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921914",
+      "properties": {
+        "@id": "way/351921914",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.131077,
+            39.2201887
+          ],
+          [
+            9.1315047,
+            39.2202417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921835",
+      "properties": {
+        "@id": "way/351921835",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1323114,
+            39.2266129
+          ],
+          [
+            9.1327384,
+            39.2273515
+          ],
+          [
+            9.1332001,
+            39.2281101
+          ],
+          [
+            9.13371,
+            39.2289771
+          ],
+          [
+            9.1339086,
+            39.2293143
+          ],
+          [
+            9.1340818,
+            39.2296107
+          ],
+          [
+            9.13417,
+            39.2297731
+          ],
+          [
+            9.1343275,
+            39.2300253
+          ],
+          [
+            9.1345261,
+            39.2303618
+          ],
+          [
+            9.1346139,
+            39.2305096
+          ],
+          [
+            9.1347251,
+            39.2306557
+          ],
+          [
+            9.1348112,
+            39.2307609
+          ],
+          [
+            9.1349481,
+            39.230906
+          ],
+          [
+            9.1350904,
+            39.2310344
+          ],
+          [
+            9.1352896,
+            39.2312153
+          ],
+          [
+            9.135886,
+            39.2317391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921886",
+      "properties": {
+        "@id": "way/351921886",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1323114,
+            39.2266129
+          ],
+          [
+            9.1319249,
+            39.2259468
+          ],
+          [
+            9.131874,
+            39.225859
+          ],
+          [
+            9.1315296,
+            39.2252804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921910",
+      "properties": {
+        "@id": "way/351921910",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1315296,
+            39.2252804
+          ],
+          [
+            9.1317703,
+            39.2255822
+          ],
+          [
+            9.1318403,
+            39.2256749
+          ],
+          [
+            9.131895,
+            39.2257607
+          ],
+          [
+            9.1319912,
+            39.2259244
+          ],
+          [
+            9.1321077,
+            39.2261227
+          ],
+          [
+            9.1321471,
+            39.2262075
+          ],
+          [
+            9.1323114,
+            39.2266129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921846",
+      "properties": {
+        "@id": "way/351921846",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1370993,
+            39.2327577
+          ],
+          [
+            9.1373232,
+            39.2329476
+          ],
+          [
+            9.1374499,
+            39.2330688
+          ],
+          [
+            9.1375593,
+            39.233184
+          ],
+          [
+            9.1376674,
+            39.23331
+          ],
+          [
+            9.1377731,
+            39.2334546
+          ],
+          [
+            9.1379034,
+            39.2336627
+          ],
+          [
+            9.1380123,
+            39.2338638
+          ],
+          [
+            9.138101,
+            39.234083
+          ],
+          [
+            9.1381541,
+            39.2342867
+          ],
+          [
+            9.1381825,
+            39.2344489
+          ],
+          [
+            9.1381939,
+            39.2345544
+          ],
+          [
+            9.1381988,
+            39.2346254
+          ],
+          [
+            9.1381939,
+            39.2348253
+          ],
+          [
+            9.138157,
+            39.235155
+          ],
+          [
+            9.1381189,
+            39.2354209
+          ],
+          [
+            9.1379185,
+            39.2364756
+          ],
+          [
+            9.1377329,
+            39.2375301
+          ],
+          [
+            9.1373799,
+            39.2394676
+          ],
+          [
+            9.1371915,
+            39.2404409
+          ],
+          [
+            9.1370866,
+            39.2410856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/342804221",
+      "properties": {
+        "@id": "way/342804221",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1367793,
+            39.232437
+          ],
+          [
+            9.1364798,
+            39.2321821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921899",
+      "properties": {
+        "@id": "way/351921899",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1370993,
+            39.2327577
+          ],
+          [
+            9.136585,
+            39.23232
+          ],
+          [
+            9.1364091,
+            39.2321703
+          ],
+          [
+            9.1362239,
+            39.2320036
+          ],
+          [
+            9.135886,
+            39.2317391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921904",
+      "properties": {
+        "@id": "way/351921904",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.135886,
+            39.2317391
+          ],
+          [
+            9.1362538,
+            39.231975
+          ],
+          [
+            9.1364626,
+            39.2321318
+          ],
+          [
+            9.1366459,
+            39.2322827
+          ],
+          [
+            9.1368064,
+            39.2324148
+          ],
+          [
+            9.136921,
+            39.232545
+          ],
+          [
+            9.1370993,
+            39.2327577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162836312",
+      "properties": {
+        "@id": "way/162836312",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9715543,
+            39.3023263
+          ],
+          [
+            8.9722895,
+            39.3020324
+          ],
+          [
+            8.9738318,
+            39.3014346
+          ],
+          [
+            8.9748108,
+            39.3010382
+          ],
+          [
+            8.9756718,
+            39.3007061
+          ],
+          [
+            8.9764094,
+            39.3004155
+          ],
+          [
+            8.9767822,
+            39.3002619
+          ],
+          [
+            8.9770424,
+            39.3001519
+          ],
+          [
+            8.9772489,
+            39.3000647
+          ],
+          [
+            8.9775171,
+            39.2999464
+          ],
+          [
+            8.9779034,
+            39.2997554
+          ],
+          [
+            8.978118,
+            39.2996496
+          ],
+          [
+            8.9783754,
+            39.2995064
+          ],
+          [
+            8.9786383,
+            39.2993611
+          ],
+          [
+            8.9789189,
+            39.2991926
+          ],
+          [
+            8.9792069,
+            39.2990145
+          ],
+          [
+            8.9794591,
+            39.2988463
+          ],
+          [
+            8.9796629,
+            39.2987031
+          ],
+          [
+            8.9798426,
+            39.2985744
+          ],
+          [
+            8.9800438,
+            39.298427
+          ],
+          [
+            8.9803656,
+            39.298178
+          ],
+          [
+            8.9808323,
+            39.2978085
+          ],
+          [
+            8.9825919,
+            39.2964012
+          ],
+          [
+            8.9844882,
+            39.2948838
+          ],
+          [
+            8.9857167,
+            39.2938958
+          ],
+          [
+            8.987106,
+            39.2927935
+          ],
+          [
+            8.9876344,
+            39.2923659
+          ],
+          [
+            8.9885973,
+            39.2915999
+          ],
+          [
+            8.9893557,
+            39.2910092
+          ],
+          [
+            8.9897791,
+            39.2906572
+          ],
+          [
+            8.9900983,
+            39.2904143
+          ],
+          [
+            8.9906401,
+            39.2900323
+          ],
+          [
+            8.9909791,
+            39.2898188
+          ],
+          [
+            8.9912661,
+            39.2896465
+          ],
+          [
+            8.9916486,
+            39.2894386
+          ],
+          [
+            8.9920145,
+            39.2892583
+          ],
+          [
+            8.992339,
+            39.2891109
+          ],
+          [
+            8.992567,
+            39.2890175
+          ],
+          [
+            8.9928004,
+            39.2889179
+          ],
+          [
+            8.99309,
+            39.2888141
+          ],
+          [
+            8.9933422,
+            39.2887186
+          ],
+          [
+            8.9937311,
+            39.2886044
+          ],
+          [
+            8.9940556,
+            39.2885006
+          ],
+          [
+            8.994576,
+            39.2883677
+          ],
+          [
+            8.9949569,
+            39.2882743
+          ],
+          [
+            8.9963516,
+            39.2879671
+          ],
+          [
+            8.9979979,
+            39.2875987
+          ],
+          [
+            8.9989802,
+            39.2873817
+          ],
+          [
+            8.9995719,
+            39.2872485
+          ],
+          [
+            8.9999071,
+            39.2871592
+          ],
+          [
+            9.0007118,
+            39.2869267
+          ],
+          [
+            9.0014843,
+            39.2866942
+          ],
+          [
+            9.0024821,
+            39.2863454
+          ],
+          [
+            9.003673,
+            39.285897
+          ],
+          [
+            9.005175,
+            39.2852908
+          ],
+          [
+            9.0140367,
+            39.2817105
+          ],
+          [
+            9.0220709,
+            39.2783621
+          ],
+          [
+            9.0263966,
+            39.2765626
+          ],
+          [
+            9.0274143,
+            39.2761104
+          ],
+          [
+            9.0281438,
+            39.2757117
+          ],
+          [
+            9.0284712,
+            39.2755461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162836319",
+      "properties": {
+        "@id": "way/162836319",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9712021,
+            39.3025053
+          ],
+          [
+            8.9715543,
+            39.3023263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162836322",
+      "properties": {
+        "@id": "way/162836322",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9687774,
+            39.3034725
+          ],
+          [
+            8.970089,
+            39.3029474
+          ],
+          [
+            8.9712021,
+            39.3025053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162836323",
+      "properties": {
+        "@id": "way/162836323",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9658277,
+            39.3047133
+          ],
+          [
+            8.9670233,
+            39.3042113
+          ],
+          [
+            8.9682866,
+            39.3037028
+          ],
+          [
+            8.9687774,
+            39.3034725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/274618111",
+      "properties": {
+        "@id": "way/274618111",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0287558,
+            39.2753787
+          ],
+          [
+            9.0291309,
+            39.275147
+          ],
+          [
+            9.0296673,
+            39.2747815
+          ],
+          [
+            9.0300321,
+            39.2745075
+          ],
+          [
+            9.0306667,
+            39.2739796
+          ],
+          [
+            9.0334761,
+            39.271642
+          ],
+          [
+            9.0348485,
+            39.2705334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/274618106",
+      "properties": {
+        "@id": "way/274618106",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0348485,
+            39.2705334
+          ],
+          [
+            9.0349621,
+            39.2704448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/274618107",
+      "properties": {
+        "@id": "way/274618107",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0284712,
+            39.2755461
+          ],
+          [
+            9.0287558,
+            39.2753787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206131762",
+      "properties": {
+        "@id": "way/206131762",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1369275,
+            39.2421449
+          ],
+          [
+            9.136905,
+            39.2422613
+          ],
+          [
+            9.1368874,
+            39.2423671
+          ],
+          [
+            9.1368346,
+            39.2426003
+          ],
+          [
+            9.1367586,
+            39.2430205
+          ],
+          [
+            9.1365722,
+            39.2441263
+          ],
+          [
+            9.1364131,
+            39.2450055
+          ],
+          [
+            9.1363603,
+            39.2451682
+          ],
+          [
+            9.1363152,
+            39.2453198
+          ],
+          [
+            9.1362623,
+            39.2454707
+          ],
+          [
+            9.1362138,
+            39.2456036
+          ],
+          [
+            9.1361414,
+            39.2457665
+          ],
+          [
+            9.1360881,
+            39.2459164
+          ],
+          [
+            9.1360001,
+            39.2460679
+          ],
+          [
+            9.1359173,
+            39.246214
+          ],
+          [
+            9.1358239,
+            39.246391
+          ],
+          [
+            9.1357213,
+            39.246526
+          ],
+          [
+            9.1355997,
+            39.2466911
+          ],
+          [
+            9.135531,
+            39.2467812
+          ],
+          [
+            9.1354197,
+            39.246928
+          ],
+          [
+            9.1353502,
+            39.2470048
+          ],
+          [
+            9.1352037,
+            39.247171
+          ],
+          [
+            9.1351014,
+            39.2472787
+          ],
+          [
+            9.1349767,
+            39.247405
+          ],
+          [
+            9.1348389,
+            39.2475375
+          ],
+          [
+            9.1346789,
+            39.2476717
+          ],
+          [
+            9.1344989,
+            39.2478248
+          ],
+          [
+            9.1342207,
+            39.2480514
+          ],
+          [
+            9.1339849,
+            39.2482301
+          ],
+          [
+            9.133757,
+            39.2484029
+          ],
+          [
+            9.1332036,
+            39.2488551
+          ],
+          [
+            9.1329418,
+            39.2490849
+          ],
+          [
+            9.1328332,
+            39.2491774
+          ],
+          [
+            9.1327487,
+            39.2492553
+          ],
+          [
+            9.1326857,
+            39.249324
+          ],
+          [
+            9.132624,
+            39.2494039
+          ],
+          [
+            9.132569,
+            39.2494879
+          ],
+          [
+            9.1325154,
+            39.2495834
+          ],
+          [
+            9.1324738,
+            39.2496811
+          ],
+          [
+            9.1324503,
+            39.2497536
+          ],
+          [
+            9.1324284,
+            39.249854
+          ],
+          [
+            9.1324129,
+            39.2499954
+          ],
+          [
+            9.1324113,
+            39.2501161
+          ],
+          [
+            9.1324267,
+            39.2502361
+          ],
+          [
+            9.1324524,
+            39.2503465
+          ],
+          [
+            9.132501,
+            39.2504782
+          ],
+          [
+            9.1325784,
+            39.2506366
+          ],
+          [
+            9.1326765,
+            39.2507806
+          ],
+          [
+            9.132754,
+            39.2508739
+          ],
+          [
+            9.132829,
+            39.2509724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154360559",
+      "properties": {
+        "@id": "way/154360559",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 5252355,
+            "reltags": {
+              "from": "Settimo San Pietro",
+              "name": "2 (San Gottardo)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "San Gottardo",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 5252356,
+            "reltags": {
+              "from": "San Gottardo",
+              "name": "2 (Settimo San Pietro)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "Settimo San Pietro",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1418475,
+            39.2639834
+          ],
+          [
+            9.1426867,
+            39.2637541
+          ],
+          [
+            9.1428429,
+            39.2637316
+          ],
+          [
+            9.1430119,
+            39.263726
+          ],
+          [
+            9.1431572,
+            39.2637387
+          ],
+          [
+            9.143232,
+            39.2637521
+          ],
+          [
+            9.1432826,
+            39.2637612
+          ],
+          [
+            9.1433807,
+            39.2637921
+          ],
+          [
+            9.143506,
+            39.2638399
+          ],
+          [
+            9.1436554,
+            39.2639177
+          ],
+          [
+            9.1438301,
+            39.2640498
+          ],
+          [
+            9.1438916,
+            39.2640961
+          ],
+          [
+            9.1441556,
+            39.2642951
+          ],
+          [
+            9.1449797,
+            39.2649152
+          ],
+          [
+            9.1453639,
+            39.2652094
+          ],
+          [
+            9.1457324,
+            39.2654864
+          ],
+          [
+            9.1461518,
+            39.2658024
+          ],
+          [
+            9.1470663,
+            39.2664935
+          ],
+          [
+            9.1475436,
+            39.2668547
+          ],
+          [
+            9.1479565,
+            39.2671667
+          ],
+          [
+            9.1482515,
+            39.2673903
+          ],
+          [
+            9.1487269,
+            39.2677502
+          ],
+          [
+            9.1502629,
+            39.2688939
+          ],
+          [
+            9.1569369,
+            39.2739266
+          ],
+          [
+            9.1611796,
+            39.2771328
+          ],
+          [
+            9.1633642,
+            39.2787786
+          ],
+          [
+            9.1669008,
+            39.2814239
+          ],
+          [
+            9.1675651,
+            39.281912
+          ],
+          [
+            9.1684082,
+            39.2825314
+          ],
+          [
+            9.1702686,
+            39.2836919
+          ],
+          [
+            9.1756549,
+            39.2870493
+          ],
+          [
+            9.1762729,
+            39.2875144
+          ],
+          [
+            9.1764655,
+            39.2877284
+          ],
+          [
+            9.1766548,
+            39.2879693
+          ],
+          [
+            9.1767587,
+            39.2881977
+          ],
+          [
+            9.1768325,
+            39.2883916
+          ],
+          [
+            9.1768608,
+            39.2886147
+          ],
+          [
+            9.1768522,
+            39.288739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921906",
+      "properties": {
+        "@id": "way/351921906",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1370866,
+            39.2410856
+          ],
+          [
+            9.1370819,
+            39.241196
+          ],
+          [
+            9.137077,
+            39.2413134
+          ],
+          [
+            9.1370193,
+            39.2416507
+          ],
+          [
+            9.1369902,
+            39.2418211
+          ],
+          [
+            9.1369681,
+            39.2419354
+          ],
+          [
+            9.1369275,
+            39.2421449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921908",
+      "properties": {
+        "@id": "way/351921908",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1369275,
+            39.2421449
+          ],
+          [
+            9.1369282,
+            39.2420449
+          ],
+          [
+            9.136929,
+            39.2419359
+          ],
+          [
+            9.1369749,
+            39.2416766
+          ],
+          [
+            9.1370108,
+            39.2414744
+          ],
+          [
+            9.1370427,
+            39.2413107
+          ],
+          [
+            9.1370866,
+            39.2410856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921930",
+      "properties": {
+        "@id": "way/351921930",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1369216,
+            39.2418096
+          ],
+          [
+            9.1369814,
+            39.2414615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921932",
+      "properties": {
+        "@id": "way/351921932",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1370193,
+            39.2418196
+          ],
+          [
+            9.1370791,
+            39.2414716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921820",
+      "properties": {
+        "@id": "way/351921820",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.135195,
+            39.2472119
+          ],
+          [
+            9.1352566,
+            39.2471475
+          ],
+          [
+            9.1353574,
+            39.2470345
+          ],
+          [
+            9.135479,
+            39.2468944
+          ],
+          [
+            9.1355087,
+            39.2468588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/118647187",
+      "properties": {
+        "@id": "way/118647187",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.132829,
+            39.2509724
+          ],
+          [
+            9.1330117,
+            39.2511875
+          ],
+          [
+            9.1332089,
+            39.2514376
+          ],
+          [
+            9.1334743,
+            39.2517616
+          ],
+          [
+            9.1336296,
+            39.2519469
+          ],
+          [
+            9.1337629,
+            39.2521087
+          ],
+          [
+            9.1338365,
+            39.252194
+          ],
+          [
+            9.1339078,
+            39.2522877
+          ],
+          [
+            9.1340058,
+            39.2524316
+          ],
+          [
+            9.1341182,
+            39.2526204
+          ],
+          [
+            9.1342193,
+            39.2527849
+          ],
+          [
+            9.1343588,
+            39.2530118
+          ],
+          [
+            9.1345049,
+            39.2532569
+          ],
+          [
+            9.1345799,
+            39.2534619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206132022",
+      "properties": {
+        "@id": "way/206132022",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1345799,
+            39.2534619
+          ],
+          [
+            9.1344663,
+            39.2532687
+          ],
+          [
+            9.1343309,
+            39.2530298
+          ],
+          [
+            9.1342102,
+            39.2528323
+          ],
+          [
+            9.1340939,
+            39.252642
+          ],
+          [
+            9.1339649,
+            39.2524419
+          ],
+          [
+            9.1338699,
+            39.2523045
+          ],
+          [
+            9.1338076,
+            39.252211
+          ],
+          [
+            9.1336989,
+            39.2520752
+          ],
+          [
+            9.133602,
+            39.2519575
+          ],
+          [
+            9.1334527,
+            39.2517783
+          ],
+          [
+            9.133188,
+            39.2514475
+          ],
+          [
+            9.1330968,
+            39.2513436
+          ],
+          [
+            9.1330455,
+            39.2512788
+          ],
+          [
+            9.1329789,
+            39.2512017
+          ],
+          [
+            9.132911,
+            39.2511111
+          ],
+          [
+            9.1328708,
+            39.2510447
+          ],
+          [
+            9.132829,
+            39.2509724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921816",
+      "properties": {
+        "@id": "way/351921816",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1341699,
+            39.2526584
+          ],
+          [
+            9.1343507,
+            39.2529443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921818",
+      "properties": {
+        "@id": "way/351921818",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1340999,
+            39.2527225
+          ],
+          [
+            9.1342731,
+            39.2529995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921861",
+      "properties": {
+        "@id": "way/351921861",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1345799,
+            39.2534619
+          ],
+          [
+            9.134848,
+            39.2538849
+          ],
+          [
+            9.1350701,
+            39.2542505
+          ],
+          [
+            9.135296,
+            39.2546255
+          ],
+          [
+            9.1355052,
+            39.2549706
+          ],
+          [
+            9.1357804,
+            39.255438
+          ],
+          [
+            9.1362982,
+            39.2563132
+          ],
+          [
+            9.136608,
+            39.2568612
+          ],
+          [
+            9.1366737,
+            39.2569669
+          ],
+          [
+            9.1367692,
+            39.2570912
+          ],
+          [
+            9.1371036,
+            39.2576846
+          ],
+          [
+            9.137419,
+            39.2582317
+          ],
+          [
+            9.1376241,
+            39.2585673
+          ],
+          [
+            9.137723,
+            39.2587267
+          ],
+          [
+            9.1377919,
+            39.2588273
+          ],
+          [
+            9.1378845,
+            39.2589517
+          ],
+          [
+            9.1379196,
+            39.258995
+          ],
+          [
+            9.1380169,
+            39.2591151
+          ],
+          [
+            9.1381316,
+            39.2592256
+          ],
+          [
+            9.138213,
+            39.259304
+          ],
+          [
+            9.1383186,
+            39.2593901
+          ],
+          [
+            9.1386734,
+            39.2597169
+          ],
+          [
+            9.1389031,
+            39.2599266
+          ],
+          [
+            9.1392899,
+            39.2602821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/342804225",
+      "properties": {
+        "@id": "way/342804225",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1380577,
+            39.2591119
+          ],
+          [
+            9.137861,
+            39.2588716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921821",
+      "properties": {
+        "@id": "way/351921821",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1341969,
+            39.2642532
+          ],
+          [
+            9.1349269,
+            39.2638627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206131364",
+      "properties": {
+        "@id": "way/206131364",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1400256,
+            39.2643314
+          ],
+          [
+            9.1396568,
+            39.2642802
+          ],
+          [
+            9.1392208,
+            39.2641727
+          ],
+          [
+            9.1388692,
+            39.2640956
+          ],
+          [
+            9.1368574,
+            39.2636741
+          ],
+          [
+            9.1364698,
+            39.2636284
+          ],
+          [
+            9.1361677,
+            39.2636214
+          ],
+          [
+            9.1358366,
+            39.2636424
+          ],
+          [
+            9.135536,
+            39.2636849
+          ],
+          [
+            9.1353872,
+            39.263706
+          ],
+          [
+            9.1352599,
+            39.2637435
+          ],
+          [
+            9.13517,
+            39.26377
+          ],
+          [
+            9.1349001,
+            39.2639167
+          ],
+          [
+            9.1345885,
+            39.2640853
+          ],
+          [
+            9.1339692,
+            39.2644181
+          ],
+          [
+            9.1328055,
+            39.2654068
+          ],
+          [
+            9.1324228,
+            39.265732
+          ],
+          [
+            9.1320153,
+            39.2660196
+          ],
+          [
+            9.1315408,
+            39.2663666
+          ],
+          [
+            9.1308589,
+            39.2668571
+          ],
+          [
+            9.1304432,
+            39.2672667
+          ],
+          [
+            9.1301188,
+            39.2677333
+          ],
+          [
+            9.1298081,
+            39.2682152
+          ],
+          [
+            9.1292099,
+            39.2690964
+          ],
+          [
+            9.1285303,
+            39.2698624
+          ],
+          [
+            9.1283937,
+            39.2700187
+          ],
+          [
+            9.128214,
+            39.2701071
+          ],
+          [
+            9.1280307,
+            39.2701479
+          ],
+          [
+            9.1277252,
+            39.2701097
+          ],
+          [
+            9.1275569,
+            39.2700141
+          ],
+          [
+            9.1273101,
+            39.2698812
+          ],
+          [
+            9.1269591,
+            39.2696923
+          ],
+          [
+            9.1266567,
+            39.2695319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921892",
+      "properties": {
+        "@id": "way/351921892",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.12699,
+            39.2696542
+          ],
+          [
+            9.1272005,
+            39.2697648
+          ],
+          [
+            9.1275546,
+            39.2699558
+          ],
+          [
+            9.1277295,
+            39.270048
+          ],
+          [
+            9.1278939,
+            39.2700848
+          ],
+          [
+            9.128022,
+            39.2701007
+          ],
+          [
+            9.1281711,
+            39.2700735
+          ],
+          [
+            9.1283495,
+            39.2699941
+          ],
+          [
+            9.128547,
+            39.269798
+          ],
+          [
+            9.1289574,
+            39.2693349
+          ],
+          [
+            9.1291797,
+            39.2690811
+          ],
+          [
+            9.1297756,
+            39.2681963
+          ],
+          [
+            9.1300973,
+            39.267682
+          ],
+          [
+            9.1304004,
+            39.2672314
+          ],
+          [
+            9.1308288,
+            39.2668242
+          ],
+          [
+            9.1315013,
+            39.2663417
+          ],
+          [
+            9.1319949,
+            39.265993
+          ],
+          [
+            9.1323908,
+            39.2657058
+          ],
+          [
+            9.1327721,
+            39.2653719
+          ],
+          [
+            9.1331416,
+            39.2650344
+          ],
+          [
+            9.1335332,
+            39.2647
+          ],
+          [
+            9.1339195,
+            39.2643719
+          ],
+          [
+            9.1341072,
+            39.2642556
+          ],
+          [
+            9.1342762,
+            39.2641684
+          ],
+          [
+            9.1345535,
+            39.2640201
+          ],
+          [
+            9.1351522,
+            39.2637027
+          ],
+          [
+            9.1353175,
+            39.2636671
+          ],
+          [
+            9.1355347,
+            39.2636203
+          ],
+          [
+            9.1355785,
+            39.2636108
+          ],
+          [
+            9.1357541,
+            39.263589
+          ],
+          [
+            9.1360921,
+            39.2635662
+          ],
+          [
+            9.13643,
+            39.2635724
+          ],
+          [
+            9.1368484,
+            39.2636118
+          ],
+          [
+            9.1373607,
+            39.263724
+          ],
+          [
+            9.1379991,
+            39.2638631
+          ],
+          [
+            9.1385811,
+            39.2639794
+          ],
+          [
+            9.1390988,
+            39.2640812
+          ],
+          [
+            9.1393912,
+            39.2641518
+          ],
+          [
+            9.1396281,
+            39.2642111
+          ],
+          [
+            9.1399854,
+            39.2642712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921867",
+      "properties": {
+        "@id": "way/351921867",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1266567,
+            39.2695319
+          ],
+          [
+            9.1264163,
+            39.2694045
+          ],
+          [
+            9.1261407,
+            39.2692583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921876",
+      "properties": {
+        "@id": "way/351921876",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.12699,
+            39.2696542
+          ],
+          [
+            9.1268103,
+            39.2695851
+          ],
+          [
+            9.1266567,
+            39.2695319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921921",
+      "properties": {
+        "@id": "way/351921921",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.126677,
+            39.2695202
+          ],
+          [
+            9.1261608,
+            39.2692344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921888",
+      "properties": {
+        "@id": "way/351921888",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1392899,
+            39.2602821
+          ],
+          [
+            9.1393944,
+            39.2603747
+          ],
+          [
+            9.1399375,
+            39.2608817
+          ],
+          [
+            9.1400315,
+            39.2609635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921902",
+      "properties": {
+        "@id": "way/351921902",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1400315,
+            39.2609635
+          ],
+          [
+            9.1399751,
+            39.2609331
+          ],
+          [
+            9.1399154,
+            39.2608911
+          ],
+          [
+            9.1397871,
+            39.2607832
+          ],
+          [
+            9.1394586,
+            39.2604792
+          ],
+          [
+            9.1393668,
+            39.2603875
+          ],
+          [
+            9.1392899,
+            39.2602821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921916",
+      "properties": {
+        "@id": "way/351921916",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1416129,
+            39.2639396
+          ],
+          [
+            9.1420292,
+            39.2638233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154360547",
+      "properties": {
+        "@id": "way/154360547",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1423715,
+            39.2637824
+          ],
+          [
+            9.1421426,
+            39.2638506
+          ],
+          [
+            9.1418188,
+            39.2639368
+          ],
+          [
+            9.1413233,
+            39.2640686
+          ],
+          [
+            9.1410798,
+            39.2641424
+          ],
+          [
+            9.1407423,
+            39.2642419
+          ],
+          [
+            9.140495,
+            39.2643077
+          ],
+          [
+            9.1402448,
+            39.2643418
+          ],
+          [
+            9.1400256,
+            39.2643314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/170982975",
+      "properties": {
+        "@id": "way/170982975",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1399854,
+            39.2642712
+          ],
+          [
+            9.1401544,
+            39.2642795
+          ],
+          [
+            9.140369,
+            39.2642712
+          ],
+          [
+            9.140546,
+            39.2642421
+          ],
+          [
+            9.1407847,
+            39.2641757
+          ],
+          [
+            9.1412565,
+            39.2640512
+          ],
+          [
+            9.141534,
+            39.263987
+          ],
+          [
+            9.1418338,
+            39.2639046
+          ],
+          [
+            9.1421299,
+            39.2638232
+          ],
+          [
+            9.1423715,
+            39.2637824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921853",
+      "properties": {
+        "@id": "way/351921853",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1400315,
+            39.2609635
+          ],
+          [
+            9.1404169,
+            39.2613177
+          ],
+          [
+            9.1407517,
+            39.2616416
+          ],
+          [
+            9.1413262,
+            39.2621433
+          ],
+          [
+            9.1415063,
+            39.2622997
+          ],
+          [
+            9.1417222,
+            39.2624527
+          ],
+          [
+            9.1424659,
+            39.2630201
+          ],
+          [
+            9.1426331,
+            39.2631438
+          ],
+          [
+            9.1427021,
+            39.2632099
+          ],
+          [
+            9.1427457,
+            39.2632662
+          ],
+          [
+            9.1427693,
+            39.2633126
+          ],
+          [
+            9.1427839,
+            39.2633578
+          ],
+          [
+            9.1427866,
+            39.2633802
+          ],
+          [
+            9.1427751,
+            39.263455
+          ],
+          [
+            9.1427602,
+            39.2635123
+          ],
+          [
+            9.1427293,
+            39.2635714
+          ],
+          [
+            9.142693,
+            39.2636178
+          ],
+          [
+            9.1426476,
+            39.2636614
+          ],
+          [
+            9.1425858,
+            39.2637008
+          ],
+          [
+            9.1425059,
+            39.263743
+          ],
+          [
+            9.1423715,
+            39.2637824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921918",
+      "properties": {
+        "@id": "way/351921918",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 5252355,
+            "reltags": {
+              "from": "Settimo San Pietro",
+              "name": "2 (San Gottardo)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "San Gottardo",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 5252356,
+            "reltags": {
+              "from": "San Gottardo",
+              "name": "2 (Settimo San Pietro)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "Settimo San Pietro",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1412615,
+            39.26412
+          ],
+          [
+            9.1422915,
+            39.2638321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351921928",
+      "properties": {
+        "@id": "way/351921928",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 5252355,
+            "reltags": {
+              "from": "Settimo San Pietro",
+              "name": "2 (San Gottardo)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "San Gottardo",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 5252356,
+            "reltags": {
+              "from": "San Gottardo",
+              "name": "2 (Settimo San Pietro)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "Settimo San Pietro",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1767952,
+            39.2902001
+          ],
+          [
+            9.1768513,
+            39.2892191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/380800017",
+      "properties": {
+        "@id": "way/380800017",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 5252355,
+            "reltags": {
+              "from": "Settimo San Pietro",
+              "name": "2 (San Gottardo)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "San Gottardo",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 5252356,
+            "reltags": {
+              "from": "San Gottardo",
+              "name": "2 (Settimo San Pietro)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "Settimo San Pietro",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1768697,
+            39.2895128
+          ],
+          [
+            9.1768722,
+            39.2894376
+          ],
+          [
+            9.1768823,
+            39.2892312
+          ],
+          [
+            9.1768781,
+            39.2891263
+          ],
+          [
+            9.1768677,
+            39.2889291
+          ],
+          [
+            9.1768522,
+            39.288739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265669537",
+      "properties": {
+        "@id": "node/265669537",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1082267,
+          39.215923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1325794893",
+      "properties": {
+        "@id": "node/1325794893",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0975741,
+          39.2264335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1478021796",
+      "properties": {
+        "@id": "node/1478021796",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1252497,
+          39.2173432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240403",
+      "properties": {
+        "@id": "node/3577240403",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1312666,
+          39.2202409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240404",
+      "properties": {
+        "@id": "node/3577240404",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1313058,
+          39.2202731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240405",
+      "properties": {
+        "@id": "node/3577240405",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1319912,
+          39.2259244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240406",
+      "properties": {
+        "@id": "node/3577240406",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1319249,
+          39.2259468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240409",
+      "properties": {
+        "@id": "node/3577240409",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1366459,
+          39.2322827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240410",
+      "properties": {
+        "@id": "node/3577240410",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.136585,
+          39.23232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1325790227",
+      "properties": {
+        "@id": "node/1325790227",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0140367,
+          39.2817105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1325790225",
+      "properties": {
+        "@id": "node/1325790225",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9893557,
+          39.2910092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367896759",
+      "properties": {
+        "@id": "node/367896759",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9657927,
+          39.3046509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367868170",
+      "properties": {
+        "@id": "node/367868170",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9979979,
+          39.2875987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367866717",
+      "properties": {
+        "@id": "node/367866717",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176198,
+            "reltags": {
+              "from": "Cagliari",
+              "name": "Servizio ferroviario metropolitano (Cagliari → Decimomannu)",
+              "operator": "Trenitalia",
+              "route": "tram",
+              "to": "Decimomannu",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0455567,
+          39.2642726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240414",
+      "properties": {
+        "@id": "node/3577240414",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1370193,
+          39.2416507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240415",
+      "properties": {
+        "@id": "node/3577240415",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1369749,
+          39.2416766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161325702",
+      "properties": {
+        "@id": "node/2161325702",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1353502,
+          39.2470048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240400",
+      "properties": {
+        "@id": "node/3577240400",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1342193,
+          39.2527849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240401",
+      "properties": {
+        "@id": "node/3577240401",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1342102,
+          39.2528323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240413",
+      "properties": {
+        "@id": "node/3577240413",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1379196,
+          39.258995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1820877165",
+      "properties": {
+        "@id": "node/1820877165",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1345535,
+          39.2640201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240402",
+      "properties": {
+        "@id": "node/3577240402",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1345885,
+          39.2640853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240412",
+      "properties": {
+        "@id": "node/3577240412",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1264163,
+          39.2694045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1669040924",
+      "properties": {
+        "@id": "node/1669040924",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5252355,
+            "reltags": {
+              "from": "Settimo San Pietro",
+              "name": "2 (San Gottardo)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "San Gottardo",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 5252356,
+            "reltags": {
+              "from": "San Gottardo",
+              "name": "2 (Settimo San Pietro)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "Settimo San Pietro",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1418475,
+          39.2639834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240407",
+      "properties": {
+        "@id": "node/3577240407",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2176550,
+            "reltags": {
+              "colour": "blue",
+              "from": "Policlinico",
+              "name": "1 (Repubblica)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Repubblica",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1418338,
+          39.2639046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577240408",
+      "properties": {
+        "@id": "node/3577240408",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386395,
+            "reltags": {
+              "colour": "blue",
+              "from": "Repubblica",
+              "name": "1 (Policlinico)",
+              "network": "Cagliari",
+              "operator": "ARST",
+              "public_transport:version": "2",
+              "ref": "1",
+              "route": "tram",
+              "to": "Policlinico",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1418188,
+          39.2639368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3836150796",
+      "properties": {
+        "@id": "node/3836150796",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5252355,
+            "reltags": {
+              "from": "Settimo San Pietro",
+              "name": "2 (San Gottardo)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "San Gottardo",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 5252356,
+            "reltags": {
+              "from": "San Gottardo",
+              "name": "2 (Settimo San Pietro)",
+              "network": "Cagliari",
+              "operator": "ARST SpA",
+              "ref": "2",
+              "route": "tram",
+              "to": "Settimo San Pietro",
+              "type": "route",
+              "wikipedia": "it:Metrotranvia di Cagliari"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1768722,
+          39.2894376
+        ]
+      }
+    }
+  ]
+}
