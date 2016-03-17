@@ -4,8 +4,7 @@ This repository contains transit routes from the world's cities. It is divided b
 
 Most files are labeled by two-letter country code, city/location, and how each was queried in Overpass-Turbo. E.g.,
 
-ch-lausanne-lr (Switzerland, Lausanne, search: route=light_rail)
-fi-helsinki-tram (Finland, Helsinki, search: route=tram)
+ch-lausanne-lr (Switzerland, Lausanne, search: route=light_rail)fi-helsinki-tram (Finland, Helsinki, search: route=tram)
 kz-oskemen-railtram (Kazakhstan, Oskemen, search: railway=tram)
 mx-mxc-raillight (Mexico, Mexico City, search: railway=light_rail)
 ir-listowel-monorail.geojson (Ireland, Listowel, route=monorail)
