@@ -1,0 +1,4006 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-19T00:15:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/122483674",
+      "properties": {
+        "@id": "way/122483674",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5537545,
+            -23.6936347
+          ],
+          [
+            -46.553546,
+            -23.6939
+          ],
+          [
+            -46.5533658,
+            -23.6942042
+          ],
+          [
+            -46.5532245,
+            -23.6945147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124951348",
+      "properties": {
+        "@id": "way/124951348",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "oneway": "yes",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5531432,
+            -23.6940715
+          ],
+          [
+            -46.5532941,
+            -23.6940184
+          ],
+          [
+            -46.5533545,
+            -23.6939828
+          ],
+          [
+            -46.5534047,
+            -23.6939453
+          ],
+          [
+            -46.5537545,
+            -23.6936347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125116040",
+      "properties": {
+        "@id": "way/125116040",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5320769,
+            -23.6670421
+          ],
+          [
+            -46.532015,
+            -23.6667023
+          ],
+          [
+            -46.5319735,
+            -23.6665841
+          ],
+          [
+            -46.5318791,
+            -23.6661511
+          ],
+          [
+            -46.5317557,
+            -23.6656843
+          ],
+          [
+            -46.5316806,
+            -23.6653748
+          ],
+          [
+            -46.5316216,
+            -23.6651242
+          ],
+          [
+            -46.5315947,
+            -23.6647901
+          ],
+          [
+            -46.5315411,
+            -23.6643725
+          ],
+          [
+            -46.5314899,
+            -23.6641835
+          ],
+          [
+            -46.5314546,
+            -23.6640577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129999935",
+      "properties": {
+        "@id": "way/129999935",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5653311,
+            -23.6897589
+          ],
+          [
+            -46.5655054,
+            -23.6898156
+          ],
+          [
+            -46.5656989,
+            -23.6898531
+          ],
+          [
+            -46.5662279,
+            -23.6899013
+          ],
+          [
+            -46.5666194,
+            -23.6899255
+          ],
+          [
+            -46.5671632,
+            -23.6899058
+          ],
+          [
+            -46.5675435,
+            -23.6898831
+          ],
+          [
+            -46.5679142,
+            -23.6898493
+          ],
+          [
+            -46.568914,
+            -23.6897025
+          ],
+          [
+            -46.5694322,
+            -23.6896577
+          ],
+          [
+            -46.5698719,
+            -23.6896292
+          ],
+          [
+            -46.5715421,
+            -23.689464
+          ],
+          [
+            -46.572494,
+            -23.6894741
+          ],
+          [
+            -46.5731203,
+            -23.6894732
+          ],
+          [
+            -46.5732069,
+            -23.6894802
+          ],
+          [
+            -46.5735055,
+            -23.6894998
+          ],
+          [
+            -46.5736557,
+            -23.6895201
+          ],
+          [
+            -46.5738033,
+            -23.6895514
+          ],
+          [
+            -46.5740929,
+            -23.6896214
+          ],
+          [
+            -46.5750243,
+            -23.6898469
+          ],
+          [
+            -46.5776797,
+            -23.6904896
+          ],
+          [
+            -46.5777206,
+            -23.6904976
+          ],
+          [
+            -46.5777642,
+            -23.6905032
+          ],
+          [
+            -46.5778031,
+            -23.690505
+          ],
+          [
+            -46.577844,
+            -23.6905062
+          ],
+          [
+            -46.577998,
+            -23.6905025
+          ],
+          [
+            -46.5784325,
+            -23.6904951
+          ],
+          [
+            -46.5784981,
+            -23.6904959
+          ],
+          [
+            -46.5788649,
+            -23.6905291
+          ],
+          [
+            -46.5790649,
+            -23.6905593
+          ],
+          [
+            -46.5792498,
+            -23.6905934
+          ],
+          [
+            -46.5793978,
+            -23.6906273
+          ],
+          [
+            -46.5794889,
+            -23.6906585
+          ],
+          [
+            -46.5796471,
+            -23.6907211
+          ],
+          [
+            -46.5798014,
+            -23.6907905
+          ],
+          [
+            -46.5803881,
+            -23.6910834
+          ],
+          [
+            -46.5805428,
+            -23.6911888
+          ],
+          [
+            -46.58072,
+            -23.6913115
+          ],
+          [
+            -46.5808652,
+            -23.6914098
+          ],
+          [
+            -46.5812351,
+            -23.6916269
+          ],
+          [
+            -46.5814407,
+            -23.6917476
+          ],
+          [
+            -46.5816901,
+            -23.6918667
+          ],
+          [
+            -46.5819704,
+            -23.691976
+          ],
+          [
+            -46.5821237,
+            -23.6920007
+          ],
+          [
+            -46.5823494,
+            -23.6920479
+          ],
+          [
+            -46.5825039,
+            -23.6920676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129999936",
+      "properties": {
+        "@id": "way/129999936",
+        "access": "no",
+        "bridge": "yes",
+        "bus": "yes",
+        "highway": "service",
+        "layer": "1",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5644166,
+            -23.6894964
+          ],
+          [
+            -46.5653311,
+            -23.6897589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187399527",
+      "properties": {
+        "@id": "way/187399527",
+        "access": "no",
+        "bridge": "yes",
+        "bus": "yes",
+        "highway": "service",
+        "layer": "1",
+        "name": "Corredor ABD",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5470508,
+            -23.6843679
+          ],
+          [
+            -46.5469405,
+            -23.6842014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187399536",
+      "properties": {
+        "@id": "way/187399536",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5469405,
+            -23.6842014
+          ],
+          [
+            -46.5466459,
+            -23.6838768
+          ],
+          [
+            -46.5463562,
+            -23.6836309
+          ],
+          [
+            -46.5461195,
+            -23.6834594
+          ],
+          [
+            -46.5458333,
+            -23.6832815
+          ],
+          [
+            -46.5455824,
+            -23.6831682
+          ],
+          [
+            -46.5452397,
+            -23.6830129
+          ],
+          [
+            -46.5449089,
+            -23.6829092
+          ],
+          [
+            -46.5448529,
+            -23.6828944
+          ],
+          [
+            -46.5444872,
+            -23.6827961
+          ],
+          [
+            -46.5441197,
+            -23.6826991
+          ],
+          [
+            -46.5437382,
+            -23.6825632
+          ],
+          [
+            -46.5434379,
+            -23.6823917
+          ],
+          [
+            -46.5425652,
+            -23.6818384
+          ],
+          [
+            -46.5415792,
+            -23.6812266
+          ],
+          [
+            -46.5409435,
+            -23.6808321
+          ],
+          [
+            -46.5406684,
+            -23.6806619
+          ],
+          [
+            -46.5403381,
+            -23.6804575
+          ],
+          [
+            -46.539343,
+            -23.6798226
+          ],
+          [
+            -46.5391628,
+            -23.6796997
+          ],
+          [
+            -46.5390038,
+            -23.6795411
+          ],
+          [
+            -46.5387848,
+            -23.6793082
+          ],
+          [
+            -46.5384774,
+            -23.6789652
+          ],
+          [
+            -46.5380004,
+            -23.6784507
+          ],
+          [
+            -46.5375871,
+            -23.6779913
+          ],
+          [
+            -46.5371949,
+            -23.6775739
+          ],
+          [
+            -46.5369688,
+            -23.6773409
+          ],
+          [
+            -46.5368133,
+            -23.6771273
+          ],
+          [
+            -46.5367194,
+            -23.676898
+          ],
+          [
+            -46.5366508,
+            -23.6767261
+          ],
+          [
+            -46.5365589,
+            -23.6763346
+          ],
+          [
+            -46.5365335,
+            -23.6761807
+          ],
+          [
+            -46.536443,
+            -23.6756337
+          ],
+          [
+            -46.5363717,
+            -23.6752927
+          ],
+          [
+            -46.5363611,
+            -23.6750759
+          ],
+          [
+            -46.5363964,
+            -23.6747685
+          ],
+          [
+            -46.5364812,
+            -23.6742184
+          ],
+          [
+            -46.5365462,
+            -23.6736675
+          ],
+          [
+            -46.536555,
+            -23.6733156
+          ],
+          [
+            -46.5365197,
+            -23.6729152
+          ],
+          [
+            -46.5364667,
+            -23.6725633
+          ],
+          [
+            -46.5363784,
+            -23.6722882
+          ],
+          [
+            -46.5362414,
+            -23.6719606
+          ],
+          [
+            -46.5360604,
+            -23.6716492
+          ],
+          [
+            -46.5354907,
+            -23.670727
+          ],
+          [
+            -46.5353052,
+            -23.6704843
+          ],
+          [
+            -46.5350932,
+            -23.670282
+          ],
+          [
+            -46.5349165,
+            -23.6701405
+          ],
+          [
+            -46.5343767,
+            -23.6696951
+          ],
+          [
+            -46.5339561,
+            -23.6693899
+          ],
+          [
+            -46.5333411,
+            -23.6689322
+          ],
+          [
+            -46.5331751,
+            -23.6687988
+          ],
+          [
+            -46.5329545,
+            -23.6685944
+          ],
+          [
+            -46.5326193,
+            -23.6682177
+          ],
+          [
+            -46.5324658,
+            -23.6680085
+          ],
+          [
+            -46.5324257,
+            -23.6679352
+          ],
+          [
+            -46.5322932,
+            -23.6676933
+          ],
+          [
+            -46.5322414,
+            -23.6675624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196798840",
+      "properties": {
+        "@id": "way/196798840",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "oneway": "yes",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5503872,
+            -23.6945849
+          ],
+          [
+            -46.5505974,
+            -23.6946173
+          ],
+          [
+            -46.5507195,
+            -23.6946151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196798842",
+      "properties": {
+        "@id": "way/196798842",
+        "access": "no",
+        "bridge": "yes",
+        "bus": "yes",
+        "highway": "service",
+        "layer": "1",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Corredor ABD",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5512513,
+            -23.6944852
+          ],
+          [
+            -46.5520663,
+            -23.6942888
+          ],
+          [
+            -46.5531432,
+            -23.6940715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196798845",
+      "properties": {
+        "@id": "way/196798845",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "service": "bus",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5619031,
+            -23.6897921
+          ],
+          [
+            -46.5628133,
+            -23.6895615
+          ],
+          [
+            -46.5631807,
+            -23.6894806
+          ],
+          [
+            -46.5634478,
+            -23.6894437
+          ],
+          [
+            -46.5636227,
+            -23.6894195
+          ],
+          [
+            -46.5638721,
+            -23.6894048
+          ],
+          [
+            -46.5641149,
+            -23.6894207
+          ],
+          [
+            -46.5644166,
+            -23.6894964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/249119863",
+      "properties": {
+        "@id": "way/249119863",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5825039,
+            -23.6920676
+          ],
+          [
+            -46.5826944,
+            -23.6920676
+          ],
+          [
+            -46.5828741,
+            -23.6920603
+          ],
+          [
+            -46.5830565,
+            -23.6920332
+          ],
+          [
+            -46.5832335,
+            -23.691989
+          ],
+          [
+            -46.5835903,
+            -23.69188
+          ],
+          [
+            -46.5838683,
+            -23.691667
+          ],
+          [
+            -46.5841074,
+            -23.6915451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253520321",
+      "properties": {
+        "@id": "way/253520321",
+        "access": "no",
+        "bridge": "yes",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "layer": "1",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.559498,
+            -23.6902468
+          ],
+          [
+            -46.5619031,
+            -23.6897921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253739063",
+      "properties": {
+        "@id": "way/253739063",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "20",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5861257,
+            -23.6914527
+          ],
+          [
+            -46.5859308,
+            -23.6914476
+          ],
+          [
+            -46.5856911,
+            -23.6915288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255282671",
+      "properties": {
+        "@id": "way/255282671",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5960546,
+            -23.6802804
+          ],
+          [
+            -46.5962213,
+            -23.6800892
+          ],
+          [
+            -46.5964079,
+            -23.6799329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256617689",
+      "properties": {
+        "@id": "way/256617689",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6259868,
+            -23.6851269
+          ],
+          [
+            -46.6260419,
+            -23.6848791
+          ],
+          [
+            -46.6260838,
+            -23.6846858
+          ],
+          [
+            -46.6262041,
+            -23.6835119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256617772",
+      "properties": {
+        "@id": "way/256617772",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6262041,
+            -23.6835119
+          ],
+          [
+            -46.6261929,
+            -23.6832862
+          ],
+          [
+            -46.6261836,
+            -23.6830971
+          ],
+          [
+            -46.6261662,
+            -23.6829979
+          ],
+          [
+            -46.626286,
+            -23.6820544
+          ],
+          [
+            -46.6266467,
+            -23.6807656
+          ],
+          [
+            -46.6270024,
+            -23.6795659
+          ],
+          [
+            -46.6272787,
+            -23.6784435
+          ],
+          [
+            -46.6275935,
+            -23.6771992
+          ],
+          [
+            -46.6276207,
+            -23.6771044
+          ],
+          [
+            -46.6276361,
+            -23.6770549
+          ],
+          [
+            -46.6276446,
+            -23.6770211
+          ],
+          [
+            -46.6277178,
+            -23.6769026
+          ],
+          [
+            -46.6277715,
+            -23.6768387
+          ],
+          [
+            -46.6278314,
+            -23.6767797
+          ],
+          [
+            -46.6283022,
+            -23.6764962
+          ],
+          [
+            -46.6301195,
+            -23.6754177
+          ],
+          [
+            -46.6303274,
+            -23.6752448
+          ],
+          [
+            -46.6305033,
+            -23.6750017
+          ],
+          [
+            -46.6310139,
+            -23.673427
+          ],
+          [
+            -46.6311326,
+            -23.6731874
+          ],
+          [
+            -46.6312549,
+            -23.6729689
+          ],
+          [
+            -46.6321121,
+            -23.6715423
+          ],
+          [
+            -46.6324391,
+            -23.6708844
+          ],
+          [
+            -46.6326942,
+            -23.6703765
+          ],
+          [
+            -46.6330192,
+            -23.6695859
+          ],
+          [
+            -46.6331144,
+            -23.6694422
+          ],
+          [
+            -46.6331815,
+            -23.6693709
+          ],
+          [
+            -46.6332593,
+            -23.6693108
+          ],
+          [
+            -46.6333572,
+            -23.6692481
+          ],
+          [
+            -46.633447,
+            -23.6692039
+          ],
+          [
+            -46.6335436,
+            -23.6691658
+          ],
+          [
+            -46.6336469,
+            -23.6691388
+          ],
+          [
+            -46.6339888,
+            -23.6691167
+          ],
+          [
+            -46.6343161,
+            -23.6691118
+          ],
+          [
+            -46.6344555,
+            -23.6691078
+          ],
+          [
+            -46.6348284,
+            -23.6690897
+          ],
+          [
+            -46.634992,
+            -23.6690651
+          ],
+          [
+            -46.6350953,
+            -23.6690454
+          ],
+          [
+            -46.6351883,
+            -23.6690297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261915173",
+      "properties": {
+        "@id": "way/261915173",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5537545,
+            -23.6936347
+          ],
+          [
+            -46.5540512,
+            -23.6933436
+          ],
+          [
+            -46.554243,
+            -23.6931758
+          ],
+          [
+            -46.5544307,
+            -23.6930346
+          ],
+          [
+            -46.5547513,
+            -23.6928467
+          ],
+          [
+            -46.5549262,
+            -23.6927492
+          ],
+          [
+            -46.5559959,
+            -23.6921529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261916156",
+      "properties": {
+        "@id": "way/261916156",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.552408,
+            -23.6975544
+          ],
+          [
+            -46.5522909,
+            -23.6981078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/270900140",
+      "properties": {
+        "@id": "way/270900140",
+        "access": "no",
+        "bus": "yes",
+        "emergency": "yes",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6401639,
+            -23.6472532
+          ],
+          [
+            -46.6401748,
+            -23.647219
+          ],
+          [
+            -46.6402102,
+            -23.6471074
+          ],
+          [
+            -46.6404579,
+            -23.6465968
+          ],
+          [
+            -46.6406592,
+            -23.6462729
+          ],
+          [
+            -46.6406642,
+            -23.6461654
+          ],
+          [
+            -46.6406384,
+            -23.6461057
+          ],
+          [
+            -46.6406032,
+            -23.6460612
+          ],
+          [
+            -46.6405408,
+            -23.646013
+          ],
+          [
+            -46.6404699,
+            -23.6459942
+          ],
+          [
+            -46.6403873,
+            -23.6460027
+          ],
+          [
+            -46.6401438,
+            -23.6460867
+          ],
+          [
+            -46.6397316,
+            -23.6462937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272985779",
+      "properties": {
+        "@id": "way/272985779",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5861257,
+            -23.6914527
+          ],
+          [
+            -46.5877102,
+            -23.6915051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/274472376",
+      "properties": {
+        "@id": "way/274472376",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5503872,
+            -23.6945849
+          ],
+          [
+            -46.5502189,
+            -23.6945385
+          ],
+          [
+            -46.5500938,
+            -23.6944737
+          ],
+          [
+            -46.5499263,
+            -23.6943719
+          ],
+          [
+            -46.5498212,
+            -23.6942829
+          ],
+          [
+            -46.549649,
+            -23.694078
+          ],
+          [
+            -46.54949,
+            -23.6938677
+          ],
+          [
+            -46.5489835,
+            -23.6931896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286361858",
+      "properties": {
+        "@id": "way/286361858",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "20",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5856911,
+            -23.6915288
+          ],
+          [
+            -46.5856368,
+            -23.6915705
+          ],
+          [
+            -46.5854539,
+            -23.6916872
+          ],
+          [
+            -46.5854243,
+            -23.6916988
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286361940",
+      "properties": {
+        "@id": "way/286361940",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5877102,
+            -23.6915051
+          ],
+          [
+            -46.5879686,
+            -23.6915043
+          ],
+          [
+            -46.5881114,
+            -23.6914837
+          ],
+          [
+            -46.5882645,
+            -23.6914474
+          ],
+          [
+            -46.5889779,
+            -23.6911969
+          ],
+          [
+            -46.5890797,
+            -23.6911624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286361946",
+      "properties": {
+        "@id": "way/286361946",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5890797,
+            -23.6911624
+          ],
+          [
+            -46.5892031,
+            -23.6911219
+          ],
+          [
+            -46.5893493,
+            -23.6910752
+          ],
+          [
+            -46.5895531,
+            -23.6910064
+          ],
+          [
+            -46.5896537,
+            -23.6909708
+          ],
+          [
+            -46.589753,
+            -23.6909229
+          ],
+          [
+            -46.5898227,
+            -23.6908812
+          ],
+          [
+            -46.5898871,
+            -23.6908369
+          ],
+          [
+            -46.590001,
+            -23.6907385
+          ],
+          [
+            -46.59006,
+            -23.6906869
+          ],
+          [
+            -46.5901029,
+            -23.6906317
+          ],
+          [
+            -46.5901445,
+            -23.6905752
+          ],
+          [
+            -46.5901807,
+            -23.6905199
+          ],
+          [
+            -46.5902712,
+            -23.6903203
+          ],
+          [
+            -46.5905249,
+            -23.6895473
+          ],
+          [
+            -46.5906983,
+            -23.689088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286362261",
+      "properties": {
+        "@id": "way/286362261",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5906983,
+            -23.689088
+          ],
+          [
+            -46.5909342,
+            -23.6886667
+          ],
+          [
+            -46.5914705,
+            -23.6880542
+          ],
+          [
+            -46.5919317,
+            -23.6875368
+          ],
+          [
+            -46.5923033,
+            -23.6870715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286362300",
+      "properties": {
+        "@id": "way/286362300",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5923033,
+            -23.6870715
+          ],
+          [
+            -46.5930983,
+            -23.6858487
+          ],
+          [
+            -46.5933109,
+            -23.6855083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286362342",
+      "properties": {
+        "@id": "way/286362342",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5933109,
+            -23.6855083
+          ],
+          [
+            -46.5939676,
+            -23.6844569
+          ],
+          [
+            -46.594336,
+            -23.6838045
+          ],
+          [
+            -46.5953146,
+            -23.681705
+          ],
+          [
+            -46.5954429,
+            -23.6814155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286362382",
+      "properties": {
+        "@id": "way/286362382",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5954429,
+            -23.6814155
+          ],
+          [
+            -46.5955809,
+            -23.681104
+          ],
+          [
+            -46.5957205,
+            -23.6807798
+          ],
+          [
+            -46.5959421,
+            -23.6804094
+          ],
+          [
+            -46.5960546,
+            -23.6802804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286362405",
+      "properties": {
+        "@id": "way/286362405",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5964079,
+            -23.6799329
+          ],
+          [
+            -46.5964746,
+            -23.679877
+          ],
+          [
+            -46.5966977,
+            -23.6797333
+          ],
+          [
+            -46.5970445,
+            -23.6795356
+          ],
+          [
+            -46.5973151,
+            -23.6794196
+          ],
+          [
+            -46.5975641,
+            -23.6793511
+          ],
+          [
+            -46.5978188,
+            -23.6793129
+          ],
+          [
+            -46.5980563,
+            -23.679297
+          ],
+          [
+            -46.5982174,
+            -23.6793023
+          ],
+          [
+            -46.5984592,
+            -23.6793287
+          ],
+          [
+            -46.5986549,
+            -23.6793972
+          ],
+          [
+            -46.598808,
+            -23.6794753
+          ],
+          [
+            -46.5989283,
+            -23.6795363
+          ],
+          [
+            -46.5997599,
+            -23.6800462
+          ],
+          [
+            -46.5998149,
+            -23.6800805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286526565",
+      "properties": {
+        "@id": "way/286526565",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5489835,
+            -23.6931896
+          ],
+          [
+            -46.5488438,
+            -23.6929848
+          ],
+          [
+            -46.5486909,
+            -23.692695
+          ],
+          [
+            -46.548582,
+            -23.6924345
+          ],
+          [
+            -46.5485472,
+            -23.6923288
+          ],
+          [
+            -46.5484725,
+            -23.6920462
+          ],
+          [
+            -46.5482641,
+            -23.6909753
+          ],
+          [
+            -46.5479955,
+            -23.6895065
+          ],
+          [
+            -46.5478083,
+            -23.6885326
+          ],
+          [
+            -46.5475256,
+            -23.6870799
+          ],
+          [
+            -46.5474974,
+            -23.6869279
+          ],
+          [
+            -46.5474903,
+            -23.6867823
+          ],
+          [
+            -46.547508,
+            -23.6866302
+          ],
+          [
+            -46.5475433,
+            -23.6863261
+          ],
+          [
+            -46.5475468,
+            -23.686009
+          ],
+          [
+            -46.5475292,
+            -23.6857566
+          ],
+          [
+            -46.5474832,
+            -23.6854331
+          ],
+          [
+            -46.5473878,
+            -23.6851225
+          ],
+          [
+            -46.5472783,
+            -23.6848183
+          ],
+          [
+            -46.5471511,
+            -23.6845588
+          ],
+          [
+            -46.5470508,
+            -23.6843679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286676557",
+      "properties": {
+        "@id": "way/286676557",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5578292,
+            -23.6911312
+          ],
+          [
+            -46.5593995,
+            -23.6902768
+          ],
+          [
+            -46.559498,
+            -23.6902468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286832301",
+      "properties": {
+        "@id": "way/286832301",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5523327,
+            -23.7095098
+          ],
+          [
+            -46.552324,
+            -23.7099461
+          ],
+          [
+            -46.552253,
+            -23.7114663
+          ],
+          [
+            -46.5521851,
+            -23.7120827
+          ],
+          [
+            -46.5521229,
+            -23.7123221
+          ],
+          [
+            -46.5519848,
+            -23.7126724
+          ],
+          [
+            -46.5518822,
+            -23.7129309
+          ],
+          [
+            -46.5518728,
+            -23.7129616
+          ],
+          [
+            -46.5518188,
+            -23.7132326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286832326",
+      "properties": {
+        "@id": "way/286832326",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5522214,
+            -23.7053326
+          ],
+          [
+            -46.5523003,
+            -23.7054612
+          ],
+          [
+            -46.5524581,
+            -23.7057862
+          ],
+          [
+            -46.5525725,
+            -23.7060029
+          ],
+          [
+            -46.5526947,
+            -23.7063606
+          ],
+          [
+            -46.552742,
+            -23.7066781
+          ],
+          [
+            -46.5527775,
+            -23.7070212
+          ],
+          [
+            -46.5527499,
+            -23.7073751
+          ],
+          [
+            -46.5526789,
+            -23.7078265
+          ],
+          [
+            -46.5524975,
+            -23.7084837
+          ],
+          [
+            -46.5524502,
+            -23.7086137
+          ],
+          [
+            -46.5524068,
+            -23.7088231
+          ],
+          [
+            -46.5523674,
+            -23.7090939
+          ],
+          [
+            -46.5523327,
+            -23.7095098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286832330",
+      "properties": {
+        "@id": "way/286832330",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5520723,
+            -23.7046121
+          ],
+          [
+            -46.5520952,
+            -23.7048437
+          ],
+          [
+            -46.5521274,
+            -23.705023
+          ],
+          [
+            -46.5521465,
+            -23.705129
+          ],
+          [
+            -46.5522214,
+            -23.7053326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286832360",
+      "properties": {
+        "@id": "way/286832360",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5523783,
+            -23.703501
+          ],
+          [
+            -46.5521623,
+            -23.7040565
+          ],
+          [
+            -46.552115,
+            -23.704284
+          ],
+          [
+            -46.5520723,
+            -23.7046121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286832366",
+      "properties": {
+        "@id": "way/286832366",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5529893,
+            -23.7017183
+          ],
+          [
+            -46.5530023,
+            -23.7019042
+          ],
+          [
+            -46.552955,
+            -23.7021823
+          ],
+          [
+            -46.552817,
+            -23.7025253
+          ],
+          [
+            -46.5523783,
+            -23.703501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286832385",
+      "properties": {
+        "@id": "way/286832385",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5519895,
+            -23.6993077
+          ],
+          [
+            -46.5519947,
+            -23.6993995
+          ],
+          [
+            -46.5520027,
+            -23.6994424
+          ],
+          [
+            -46.5520203,
+            -23.6994955
+          ],
+          [
+            -46.5523161,
+            -23.7001239
+          ],
+          [
+            -46.5527618,
+            -23.7011025
+          ],
+          [
+            -46.5529629,
+            -23.7016009
+          ],
+          [
+            -46.5529893,
+            -23.7017183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286832393",
+      "properties": {
+        "@id": "way/286832393",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5521023,
+            -23.6986631
+          ],
+          [
+            -46.5520917,
+            -23.6987075
+          ],
+          [
+            -46.5520349,
+            -23.6989991
+          ],
+          [
+            -46.5519895,
+            -23.6993077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286832763",
+      "properties": {
+        "@id": "way/286832763",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "oneway": "yes",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5508449,
+            -23.6945856
+          ],
+          [
+            -46.5512513,
+            -23.6944852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286833056",
+      "properties": {
+        "@id": "way/286833056",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5532245,
+            -23.6945147
+          ],
+          [
+            -46.5531008,
+            -23.6949321
+          ],
+          [
+            -46.5529281,
+            -23.6955745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286833145",
+      "properties": {
+        "@id": "way/286833145",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5559959,
+            -23.6921529
+          ],
+          [
+            -46.5565373,
+            -23.6918483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286833153",
+      "properties": {
+        "@id": "way/286833153",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5565373,
+            -23.6918483
+          ],
+          [
+            -46.5578292,
+            -23.6911312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288270091",
+      "properties": {
+        "@id": "way/288270091",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5322414,
+            -23.6675624
+          ],
+          [
+            -46.5321122,
+            -23.6672362
+          ],
+          [
+            -46.5321086,
+            -23.6672166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288270095",
+      "properties": {
+        "@id": "way/288270095",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5321086,
+            -23.6672166
+          ],
+          [
+            -46.5320769,
+            -23.6670421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/290265670",
+      "properties": {
+        "@id": "way/290265670",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "motor_vehicle": "no",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5518188,
+            -23.7132326
+          ],
+          [
+            -46.5517403,
+            -23.7138856
+          ],
+          [
+            -46.5517561,
+            -23.7146114
+          ],
+          [
+            -46.5517797,
+            -23.7152
+          ],
+          [
+            -46.5517876,
+            -23.7158174
+          ],
+          [
+            -46.5517797,
+            -23.7161135
+          ],
+          [
+            -46.5517048,
+            -23.7165613
+          ],
+          [
+            -46.5515392,
+            -23.7169982
+          ],
+          [
+            -46.5514926,
+            -23.7171222
+          ],
+          [
+            -46.5511724,
+            -23.717955
+          ],
+          [
+            -46.5509712,
+            -23.7185219
+          ],
+          [
+            -46.5508293,
+            -23.719096
+          ],
+          [
+            -46.5508638,
+            -23.7193489
+          ],
+          [
+            -46.5509328,
+            -23.7194017
+          ],
+          [
+            -46.551013,
+            -23.7194675
+          ],
+          [
+            -46.551132,
+            -23.719565
+          ],
+          [
+            -46.5512878,
+            -23.7197136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/290283859",
+      "properties": {
+        "@id": "way/290283859",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "20",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5854243,
+            -23.6916988
+          ],
+          [
+            -46.5852267,
+            -23.6917529
+          ],
+          [
+            -46.5850282,
+            -23.6916903
+          ],
+          [
+            -46.5848151,
+            -23.6916216
+          ],
+          [
+            -46.5847023,
+            -23.6916326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292024223",
+      "properties": {
+        "@id": "way/292024223",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "oneway": "yes",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5507195,
+            -23.6946151
+          ],
+          [
+            -46.5508449,
+            -23.6945856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292024332",
+      "properties": {
+        "@id": "way/292024332",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5529281,
+            -23.6955745
+          ],
+          [
+            -46.5524961,
+            -23.6971811
+          ],
+          [
+            -46.552408,
+            -23.6975544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294365702",
+      "properties": {
+        "@id": "way/294365702",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5297927,
+            -23.6599481
+          ],
+          [
+            -46.5297865,
+            -23.6601798
+          ],
+          [
+            -46.5298547,
+            -23.6605727
+          ],
+          [
+            -46.529859,
+            -23.6605973
+          ],
+          [
+            -46.5299374,
+            -23.6610884
+          ],
+          [
+            -46.5299908,
+            -23.6614932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294448268",
+      "properties": {
+        "@id": "way/294448268",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "20",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5847023,
+            -23.6916326
+          ],
+          [
+            -46.5843724,
+            -23.6915418
+          ],
+          [
+            -46.5842839,
+            -23.6915249
+          ],
+          [
+            -46.5841074,
+            -23.6915451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294900996",
+      "properties": {
+        "@id": "way/294900996",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6255184,
+            -23.6859769
+          ],
+          [
+            -46.6256592,
+            -23.685835
+          ],
+          [
+            -46.6257819,
+            -23.6856582
+          ],
+          [
+            -46.6258997,
+            -23.6854104
+          ],
+          [
+            -46.625966,
+            -23.6852216
+          ],
+          [
+            -46.6259712,
+            -23.6851981
+          ],
+          [
+            -46.6259743,
+            -23.685184
+          ],
+          [
+            -46.6259868,
+            -23.6851269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294902169",
+      "properties": {
+        "@id": "way/294902169",
+        "bicycle": "no",
+        "bus": "yes",
+        "foot": "no",
+        "highway": "service",
+        "horse": "no",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "note_1": "da Rua Tiradentes até a Praça Castelo Branco é permitido o trafego de veículos para abastecimento das lojas que ficam ao lado do corredor",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6162988,
+            -23.6858086
+          ],
+          [
+            -46.6171689,
+            -23.6858152
+          ],
+          [
+            -46.6175687,
+            -23.6858623
+          ],
+          [
+            -46.6180339,
+            -23.685946
+          ],
+          [
+            -46.6189019,
+            -23.6862133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/296377112",
+      "properties": {
+        "@id": "way/296377112",
+        "bicycle": "no",
+        "bus": "yes",
+        "foot": "no",
+        "highway": "service",
+        "horse": "no",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "note_1": "da Rua Tiradentes até a Praça Castelo Branco é permitido o trafego de veículos para abastecimento das lojas que ficam ao lado do corredor",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6241403,
+            -23.6863821
+          ],
+          [
+            -46.62475,
+            -23.6863409
+          ],
+          [
+            -46.6249699,
+            -23.686309
+          ],
+          [
+            -46.6250692,
+            -23.6862869
+          ],
+          [
+            -46.6251308,
+            -23.6862623
+          ],
+          [
+            -46.6251781,
+            -23.6862346
+          ],
+          [
+            -46.6255184,
+            -23.6859769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/297828479",
+      "properties": {
+        "@id": "way/297828479",
+        "access": "no",
+        "bus": "yes",
+        "emergency": "yes",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6397316,
+            -23.6462937
+          ],
+          [
+            -46.6395619,
+            -23.646379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/297828480",
+      "properties": {
+        "@id": "way/297828480",
+        "access": "no",
+        "bus": "yes",
+        "emergency": "yes",
+        "highway": "service",
+        "maxspeed": "30",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6395619,
+            -23.646379
+          ],
+          [
+            -46.639415,
+            -23.6464528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298942323",
+      "properties": {
+        "@id": "way/298942323",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5998149,
+            -23.6800805
+          ],
+          [
+            -46.600724,
+            -23.6806386
+          ],
+          [
+            -46.6012455,
+            -23.6809376
+          ],
+          [
+            -46.6025925,
+            -23.6817037
+          ],
+          [
+            -46.6033863,
+            -23.6821547
+          ],
+          [
+            -46.6035679,
+            -23.6822352
+          ],
+          [
+            -46.6038,
+            -23.682338
+          ],
+          [
+            -46.6049738,
+            -23.682798
+          ],
+          [
+            -46.6051749,
+            -23.6828815
+          ],
+          [
+            -46.605353,
+            -23.6829865
+          ],
+          [
+            -46.605598,
+            -23.6830925
+          ],
+          [
+            -46.6063998,
+            -23.6834392
+          ],
+          [
+            -46.6069543,
+            -23.6836959
+          ],
+          [
+            -46.608109,
+            -23.6841937
+          ],
+          [
+            -46.6089074,
+            -23.684564
+          ],
+          [
+            -46.6096059,
+            -23.6847139
+          ],
+          [
+            -46.6101015,
+            -23.6847649
+          ],
+          [
+            -46.6103509,
+            -23.6847919
+          ],
+          [
+            -46.6104689,
+            -23.6848189
+          ],
+          [
+            -46.6105816,
+            -23.6848435
+          ],
+          [
+            -46.6106929,
+            -23.6848877
+          ],
+          [
+            -46.6107854,
+            -23.6849405
+          ],
+          [
+            -46.6109569,
+            -23.685056
+          ],
+          [
+            -46.6112102,
+            -23.6852669
+          ],
+          [
+            -46.6113333,
+            -23.6853636
+          ],
+          [
+            -46.6113906,
+            -23.6854162
+          ],
+          [
+            -46.6114617,
+            -23.6854592
+          ],
+          [
+            -46.6116119,
+            -23.6855317
+          ],
+          [
+            -46.6117705,
+            -23.685595
+          ],
+          [
+            -46.6123884,
+            -23.6857687
+          ],
+          [
+            -46.612552,
+            -23.6858092
+          ],
+          [
+            -46.6127022,
+            -23.6858387
+          ],
+          [
+            -46.6128631,
+            -23.6858608
+          ],
+          [
+            -46.6129516,
+            -23.6858657
+          ],
+          [
+            -46.6130321,
+            -23.6858657
+          ],
+          [
+            -46.6141809,
+            -23.685865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298948142",
+      "properties": {
+        "@id": "way/298948142",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6141809,
+            -23.685865
+          ],
+          [
+            -46.6149373,
+            -23.6858274
+          ],
+          [
+            -46.6156857,
+            -23.6857954
+          ],
+          [
+            -46.6162988,
+            -23.6858086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299598710",
+      "properties": {
+        "@id": "way/299598710",
+        "access": "no",
+        "bus": "yes",
+        "emergency": "yes",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Plataforma D",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.639415,
+            -23.6464528
+          ],
+          [
+            -46.6393821,
+            -23.6465044
+          ],
+          [
+            -46.6394303,
+            -23.6466273
+          ],
+          [
+            -46.6396276,
+            -23.6470345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299603449",
+      "properties": {
+        "@id": "way/299603449",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6379196,
+            -23.6659133
+          ],
+          [
+            -46.6379773,
+            -23.6656627
+          ],
+          [
+            -46.6379987,
+            -23.6654649
+          ],
+          [
+            -46.6380068,
+            -23.6652721
+          ],
+          [
+            -46.6379715,
+            -23.664424
+          ],
+          [
+            -46.6379262,
+            -23.6639054
+          ],
+          [
+            -46.6377533,
+            -23.662473
+          ],
+          [
+            -46.6376597,
+            -23.6621627
+          ],
+          [
+            -46.6375959,
+            -23.6619411
+          ],
+          [
+            -46.6375505,
+            -23.6618301
+          ],
+          [
+            -46.6370178,
+            -23.6606812
+          ],
+          [
+            -46.6362564,
+            -23.6591163
+          ],
+          [
+            -46.635944,
+            -23.6584658
+          ],
+          [
+            -46.6358984,
+            -23.6583258
+          ],
+          [
+            -46.63589,
+            -23.6581755
+          ],
+          [
+            -46.6359313,
+            -23.6578351
+          ],
+          [
+            -46.6367313,
+            -23.6549181
+          ],
+          [
+            -46.6367929,
+            -23.6546053
+          ],
+          [
+            -46.6370465,
+            -23.6530648
+          ],
+          [
+            -46.6370642,
+            -23.6529607
+          ],
+          [
+            -46.637361,
+            -23.6523272
+          ],
+          [
+            -46.6375131,
+            -23.6521321
+          ],
+          [
+            -46.6376888,
+            -23.6519466
+          ],
+          [
+            -46.6379907,
+            -23.6517362
+          ],
+          [
+            -46.6389146,
+            -23.6513498
+          ],
+          [
+            -46.6393813,
+            -23.6511606
+          ],
+          [
+            -46.6396334,
+            -23.6510501
+          ],
+          [
+            -46.6398158,
+            -23.6509444
+          ],
+          [
+            -46.6399285,
+            -23.6508781
+          ],
+          [
+            -46.6400357,
+            -23.6507896
+          ],
+          [
+            -46.6401403,
+            -23.6506963
+          ],
+          [
+            -46.6402231,
+            -23.6505991
+          ],
+          [
+            -46.6402959,
+            -23.650485
+          ],
+          [
+            -46.6403952,
+            -23.6502786
+          ],
+          [
+            -46.6404461,
+            -23.6501533
+          ],
+          [
+            -46.6404783,
+            -23.6500231
+          ],
+          [
+            -46.6404998,
+            -23.6499051
+          ],
+          [
+            -46.6404915,
+            -23.649793
+          ],
+          [
+            -46.6404915,
+            -23.6491689
+          ],
+          [
+            -46.6404373,
+            -23.6488403
+          ],
+          [
+            -46.6402544,
+            -23.6484001
+          ],
+          [
+            -46.6401579,
+            -23.6481888
+          ],
+          [
+            -46.6401176,
+            -23.6480807
+          ],
+          [
+            -46.6401018,
+            -23.6479632
+          ],
+          [
+            -46.6400828,
+            -23.6477343
+          ],
+          [
+            -46.6400966,
+            -23.647507
+          ],
+          [
+            -46.6401639,
+            -23.6472532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299605887",
+      "properties": {
+        "@id": "way/299605887",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6351883,
+            -23.6690297
+          ],
+          [
+            -46.6352951,
+            -23.6689914
+          ],
+          [
+            -46.6354995,
+            -23.6689118
+          ],
+          [
+            -46.6356196,
+            -23.668844
+          ],
+          [
+            -46.6357071,
+            -23.6687683
+          ],
+          [
+            -46.635853,
+            -23.6686278
+          ],
+          [
+            -46.6359949,
+            -23.6684461
+          ],
+          [
+            -46.6362476,
+            -23.6677489
+          ],
+          [
+            -46.6363979,
+            -23.6673534
+          ],
+          [
+            -46.6366378,
+            -23.667081
+          ],
+          [
+            -46.6375226,
+            -23.6664445
+          ],
+          [
+            -46.6377441,
+            -23.6662548
+          ],
+          [
+            -46.6378044,
+            -23.6661774
+          ],
+          [
+            -46.6378527,
+            -23.6660939
+          ],
+          [
+            -46.6379196,
+            -23.6659133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299943660",
+      "properties": {
+        "@id": "way/299943660",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "20",
+        "motor_vehicle": "no",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "paved",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5512878,
+            -23.7197136
+          ],
+          [
+            -46.5513895,
+            -23.7198106
+          ],
+          [
+            -46.5514282,
+            -23.7199813
+          ],
+          [
+            -46.5513487,
+            -23.7206029
+          ],
+          [
+            -46.5513466,
+            -23.7206455
+          ],
+          [
+            -46.5512659,
+            -23.7210352
+          ],
+          [
+            -46.55125,
+            -23.7211121
+          ],
+          [
+            -46.5511696,
+            -23.7216474
+          ],
+          [
+            -46.5511535,
+            -23.7217604
+          ],
+          [
+            -46.5511406,
+            -23.7217855
+          ],
+          [
+            -46.5511204,
+            -23.7218113
+          ],
+          [
+            -46.551073,
+            -23.7218438
+          ],
+          [
+            -46.5510199,
+            -23.7218592
+          ],
+          [
+            -46.550989,
+            -23.721858
+          ],
+          [
+            -46.5509635,
+            -23.721853
+          ],
+          [
+            -46.5509314,
+            -23.7218359
+          ],
+          [
+            -46.5509099,
+            -23.7218015
+          ],
+          [
+            -46.5509045,
+            -23.7217462
+          ],
+          [
+            -46.5509166,
+            -23.721702
+          ],
+          [
+            -46.5509515,
+            -23.7216664
+          ],
+          [
+            -46.5510681,
+            -23.7215903
+          ],
+          [
+            -46.5510832,
+            -23.7215069
+          ],
+          [
+            -46.5512044,
+            -23.7205713
+          ],
+          [
+            -46.5512723,
+            -23.7200473
+          ],
+          [
+            -46.5512936,
+            -23.7198554
+          ],
+          [
+            -46.5512878,
+            -23.7197136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301846234",
+      "properties": {
+        "@id": "way/301846234",
+        "access": "no",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5521023,
+            -23.6986631
+          ],
+          [
+            -46.5521262,
+            -23.6985587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353024314",
+      "properties": {
+        "@id": "way/353024314",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5299535,
+            -23.6615453
+          ],
+          [
+            -46.5298623,
+            -23.6610638
+          ],
+          [
+            -46.5297793,
+            -23.6605354
+          ],
+          [
+            -46.5297762,
+            -23.6605154
+          ],
+          [
+            -46.5297496,
+            -23.6603268
+          ],
+          [
+            -46.5296651,
+            -23.6600919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353024315",
+      "properties": {
+        "@id": "way/353024315",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5299908,
+            -23.6614932
+          ],
+          [
+            -46.5300927,
+            -23.6617782
+          ],
+          [
+            -46.53027,
+            -23.6620514
+          ],
+          [
+            -46.5306399,
+            -23.6626233
+          ],
+          [
+            -46.5312192,
+            -23.663547
+          ],
+          [
+            -46.531521,
+            -23.6640419
+          ],
+          [
+            -46.5315548,
+            -23.6641342
+          ],
+          [
+            -46.5316218,
+            -23.6643165
+          ],
+          [
+            -46.5317881,
+            -23.6649061
+          ],
+          [
+            -46.5319649,
+            -23.6655959
+          ],
+          [
+            -46.5322226,
+            -23.6665176
+          ],
+          [
+            -46.5322307,
+            -23.6666778
+          ],
+          [
+            -46.5322142,
+            -23.6667818
+          ],
+          [
+            -46.5321416,
+            -23.6670867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353024585",
+      "properties": {
+        "@id": "way/353024585",
+        "access": "no",
+        "bus": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Corredor ABD",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5314546,
+            -23.6640577
+          ],
+          [
+            -46.5311649,
+            -23.6635738
+          ],
+          [
+            -46.530554,
+            -23.6626528
+          ],
+          [
+            -46.5301252,
+            -23.6619286
+          ],
+          [
+            -46.5299535,
+            -23.6615453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353878525",
+      "properties": {
+        "@id": "way/353878525",
+        "bicycle": "no",
+        "bus": "yes",
+        "foot": "no",
+        "highway": "unclassified",
+        "horse": "no",
+        "maxspeed": "40",
+        "name": "Avenida Antônio Piranga",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "note_1": "da Rua Tiradentes até a Praça Castelo Branco é permitido o trafego de veículos para abastecimento das lojas que ficam ao lado do corredor",
+        "oneway": "no",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6189019,
+            -23.6862133
+          ],
+          [
+            -46.6196871,
+            -23.6864549
+          ],
+          [
+            -46.6201298,
+            -23.6865182
+          ],
+          [
+            -46.6205182,
+            -23.6865081
+          ],
+          [
+            -46.6233287,
+            -23.6864124
+          ],
+          [
+            -46.6236332,
+            -23.6864013
+          ],
+          [
+            -46.6241403,
+            -23.6863821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/385850118",
+      "properties": {
+        "@id": "way/385850118",
+        "access": "no",
+        "bus": "yes",
+        "cutting": "yes",
+        "highway": "service",
+        "maxspeed": "40",
+        "name": "Plataforma B",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5522909,
+            -23.6981078
+          ],
+          [
+            -46.5521911,
+            -23.6985793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/385850119",
+      "properties": {
+        "@id": "way/385850119",
+        "access": "no",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Corredor ABD",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5522258,
+            -23.6981235
+          ],
+          [
+            -46.5522646,
+            -23.6979537
+          ],
+          [
+            -46.5522459,
+            -23.6979071
+          ],
+          [
+            -46.5522163,
+            -23.6978801
+          ],
+          [
+            -46.5521708,
+            -23.6978604
+          ],
+          [
+            -46.5520909,
+            -23.6978182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/385850120",
+      "properties": {
+        "@id": "way/385850120",
+        "access": "no",
+        "highway": "service",
+        "maxspeed": "30",
+        "name": "Plataforma A",
+        "note": "Havia o tag highway=bus_guideway em um trecho dessa via anteriormente, mas a definição trazida na wiki não condiz com o que realmente é.",
+        "oneway": "yes",
+        "service": "bus",
+        "surface": "concrete",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5521262,
+            -23.6985587
+          ],
+          [
+            -46.5522258,
+            -23.6981235
+          ]
+        ]
+      }
+    }
+  ]
+}
