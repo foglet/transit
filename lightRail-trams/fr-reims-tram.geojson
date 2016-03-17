@@ -1,0 +1,2650 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-11T08:08:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/38501552",
+      "properties": {
+        "@id": "way/38501552",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0118159,
+            49.2269381
+          ],
+          [
+            4.0115662,
+            49.2267506
+          ],
+          [
+            4.0112198,
+            49.2264836
+          ],
+          [
+            4.0107079,
+            49.2261187
+          ],
+          [
+            4.0098402,
+            49.2254807
+          ],
+          [
+            4.0094376,
+            49.2251668
+          ],
+          [
+            4.009035,
+            49.2248815
+          ],
+          [
+            4.0087972,
+            49.2246985
+          ],
+          [
+            4.0079601,
+            49.2240693
+          ],
+          [
+            4.0073256,
+            49.2236219
+          ],
+          [
+            4.0053428,
+            49.2222236
+          ],
+          [
+            4.0002125,
+            49.2185599
+          ],
+          [
+            3.9996619,
+            49.2181867
+          ],
+          [
+            3.9993728,
+            49.218094
+          ],
+          [
+            3.9981548,
+            49.2178463
+          ],
+          [
+            3.998018,
+            49.2178092
+          ],
+          [
+            3.9976361,
+            49.2177261
+          ],
+          [
+            3.9975238,
+            49.2176507
+          ],
+          [
+            3.9974123,
+            49.2175764
+          ],
+          [
+            3.99716,
+            49.2172836
+          ],
+          [
+            3.9968511,
+            49.2169185
+          ],
+          [
+            3.9962938,
+            49.216264
+          ],
+          [
+            3.9961299,
+            49.2160594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315458204",
+      "properties": {
+        "@id": "way/315458204",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.9962223,
+            49.2160226
+          ],
+          [
+            3.9965637,
+            49.2164268
+          ],
+          [
+            3.9966469,
+            49.216532
+          ],
+          [
+            3.9967193,
+            49.2166528
+          ],
+          [
+            3.996781,
+            49.216772
+          ],
+          [
+            3.9968185,
+            49.2168473
+          ],
+          [
+            3.9968511,
+            49.2169185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38501549",
+      "properties": {
+        "@id": "way/38501549",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0072196,
+            49.2346945
+          ],
+          [
+            4.0072998,
+            49.2345003
+          ],
+          [
+            4.0072889,
+            49.2342862
+          ],
+          [
+            4.0072069,
+            49.2337332
+          ],
+          [
+            4.0071686,
+            49.2334513
+          ],
+          [
+            4.0070654,
+            49.2331477
+          ],
+          [
+            4.00699,
+            49.2330062
+          ],
+          [
+            4.0069354,
+            49.2328878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202418203",
+      "properties": {
+        "@id": "way/202418203",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0117347,
+            49.2274008
+          ],
+          [
+            4.0068134,
+            49.2302468
+          ],
+          [
+            4.006641,
+            49.2303862
+          ],
+          [
+            4.0065621,
+            49.2305882
+          ],
+          [
+            4.0065986,
+            49.2309057
+          ],
+          [
+            4.006706,
+            49.2314861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25685031",
+      "properties": {
+        "@id": "way/25685031",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0069354,
+            49.2328878
+          ],
+          [
+            4.006706,
+            49.2314861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32732502",
+      "properties": {
+        "@id": "way/32732502",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0039868,
+            49.2374501
+          ],
+          [
+            4.0039717,
+            49.2375665
+          ],
+          [
+            4.0039944,
+            49.2377027
+          ],
+          [
+            4.0040589,
+            49.2378018
+          ],
+          [
+            4.0041727,
+            49.2378959
+          ],
+          [
+            4.0043662,
+            49.2379925
+          ],
+          [
+            4.005121,
+            49.2383838
+          ],
+          [
+            4.0064552,
+            49.2390949
+          ],
+          [
+            4.0073242,
+            49.2396168
+          ],
+          [
+            4.0076657,
+            49.239885
+          ],
+          [
+            4.0081488,
+            49.240105
+          ],
+          [
+            4.0086471,
+            49.2402212
+          ],
+          [
+            4.0090516,
+            49.2403138
+          ],
+          [
+            4.0096256,
+            49.2404153
+          ],
+          [
+            4.0098896,
+            49.2404144
+          ],
+          [
+            4.0113667,
+            49.2404061
+          ],
+          [
+            4.0117341,
+            49.2404271
+          ],
+          [
+            4.0120453,
+            49.2404849
+          ],
+          [
+            4.0125924,
+            49.2406618
+          ],
+          [
+            4.0129089,
+            49.2408596
+          ],
+          [
+            4.0131888,
+            49.2410926
+          ],
+          [
+            4.0133406,
+            49.2412486
+          ],
+          [
+            4.013503,
+            49.2413906
+          ],
+          [
+            4.0137313,
+            49.2416226
+          ],
+          [
+            4.0140372,
+            49.2419386
+          ],
+          [
+            4.0147724,
+            49.2426812
+          ],
+          [
+            4.015538,
+            49.2434579
+          ],
+          [
+            4.0155979,
+            49.2435158
+          ],
+          [
+            4.0174372,
+            49.2454808
+          ],
+          [
+            4.0176817,
+            49.2457208
+          ],
+          [
+            4.0177777,
+            49.245815
+          ],
+          [
+            4.0180119,
+            49.2460205
+          ],
+          [
+            4.0183476,
+            49.2463524
+          ],
+          [
+            4.0185866,
+            49.246553
+          ],
+          [
+            4.0189128,
+            49.2467883
+          ],
+          [
+            4.0193642,
+            49.2470928
+          ],
+          [
+            4.0199256,
+            49.2474271
+          ],
+          [
+            4.021147,
+            49.2481923
+          ],
+          [
+            4.0213666,
+            49.2483345
+          ],
+          [
+            4.0213898,
+            49.2484597
+          ],
+          [
+            4.0213749,
+            49.248563
+          ],
+          [
+            4.0210788,
+            49.2487709
+          ],
+          [
+            4.0208721,
+            49.2489161
+          ],
+          [
+            4.0198284,
+            49.2496723
+          ],
+          [
+            4.0195797,
+            49.249881
+          ],
+          [
+            4.0195463,
+            49.2499775
+          ],
+          [
+            4.0195902,
+            49.2500773
+          ],
+          [
+            4.0196158,
+            49.2501129
+          ],
+          [
+            4.0196243,
+            49.2501247
+          ],
+          [
+            4.0199491,
+            49.2503041
+          ],
+          [
+            4.020356,
+            49.2504486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38501553",
+      "properties": {
+        "@id": "way/38501553",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0072196,
+            49.2346945
+          ],
+          [
+            4.0068339,
+            49.2350787
+          ],
+          [
+            4.0060805,
+            49.2356934
+          ],
+          [
+            4.0056588,
+            49.2360235
+          ],
+          [
+            4.0056105,
+            49.2360616
+          ],
+          [
+            4.0047014,
+            49.2367778
+          ],
+          [
+            4.0040835,
+            49.2372994
+          ],
+          [
+            4.0039868,
+            49.2374501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38501548",
+      "properties": {
+        "@id": "way/38501548",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0117347,
+            49.2274008
+          ],
+          [
+            4.0119407,
+            49.2273152
+          ],
+          [
+            4.0119628,
+            49.2273058
+          ],
+          [
+            4.0121405,
+            49.2272296
+          ],
+          [
+            4.0123527,
+            49.2271766
+          ],
+          [
+            4.0123773,
+            49.2271727
+          ],
+          [
+            4.0126617,
+            49.2271297
+          ],
+          [
+            4.013211,
+            49.2271256
+          ],
+          [
+            4.0136816,
+            49.2271127
+          ],
+          [
+            4.0140171,
+            49.2271329
+          ],
+          [
+            4.0141205,
+            49.2271476
+          ],
+          [
+            4.0143216,
+            49.2271761
+          ],
+          [
+            4.0144849,
+            49.2272136
+          ],
+          [
+            4.0146347,
+            49.2272082
+          ],
+          [
+            4.0146837,
+            49.2271984
+          ],
+          [
+            4.0147495,
+            49.2271851
+          ],
+          [
+            4.0148579,
+            49.2271488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38501551",
+      "properties": {
+        "@id": "way/38501551",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0148579,
+            49.2271488
+          ],
+          [
+            4.0153807,
+            49.2268392
+          ],
+          [
+            4.0161015,
+            49.2264357
+          ],
+          [
+            4.0169123,
+            49.2259428
+          ],
+          [
+            4.0174566,
+            49.2256419
+          ],
+          [
+            4.0180558,
+            49.2252852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/139313793",
+      "properties": {
+        "@id": "way/139313793",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0117347,
+            49.2274008
+          ],
+          [
+            4.0119018,
+            49.2272777
+          ],
+          [
+            4.0119532,
+            49.2272398
+          ],
+          [
+            4.0119782,
+            49.227144
+          ],
+          [
+            4.0119115,
+            49.227037
+          ],
+          [
+            4.0119095,
+            49.2270339
+          ],
+          [
+            4.0118159,
+            49.2269381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38501554",
+      "properties": {
+        "@id": "way/38501554",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0209574,
+            49.2506622
+          ],
+          [
+            4.0212414,
+            49.2507619
+          ],
+          [
+            4.0223642,
+            49.2511563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/139313789",
+      "properties": {
+        "@id": "way/139313789",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.020356,
+            49.2504486
+          ],
+          [
+            4.0209574,
+            49.2506622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38501555",
+      "properties": {
+        "@id": "way/38501555",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0223642,
+            49.2511563
+          ],
+          [
+            4.0233014,
+            49.2515105
+          ],
+          [
+            4.0237036,
+            49.251629
+          ],
+          [
+            4.025136,
+            49.2521316
+          ],
+          [
+            4.0257908,
+            49.2523698
+          ],
+          [
+            4.0268133,
+            49.2527335
+          ],
+          [
+            4.028062,
+            49.2532045
+          ],
+          [
+            4.0281837,
+            49.2532442
+          ],
+          [
+            4.0303154,
+            49.2540236
+          ],
+          [
+            4.0304293,
+            49.2540712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171065486",
+      "properties": {
+        "@id": "way/171065486",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0318383,
+            49.2549691
+          ],
+          [
+            4.031398,
+            49.2554825
+          ],
+          [
+            4.0307397,
+            49.2562547
+          ],
+          [
+            4.0303904,
+            49.2566644
+          ],
+          [
+            4.0302768,
+            49.2567938
+          ],
+          [
+            4.0297978,
+            49.257355
+          ],
+          [
+            4.0293798,
+            49.2578472
+          ],
+          [
+            4.0293168,
+            49.2578954
+          ],
+          [
+            4.0292148,
+            49.2579708
+          ],
+          [
+            4.0290184,
+            49.2580303
+          ],
+          [
+            4.0283801,
+            49.258107
+          ],
+          [
+            4.0271518,
+            49.2582709
+          ],
+          [
+            4.0270405,
+            49.2582952
+          ],
+          [
+            4.0268703,
+            49.2583652
+          ],
+          [
+            4.0266606,
+            49.2584827
+          ],
+          [
+            4.0261699,
+            49.2588005
+          ],
+          [
+            4.0261544,
+            49.2589468
+          ],
+          [
+            4.0263542,
+            49.2591652
+          ],
+          [
+            4.0273446,
+            49.2599033
+          ],
+          [
+            4.0282681,
+            49.2606011
+          ],
+          [
+            4.0290449,
+            49.2612298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171065487",
+      "properties": {
+        "@id": "way/171065487",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0304293,
+            49.2540712
+          ],
+          [
+            4.0311093,
+            49.254331
+          ],
+          [
+            4.0312871,
+            49.2543991
+          ],
+          [
+            4.0318203,
+            49.2546109
+          ],
+          [
+            4.0318873,
+            49.2546639
+          ],
+          [
+            4.0319363,
+            49.2547371
+          ],
+          [
+            4.0319556,
+            49.2548379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171065478",
+      "properties": {
+        "@id": "way/171065478",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0319556,
+            49.2548379
+          ],
+          [
+            4.0318383,
+            49.2549691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171247216",
+      "properties": {
+        "@id": "way/171247216",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0282116,
+            49.2631198
+          ],
+          [
+            4.0281705,
+            49.2631671
+          ],
+          [
+            4.0271478,
+            49.2643361
+          ],
+          [
+            4.0265979,
+            49.2649776
+          ],
+          [
+            4.0263409,
+            49.2652686
+          ],
+          [
+            4.0260481,
+            49.2656053
+          ],
+          [
+            4.0247404,
+            49.2671472
+          ],
+          [
+            4.0236737,
+            49.268365
+          ],
+          [
+            4.0228789,
+            49.2692992
+          ],
+          [
+            4.0221748,
+            49.2700968
+          ],
+          [
+            4.0215206,
+            49.2708608
+          ],
+          [
+            4.0211408,
+            49.2713149
+          ],
+          [
+            4.0209166,
+            49.271562
+          ],
+          [
+            4.0206268,
+            49.27192
+          ],
+          [
+            4.0202466,
+            49.2723448
+          ],
+          [
+            4.0195178,
+            49.2731907
+          ],
+          [
+            4.0190501,
+            49.2737395
+          ],
+          [
+            4.0186952,
+            49.2741476
+          ],
+          [
+            4.0183895,
+            49.2744991
+          ],
+          [
+            4.0181036,
+            49.2748344
+          ],
+          [
+            4.0179915,
+            49.2749908
+          ],
+          [
+            4.0179933,
+            49.2750393
+          ],
+          [
+            4.018007,
+            49.2751096
+          ],
+          [
+            4.0180843,
+            49.2752126
+          ],
+          [
+            4.0183007,
+            49.2752933
+          ],
+          [
+            4.0192203,
+            49.2755303
+          ],
+          [
+            4.0215504,
+            49.2761202
+          ],
+          [
+            4.0220566,
+            49.2762462
+          ],
+          [
+            4.0225048,
+            49.2763521
+          ],
+          [
+            4.022644,
+            49.276412
+          ],
+          [
+            4.0227455,
+            49.276554
+          ],
+          [
+            4.0227303,
+            49.2766623
+          ],
+          [
+            4.0221813,
+            49.2778295
+          ],
+          [
+            4.0219588,
+            49.2783025
+          ],
+          [
+            4.0211562,
+            49.2806804
+          ],
+          [
+            4.0205186,
+            49.2827827
+          ],
+          [
+            4.0205573,
+            49.2829188
+          ],
+          [
+            4.0206556,
+            49.2829917
+          ],
+          [
+            4.0207789,
+            49.2830533
+          ],
+          [
+            4.0212842,
+            49.2831908
+          ],
+          [
+            4.0239152,
+            49.2839018
+          ],
+          [
+            4.0257931,
+            49.284411
+          ],
+          [
+            4.0263959,
+            49.2845673
+          ],
+          [
+            4.0270066,
+            49.2845502
+          ],
+          [
+            4.0273001,
+            49.2845303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/139313795",
+      "properties": {
+        "@id": "way/139313795",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0290449,
+            49.2612298
+          ],
+          [
+            4.0294466,
+            49.2615139
+          ],
+          [
+            4.0294776,
+            49.2615975
+          ],
+          [
+            4.0295028,
+            49.2616655
+          ],
+          [
+            4.0295046,
+            49.2616703
+          ],
+          [
+            4.0294773,
+            49.2617301
+          ],
+          [
+            4.0294511,
+            49.2617877
+          ],
+          [
+            4.0294408,
+            49.2618102
+          ],
+          [
+            4.0292785,
+            49.2619842
+          ],
+          [
+            4.029093,
+            49.2621708
+          ],
+          [
+            4.0286063,
+            49.2626481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171247214",
+      "properties": {
+        "@id": "way/171247214",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0286063,
+            49.2626481
+          ],
+          [
+            4.0282116,
+            49.2631198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1508651355",
+      "properties": {
+        "@id": "node/1508651355",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9962938,
+          49.216264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527341044",
+      "properties": {
+        "@id": "node/1527341044",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0098402,
+          49.2254807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/344532133",
+      "properties": {
+        "@id": "node/344532133",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0077621,
+          49.2297175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527341009",
+      "properties": {
+        "@id": "node/1527341009",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0072069,
+          49.2337332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1820752112",
+      "properties": {
+        "@id": "node/1820752112",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0077947,
+          49.2296772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/368324174",
+      "properties": {
+        "@id": "node/368324174",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0090516,
+          49.2403138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527341000",
+      "properties": {
+        "@id": "node/1527341000",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0047014,
+          49.2367778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/455499454",
+      "properties": {
+        "@id": "node/455499454",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0169123,
+          49.2259428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527341048",
+      "properties": {
+        "@id": "node/1527341048",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.013211,
+          49.2271256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527341008",
+      "properties": {
+        "@id": "node/1527341008",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0147724,
+          49.2426812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527341007",
+      "properties": {
+        "@id": "node/1527341007",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0180119,
+          49.2460205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527341004",
+      "properties": {
+        "@id": "node/1527341004",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.020356,
+          49.2504486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527341054",
+      "properties": {
+        "@id": "node/1527341054",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0257908,
+          49.2523698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/349270333",
+      "properties": {
+        "@id": "node/349270333",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0266606,
+          49.2584827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/455499599",
+      "properties": {
+        "@id": "node/455499599",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0303904,
+          49.2566644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527341049",
+      "properties": {
+        "@id": "node/1527341049",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0312871,
+          49.2543991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527174928",
+      "properties": {
+        "@id": "node/1527174928",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0215206,
+          49.2708608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527340997",
+      "properties": {
+        "@id": "node/1527340997",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0290449,
+          49.2612298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527341051",
+      "properties": {
+        "@id": "node/1527341051",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0260481,
+          49.2656053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527174952",
+      "properties": {
+        "@id": "node/1527174952",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0215504,
+          49.2761202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823096453",
+      "properties": {
+        "@id": "node/1823096453",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0186952,
+          49.2741476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/455499589",
+      "properties": {
+        "@id": "node/455499589",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0212842,
+          49.2831908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527174930",
+      "properties": {
+        "@id": "node/1527174930",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0211562,
+          49.2806804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1527174925",
+      "properties": {
+        "@id": "node/1527174925",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1874970,
+            "reltags": {
+              "from": "Champagne TGV",
+              "name": "tram A",
+              "network": "CITURA",
+              "ref": "A",
+              "route": "tram",
+              "start_date": "2011-04-18",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1874971,
+            "reltags": {
+              "from": "Hôpital Debré",
+              "name": "tram B",
+              "network": "CITURA",
+              "ref": "B",
+              "route": "tram",
+              "to": "Neufchâtel",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0270066,
+          49.2845502
+        ]
+      }
+    }
+  ]
+}

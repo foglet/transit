@@ -1,0 +1,8563 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-11T08:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/50413170",
+      "properties": {
+        "@id": "way/50413170",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1758457,
+            48.6851022
+          ],
+          [
+            6.175868,
+            48.6850733
+          ],
+          [
+            6.1759436,
+            48.6849845
+          ],
+          [
+            6.1760204,
+            48.6848758
+          ],
+          [
+            6.1763478,
+            48.6844527
+          ],
+          [
+            6.1766425,
+            48.6840912
+          ],
+          [
+            6.176753,
+            48.68394
+          ],
+          [
+            6.177859,
+            48.682209
+          ],
+          [
+            6.1784569,
+            48.6812603
+          ],
+          [
+            6.1788839,
+            48.6806128
+          ],
+          [
+            6.1799459,
+            48.678955
+          ],
+          [
+            6.1799758,
+            48.6788984
+          ],
+          [
+            6.1799938,
+            48.6788522
+          ],
+          [
+            6.1800005,
+            48.6788186
+          ],
+          [
+            6.1799978,
+            48.6787767
+          ],
+          [
+            6.1799892,
+            48.6787459
+          ],
+          [
+            6.1799778,
+            48.6787201
+          ],
+          [
+            6.1799556,
+            48.6786792
+          ],
+          [
+            6.1797129,
+            48.6784438
+          ],
+          [
+            6.1779895,
+            48.6769061
+          ],
+          [
+            6.1771039,
+            48.6761156
+          ],
+          [
+            6.1766539,
+            48.6757062
+          ],
+          [
+            6.1763212,
+            48.6754103
+          ],
+          [
+            6.1759164,
+            48.6750569
+          ],
+          [
+            6.1758124,
+            48.6749489
+          ],
+          [
+            6.1752132,
+            48.6744177
+          ],
+          [
+            6.1745883,
+            48.6738637
+          ],
+          [
+            6.1740396,
+            48.6733775
+          ],
+          [
+            6.1728301,
+            48.6722816
+          ],
+          [
+            6.1726738,
+            48.6721391
+          ],
+          [
+            6.1724732,
+            48.6719581
+          ],
+          [
+            6.1716836,
+            48.6712403
+          ],
+          [
+            6.1712514,
+            48.6708518
+          ],
+          [
+            6.1699556,
+            48.6696777
+          ],
+          [
+            6.1698437,
+            48.6695763
+          ],
+          [
+            6.1697608,
+            48.6695014
+          ],
+          [
+            6.1692393,
+            48.6690301
+          ],
+          [
+            6.1690819,
+            48.6688622
+          ],
+          [
+            6.1689224,
+            48.6686935
+          ],
+          [
+            6.1687158,
+            48.6685032
+          ],
+          [
+            6.1680765,
+            48.6679271
+          ],
+          [
+            6.1677345,
+            48.6676195
+          ],
+          [
+            6.1672648,
+            48.6671971
+          ],
+          [
+            6.1669879,
+            48.6669546
+          ],
+          [
+            6.1667,
+            48.6667039
+          ],
+          [
+            6.1665823,
+            48.666602
+          ],
+          [
+            6.1665292,
+            48.6665568
+          ],
+          [
+            6.1662186,
+            48.66629
+          ],
+          [
+            6.1661621,
+            48.6662417
+          ],
+          [
+            6.1660924,
+            48.6661805
+          ],
+          [
+            6.1658392,
+            48.6659605
+          ],
+          [
+            6.1655004,
+            48.6656858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197095508",
+      "properties": {
+        "@id": "way/197095508",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1758025,
+            48.6850919
+          ],
+          [
+            6.1758979,
+            48.6849804
+          ],
+          [
+            6.176424,
+            48.684296
+          ],
+          [
+            6.1765964,
+            48.6840816
+          ],
+          [
+            6.1767149,
+            48.6839227
+          ],
+          [
+            6.1778237,
+            48.6821959
+          ],
+          [
+            6.17852,
+            48.6810967
+          ],
+          [
+            6.1788444,
+            48.6806027
+          ],
+          [
+            6.1797614,
+            48.6791648
+          ],
+          [
+            6.1798492,
+            48.6790346
+          ],
+          [
+            6.1799089,
+            48.6789415
+          ],
+          [
+            6.1799266,
+            48.6789043
+          ],
+          [
+            6.1799454,
+            48.6788617
+          ],
+          [
+            6.1799515,
+            48.6788281
+          ],
+          [
+            6.1799537,
+            48.6787941
+          ],
+          [
+            6.1799465,
+            48.6787564
+          ],
+          [
+            6.179937,
+            48.6787232
+          ],
+          [
+            6.1799108,
+            48.6786827
+          ],
+          [
+            6.1788228,
+            48.6776993
+          ],
+          [
+            6.1779628,
+            48.6769379
+          ],
+          [
+            6.1770743,
+            48.6761433
+          ],
+          [
+            6.1766236,
+            48.6757305
+          ],
+          [
+            6.1762888,
+            48.6754284
+          ],
+          [
+            6.1760501,
+            48.6752122
+          ],
+          [
+            6.1758795,
+            48.6750713
+          ],
+          [
+            6.1751738,
+            48.6744351
+          ],
+          [
+            6.1745525,
+            48.6738817
+          ],
+          [
+            6.1739882,
+            48.6733803
+          ],
+          [
+            6.1727841,
+            48.6722917
+          ],
+          [
+            6.1726335,
+            48.6721549
+          ],
+          [
+            6.1724347,
+            48.6719756
+          ],
+          [
+            6.1716449,
+            48.671256
+          ],
+          [
+            6.1712131,
+            48.6708695
+          ],
+          [
+            6.1699167,
+            48.6696959
+          ],
+          [
+            6.1698035,
+            48.6695934
+          ],
+          [
+            6.1697219,
+            48.6695195
+          ],
+          [
+            6.1691945,
+            48.6690423
+          ],
+          [
+            6.1690469,
+            48.6688842
+          ],
+          [
+            6.1688844,
+            48.6687063
+          ],
+          [
+            6.1686845,
+            48.6685213
+          ],
+          [
+            6.1685008,
+            48.6683566
+          ],
+          [
+            6.1680449,
+            48.6679444
+          ],
+          [
+            6.1677024,
+            48.6676359
+          ],
+          [
+            6.1672309,
+            48.6672112
+          ],
+          [
+            6.1667674,
+            48.6668132
+          ],
+          [
+            6.1666674,
+            48.666721
+          ],
+          [
+            6.1665531,
+            48.6666219
+          ],
+          [
+            6.1664976,
+            48.6665769
+          ],
+          [
+            6.1661879,
+            48.6663088
+          ],
+          [
+            6.1661329,
+            48.6662592
+          ],
+          [
+            6.1658798,
+            48.6660401
+          ],
+          [
+            6.1658053,
+            48.6659763
+          ],
+          [
+            6.1655004,
+            48.6656858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154693515",
+      "properties": {
+        "@id": "way/154693515",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1454926,
+            48.6492852
+          ],
+          [
+            6.1453383,
+            48.6492074
+          ],
+          [
+            6.1452756,
+            48.6491645
+          ],
+          [
+            6.14525,
+            48.6491231
+          ],
+          [
+            6.1452534,
+            48.6490815
+          ],
+          [
+            6.1452715,
+            48.6490285
+          ],
+          [
+            6.14532,
+            48.6489841
+          ],
+          [
+            6.1453822,
+            48.6489586
+          ],
+          [
+            6.1454504,
+            48.6489474
+          ],
+          [
+            6.1455154,
+            48.6489525
+          ],
+          [
+            6.1455807,
+            48.6489742
+          ],
+          [
+            6.14601,
+            48.6492052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154693519",
+      "properties": {
+        "@id": "way/154693519",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1460559,
+            48.6495097
+          ],
+          [
+            6.1458622,
+            48.6494746
+          ],
+          [
+            6.1454926,
+            48.6492852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154717878",
+      "properties": {
+        "@id": "way/154717878",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1464231,
+            48.6493703
+          ],
+          [
+            6.1466019,
+            48.6494676
+          ],
+          [
+            6.1465867,
+            48.6494798
+          ],
+          [
+            6.1464078,
+            48.6493825
+          ],
+          [
+            6.1464231,
+            48.6493703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154717879",
+      "properties": {
+        "@id": "way/154717879",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1459139,
+            48.6490935
+          ],
+          [
+            6.1460928,
+            48.6491906
+          ],
+          [
+            6.1460775,
+            48.6492029
+          ],
+          [
+            6.1458986,
+            48.6491057
+          ],
+          [
+            6.1459139,
+            48.6490935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200680186",
+      "properties": {
+        "@id": "way/200680186",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1468923,
+            48.6500728
+          ],
+          [
+            6.1466667,
+            48.6498611
+          ],
+          [
+            6.1465464,
+            48.6497919
+          ],
+          [
+            6.1460559,
+            48.6495097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154693493",
+      "properties": {
+        "@id": "way/154693493",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1476006,
+            48.6506614
+          ],
+          [
+            6.1474547,
+            48.6505976
+          ],
+          [
+            6.1472938,
+            48.6505042
+          ],
+          [
+            6.147225,
+            48.6504543
+          ],
+          [
+            6.1471512,
+            48.6504008
+          ],
+          [
+            6.1471331,
+            48.6503875
+          ],
+          [
+            6.1468923,
+            48.6500728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154693521",
+      "properties": {
+        "@id": "way/154693521",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1465163,
+            48.6494763
+          ],
+          [
+            6.1468959,
+            48.6497086
+          ],
+          [
+            6.1471709,
+            48.6499065
+          ],
+          [
+            6.1474461,
+            48.6500559
+          ],
+          [
+            6.1475258,
+            48.6501061
+          ],
+          [
+            6.1475858,
+            48.6501677
+          ],
+          [
+            6.1476451,
+            48.6502287
+          ],
+          [
+            6.1477026,
+            48.650341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154715018",
+      "properties": {
+        "@id": "way/154715018",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1477026,
+            48.650341
+          ],
+          [
+            6.1478464,
+            48.6504013
+          ],
+          [
+            6.1479264,
+            48.6504349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/7376847",
+      "properties": {
+        "@id": "way/7376847",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1479264,
+            48.6504349
+          ],
+          [
+            6.1480779,
+            48.6505281
+          ],
+          [
+            6.1484488,
+            48.6507336
+          ],
+          [
+            6.1494167,
+            48.65125
+          ],
+          [
+            6.1501944,
+            48.6518056
+          ],
+          [
+            6.1505596,
+            48.6521483
+          ],
+          [
+            6.1511191,
+            48.6526841
+          ],
+          [
+            6.1516403,
+            48.6531305
+          ],
+          [
+            6.1519162,
+            48.6534052
+          ],
+          [
+            6.1521254,
+            48.6536139
+          ],
+          [
+            6.1523413,
+            48.6538352
+          ],
+          [
+            6.1523974,
+            48.6538944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154717886",
+      "properties": {
+        "@id": "way/154717886",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1483502,
+            48.6505965
+          ],
+          [
+            6.148523,
+            48.6506985
+          ],
+          [
+            6.1485069,
+            48.6507104
+          ],
+          [
+            6.1483342,
+            48.6506084
+          ],
+          [
+            6.1483502,
+            48.6505965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208780810",
+      "properties": {
+        "@id": "way/208780810",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1568641,
+            48.658296
+          ],
+          [
+            6.1565089,
+            48.658079
+          ],
+          [
+            6.1562971,
+            48.6579371
+          ],
+          [
+            6.1561093,
+            48.6577995
+          ],
+          [
+            6.1558925,
+            48.6576384
+          ],
+          [
+            6.1556907,
+            48.6574786
+          ],
+          [
+            6.1555299,
+            48.6573426
+          ],
+          [
+            6.155376,
+            48.6572029
+          ],
+          [
+            6.1550539,
+            48.6568932
+          ],
+          [
+            6.1547727,
+            48.6565842
+          ],
+          [
+            6.1542755,
+            48.656023
+          ],
+          [
+            6.1538512,
+            48.6555381
+          ],
+          [
+            6.1533546,
+            48.6549745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363553286",
+      "properties": {
+        "@id": "way/363553286",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1522916,
+            48.6539847
+          ],
+          [
+            6.1522353,
+            48.6539251
+          ],
+          [
+            6.1520797,
+            48.6537609
+          ],
+          [
+            6.1519318,
+            48.6536078
+          ],
+          [
+            6.1515675,
+            48.6532307
+          ],
+          [
+            6.1513559,
+            48.6530401
+          ],
+          [
+            6.1510237,
+            48.6527408
+          ],
+          [
+            6.1507238,
+            48.6524516
+          ],
+          [
+            6.1505332,
+            48.6522678
+          ],
+          [
+            6.1501243,
+            48.6518832
+          ],
+          [
+            6.1493488,
+            48.6513331
+          ],
+          [
+            6.148676,
+            48.6509715
+          ],
+          [
+            6.1482427,
+            48.650825
+          ],
+          [
+            6.1480022,
+            48.6507724
+          ],
+          [
+            6.1478354,
+            48.6507359
+          ],
+          [
+            6.1477819,
+            48.6507189
+          ],
+          [
+            6.1476006,
+            48.6506614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/7376851",
+      "properties": {
+        "@id": "way/7376851",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1533546,
+            48.6549745
+          ],
+          [
+            6.1528315,
+            48.6545518
+          ],
+          [
+            6.1525261,
+            48.6542296
+          ],
+          [
+            6.1523903,
+            48.6540862
+          ],
+          [
+            6.1522916,
+            48.6539847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154717881",
+      "properties": {
+        "@id": "way/154717881",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1479383,
+            48.6508152
+          ],
+          [
+            6.1482045,
+            48.6508718
+          ],
+          [
+            6.1481955,
+            48.6508903
+          ],
+          [
+            6.1479293,
+            48.6508336
+          ],
+          [
+            6.1479383,
+            48.6508152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155810779",
+      "properties": {
+        "@id": "way/155810779",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1517867,
+            48.6535473
+          ],
+          [
+            6.151961,
+            48.6537394
+          ],
+          [
+            6.1519946,
+            48.6537261
+          ],
+          [
+            6.1518203,
+            48.653534
+          ],
+          [
+            6.1517867,
+            48.6535473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155810785",
+      "properties": {
+        "@id": "way/155810785",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.152604,
+            48.6540812
+          ],
+          [
+            6.1527819,
+            48.654274
+          ],
+          [
+            6.1528103,
+            48.6542626
+          ],
+          [
+            6.1526325,
+            48.6540697
+          ],
+          [
+            6.152604,
+            48.6540812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363553287",
+      "properties": {
+        "@id": "way/363553287",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1523974,
+            48.6538944
+          ],
+          [
+            6.1525015,
+            48.6540127
+          ],
+          [
+            6.1526278,
+            48.6541476
+          ],
+          [
+            6.1526725,
+            48.6541926
+          ],
+          [
+            6.1529758,
+            48.6544974
+          ],
+          [
+            6.1533546,
+            48.6549745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154686685",
+      "properties": {
+        "@id": "way/154686685",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1576833,
+            48.6587399
+          ],
+          [
+            6.1575921,
+            48.658693
+          ],
+          [
+            6.1568641,
+            48.658296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154879412",
+      "properties": {
+        "@id": "way/154879412",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1555643,
+            48.6575252
+          ],
+          [
+            6.1556865,
+            48.6576187
+          ],
+          [
+            6.1557018,
+            48.65761
+          ],
+          [
+            6.1555795,
+            48.6575165
+          ],
+          [
+            6.1555643,
+            48.6575252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155808980",
+      "properties": {
+        "@id": "way/155808980",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.159473,
+            48.6601737
+          ],
+          [
+            6.159646,
+            48.6603343
+          ],
+          [
+            6.1596632,
+            48.6603262
+          ],
+          [
+            6.1594901,
+            48.6601657
+          ],
+          [
+            6.159473,
+            48.6601737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155808983",
+      "properties": {
+        "@id": "way/155808983",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1593667,
+            48.6602341
+          ],
+          [
+            6.1595466,
+            48.6603913
+          ],
+          [
+            6.1595633,
+            48.6603829
+          ],
+          [
+            6.1593834,
+            48.6602257
+          ],
+          [
+            6.1593667,
+            48.6602341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200726626",
+      "properties": {
+        "@id": "way/200726626",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.159627,
+            48.6603737
+          ],
+          [
+            6.1595652,
+            48.6603502
+          ],
+          [
+            6.1594214,
+            48.6602291
+          ],
+          [
+            6.1590841,
+            48.6599154
+          ],
+          [
+            6.1586394,
+            48.6595307
+          ],
+          [
+            6.1583549,
+            48.6592892
+          ],
+          [
+            6.1580814,
+            48.6590746
+          ],
+          [
+            6.1579545,
+            48.65888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200726627",
+      "properties": {
+        "@id": "way/200726627",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1579545,
+            48.65888
+          ],
+          [
+            6.1581886,
+            48.659097
+          ],
+          [
+            6.1586151,
+            48.6594711
+          ],
+          [
+            6.1591139,
+            48.6599002
+          ],
+          [
+            6.1596125,
+            48.6603309
+          ],
+          [
+            6.159627,
+            48.6603737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206455067",
+      "properties": {
+        "@id": "way/206455067",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1579545,
+            48.65888
+          ],
+          [
+            6.1576833,
+            48.6587399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22890677",
+      "properties": {
+        "@id": "way/22890677",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1611506,
+            48.6617796
+          ],
+          [
+            6.1610567,
+            48.6616936
+          ],
+          [
+            6.1602261,
+            48.6609325
+          ],
+          [
+            6.1598955,
+            48.6606493
+          ],
+          [
+            6.159627,
+            48.6603737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155808972",
+      "properties": {
+        "@id": "way/155808972",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1619625,
+            48.6625876
+          ],
+          [
+            6.1621152,
+            48.6627261
+          ],
+          [
+            6.1621454,
+            48.6627116
+          ],
+          [
+            6.1619927,
+            48.662573
+          ],
+          [
+            6.1619625,
+            48.6625876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155808974",
+      "properties": {
+        "@id": "way/155808974",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1618996,
+            48.6624001
+          ],
+          [
+            6.1620658,
+            48.6625443
+          ],
+          [
+            6.1620939,
+            48.6625302
+          ],
+          [
+            6.1619277,
+            48.662386
+          ],
+          [
+            6.1618996,
+            48.6624001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155793221",
+      "properties": {
+        "@id": "way/155793221",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1667248,
+            48.66683
+          ],
+          [
+            6.1669309,
+            48.6670075
+          ],
+          [
+            6.1669575,
+            48.6669941
+          ],
+          [
+            6.1667515,
+            48.6668165
+          ],
+          [
+            6.1667248,
+            48.66683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155793233",
+      "properties": {
+        "@id": "way/155793233",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1668159,
+            48.6667855
+          ],
+          [
+            6.1670197,
+            48.6669633
+          ],
+          [
+            6.1670487,
+            48.6669488
+          ],
+          [
+            6.1668449,
+            48.666771
+          ],
+          [
+            6.1668159,
+            48.6667855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238419178",
+      "properties": {
+        "@id": "way/238419178",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1649074,
+            48.6651694
+          ],
+          [
+            6.1637747,
+            48.6641449
+          ],
+          [
+            6.1630297,
+            48.6634571
+          ],
+          [
+            6.1623836,
+            48.662894
+          ],
+          [
+            6.1623279,
+            48.6628441
+          ],
+          [
+            6.1622824,
+            48.6628033
+          ],
+          [
+            6.1620568,
+            48.6625881
+          ],
+          [
+            6.1620288,
+            48.6625618
+          ],
+          [
+            6.1618549,
+            48.6624036
+          ],
+          [
+            6.1617674,
+            48.6623268
+          ],
+          [
+            6.1617008,
+            48.6622641
+          ],
+          [
+            6.1612508,
+            48.6618671
+          ],
+          [
+            6.1611506,
+            48.6617796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154154932",
+      "properties": {
+        "@id": "way/154154932",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1655004,
+            48.6656858
+          ],
+          [
+            6.165388,
+            48.6655845
+          ],
+          [
+            6.1649074,
+            48.6651694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155808971",
+      "properties": {
+        "@id": "way/155808971",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1659203,
+            48.6660045
+          ],
+          [
+            6.1661202,
+            48.6661795
+          ],
+          [
+            6.1661473,
+            48.666166
+          ],
+          [
+            6.1659473,
+            48.665991
+          ],
+          [
+            6.1659203,
+            48.6660045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155808975",
+      "properties": {
+        "@id": "way/155808975",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1658226,
+            48.6660504
+          ],
+          [
+            6.1660245,
+            48.6662287
+          ],
+          [
+            6.1660542,
+            48.6662141
+          ],
+          [
+            6.1658524,
+            48.6660357
+          ],
+          [
+            6.1658226,
+            48.6660504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155793219",
+      "properties": {
+        "@id": "way/155793219",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1685375,
+            48.6683236
+          ],
+          [
+            6.1687341,
+            48.6684982
+          ],
+          [
+            6.1687639,
+            48.6684835
+          ],
+          [
+            6.1685673,
+            48.6683089
+          ],
+          [
+            6.1685375,
+            48.6683236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155793226",
+      "properties": {
+        "@id": "way/155793226",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1684476,
+            48.6683627
+          ],
+          [
+            6.1686475,
+            48.6685456
+          ],
+          [
+            6.1686741,
+            48.6685329
+          ],
+          [
+            6.1684742,
+            48.66835
+          ],
+          [
+            6.1684476,
+            48.6683627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155793229",
+      "properties": {
+        "@id": "way/155793229",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1724756,
+            48.6719409
+          ],
+          [
+            6.1726768,
+            48.6721212
+          ],
+          [
+            6.172724,
+            48.6720983
+          ],
+          [
+            6.1725227,
+            48.6719179
+          ],
+          [
+            6.1724756,
+            48.6719409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155793235",
+      "properties": {
+        "@id": "way/155793235",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1723809,
+            48.6719895
+          ],
+          [
+            6.1725859,
+            48.6721727
+          ],
+          [
+            6.1726151,
+            48.6721584
+          ],
+          [
+            6.1724101,
+            48.6719752
+          ],
+          [
+            6.1723809,
+            48.6719895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155793223",
+      "properties": {
+        "@id": "way/155793223",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1760072,
+            48.675224
+          ],
+          [
+            6.1761856,
+            48.675382
+          ],
+          [
+            6.1762024,
+            48.6753737
+          ],
+          [
+            6.176024,
+            48.6752157
+          ],
+          [
+            6.1760072,
+            48.675224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155793228",
+      "properties": {
+        "@id": "way/155793228",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1756642,
+            48.6747903
+          ],
+          [
+            6.1758427,
+            48.6749483
+          ],
+          [
+            6.1758596,
+            48.67494
+          ],
+          [
+            6.1756811,
+            48.674782
+          ],
+          [
+            6.1756642,
+            48.6747903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155790928",
+      "properties": {
+        "@id": "way/155790928",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1784846,
+            48.6810776
+          ],
+          [
+            6.1783636,
+            48.6812579
+          ],
+          [
+            6.1783828,
+            48.6812635
+          ],
+          [
+            6.1785038,
+            48.6810832
+          ],
+          [
+            6.1784846,
+            48.6810776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155790929",
+      "properties": {
+        "@id": "way/155790929",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.179725,
+            48.6791456
+          ],
+          [
+            6.1796097,
+            48.6793276
+          ],
+          [
+            6.179629,
+            48.6793329
+          ],
+          [
+            6.1797444,
+            48.679151
+          ],
+          [
+            6.179725,
+            48.6791456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155790930",
+      "properties": {
+        "@id": "way/155790930",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1785971,
+            48.6811055
+          ],
+          [
+            6.1784761,
+            48.6812858
+          ],
+          [
+            6.1784953,
+            48.6812914
+          ],
+          [
+            6.1786162,
+            48.6811111
+          ],
+          [
+            6.1785971,
+            48.6811055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155790932",
+      "properties": {
+        "@id": "way/155790932",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1795783,
+            48.6782896
+          ],
+          [
+            6.1797575,
+            48.6784473
+          ],
+          [
+            6.1797743,
+            48.678439
+          ],
+          [
+            6.1795952,
+            48.6782814
+          ],
+          [
+            6.1795783,
+            48.6782896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50091729",
+      "properties": {
+        "@id": "way/50091729",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1742831,
+            48.6886207
+          ],
+          [
+            6.1742289,
+            48.6886031
+          ],
+          [
+            6.173879,
+            48.6884896
+          ],
+          [
+            6.1737584,
+            48.688463
+          ],
+          [
+            6.1736597,
+            48.6884273
+          ],
+          [
+            6.1736254,
+            48.6884075
+          ],
+          [
+            6.1735969,
+            48.6883893
+          ],
+          [
+            6.1735641,
+            48.688365
+          ],
+          [
+            6.1735236,
+            48.6883157
+          ],
+          [
+            6.1735011,
+            48.6882739
+          ],
+          [
+            6.1734925,
+            48.6882465
+          ],
+          [
+            6.1734873,
+            48.6882288
+          ],
+          [
+            6.1734878,
+            48.6881885
+          ],
+          [
+            6.1734944,
+            48.6881562
+          ],
+          [
+            6.1735128,
+            48.6881089
+          ],
+          [
+            6.1735515,
+            48.6880487
+          ],
+          [
+            6.1736066,
+            48.6879782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197095507",
+      "properties": {
+        "@id": "way/197095507",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1742656,
+            48.6886474
+          ],
+          [
+            6.1742167,
+            48.6886319
+          ],
+          [
+            6.1738569,
+            48.6885176
+          ],
+          [
+            6.173656,
+            48.6884615
+          ],
+          [
+            6.1736051,
+            48.6884347
+          ],
+          [
+            6.1735645,
+            48.6884089
+          ],
+          [
+            6.1735269,
+            48.6883812
+          ],
+          [
+            6.1734952,
+            48.6883447
+          ],
+          [
+            6.1734744,
+            48.6883141
+          ],
+          [
+            6.1734613,
+            48.6882907
+          ],
+          [
+            6.1734526,
+            48.6882632
+          ],
+          [
+            6.1734464,
+            48.6882389
+          ],
+          [
+            6.1734427,
+            48.6882077
+          ],
+          [
+            6.1734465,
+            48.6881604
+          ],
+          [
+            6.1734602,
+            48.6881182
+          ],
+          [
+            6.1734813,
+            48.6880776
+          ],
+          [
+            6.1735658,
+            48.6879626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40890526",
+      "properties": {
+        "@id": "way/40890526",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1742831,
+            48.6886207
+          ],
+          [
+            6.175391,
+            48.6889893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50413171",
+      "properties": {
+        "@id": "way/50413171",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1736066,
+            48.6879782
+          ],
+          [
+            6.174251,
+            48.6871452
+          ],
+          [
+            6.1746834,
+            48.6865478
+          ],
+          [
+            6.1748616,
+            48.6863192
+          ],
+          [
+            6.1750324,
+            48.6861132
+          ],
+          [
+            6.1752131,
+            48.6859108
+          ],
+          [
+            6.1755142,
+            48.6855346
+          ],
+          [
+            6.1758457,
+            48.6851022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154088488",
+      "properties": {
+        "@id": "way/154088488",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1760618,
+            48.6891266
+          ],
+          [
+            6.1756817,
+            48.6890102
+          ],
+          [
+            6.1756727,
+            48.6890231
+          ],
+          [
+            6.1760528,
+            48.6891395
+          ],
+          [
+            6.1760618,
+            48.6891266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154088489",
+      "properties": {
+        "@id": "way/154088489",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1759974,
+            48.6892138
+          ],
+          [
+            6.1756172,
+            48.6890974
+          ],
+          [
+            6.1756082,
+            48.6891103
+          ],
+          [
+            6.1759884,
+            48.6892267
+          ],
+          [
+            6.1759974,
+            48.6892138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788445",
+      "properties": {
+        "@id": "way/155788445",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1747078,
+            48.6863605
+          ],
+          [
+            6.1745735,
+            48.6865366
+          ],
+          [
+            6.1745922,
+            48.6865429
+          ],
+          [
+            6.1747265,
+            48.6863667
+          ],
+          [
+            6.1747078,
+            48.6863605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788448",
+      "properties": {
+        "@id": "way/155788448",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1748281,
+            48.6863956
+          ],
+          [
+            6.1746938,
+            48.6865718
+          ],
+          [
+            6.1747125,
+            48.686578
+          ],
+          [
+            6.1748468,
+            48.6864019
+          ],
+          [
+            6.1748281,
+            48.6863956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788460",
+      "properties": {
+        "@id": "way/155788460",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1777,
+            48.6892878
+          ],
+          [
+            6.1774544,
+            48.6892106
+          ],
+          [
+            6.1774461,
+            48.6892221
+          ],
+          [
+            6.1776917,
+            48.6892992
+          ],
+          [
+            6.1777,
+            48.6892878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788465",
+      "properties": {
+        "@id": "way/155788465",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1777626,
+            48.6892101
+          ],
+          [
+            6.1775017,
+            48.6891263
+          ],
+          [
+            6.1774925,
+            48.6891389
+          ],
+          [
+            6.1777533,
+            48.6892227
+          ],
+          [
+            6.1777626,
+            48.6892101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155790931",
+      "properties": {
+        "@id": "way/155790931",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1764957,
+            48.6843001
+          ],
+          [
+            6.1763614,
+            48.6844763
+          ],
+          [
+            6.1763801,
+            48.6844825
+          ],
+          [
+            6.1765144,
+            48.6843064
+          ],
+          [
+            6.1764957,
+            48.6843001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155790933",
+      "properties": {
+        "@id": "way/155790933",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1763904,
+            48.6842717
+          ],
+          [
+            6.176256,
+            48.6844478
+          ],
+          [
+            6.1762748,
+            48.6844541
+          ],
+          [
+            6.1764092,
+            48.684278
+          ],
+          [
+            6.1763904,
+            48.6842717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197095509",
+      "properties": {
+        "@id": "way/197095509",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1753601,
+            48.689014
+          ],
+          [
+            6.1742656,
+            48.6886474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197095510",
+      "properties": {
+        "@id": "way/197095510",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1735658,
+            48.6879626
+          ],
+          [
+            6.1742119,
+            48.6871309
+          ],
+          [
+            6.1747514,
+            48.6863917
+          ],
+          [
+            6.174821,
+            48.6863066
+          ],
+          [
+            6.1749885,
+            48.6860998
+          ],
+          [
+            6.1751697,
+            48.685896
+          ],
+          [
+            6.1754727,
+            48.685521
+          ],
+          [
+            6.1758025,
+            48.6850919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58416040",
+      "properties": {
+        "@id": "way/58416040",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.175391,
+            48.6889893
+          ],
+          [
+            6.1754413,
+            48.6889992
+          ],
+          [
+            6.1754951,
+            48.6890051
+          ],
+          [
+            6.1755334,
+            48.6890131
+          ],
+          [
+            6.1760103,
+            48.6891607
+          ],
+          [
+            6.176074,
+            48.6891792
+          ],
+          [
+            6.176113,
+            48.6891876
+          ],
+          [
+            6.1761462,
+            48.689189
+          ],
+          [
+            6.1761716,
+            48.6891887
+          ],
+          [
+            6.176198,
+            48.6891832
+          ],
+          [
+            6.1762297,
+            48.6891739
+          ],
+          [
+            6.1762542,
+            48.6891621
+          ],
+          [
+            6.176556,
+            48.6889581
+          ],
+          [
+            6.1765942,
+            48.6889396
+          ],
+          [
+            6.176626,
+            48.688931
+          ],
+          [
+            6.176662,
+            48.688925
+          ],
+          [
+            6.1767047,
+            48.6889239
+          ],
+          [
+            6.1767588,
+            48.6889311
+          ],
+          [
+            6.1767954,
+            48.6889411
+          ],
+          [
+            6.1768603,
+            48.6889622
+          ],
+          [
+            6.1769529,
+            48.6889923
+          ],
+          [
+            6.1772897,
+            48.6891029
+          ],
+          [
+            6.1777224,
+            48.6892384
+          ],
+          [
+            6.1783921,
+            48.6894569
+          ],
+          [
+            6.1784713,
+            48.6894828
+          ],
+          [
+            6.1785481,
+            48.6895074
+          ],
+          [
+            6.1791298,
+            48.689694
+          ],
+          [
+            6.1791961,
+            48.6897153
+          ],
+          [
+            6.1792765,
+            48.6897413
+          ],
+          [
+            6.1797656,
+            48.689899
+          ],
+          [
+            6.1799171,
+            48.6899478
+          ],
+          [
+            6.1805008,
+            48.6901361
+          ],
+          [
+            6.1806842,
+            48.6901952
+          ],
+          [
+            6.1812511,
+            48.690378
+          ],
+          [
+            6.1813465,
+            48.6904088
+          ],
+          [
+            6.181446,
+            48.6904406
+          ],
+          [
+            6.1818723,
+            48.690577
+          ],
+          [
+            6.1823901,
+            48.6907443
+          ],
+          [
+            6.182484,
+            48.6907746
+          ],
+          [
+            6.1825832,
+            48.6908065
+          ],
+          [
+            6.183851,
+            48.6912138
+          ],
+          [
+            6.1839319,
+            48.6912374
+          ],
+          [
+            6.1840179,
+            48.6912684
+          ],
+          [
+            6.1843179,
+            48.6913672
+          ],
+          [
+            6.1844057,
+            48.6913977
+          ],
+          [
+            6.1845503,
+            48.6914438
+          ],
+          [
+            6.185394,
+            48.6917135
+          ],
+          [
+            6.185537,
+            48.6917582
+          ],
+          [
+            6.1856295,
+            48.6917887
+          ],
+          [
+            6.1857255,
+            48.6918198
+          ],
+          [
+            6.1862494,
+            48.6919871
+          ],
+          [
+            6.1869486,
+            48.6922128
+          ],
+          [
+            6.1870289,
+            48.6922397
+          ],
+          [
+            6.1871083,
+            48.6922655
+          ],
+          [
+            6.1877852,
+            48.6924849
+          ],
+          [
+            6.1893514,
+            48.6929815
+          ],
+          [
+            6.1894496,
+            48.6930019
+          ],
+          [
+            6.1895029,
+            48.6930038
+          ],
+          [
+            6.1895349,
+            48.6930029
+          ],
+          [
+            6.1895721,
+            48.692998
+          ],
+          [
+            6.1896362,
+            48.6929862
+          ],
+          [
+            6.1897871,
+            48.6929467
+          ],
+          [
+            6.1898407,
+            48.6929356
+          ],
+          [
+            6.1898957,
+            48.6929286
+          ],
+          [
+            6.189976,
+            48.6929253
+          ],
+          [
+            6.1901275,
+            48.6929605
+          ],
+          [
+            6.1902634,
+            48.6930174
+          ],
+          [
+            6.190615,
+            48.6931697
+          ],
+          [
+            6.1908089,
+            48.6932496
+          ],
+          [
+            6.1918901,
+            48.6938007
+          ],
+          [
+            6.1920121,
+            48.6938674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197082849",
+      "properties": {
+        "@id": "way/197082849",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1919896,
+            48.6938901
+          ],
+          [
+            6.1918727,
+            48.6938267
+          ],
+          [
+            6.1907767,
+            48.6932763
+          ],
+          [
+            6.1903444,
+            48.6930871
+          ],
+          [
+            6.1902405,
+            48.6930385
+          ],
+          [
+            6.1901039,
+            48.6929824
+          ],
+          [
+            6.1899703,
+            48.6929543
+          ],
+          [
+            6.1898933,
+            48.6929587
+          ],
+          [
+            6.1898459,
+            48.6929647
+          ],
+          [
+            6.1897898,
+            48.6929758
+          ],
+          [
+            6.1896818,
+            48.6930051
+          ],
+          [
+            6.18962,
+            48.6930202
+          ],
+          [
+            6.1895768,
+            48.6930275
+          ],
+          [
+            6.1895368,
+            48.6930318
+          ],
+          [
+            6.1894961,
+            48.6930333
+          ],
+          [
+            6.1894589,
+            48.6930328
+          ],
+          [
+            6.189428,
+            48.6930294
+          ],
+          [
+            6.1893787,
+            48.6930219
+          ],
+          [
+            6.1893319,
+            48.6930109
+          ],
+          [
+            6.1877683,
+            48.6925081
+          ],
+          [
+            6.1870906,
+            48.6922894
+          ],
+          [
+            6.1870116,
+            48.6922639
+          ],
+          [
+            6.18693,
+            48.6922371
+          ],
+          [
+            6.1858548,
+            48.6918895
+          ],
+          [
+            6.185706,
+            48.6918442
+          ],
+          [
+            6.1856051,
+            48.6918121
+          ],
+          [
+            6.1855193,
+            48.6917829
+          ],
+          [
+            6.1845324,
+            48.6914675
+          ],
+          [
+            6.1843949,
+            48.6914235
+          ],
+          [
+            6.1843013,
+            48.6913919
+          ],
+          [
+            6.1840014,
+            48.6912941
+          ],
+          [
+            6.1839144,
+            48.6912647
+          ],
+          [
+            6.1838346,
+            48.6912387
+          ],
+          [
+            6.1827378,
+            48.6908892
+          ],
+          [
+            6.1825648,
+            48.6908315
+          ],
+          [
+            6.1824647,
+            48.6907981
+          ],
+          [
+            6.1823731,
+            48.6907688
+          ],
+          [
+            6.1814263,
+            48.6904653
+          ],
+          [
+            6.1813271,
+            48.6904335
+          ],
+          [
+            6.1812327,
+            48.6904031
+          ],
+          [
+            6.180666,
+            48.6902205
+          ],
+          [
+            6.1804827,
+            48.6901614
+          ],
+          [
+            6.1798985,
+            48.6899731
+          ],
+          [
+            6.1797467,
+            48.6899242
+          ],
+          [
+            6.1792591,
+            48.689767
+          ],
+          [
+            6.1791774,
+            48.6897407
+          ],
+          [
+            6.179112,
+            48.6897194
+          ],
+          [
+            6.1785321,
+            48.6895308
+          ],
+          [
+            6.1784551,
+            48.6895058
+          ],
+          [
+            6.1783759,
+            48.6894803
+          ],
+          [
+            6.1774747,
+            48.6891911
+          ],
+          [
+            6.176926,
+            48.6890144
+          ],
+          [
+            6.1768321,
+            48.6889843
+          ],
+          [
+            6.1767923,
+            48.6889706
+          ],
+          [
+            6.1767544,
+            48.6889614
+          ],
+          [
+            6.1767237,
+            48.6889577
+          ],
+          [
+            6.1766772,
+            48.6889615
+          ],
+          [
+            6.1766405,
+            48.6889659
+          ],
+          [
+            6.1766047,
+            48.6889771
+          ],
+          [
+            6.176575,
+            48.688991
+          ],
+          [
+            6.176275,
+            48.6891964
+          ],
+          [
+            6.1762382,
+            48.6892149
+          ],
+          [
+            6.1762065,
+            48.689224
+          ],
+          [
+            6.1761673,
+            48.689229
+          ],
+          [
+            6.176132,
+            48.689229
+          ],
+          [
+            6.1760936,
+            48.6892226
+          ],
+          [
+            6.1760577,
+            48.6892136
+          ],
+          [
+            6.1756418,
+            48.6890825
+          ],
+          [
+            6.1755263,
+            48.6890471
+          ],
+          [
+            6.1754846,
+            48.68904
+          ],
+          [
+            6.1754179,
+            48.6890283
+          ],
+          [
+            6.1753601,
+            48.689014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788434",
+      "properties": {
+        "@id": "way/155788434",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.185409,
+            48.691674
+          ],
+          [
+            6.1852517,
+            48.691622
+          ],
+          [
+            6.1852426,
+            48.6916341
+          ],
+          [
+            6.1853999,
+            48.691686
+          ],
+          [
+            6.185409,
+            48.691674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788451",
+      "properties": {
+        "@id": "way/155788451",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1819403,
+            48.690545
+          ],
+          [
+            6.1817912,
+            48.6904985
+          ],
+          [
+            6.1817748,
+            48.6905215
+          ],
+          [
+            6.1819239,
+            48.690568
+          ],
+          [
+            6.1819403,
+            48.690545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788455",
+      "properties": {
+        "@id": "way/155788455",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1860694,
+            48.6919795
+          ],
+          [
+            6.1858527,
+            48.6919102
+          ],
+          [
+            6.185843,
+            48.6919234
+          ],
+          [
+            6.1860598,
+            48.6919927
+          ],
+          [
+            6.1860694,
+            48.6919795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788461",
+      "properties": {
+        "@id": "way/155788461",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.182943,
+            48.6909739
+          ],
+          [
+            6.1827929,
+            48.6909251
+          ],
+          [
+            6.182775,
+            48.6909491
+          ],
+          [
+            6.1829251,
+            48.6909979
+          ],
+          [
+            6.182943,
+            48.6909739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58480271",
+      "properties": {
+        "@id": "way/58480271",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1920121,
+            48.6938674
+          ],
+          [
+            6.1929586,
+            48.6943779
+          ],
+          [
+            6.1934679,
+            48.6946748
+          ],
+          [
+            6.1939362,
+            48.6949368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197082098",
+      "properties": {
+        "@id": "way/197082098",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2022488,
+            48.6990202
+          ],
+          [
+            6.2020244,
+            48.6989385
+          ],
+          [
+            6.201486,
+            48.6987749
+          ],
+          [
+            6.2012969,
+            48.6987115
+          ],
+          [
+            6.2011144,
+            48.6986408
+          ],
+          [
+            6.2008834,
+            48.6985431
+          ],
+          [
+            6.200705,
+            48.6984567
+          ],
+          [
+            6.2003242,
+            48.69826
+          ],
+          [
+            6.1996243,
+            48.6979044
+          ],
+          [
+            6.1991518,
+            48.6976922
+          ],
+          [
+            6.1988412,
+            48.6975319
+          ],
+          [
+            6.1970403,
+            48.6965823
+          ],
+          [
+            6.1969513,
+            48.6965372
+          ],
+          [
+            6.1969196,
+            48.6965211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197082850",
+      "properties": {
+        "@id": "way/197082850",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1939097,
+            48.6949585
+          ],
+          [
+            6.1934426,
+            48.6946958
+          ],
+          [
+            6.1929315,
+            48.6944008
+          ],
+          [
+            6.1919896,
+            48.6938901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197099698",
+      "properties": {
+        "@id": "way/197099698",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1969433,
+            48.6965019
+          ],
+          [
+            6.1969755,
+            48.6965184
+          ],
+          [
+            6.1970641,
+            48.6965639
+          ],
+          [
+            6.1988778,
+            48.697514
+          ],
+          [
+            6.1991741,
+            48.6976597
+          ],
+          [
+            6.1996572,
+            48.6978813
+          ],
+          [
+            6.2007368,
+            48.6984339
+          ],
+          [
+            6.2009041,
+            48.6985147
+          ],
+          [
+            6.201171,
+            48.6986333
+          ],
+          [
+            6.2013126,
+            48.698685
+          ],
+          [
+            6.2014973,
+            48.6987475
+          ],
+          [
+            6.2020623,
+            48.6989116
+          ],
+          [
+            6.2027943,
+            48.6991432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788438",
+      "properties": {
+        "@id": "way/155788438",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1906522,
+            48.6931443
+          ],
+          [
+            6.1903678,
+            48.6930199
+          ],
+          [
+            6.1903478,
+            48.6930399
+          ],
+          [
+            6.1906322,
+            48.6931643
+          ],
+          [
+            6.1906522,
+            48.6931443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788456",
+      "properties": {
+        "@id": "way/155788456",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1905887,
+            48.6932069
+          ],
+          [
+            6.1903036,
+            48.6930823
+          ],
+          [
+            6.1902848,
+            48.693101
+          ],
+          [
+            6.1905699,
+            48.6932256
+          ],
+          [
+            6.1905887,
+            48.6932069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58481989",
+      "properties": {
+        "@id": "way/58481989",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1939362,
+            48.6949368
+          ],
+          [
+            6.194077,
+            48.6950067
+          ],
+          [
+            6.1946433,
+            48.6953119
+          ],
+          [
+            6.1948053,
+            48.6953892
+          ],
+          [
+            6.1949236,
+            48.6954478
+          ],
+          [
+            6.1953727,
+            48.6956879
+          ],
+          [
+            6.195865,
+            48.6959494
+          ],
+          [
+            6.1961989,
+            48.6961005
+          ],
+          [
+            6.1963156,
+            48.6961609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788441",
+      "properties": {
+        "@id": "way/155788441",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.195344,
+            48.6957298
+          ],
+          [
+            6.1951082,
+            48.6956091
+          ],
+          [
+            6.1950953,
+            48.6956201
+          ],
+          [
+            6.1953311,
+            48.6957408
+          ],
+          [
+            6.195344,
+            48.6957298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155788452",
+      "properties": {
+        "@id": "way/155788452",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1954168,
+            48.6956701
+          ],
+          [
+            6.195181,
+            48.6955494
+          ],
+          [
+            6.1951682,
+            48.6955604
+          ],
+          [
+            6.195404,
+            48.695681
+          ],
+          [
+            6.1954168,
+            48.6956701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197099699",
+      "properties": {
+        "@id": "way/197099699",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1969196,
+            48.6965211
+          ],
+          [
+            6.1963369,
+            48.6962094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197099700",
+      "properties": {
+        "@id": "way/197099700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1963156,
+            48.6961609
+          ],
+          [
+            6.1963674,
+            48.6961878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197099701",
+      "properties": {
+        "@id": "way/197099701",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1962814,
+            48.6961809
+          ],
+          [
+            6.196168,
+            48.6961249
+          ],
+          [
+            6.1958389,
+            48.6959739
+          ],
+          [
+            6.1955218,
+            48.6958085
+          ],
+          [
+            6.1951393,
+            48.6956025
+          ],
+          [
+            6.194912,
+            48.6954769
+          ],
+          [
+            6.1947781,
+            48.6954109
+          ],
+          [
+            6.1944528,
+            48.6952487
+          ],
+          [
+            6.1940436,
+            48.6950353
+          ],
+          [
+            6.1939097,
+            48.6949585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/248314711",
+      "properties": {
+        "@id": "way/248314711",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1963674,
+            48.6961878
+          ],
+          [
+            6.1969433,
+            48.6965019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/248314712",
+      "properties": {
+        "@id": "way/248314712",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1963369,
+            48.6962094
+          ],
+          [
+            6.1962814,
+            48.6961809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155813936",
+      "properties": {
+        "@id": "way/155813936",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1990005,
+            48.6975391
+          ],
+          [
+            6.1987663,
+            48.6974172
+          ],
+          [
+            6.1987533,
+            48.697428
+          ],
+          [
+            6.1989875,
+            48.6975499
+          ],
+          [
+            6.1990005,
+            48.6975391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155813942",
+      "properties": {
+        "@id": "way/155813942",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.198926,
+            48.6975973
+          ],
+          [
+            6.1986894,
+            48.6974773
+          ],
+          [
+            6.1986766,
+            48.6974883
+          ],
+          [
+            6.1989132,
+            48.6976083
+          ],
+          [
+            6.198926,
+            48.6975973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58514724",
+      "properties": {
+        "@id": "way/58514724",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2027798,
+            48.6991749
+          ],
+          [
+            6.2024845,
+            48.6990923
+          ],
+          [
+            6.2022488,
+            48.6990202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58514726",
+      "properties": {
+        "@id": "way/58514726",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2038725,
+            48.6994865
+          ],
+          [
+            6.2027798,
+            48.6991749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154146420",
+      "properties": {
+        "@id": "way/154146420",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2048264,
+            48.699695
+          ],
+          [
+            6.2049588,
+            48.6997356
+          ],
+          [
+            6.2054805,
+            48.6998929
+          ],
+          [
+            6.2056461,
+            48.6999364
+          ],
+          [
+            6.2058816,
+            48.6999851
+          ],
+          [
+            6.2059859,
+            48.7000165
+          ],
+          [
+            6.2061747,
+            48.7001112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155813934",
+      "properties": {
+        "@id": "way/155813934",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2043461,
+            48.699647
+          ],
+          [
+            6.2046403,
+            48.6997334
+          ],
+          [
+            6.2046571,
+            48.6997084
+          ],
+          [
+            6.2043629,
+            48.6996221
+          ],
+          [
+            6.2043461,
+            48.699647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155813939",
+      "properties": {
+        "@id": "way/155813939",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.204422,
+            48.6995845
+          ],
+          [
+            6.2047149,
+            48.6996696
+          ],
+          [
+            6.2047328,
+            48.6996428
+          ],
+          [
+            6.2044398,
+            48.6995577
+          ],
+          [
+            6.204422,
+            48.6995845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197082097",
+      "properties": {
+        "@id": "way/197082097",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2047914,
+            48.6997339
+          ],
+          [
+            6.2049291,
+            48.6997745
+          ],
+          [
+            6.2061747,
+            48.7001112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197082099",
+      "properties": {
+        "@id": "way/197082099",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2047914,
+            48.6997339
+          ],
+          [
+            6.2047152,
+            48.6997118
+          ],
+          [
+            6.204397,
+            48.6996185
+          ],
+          [
+            6.2043489,
+            48.6996059
+          ],
+          [
+            6.2042855,
+            48.6995889
+          ],
+          [
+            6.2041763,
+            48.6995562
+          ],
+          [
+            6.2038725,
+            48.6994865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197247888",
+      "properties": {
+        "@id": "way/197247888",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2027943,
+            48.6991432
+          ],
+          [
+            6.2038943,
+            48.6994602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197247889",
+      "properties": {
+        "@id": "way/197247889",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2038943,
+            48.6994602
+          ],
+          [
+            6.2041925,
+            48.6995313
+          ],
+          [
+            6.2043053,
+            48.6995625
+          ],
+          [
+            6.204375,
+            48.699584
+          ],
+          [
+            6.2046753,
+            48.69967
+          ],
+          [
+            6.2047413,
+            48.6996878
+          ],
+          [
+            6.2048264,
+            48.699695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199227212",
+      "properties": {
+        "@id": "way/199227212",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2087935,
+            48.7007877
+          ],
+          [
+            6.2089561,
+            48.7008336
+          ],
+          [
+            6.2089651,
+            48.7008198
+          ],
+          [
+            6.2088024,
+            48.7007739
+          ],
+          [
+            6.2087935,
+            48.7007877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199227213",
+      "properties": {
+        "@id": "way/199227213",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2116183,
+            48.7017177
+          ],
+          [
+            6.2118343,
+            48.7017763
+          ],
+          [
+            6.2118464,
+            48.7017568
+          ],
+          [
+            6.2116305,
+            48.7016982
+          ],
+          [
+            6.2116183,
+            48.7017177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199227215",
+      "properties": {
+        "@id": "way/199227215",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2088565,
+            48.7009382
+          ],
+          [
+            6.2090214,
+            48.7009821
+          ],
+          [
+            6.2090338,
+            48.7009619
+          ],
+          [
+            6.2088688,
+            48.700918
+          ],
+          [
+            6.2088565,
+            48.7009382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257564750",
+      "properties": {
+        "@id": "way/257564750",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2094749,
+            48.7010362
+          ],
+          [
+            6.2089177,
+            48.7008742
+          ],
+          [
+            6.2084231,
+            48.7007348
+          ],
+          [
+            6.2082195,
+            48.7006749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257564751",
+      "properties": {
+        "@id": "way/257564751",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2082195,
+            48.7006749
+          ],
+          [
+            6.2080319,
+            48.7006183
+          ],
+          [
+            6.2079081,
+            48.7005835
+          ],
+          [
+            6.2072549,
+            48.7003972
+          ],
+          [
+            6.2068203,
+            48.7002943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/258308489",
+      "properties": {
+        "@id": "way/258308489",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2065419,
+            48.70021
+          ],
+          [
+            6.2066117,
+            48.7002065
+          ],
+          [
+            6.2068203,
+            48.7002943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/395101983",
+      "properties": {
+        "@id": "way/395101983",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2068203,
+            48.7002943
+          ],
+          [
+            6.2065869,
+            48.7002562
+          ],
+          [
+            6.2065419,
+            48.70021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257836960",
+      "properties": {
+        "@id": "way/257836960",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2157516,
+            48.7028185
+          ],
+          [
+            6.2143516,
+            48.702423
+          ],
+          [
+            6.2142028,
+            48.702381
+          ],
+          [
+            6.2140398,
+            48.7023341
+          ],
+          [
+            6.2136599,
+            48.7022249
+          ],
+          [
+            6.2135489,
+            48.702193
+          ],
+          [
+            6.2134465,
+            48.7021636
+          ],
+          [
+            6.213135,
+            48.7020756
+          ],
+          [
+            6.2130224,
+            48.7020438
+          ],
+          [
+            6.2127592,
+            48.7019697
+          ],
+          [
+            6.2127321,
+            48.7019621
+          ],
+          [
+            6.2125621,
+            48.7019143
+          ],
+          [
+            6.212427,
+            48.701876
+          ],
+          [
+            6.2123994,
+            48.7018683
+          ],
+          [
+            6.2116638,
+            48.70166
+          ],
+          [
+            6.2107703,
+            48.7014064
+          ],
+          [
+            6.2097444,
+            48.7011099
+          ],
+          [
+            6.2094749,
+            48.7010362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/395101981",
+      "properties": {
+        "@id": "way/395101981",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2065419,
+            48.70021
+          ],
+          [
+            6.2061747,
+            48.7001112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/118565739",
+      "properties": {
+        "@id": "way/118565739",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2158884,
+            48.7028569
+          ],
+          [
+            6.2157516,
+            48.7028185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199227216",
+      "properties": {
+        "@id": "way/199227216",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2133388,
+            48.7020896
+          ],
+          [
+            6.2135042,
+            48.7021353
+          ],
+          [
+            6.2135178,
+            48.7021137
+          ],
+          [
+            6.2133524,
+            48.7020681
+          ],
+          [
+            6.2133388,
+            48.7020896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154146441",
+      "properties": {
+        "@id": "way/154146441",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2237571,
+            48.7015643
+          ],
+          [
+            6.2236933,
+            48.7015434
+          ],
+          [
+            6.2236317,
+            48.7015379
+          ],
+          [
+            6.2235715,
+            48.7015446
+          ],
+          [
+            6.223534,
+            48.7015566
+          ],
+          [
+            6.2234736,
+            48.7015806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197263800",
+      "properties": {
+        "@id": "way/197263800",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2247412,
+            48.7018048
+          ],
+          [
+            6.2249974,
+            48.7016174
+          ],
+          [
+            6.2249812,
+            48.7016078
+          ],
+          [
+            6.224725,
+            48.7017951
+          ],
+          [
+            6.2247412,
+            48.7018048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197263802",
+      "properties": {
+        "@id": "way/197263802",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2246293,
+            48.7010804
+          ],
+          [
+            6.2249097,
+            48.701252
+          ],
+          [
+            6.2249245,
+            48.7012415
+          ],
+          [
+            6.2246442,
+            48.7010699
+          ],
+          [
+            6.2246293,
+            48.7010804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199233710",
+      "properties": {
+        "@id": "way/199233710",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2234736,
+            48.7015806
+          ],
+          [
+            6.223432,
+            48.7016137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199233711",
+      "properties": {
+        "@id": "way/199233711",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2247266,
+            48.701778
+          ],
+          [
+            6.2245998,
+            48.7018657
+          ],
+          [
+            6.2245262,
+            48.7018919
+          ],
+          [
+            6.2244601,
+            48.7018996
+          ],
+          [
+            6.2244083,
+            48.7018955
+          ],
+          [
+            6.2243381,
+            48.7018782
+          ],
+          [
+            6.2242645,
+            48.7018412
+          ],
+          [
+            6.2241637,
+            48.7017839
+          ],
+          [
+            6.2237571,
+            48.7015643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100774111",
+      "properties": {
+        "@id": "way/100774111",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2183047,
+            48.7035919
+          ],
+          [
+            6.2183771,
+            48.703531
+          ],
+          [
+            6.2184785,
+            48.7035068
+          ],
+          [
+            6.2185592,
+            48.7035027
+          ],
+          [
+            6.2195334,
+            48.7035903
+          ],
+          [
+            6.2201773,
+            48.7036434
+          ],
+          [
+            6.2204027,
+            48.7036529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100774126",
+      "properties": {
+        "@id": "way/100774126",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2158884,
+            48.7028569
+          ],
+          [
+            6.2161551,
+            48.7029335
+          ],
+          [
+            6.2164189,
+            48.7030084
+          ],
+          [
+            6.2172615,
+            48.7032499
+          ],
+          [
+            6.2177587,
+            48.7033905
+          ],
+          [
+            6.2179929,
+            48.7034656
+          ],
+          [
+            6.2183047,
+            48.7035919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154146421",
+      "properties": {
+        "@id": "way/154146421",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2183047,
+            48.7035919
+          ],
+          [
+            6.2185165,
+            48.7036838
+          ],
+          [
+            6.2190002,
+            48.7039185
+          ],
+          [
+            6.2193417,
+            48.7041259
+          ],
+          [
+            6.2195982,
+            48.7043363
+          ],
+          [
+            6.2198621,
+            48.7045216
+          ],
+          [
+            6.2200677,
+            48.704631
+          ],
+          [
+            6.2202467,
+            48.7047035
+          ],
+          [
+            6.2204388,
+            48.704776
+          ],
+          [
+            6.2206533,
+            48.7048551
+          ],
+          [
+            6.2207731,
+            48.7048903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154146444",
+      "properties": {
+        "@id": "way/154146444",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2207731,
+            48.7048903
+          ],
+          [
+            6.2208887,
+            48.7048221
+          ],
+          [
+            6.2209226,
+            48.7048013
+          ],
+          [
+            6.2209706,
+            48.704751
+          ],
+          [
+            6.2210074,
+            48.7046747
+          ],
+          [
+            6.2211919,
+            48.7043174
+          ],
+          [
+            6.2213693,
+            48.7039685
+          ],
+          [
+            6.2214749,
+            48.7038321
+          ],
+          [
+            6.2215752,
+            48.7037295
+          ],
+          [
+            6.2215874,
+            48.703721
+          ],
+          [
+            6.221681,
+            48.7036311
+          ],
+          [
+            6.2218445,
+            48.7034662
+          ],
+          [
+            6.2220006,
+            48.7032899
+          ],
+          [
+            6.2223664,
+            48.7028004
+          ],
+          [
+            6.2226999,
+            48.7023536
+          ],
+          [
+            6.2228878,
+            48.7021069
+          ],
+          [
+            6.223046,
+            48.7019099
+          ],
+          [
+            6.2231592,
+            48.7017876
+          ],
+          [
+            6.2234253,
+            48.7015815
+          ],
+          [
+            6.2237302,
+            48.7013504
+          ],
+          [
+            6.2238672,
+            48.7012444
+          ],
+          [
+            6.2241263,
+            48.7010465
+          ],
+          [
+            6.2241886,
+            48.7010183
+          ],
+          [
+            6.2242443,
+            48.7010026
+          ],
+          [
+            6.2243334,
+            48.7009961
+          ],
+          [
+            6.2244273,
+            48.7010092
+          ],
+          [
+            6.224503,
+            48.7010425
+          ],
+          [
+            6.2248175,
+            48.7012306
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199227211",
+      "properties": {
+        "@id": "way/199227211",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.223432,
+            48.7016137
+          ],
+          [
+            6.2233368,
+            48.7016862
+          ],
+          [
+            6.223253,
+            48.7017576
+          ],
+          [
+            6.2231724,
+            48.7018325
+          ],
+          [
+            6.2230839,
+            48.7019217
+          ],
+          [
+            6.2229152,
+            48.7021203
+          ],
+          [
+            6.2227407,
+            48.7023622
+          ],
+          [
+            6.2224195,
+            48.7028012
+          ],
+          [
+            6.2217823,
+            48.7036271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199227214",
+      "properties": {
+        "@id": "way/199227214",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2165082,
+            48.7030779
+          ],
+          [
+            6.2163453,
+            48.7030324
+          ],
+          [
+            6.216328,
+            48.7030594
+          ],
+          [
+            6.216491,
+            48.7031048
+          ],
+          [
+            6.2165082,
+            48.7030779
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199227217",
+      "properties": {
+        "@id": "way/199227217",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.217087,
+            48.703157
+          ],
+          [
+            6.2173611,
+            48.7032349
+          ],
+          [
+            6.2173833,
+            48.7032009
+          ],
+          [
+            6.2171092,
+            48.7031229
+          ],
+          [
+            6.217087,
+            48.703157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154146442",
+      "properties": {
+        "@id": "way/154146442",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2217823,
+            48.7036271
+          ],
+          [
+            6.2216686,
+            48.7036932
+          ],
+          [
+            6.2215874,
+            48.703721
+          ],
+          [
+            6.2215544,
+            48.7037273
+          ],
+          [
+            6.2214939,
+            48.70374
+          ],
+          [
+            6.2214342,
+            48.7037461
+          ],
+          [
+            6.2213274,
+            48.7037422
+          ],
+          [
+            6.2208604,
+            48.7036915
+          ],
+          [
+            6.220574,
+            48.7036662
+          ],
+          [
+            6.2204027,
+            48.7036529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197263798",
+      "properties": {
+        "@id": "way/197263798",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2210718,
+            48.7045137
+          ],
+          [
+            6.221181,
+            48.7043003
+          ],
+          [
+            6.2211362,
+            48.7042903
+          ],
+          [
+            6.221027,
+            48.7045037
+          ],
+          [
+            6.2210718,
+            48.7045137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/197263801",
+      "properties": {
+        "@id": "way/197263801",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2208282,
+            48.7037233
+          ],
+          [
+            6.2211562,
+            48.7037577
+          ],
+          [
+            6.221161,
+            48.7037376
+          ],
+          [
+            6.220833,
+            48.7037033
+          ],
+          [
+            6.2208282,
+            48.7037233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1671933826",
+      "properties": {
+        "@id": "node/1671933826",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1465163,
+          48.6494763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1672098581",
+      "properties": {
+        "@id": "node/1672098581",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14601,
+          48.6492052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10708993",
+      "properties": {
+        "@id": "node/10708993",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1484488,
+          48.6507336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/489464330",
+      "properties": {
+        "@id": "node/489464330",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1480022,
+          48.6507724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681683570",
+      "properties": {
+        "@id": "node/1681683570",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1519318,
+          48.6536078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681683583",
+      "properties": {
+        "@id": "node/1681683583",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1526725,
+          48.6541926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/139527190",
+      "properties": {
+        "@id": "node/139527190",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1556907,
+          48.6574786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681674244",
+      "properties": {
+        "@id": "node/1681674244",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1594214,
+          48.6602291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2106916167",
+      "properties": {
+        "@id": "node/2106916167",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1596125,
+          48.6603309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681674220",
+      "properties": {
+        "@id": "node/1681674220",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1620288,
+          48.6625618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254291032",
+      "properties": {
+        "@id": "node/254291032",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1660924,
+          48.6661805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073915524",
+      "properties": {
+        "@id": "node/2073915524",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1658798,
+          48.6660401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073915526",
+      "properties": {
+        "@id": "node/2073915526",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1667674,
+          48.6668132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254291038",
+      "properties": {
+        "@id": "node/254291038",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1687158,
+          48.6685032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681554041",
+      "properties": {
+        "@id": "node/1681554041",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1669879,
+          48.6669546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073915525",
+      "properties": {
+        "@id": "node/2073915525",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1685008,
+          48.6683566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559972852",
+      "properties": {
+        "@id": "node/559972852",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1726738,
+          48.6721391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073915523",
+      "properties": {
+        "@id": "node/2073915523",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1724347,
+          48.6719756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/609748937",
+      "properties": {
+        "@id": "node/609748937",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1758124,
+          48.6749489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073904412",
+      "properties": {
+        "@id": "node/2073904412",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1760501,
+          48.6752122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/495568075",
+      "properties": {
+        "@id": "node/495568075",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1784569,
+          48.6812603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681539761",
+      "properties": {
+        "@id": "node/1681539761",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1797129,
+          48.6784438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073904417",
+      "properties": {
+        "@id": "node/2073904417",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17852,
+          48.6810967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073904422",
+      "properties": {
+        "@id": "node/2073904422",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1797614,
+          48.6791648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254291003",
+      "properties": {
+        "@id": "node/254291003",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1746834,
+          48.6865478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254291005",
+      "properties": {
+        "@id": "node/254291005",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1763478,
+          48.6844527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/478044788",
+      "properties": {
+        "@id": "node/478044788",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1760103,
+          48.6891607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559175635",
+      "properties": {
+        "@id": "node/559175635",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1777224,
+          48.6892384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073879814",
+      "properties": {
+        "@id": "node/2073879814",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1756418,
+          48.6890825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073879816",
+      "properties": {
+        "@id": "node/2073879816",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1774747,
+          48.6891911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073904426",
+      "properties": {
+        "@id": "node/2073904426",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1747514,
+          48.6863917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073904430",
+      "properties": {
+        "@id": "node/2073904430",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.176424,
+          48.684296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/575875208",
+      "properties": {
+        "@id": "node/575875208",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1818723,
+          48.690577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681516688",
+      "properties": {
+        "@id": "node/1681516688",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.185394,
+          48.6917135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073879838",
+      "properties": {
+        "@id": "node/2073879838",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1827378,
+          48.6908892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073879846",
+      "properties": {
+        "@id": "node/2073879846",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1858548,
+          48.6918895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681516715",
+      "properties": {
+        "@id": "node/1681516715",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.190615,
+          48.6931697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073879864",
+      "properties": {
+        "@id": "node/2073879864",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1903444,
+          48.6930871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681516753",
+      "properties": {
+        "@id": "node/1681516753",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1953727,
+          48.6956879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073854700",
+      "properties": {
+        "@id": "node/2073854700",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1951393,
+          48.6956025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681708252",
+      "properties": {
+        "@id": "node/1681708252",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1988778,
+          48.697514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073854709",
+      "properties": {
+        "@id": "node/2073854709",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1988412,
+          48.6975319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681708258",
+      "properties": {
+        "@id": "node/1681708258",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2046753,
+          48.69967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2073854721",
+      "properties": {
+        "@id": "node/2073854721",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.204397,
+          48.6996185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2092448689",
+      "properties": {
+        "@id": "node/2092448689",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2116638,
+          48.70166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2092448709",
+      "properties": {
+        "@id": "node/2092448709",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2089177,
+          48.7008742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2092448684",
+      "properties": {
+        "@id": "node/2092448684",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2164189,
+          48.7030084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2092448693",
+      "properties": {
+        "@id": "node/2092448693",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2134465,
+          48.7021636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2075344425",
+      "properties": {
+        "@id": "node/2075344425",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2248175,
+          48.7012306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2075344436",
+      "properties": {
+        "@id": "node/2075344436",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2247266,
+          48.701778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253978400",
+      "properties": {
+        "@id": "node/253978400",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2172615,
+          48.7032499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2075344441",
+      "properties": {
+        "@id": "node/2075344441",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074460,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Essey Mouzimpré",
+              "name": "Tram 1 : Essey Mouzimpré → Vandoeuvre CHU Brabois",
+              "ref": "1",
+              "route": "tram",
+              "to": "Vandoeuvre CHU Brabois",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2208604,
+          48.7036915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2075344450",
+      "properties": {
+        "@id": "node/2075344450",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2074461,
+            "reltags": {
+              "colour": "#E3002B",
+              "from": "Vandoeuvre CHU Brabois",
+              "name": "Tram 1 : Vandoeuvre CHU Brabois → Essey Mouzimpré",
+              "ref": "1",
+              "route": "tram",
+              "to": "Essey Mouzimpré",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2211919,
+          48.7043174
+        ]
+      }
+    }
+  ]
+}
