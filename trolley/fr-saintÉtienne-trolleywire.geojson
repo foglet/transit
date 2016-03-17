@@ -1,0 +1,223 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T08:53:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/29277777",
+      "properties": {
+        "@id": "way/29277777",
+        "highway": "residential",
+        "maxweight": "3.5",
+        "name": "Rue de la Roche du Geai",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3667464,
+            45.4384533
+          ],
+          [
+            4.3667207,
+            45.4384991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30932376",
+      "properties": {
+        "@id": "way/30932376",
+        "cycleway": "opposite",
+        "highway": "living_street",
+        "maxspeed": "30",
+        "motor_vehicle": "destination",
+        "name": "Rue Beaubrun",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3831698,
+            45.4358704
+          ],
+          [
+            4.3830752,
+            45.4357349
+          ],
+          [
+            4.3825904,
+            45.4348367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56082849",
+      "properties": {
+        "@id": "way/56082849",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxheight": "4.1",
+        "name": "Boulevard Pierre Mendes France",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3787058,
+            45.4378199
+          ],
+          [
+            4.3786764,
+            45.4379804
+          ],
+          [
+            4.37866,
+            45.4385877
+          ],
+          [
+            4.3786685,
+            45.438972
+          ],
+          [
+            4.3786802,
+            45.4391341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/270064766",
+      "properties": {
+        "@id": "way/270064766",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxheight": "4.1",
+        "name": "Boulevard Pierre Mendes France",
+        "oneway": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3786802,
+            45.4391341
+          ],
+          [
+            4.3787037,
+            45.4393574
+          ],
+          [
+            4.378632,
+            45.4394777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/270106960",
+      "properties": {
+        "@id": "way/270106960",
+        "highway": "residential",
+        "maxweight": "3.5",
+        "name": "Rue de la Roche du Geai",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3666085,
+            45.4387218
+          ],
+          [
+            4.3661851,
+            45.4395787
+          ],
+          [
+            4.3660776,
+            45.4397754
+          ],
+          [
+            4.3657991,
+            45.4403348
+          ],
+          [
+            4.3657,
+            45.4405248
+          ],
+          [
+            4.3655534,
+            45.4408041
+          ],
+          [
+            4.3650601,
+            45.4417441
+          ],
+          [
+            4.3650271,
+            45.441807
+          ],
+          [
+            4.3649015,
+            45.4420462
+          ],
+          [
+            4.3646928,
+            45.4424414
+          ],
+          [
+            4.3639427,
+            45.4438156
+          ],
+          [
+            4.3636972,
+            45.4443226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/270106961",
+      "properties": {
+        "@id": "way/270106961",
+        "highway": "residential",
+        "maxweight": "3.5",
+        "name": "Rue de la Roche du Geai",
+        "psv": "yes",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3667207,
+            45.4384991
+          ],
+          [
+            4.3666085,
+            45.4387218
+          ]
+        ]
+      }
+    }
+  ]
+}
