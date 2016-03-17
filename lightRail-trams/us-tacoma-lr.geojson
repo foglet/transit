@@ -1,0 +1,924 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T10:06:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/383396757",
+      "properties": {
+        "@id": "way/383396757",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5705256,
+            "reltags": {
+              "from": "Theater District",
+              "name": "Tacoma Link: Tacoma Dome",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Tacoma Dome",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5705257,
+            "reltags": {
+              "from": "Tacoma Dome",
+              "name": "Tacoma Link: Theater District",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Theater District",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4363888,
+            47.2435847
+          ],
+          [
+            -122.4362872,
+            47.2431497
+          ],
+          [
+            -122.4362854,
+            47.2431012
+          ],
+          [
+            -122.436285,
+            47.2430424
+          ],
+          [
+            -122.4362784,
+            47.2429102
+          ],
+          [
+            -122.4360846,
+            47.2420516
+          ],
+          [
+            -122.4358508,
+            47.2410155
+          ],
+          [
+            -122.4357475,
+            47.2405577
+          ],
+          [
+            -122.4356513,
+            47.240133
+          ],
+          [
+            -122.4356232,
+            47.2400088
+          ],
+          [
+            -122.4355909,
+            47.2398662
+          ],
+          [
+            -122.4354505,
+            47.2392461
+          ],
+          [
+            -122.4354378,
+            47.2392062
+          ],
+          [
+            -122.435416,
+            47.2391682
+          ],
+          [
+            -122.4353857,
+            47.239133
+          ],
+          [
+            -122.4353477,
+            47.2391014
+          ],
+          [
+            -122.4353027,
+            47.2390743
+          ],
+          [
+            -122.4352893,
+            47.2390685
+          ],
+          [
+            -122.4352521,
+            47.2390524
+          ],
+          [
+            -122.435197,
+            47.2390361
+          ],
+          [
+            -122.4351672,
+            47.2390308
+          ],
+          [
+            -122.4351389,
+            47.2390259
+          ],
+          [
+            -122.435079,
+            47.239022
+          ],
+          [
+            -122.4350191,
+            47.2390246
+          ],
+          [
+            -122.434211,
+            47.2391086
+          ],
+          [
+            -122.4338854,
+            47.2391446
+          ],
+          [
+            -122.4337297,
+            47.2391618
+          ],
+          [
+            -122.4336768,
+            47.2391676
+          ],
+          [
+            -122.4334607,
+            47.2392111
+          ],
+          [
+            -122.4332094,
+            47.2392532
+          ],
+          [
+            -122.4307715,
+            47.2395106
+          ],
+          [
+            -122.429978,
+            47.239589
+          ],
+          [
+            -122.429631,
+            47.239629
+          ],
+          [
+            -122.4293581,
+            47.2396827
+          ],
+          [
+            -122.4292681,
+            47.2397004
+          ],
+          [
+            -122.4290493,
+            47.2397381
+          ],
+          [
+            -122.4281148,
+            47.2398391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/247782351",
+      "properties": {
+        "@id": "way/247782351",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5705256,
+            "reltags": {
+              "from": "Theater District",
+              "name": "Tacoma Link: Tacoma Dome",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Tacoma Dome",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4398728,
+            47.2555953
+          ],
+          [
+            -122.439855,
+            47.2554024
+          ],
+          [
+            -122.4398536,
+            47.2553572
+          ],
+          [
+            -122.43985,
+            47.2552458
+          ],
+          [
+            -122.439849,
+            47.2552166
+          ],
+          [
+            -122.4398148,
+            47.2550168
+          ],
+          [
+            -122.4396711,
+            47.2543784
+          ],
+          [
+            -122.4394239,
+            47.2532992
+          ],
+          [
+            -122.4393333,
+            47.2528831
+          ],
+          [
+            -122.4389618,
+            47.2512316
+          ],
+          [
+            -122.4388002,
+            47.2504982
+          ],
+          [
+            -122.4387888,
+            47.2504152
+          ],
+          [
+            -122.4387771,
+            47.2502626
+          ],
+          [
+            -122.4387604,
+            47.2501319
+          ],
+          [
+            -122.4387399,
+            47.2500177
+          ],
+          [
+            -122.4386194,
+            47.2494955
+          ],
+          [
+            -122.4385429,
+            47.2491638
+          ],
+          [
+            -122.4385184,
+            47.2490741
+          ],
+          [
+            -122.4384626,
+            47.2489278
+          ],
+          [
+            -122.4384239,
+            47.2488424
+          ],
+          [
+            -122.4382617,
+            47.2481405
+          ],
+          [
+            -122.438247,
+            47.2480775
+          ],
+          [
+            -122.4382261,
+            47.2480152
+          ],
+          [
+            -122.4381988,
+            47.2479541
+          ],
+          [
+            -122.4381654,
+            47.2478945
+          ],
+          [
+            -122.4381261,
+            47.2478365
+          ],
+          [
+            -122.4380809,
+            47.2477805
+          ],
+          [
+            -122.4380302,
+            47.2477268
+          ],
+          [
+            -122.4374191,
+            47.2471742
+          ],
+          [
+            -122.4373887,
+            47.2471467
+          ],
+          [
+            -122.4372832,
+            47.2470497
+          ],
+          [
+            -122.4372288,
+            47.2469991
+          ],
+          [
+            -122.4372255,
+            47.2469948
+          ],
+          [
+            -122.4371864,
+            47.2469435
+          ],
+          [
+            -122.4371568,
+            47.2468841
+          ],
+          [
+            -122.4371476,
+            47.2468545
+          ],
+          [
+            -122.436743,
+            47.2451505
+          ],
+          [
+            -122.4366653,
+            47.2448072
+          ],
+          [
+            -122.4363888,
+            47.2435847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383396756",
+      "properties": {
+        "@id": "way/383396756",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5705257,
+            "reltags": {
+              "from": "Tacoma Dome",
+              "name": "Tacoma Link: Theater District",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Theater District",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4363888,
+            47.2435847
+          ],
+          [
+            -122.4363993,
+            47.2440118
+          ],
+          [
+            -122.4364176,
+            47.2441233
+          ],
+          [
+            -122.4365723,
+            47.2448153
+          ],
+          [
+            -122.4366495,
+            47.2451605
+          ],
+          [
+            -122.4367037,
+            47.2453897
+          ],
+          [
+            -122.4368144,
+            47.2457104
+          ],
+          [
+            -122.4370905,
+            47.2468625
+          ],
+          [
+            -122.4371063,
+            47.2469047
+          ],
+          [
+            -122.4371274,
+            47.2469458
+          ],
+          [
+            -122.4371536,
+            47.2469855
+          ],
+          [
+            -122.4371847,
+            47.2470235
+          ],
+          [
+            -122.4372206,
+            47.2470595
+          ],
+          [
+            -122.4372486,
+            47.247083
+          ],
+          [
+            -122.4372609,
+            47.2470933
+          ],
+          [
+            -122.4373558,
+            47.2471803
+          ],
+          [
+            -122.4379754,
+            47.2477486
+          ],
+          [
+            -122.438019,
+            47.2477925
+          ],
+          [
+            -122.4380585,
+            47.2478381
+          ],
+          [
+            -122.4380938,
+            47.2478852
+          ],
+          [
+            -122.4381248,
+            47.2479338
+          ],
+          [
+            -122.4381512,
+            47.2479836
+          ],
+          [
+            -122.4381731,
+            47.2480343
+          ],
+          [
+            -122.4381903,
+            47.2480859
+          ],
+          [
+            -122.4382028,
+            47.2481382
+          ],
+          [
+            -122.4384395,
+            47.249175
+          ],
+          [
+            -122.4385147,
+            47.2495043
+          ],
+          [
+            -122.4387716,
+            47.25063
+          ],
+          [
+            -122.4389064,
+            47.2512376
+          ],
+          [
+            -122.4393082,
+            47.2530104
+          ],
+          [
+            -122.4393758,
+            47.2533044
+          ],
+          [
+            -122.4396221,
+            47.2543833
+          ],
+          [
+            -122.4397616,
+            47.2550227
+          ],
+          [
+            -122.4397768,
+            47.2551228
+          ],
+          [
+            -122.4397914,
+            47.2552354
+          ],
+          [
+            -122.4398197,
+            47.2553606
+          ],
+          [
+            -122.4398728,
+            47.2555953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383396755",
+      "properties": {
+        "@id": "way/383396755",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5705256,
+            "reltags": {
+              "from": "Theater District",
+              "name": "Tacoma Link: Tacoma Dome",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Tacoma Dome",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5705257,
+            "reltags": {
+              "from": "Tacoma Dome",
+              "name": "Tacoma Link: Theater District",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Theater District",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4400403,
+            47.2563132
+          ],
+          [
+            -122.440014,
+            47.2562005
+          ],
+          [
+            -122.4398728,
+            47.2555953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3866522251",
+      "properties": {
+        "@id": "node/3866522251",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5705256,
+            "reltags": {
+              "from": "Theater District",
+              "name": "Tacoma Link: Tacoma Dome",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Tacoma Dome",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 5705257,
+            "reltags": {
+              "from": "Tacoma Dome",
+              "name": "Tacoma Link: Theater District",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Theater District",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434211,
+          47.2391086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3866522252",
+      "properties": {
+        "@id": "node/3866522252",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5705256,
+            "reltags": {
+              "from": "Theater District",
+              "name": "Tacoma Link: Tacoma Dome",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Tacoma Dome",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 5705257,
+            "reltags": {
+              "from": "Tacoma Dome",
+              "name": "Tacoma Link: Theater District",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Theater District",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4281148,
+          47.2398391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3866522253",
+      "properties": {
+        "@id": "node/3866522253",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5705256,
+            "reltags": {
+              "from": "Theater District",
+              "name": "Tacoma Link: Tacoma Dome",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Tacoma Dome",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4366653,
+          47.2448072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3866522254",
+      "properties": {
+        "@id": "node/3866522254",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5705257,
+            "reltags": {
+              "from": "Tacoma Dome",
+              "name": "Tacoma Link: Theater District",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Theater District",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4365723,
+          47.2448153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3866522247",
+      "properties": {
+        "@id": "node/3866522247",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5705256,
+            "reltags": {
+              "from": "Theater District",
+              "name": "Tacoma Link: Tacoma Dome",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Tacoma Dome",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4393333,
+          47.2528831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3866522248",
+      "properties": {
+        "@id": "node/3866522248",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5705257,
+            "reltags": {
+              "from": "Tacoma Dome",
+              "name": "Tacoma Link: Theater District",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Theater District",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4393082,
+          47.2530104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3866522249",
+      "properties": {
+        "@id": "node/3866522249",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5705256,
+            "reltags": {
+              "from": "Theater District",
+              "name": "Tacoma Link: Tacoma Dome",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Tacoma Dome",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4386194,
+          47.2494955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3866522250",
+      "properties": {
+        "@id": "node/3866522250",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5705257,
+            "reltags": {
+              "from": "Tacoma Dome",
+              "name": "Tacoma Link: Theater District",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Theater District",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4385147,
+          47.2495043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3866522255",
+      "properties": {
+        "@id": "node/3866522255",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5705256,
+            "reltags": {
+              "from": "Theater District",
+              "name": "Tacoma Link: Tacoma Dome",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Tacoma Dome",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 5705257,
+            "reltags": {
+              "from": "Tacoma Dome",
+              "name": "Tacoma Link: Theater District",
+              "network": "Link",
+              "operator": "Sound Transit",
+              "public_transport:version": "2",
+              "route": "light_rail",
+              "to": "Theater District",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440014,
+          47.2562005
+        ]
+      }
+    }
+  ]
+}

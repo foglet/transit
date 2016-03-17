@@ -1,0 +1,244 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-01T23:32:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/22886820",
+      "properties": {
+        "@id": "way/22886820",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1613983,
+            "reltags": {
+              "name": "Roosevelt Island Tramway",
+              "ref": "Roosevelt Island Tramway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9641211,
+            40.7611566
+          ],
+          [
+            -73.9633908,
+            40.7608818
+          ],
+          [
+            -73.9629267,
+            40.7607071
+          ],
+          [
+            -73.9628663,
+            40.7606844
+          ],
+          [
+            -73.9622203,
+            40.7604412
+          ],
+          [
+            -73.9590103,
+            40.7590955
+          ],
+          [
+            -73.954239,
+            40.7573633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32946753",
+      "properties": {
+        "@id": "way/32946753",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1613983,
+            "reltags": {
+              "name": "Roosevelt Island Tramway",
+              "ref": "Roosevelt Island Tramway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9643793,
+            40.7611689
+          ],
+          [
+            -73.9642579,
+            40.7613335
+          ],
+          [
+            -73.9640542,
+            40.7612472
+          ],
+          [
+            -73.9641211,
+            40.7611566
+          ],
+          [
+            -73.9641757,
+            40.7610827
+          ],
+          [
+            -73.9643793,
+            40.7611689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32946762",
+      "properties": {
+        "@id": "way/32946762",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1613983,
+            "reltags": {
+              "name": "Roosevelt Island Tramway",
+              "ref": "Roosevelt Island Tramway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.954239,
+            40.7573633
+          ],
+          [
+            -73.9541924,
+            40.7574333
+          ],
+          [
+            -73.954181,
+            40.7574505
+          ],
+          [
+            -73.9539939,
+            40.7573785
+          ],
+          [
+            -73.9538891,
+            40.7573381
+          ],
+          [
+            -73.9539928,
+            40.7571823
+          ],
+          [
+            -73.9540718,
+            40.7572127
+          ],
+          [
+            -73.954093,
+            40.7571807
+          ],
+          [
+            -73.9541065,
+            40.7571859
+          ],
+          [
+            -73.9541196,
+            40.7571663
+          ],
+          [
+            -73.9541525,
+            40.7571789
+          ],
+          [
+            -73.9541391,
+            40.7571989
+          ],
+          [
+            -73.9543057,
+            40.757263
+          ],
+          [
+            -73.9542878,
+            40.7572899
+          ],
+          [
+            -73.954239,
+            40.7573633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/371023428",
+      "properties": {
+        "@id": "node/371023428",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1613983,
+            "reltags": {
+              "name": "Roosevelt Island Tramway",
+              "ref": "Roosevelt Island Tramway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9641211,
+          40.7611566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/246167741",
+      "properties": {
+        "@id": "node/246167741",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1613983,
+            "reltags": {
+              "name": "Roosevelt Island Tramway",
+              "ref": "Roosevelt Island Tramway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.954239,
+          40.7573633
+        ]
+      }
+    }
+  ]
+}
