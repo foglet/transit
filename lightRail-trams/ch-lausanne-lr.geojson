@@ -1,0 +1,5855 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-17T22:10:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/316290702",
+      "properties": {
+        "@id": "way/316290702",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6044624,
+            46.546498
+          ],
+          [
+            6.6027547,
+            46.5477567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290705",
+      "properties": {
+        "@id": "way/316290705",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6096583,
+            46.5350639
+          ],
+          [
+            6.6086974,
+            46.5362765
+          ],
+          [
+            6.6084931,
+            46.5365763
+          ],
+          [
+            6.6083699,
+            46.5367792
+          ],
+          [
+            6.6082043,
+            46.5370862
+          ],
+          [
+            6.608009,
+            46.5375411
+          ],
+          [
+            6.6079097,
+            46.5378029
+          ],
+          [
+            6.6077757,
+            46.5382395
+          ],
+          [
+            6.6077112,
+            46.5385117
+          ],
+          [
+            6.6075557,
+            46.5392683
+          ],
+          [
+            6.6075064,
+            46.5395127
+          ],
+          [
+            6.6074593,
+            46.5397223
+          ],
+          [
+            6.6074052,
+            46.539889
+          ],
+          [
+            6.6073379,
+            46.54005
+          ],
+          [
+            6.6072574,
+            46.5402287
+          ],
+          [
+            6.6070752,
+            46.5405056
+          ],
+          [
+            6.6069079,
+            46.5407232
+          ],
+          [
+            6.6063224,
+            46.5413843
+          ],
+          [
+            6.6061402,
+            46.5416344
+          ],
+          [
+            6.6058774,
+            46.5420239
+          ],
+          [
+            6.6056896,
+            46.5424301
+          ],
+          [
+            6.6052926,
+            46.5439013
+          ],
+          [
+            6.6052159,
+            46.5441522
+          ],
+          [
+            6.605169,
+            46.544402
+          ],
+          [
+            6.6051581,
+            46.544605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290717",
+      "properties": {
+        "@id": "way/316290717",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6051581,
+            46.544605
+          ],
+          [
+            6.6051948,
+            46.5450237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290723",
+      "properties": {
+        "@id": "way/316290723",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6052557,
+            46.5438892
+          ],
+          [
+            6.6051813,
+            46.5441505
+          ],
+          [
+            6.6051499,
+            46.5443168
+          ],
+          [
+            6.6051343,
+            46.5443998
+          ],
+          [
+            6.605122,
+            46.5446007
+          ],
+          [
+            6.6051416,
+            46.5446012
+          ],
+          [
+            6.6051539,
+            46.5444009
+          ],
+          [
+            6.6052006,
+            46.5441527
+          ],
+          [
+            6.605275,
+            46.5438918
+          ],
+          [
+            6.6052557,
+            46.5438892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/380770399",
+      "properties": {
+        "@id": "way/380770399",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6051948,
+            46.5450237
+          ],
+          [
+            6.6052344,
+            46.5454384
+          ],
+          [
+            6.6052107,
+            46.5456057
+          ],
+          [
+            6.6051672,
+            46.5457689
+          ],
+          [
+            6.6050723,
+            46.5459429
+          ],
+          [
+            6.6047906,
+            46.5462287
+          ],
+          [
+            6.6044624,
+            46.546498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252203",
+      "properties": {
+        "@id": "way/316252203",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6027547,
+            46.5477567
+          ],
+          [
+            6.6012883,
+            46.5488481
+          ],
+          [
+            6.6009582,
+            46.549121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252207",
+      "properties": {
+        "@id": "way/316252207",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6016107,
+            46.5485841
+          ],
+          [
+            6.6023379,
+            46.5480407
+          ],
+          [
+            6.6022689,
+            46.5480737
+          ],
+          [
+            6.6015942,
+            46.5485759
+          ],
+          [
+            6.6016107,
+            46.5485841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30924827",
+      "properties": {
+        "@id": "way/30924827",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6000409,
+            46.5552968
+          ],
+          [
+            6.6002276,
+            46.5556712
+          ],
+          [
+            6.6009468,
+            46.5565954
+          ],
+          [
+            6.6012857,
+            46.5570047
+          ],
+          [
+            6.6021689,
+            46.5580826
+          ],
+          [
+            6.6026449,
+            46.5589016
+          ],
+          [
+            6.6028512,
+            46.5593438
+          ],
+          [
+            6.6029513,
+            46.5596633
+          ],
+          [
+            6.6033586,
+            46.5615536
+          ],
+          [
+            6.6033619,
+            46.561658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252193",
+      "properties": {
+        "@id": "way/316252193",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6009582,
+            46.549121
+          ],
+          [
+            6.6007249,
+            46.5493417
+          ],
+          [
+            6.6002752,
+            46.5498516
+          ],
+          [
+            6.5998203,
+            46.5505257
+          ],
+          [
+            6.5996246,
+            46.5510204
+          ],
+          [
+            6.5994989,
+            46.5514986
+          ],
+          [
+            6.5994182,
+            46.5519246
+          ],
+          [
+            6.599385,
+            46.5526163
+          ],
+          [
+            6.5994358,
+            46.5532518
+          ],
+          [
+            6.5995767,
+            46.5539629
+          ],
+          [
+            6.5997938,
+            46.5546526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30924825",
+      "properties": {
+        "@id": "way/30924825",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.5997938,
+            46.5546526
+          ],
+          [
+            6.6000409,
+            46.5552968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252210",
+      "properties": {
+        "@id": "way/316252210",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6012341,
+            46.5569654
+          ],
+          [
+            6.6005952,
+            46.5562202
+          ],
+          [
+            6.6005738,
+            46.5562288
+          ],
+          [
+            6.6012127,
+            46.556974
+          ],
+          [
+            6.6012341,
+            46.5569654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34342812",
+      "properties": {
+        "@id": "way/34342812",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6033619,
+            46.561658
+          ],
+          [
+            6.6032897,
+            46.561962
+          ],
+          [
+            6.6031872,
+            46.5624009
+          ],
+          [
+            6.6031034,
+            46.5627596
+          ],
+          [
+            6.6030693,
+            46.563082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252199",
+      "properties": {
+        "@id": "way/316252199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6030693,
+            46.563082
+          ],
+          [
+            6.602973,
+            46.5634878
+          ],
+          [
+            6.6029451,
+            46.5636884
+          ],
+          [
+            6.6029569,
+            46.5638284
+          ],
+          [
+            6.60299,
+            46.5639571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252204",
+      "properties": {
+        "@id": "way/316252204",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6032671,
+            46.5619551
+          ],
+          [
+            6.603115,
+            46.5625874
+          ],
+          [
+            6.6030644,
+            46.5625816
+          ],
+          [
+            6.6032165,
+            46.5619494
+          ],
+          [
+            6.6032671,
+            46.5619551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252208",
+      "properties": {
+        "@id": "way/316252208",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6033671,
+            46.5619706
+          ],
+          [
+            6.6032135,
+            46.5625924
+          ],
+          [
+            6.6032448,
+            46.562596
+          ],
+          [
+            6.6033984,
+            46.5619743
+          ],
+          [
+            6.6033671,
+            46.5619706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252214",
+      "properties": {
+        "@id": "way/316252214",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6033619,
+            46.561658
+          ],
+          [
+            6.6033392,
+            46.5619703
+          ],
+          [
+            6.603233,
+            46.562408
+          ],
+          [
+            6.603149,
+            46.5627681
+          ],
+          [
+            6.6030693,
+            46.563082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290699",
+      "properties": {
+        "@id": "way/316290699",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.60299,
+            46.5639571
+          ],
+          [
+            6.6030623,
+            46.5641175
+          ],
+          [
+            6.6033846,
+            46.5647695
+          ],
+          [
+            6.6034203,
+            46.5648565
+          ],
+          [
+            6.603474,
+            46.5650196
+          ],
+          [
+            6.6039262,
+            46.566667
+          ],
+          [
+            6.6041847,
+            46.5675383
+          ],
+          [
+            6.6044953,
+            46.5684138
+          ],
+          [
+            6.6046508,
+            46.5688344
+          ],
+          [
+            6.6047729,
+            46.5694052
+          ],
+          [
+            6.6048704,
+            46.5703938
+          ],
+          [
+            6.605602,
+            46.5781419
+          ],
+          [
+            6.6056156,
+            46.5782519
+          ],
+          [
+            6.6056776,
+            46.5790585
+          ],
+          [
+            6.605671,
+            46.5794342
+          ],
+          [
+            6.6056331,
+            46.5799935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290710",
+      "properties": {
+        "@id": "way/316290710",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6048392,
+            46.5698572
+          ],
+          [
+            6.6049098,
+            46.5705787
+          ],
+          [
+            6.6049291,
+            46.5705778
+          ],
+          [
+            6.6048585,
+            46.5698563
+          ],
+          [
+            6.6048392,
+            46.5698572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316258371",
+      "properties": {
+        "@id": "way/316258371",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6303559,
+            46.520512
+          ],
+          [
+            6.6304,
+            46.5208266
+          ],
+          [
+            6.6303912,
+            46.5210446
+          ],
+          [
+            6.6303041,
+            46.521312
+          ],
+          [
+            6.6302398,
+            46.5214454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290718",
+      "properties": {
+        "@id": "way/316290718",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6300737,
+            46.5216179
+          ],
+          [
+            6.6301628,
+            46.5214503
+          ],
+          [
+            6.6301839,
+            46.5213057
+          ],
+          [
+            6.6302369,
+            46.5210333
+          ],
+          [
+            6.6302505,
+            46.5206867
+          ],
+          [
+            6.6302419,
+            46.5205208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290720",
+      "properties": {
+        "@id": "way/316290720",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6303468,
+            46.5205127
+          ],
+          [
+            6.6303865,
+            46.5208261
+          ],
+          [
+            6.6303772,
+            46.5210424
+          ],
+          [
+            6.630288,
+            46.5213096
+          ],
+          [
+            6.6301987,
+            46.5213048
+          ],
+          [
+            6.6302505,
+            46.5210339
+          ],
+          [
+            6.6302635,
+            46.520759
+          ],
+          [
+            6.6302669,
+            46.5206859
+          ],
+          [
+            6.630254,
+            46.5205199
+          ],
+          [
+            6.6303032,
+            46.5205159
+          ],
+          [
+            6.6303468,
+            46.5205127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252209",
+      "properties": {
+        "@id": "way/316252209",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6105129,
+            46.5337294
+          ],
+          [
+            6.6101785,
+            46.5342892
+          ],
+          [
+            6.6100512,
+            46.5344751
+          ],
+          [
+            6.6100188,
+            46.5344668
+          ],
+          [
+            6.6101206,
+            46.5342826
+          ],
+          [
+            6.6104625,
+            46.533714
+          ],
+          [
+            6.6105129,
+            46.5337294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290694",
+      "properties": {
+        "@id": "way/316290694",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6109105,
+            46.5331995
+          ],
+          [
+            6.610781,
+            46.5332915
+          ],
+          [
+            6.6104474,
+            46.5337098
+          ],
+          [
+            6.610111,
+            46.5342772
+          ],
+          [
+            6.6097953,
+            46.5348386
+          ],
+          [
+            6.6096583,
+            46.5350639
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290695",
+      "properties": {
+        "@id": "way/316290695",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6109105,
+            46.5331995
+          ],
+          [
+            6.6105371,
+            46.5337178
+          ],
+          [
+            6.6101901,
+            46.5342961
+          ],
+          [
+            6.6097077,
+            46.5350017
+          ],
+          [
+            6.6096583,
+            46.5350639
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290704",
+      "properties": {
+        "@id": "way/316290704",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.619227,
+            46.5261111
+          ],
+          [
+            6.6190487,
+            46.5262646
+          ],
+          [
+            6.6184098,
+            46.5267586
+          ],
+          [
+            6.6182095,
+            46.5269141
+          ],
+          [
+            6.618018,
+            46.5270522
+          ],
+          [
+            6.6178254,
+            46.5271796
+          ],
+          [
+            6.6176075,
+            46.5273127
+          ],
+          [
+            6.6174093,
+            46.5274227
+          ],
+          [
+            6.6172158,
+            46.5275238
+          ],
+          [
+            6.6159255,
+            46.5281305
+          ],
+          [
+            6.6150488,
+            46.5285617
+          ],
+          [
+            6.6146705,
+            46.5287993
+          ],
+          [
+            6.6145788,
+            46.5288657
+          ],
+          [
+            6.6145282,
+            46.5289007
+          ],
+          [
+            6.6143651,
+            46.5290269
+          ],
+          [
+            6.6142219,
+            46.5291558
+          ],
+          [
+            6.6140757,
+            46.529296
+          ],
+          [
+            6.6137972,
+            46.5296152
+          ],
+          [
+            6.6135856,
+            46.5298738
+          ],
+          [
+            6.613449,
+            46.530048
+          ],
+          [
+            6.6117397,
+            46.5321662
+          ],
+          [
+            6.6109105,
+            46.5331995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290712",
+      "properties": {
+        "@id": "way/316290712",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6135479,
+            46.5298816
+          ],
+          [
+            6.6132516,
+            46.5302519
+          ],
+          [
+            6.6132404,
+            46.5302477
+          ],
+          [
+            6.6135367,
+            46.5298773
+          ],
+          [
+            6.6135479,
+            46.5298816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29874519",
+      "properties": {
+        "@id": "way/29874519",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6211893,
+            46.5249082
+          ],
+          [
+            6.6209683,
+            46.5250095
+          ],
+          [
+            6.6206356,
+            46.5251488
+          ],
+          [
+            6.620255,
+            46.5253478
+          ],
+          [
+            6.6199463,
+            46.5255408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31745380",
+      "properties": {
+        "@id": "way/31745380",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6199463,
+            46.5255408
+          ],
+          [
+            6.6196573,
+            46.5257444
+          ],
+          [
+            6.6194308,
+            46.5259292
+          ],
+          [
+            6.619227,
+            46.5261111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290721",
+      "properties": {
+        "@id": "way/316290721",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6249807,
+            46.5235068
+          ],
+          [
+            6.6246766,
+            46.5235314
+          ],
+          [
+            6.6242723,
+            46.523591
+          ],
+          [
+            6.6240104,
+            46.5236367
+          ],
+          [
+            6.6237078,
+            46.5236961
+          ],
+          [
+            6.6232721,
+            46.5238579
+          ],
+          [
+            6.6229543,
+            46.5239806
+          ],
+          [
+            6.6211893,
+            46.5249082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290700",
+      "properties": {
+        "@id": "way/316290700",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6300737,
+            46.5216179
+          ],
+          [
+            6.6302398,
+            46.5214454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290714",
+      "properties": {
+        "@id": "way/316290714",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6273488,
+            46.5228503
+          ],
+          [
+            6.6293595,
+            46.5221066
+          ],
+          [
+            6.6296157,
+            46.5219832
+          ],
+          [
+            6.6298774,
+            46.521804
+          ],
+          [
+            6.6300737,
+            46.5216179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32643727",
+      "properties": {
+        "@id": "way/32643727",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6249807,
+            46.5235068
+          ],
+          [
+            6.6250984,
+            46.5234932
+          ],
+          [
+            6.625338,
+            46.5234524
+          ],
+          [
+            6.6255749,
+            46.5234038
+          ],
+          [
+            6.6258159,
+            46.5233344
+          ],
+          [
+            6.6265158,
+            46.5231424
+          ],
+          [
+            6.6273488,
+            46.5228503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316385382",
+      "properties": {
+        "@id": "way/316385382",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6253391,
+            46.5234894
+          ],
+          [
+            6.6255868,
+            46.5234586
+          ],
+          [
+            6.6258549,
+            46.5234109
+          ],
+          [
+            6.6262095,
+            46.523302
+          ],
+          [
+            6.6265424,
+            46.5231899
+          ],
+          [
+            6.6265245,
+            46.5231569
+          ],
+          [
+            6.6255749,
+            46.5234176
+          ],
+          [
+            6.6253386,
+            46.5234686
+          ],
+          [
+            6.6253391,
+            46.5234894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252192",
+      "properties": {
+        "@id": "way/316252192",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6075303,
+            46.5392854
+          ],
+          [
+            6.6074897,
+            46.5395113
+          ],
+          [
+            6.607435,
+            46.5397154
+          ],
+          [
+            6.6073802,
+            46.5398903
+          ],
+          [
+            6.6073149,
+            46.5400433
+          ],
+          [
+            6.6072898,
+            46.5400383
+          ],
+          [
+            6.6073549,
+            46.5398859
+          ],
+          [
+            6.6074093,
+            46.5397118
+          ],
+          [
+            6.6074639,
+            46.5395086
+          ],
+          [
+            6.6075044,
+            46.5392832
+          ],
+          [
+            6.6075303,
+            46.5392854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252205",
+      "properties": {
+        "@id": "way/316252205",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6056566,
+            46.57905
+          ],
+          [
+            6.6056005,
+            46.5782482
+          ],
+          [
+            6.6055652,
+            46.5782494
+          ],
+          [
+            6.6056213,
+            46.5790511
+          ],
+          [
+            6.6056566,
+            46.57905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32912299",
+      "properties": {
+        "@id": "way/32912299",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6059612,
+            46.5838892
+          ],
+          [
+            6.6061441,
+            46.5841496
+          ],
+          [
+            6.606275,
+            46.584425
+          ],
+          [
+            6.6063287,
+            46.5846776
+          ],
+          [
+            6.6063356,
+            46.5849596
+          ],
+          [
+            6.6063785,
+            46.5853841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34308942",
+      "properties": {
+        "@id": "way/34308942",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6059612,
+            46.5838892
+          ],
+          [
+            6.606064,
+            46.584148
+          ],
+          [
+            6.6063785,
+            46.5853841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34308945",
+      "properties": {
+        "@id": "way/34308945",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6059624,
+            46.5840191
+          ],
+          [
+            6.6064046,
+            46.5856408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252206",
+      "properties": {
+        "@id": "way/316252206",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6061961,
+            46.5849597
+          ],
+          [
+            6.6059946,
+            46.5841774
+          ],
+          [
+            6.6059723,
+            46.5841801
+          ],
+          [
+            6.6061738,
+            46.5849624
+          ],
+          [
+            6.6061961,
+            46.5849597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32912295",
+      "properties": {
+        "@id": "way/32912295",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6056331,
+            46.5799935
+          ],
+          [
+            6.6054661,
+            46.5817737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34308943",
+      "properties": {
+        "@id": "way/34308943",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6058266,
+            46.5836762
+          ],
+          [
+            6.6059624,
+            46.5840191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35997056",
+      "properties": {
+        "@id": "way/35997056",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6054466,
+            46.5827652
+          ],
+          [
+            6.6055208,
+            46.5829922
+          ],
+          [
+            6.6057827,
+            46.5835702
+          ],
+          [
+            6.6058266,
+            46.5836762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35997057",
+      "properties": {
+        "@id": "way/35997057",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6054661,
+            46.5817737
+          ],
+          [
+            6.6053945,
+            46.5823743
+          ],
+          [
+            6.6054025,
+            46.5825597
+          ],
+          [
+            6.6054466,
+            46.5827652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252196",
+      "properties": {
+        "@id": "way/316252196",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6058266,
+            46.5836762
+          ],
+          [
+            6.6059612,
+            46.5838892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252215",
+      "properties": {
+        "@id": "way/316252215",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6064046,
+            46.5856408
+          ],
+          [
+            6.6066557,
+            46.5865669
+          ],
+          [
+            6.6067897,
+            46.58709
+          ],
+          [
+            6.6068215,
+            46.5872762
+          ],
+          [
+            6.6073829,
+            46.5908819
+          ],
+          [
+            6.6074893,
+            46.5912432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34309095",
+      "properties": {
+        "@id": "way/34309095",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6061129,
+            46.5841416
+          ],
+          [
+            6.6062536,
+            46.5844262
+          ],
+          [
+            6.606308,
+            46.5846805
+          ],
+          [
+            6.6063093,
+            46.5848925
+          ],
+          [
+            6.6062812,
+            46.5848957
+          ],
+          [
+            6.6060841,
+            46.5841448
+          ],
+          [
+            6.6061129,
+            46.5841416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252194",
+      "properties": {
+        "@id": "way/316252194",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6063785,
+            46.5853841
+          ],
+          [
+            6.6064046,
+            46.5856408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90390999",
+      "properties": {
+        "@id": "way/90390999",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6074893,
+            46.5912432
+          ],
+          [
+            6.6076231,
+            46.5915486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303462682",
+      "properties": {
+        "@id": "way/303462682",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6077036,
+            46.5916836
+          ],
+          [
+            6.6077266,
+            46.5917492
+          ],
+          [
+            6.6079075,
+            46.5920745
+          ],
+          [
+            6.6081717,
+            46.5924882
+          ],
+          [
+            6.6081924,
+            46.5924827
+          ],
+          [
+            6.6079673,
+            46.5921432
+          ],
+          [
+            6.6079255,
+            46.5920775
+          ],
+          [
+            6.6077036,
+            46.5916836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90390997",
+      "properties": {
+        "@id": "way/90390997",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6076231,
+            46.5915486
+          ],
+          [
+            6.6077952,
+            46.5919459
+          ],
+          [
+            6.6080747,
+            46.5923994
+          ],
+          [
+            6.609014,
+            46.593777
+          ],
+          [
+            6.6096133,
+            46.5946943
+          ],
+          [
+            6.6117299,
+            46.5975465
+          ],
+          [
+            6.6119378,
+            46.598006
+          ],
+          [
+            6.612155,
+            46.5986744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290715",
+      "properties": {
+        "@id": "way/316290715",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.612155,
+            46.5986744
+          ],
+          [
+            6.6122994,
+            46.5990196
+          ],
+          [
+            6.6125049,
+            46.5992942
+          ],
+          [
+            6.613014,
+            46.5998371
+          ],
+          [
+            6.6132365,
+            46.600026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252216",
+      "properties": {
+        "@id": "way/316252216",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6134141,
+            46.6004485
+          ],
+          [
+            6.6133865,
+            46.6003436
+          ],
+          [
+            6.6132105,
+            46.6000362
+          ],
+          [
+            6.613077,
+            46.599915
+          ],
+          [
+            6.6130516,
+            46.5999274
+          ],
+          [
+            6.6131897,
+            46.6000494
+          ],
+          [
+            6.6132826,
+            46.600195
+          ],
+          [
+            6.6133993,
+            46.6004478
+          ],
+          [
+            6.6134141,
+            46.6004485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290719",
+      "properties": {
+        "@id": "way/316290719",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6132365,
+            46.600026
+          ],
+          [
+            6.6134198,
+            46.6003419
+          ],
+          [
+            6.6134534,
+            46.6006404
+          ],
+          [
+            6.6134459,
+            46.6010169
+          ],
+          [
+            6.6134813,
+            46.6013109
+          ],
+          [
+            6.6135486,
+            46.6014728
+          ],
+          [
+            6.6136383,
+            46.6016071
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290708",
+      "properties": {
+        "@id": "way/316290708",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6186381,
+            46.6105648
+          ],
+          [
+            6.6203183,
+            46.613049
+          ],
+          [
+            6.6203952,
+            46.6131622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290725",
+      "properties": {
+        "@id": "way/316290725",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6136383,
+            46.6016071
+          ],
+          [
+            6.6138548,
+            46.6018187
+          ],
+          [
+            6.6140484,
+            46.6019879
+          ],
+          [
+            6.6143287,
+            46.6022682
+          ],
+          [
+            6.6177562,
+            46.606807
+          ],
+          [
+            6.6179169,
+            46.6070803
+          ],
+          [
+            6.618035,
+            46.6073754
+          ],
+          [
+            6.6180883,
+            46.6076208
+          ],
+          [
+            6.6183156,
+            46.6097505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290709",
+      "properties": {
+        "@id": "way/316290709",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6183156,
+            46.6097505
+          ],
+          [
+            6.6184483,
+            46.6102443
+          ],
+          [
+            6.6186381,
+            46.6105648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35666067",
+      "properties": {
+        "@id": "way/35666067",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6204132,
+            46.6131196
+          ],
+          [
+            6.6206953,
+            46.6135323
+          ],
+          [
+            6.6206802,
+            46.6135385
+          ],
+          [
+            6.6203961,
+            46.6131239
+          ],
+          [
+            6.6204132,
+            46.6131196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252198",
+      "properties": {
+        "@id": "way/316252198",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.621079,
+            46.6141685
+          ],
+          [
+            6.6212199,
+            46.6143823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252202",
+      "properties": {
+        "@id": "way/316252202",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6203952,
+            46.6131622
+          ],
+          [
+            6.6204975,
+            46.6133127
+          ],
+          [
+            6.621079,
+            46.6141685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316252211",
+      "properties": {
+        "@id": "way/316252211",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6212199,
+            46.6143823
+          ],
+          [
+            6.6218713,
+            46.6153442
+          ],
+          [
+            6.6224012,
+            46.6159964
+          ],
+          [
+            6.6225922,
+            46.6161969
+          ],
+          [
+            6.623163,
+            46.6167385
+          ],
+          [
+            6.6245536,
+            46.6179382
+          ],
+          [
+            6.6247408,
+            46.6181119
+          ],
+          [
+            6.6249576,
+            46.6183513
+          ],
+          [
+            6.6250938,
+            46.6185294
+          ],
+          [
+            6.6252752,
+            46.6188387
+          ],
+          [
+            6.6253756,
+            46.6190774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290698",
+      "properties": {
+        "@id": "way/316290698",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6253756,
+            46.6190774
+          ],
+          [
+            6.6259933,
+            46.6209527
+          ],
+          [
+            6.6278934,
+            46.6268374
+          ],
+          [
+            6.627955,
+            46.6270798
+          ],
+          [
+            6.6279911,
+            46.6273526
+          ],
+          [
+            6.6281101,
+            46.6288357
+          ],
+          [
+            6.6281471,
+            46.6296421
+          ],
+          [
+            6.6280763,
+            46.6307141
+          ],
+          [
+            6.6273874,
+            46.6337739
+          ],
+          [
+            6.6273405,
+            46.6340896
+          ],
+          [
+            6.6273727,
+            46.6345788
+          ],
+          [
+            6.6275399,
+            46.6356179
+          ],
+          [
+            6.627735,
+            46.6370321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/277555142",
+      "properties": {
+        "@id": "way/277555142",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6399306,
+            46.6414098
+          ],
+          [
+            6.6411074,
+            46.6424387
+          ],
+          [
+            6.6432998,
+            46.644296
+          ],
+          [
+            6.6438856,
+            46.6448301
+          ],
+          [
+            6.6440853,
+            46.644991
+          ],
+          [
+            6.6442168,
+            46.645088
+          ],
+          [
+            6.6446449,
+            46.6453405
+          ],
+          [
+            6.6449167,
+            46.6454803
+          ],
+          [
+            6.6450838,
+            46.6455549
+          ],
+          [
+            6.6454881,
+            46.645711
+          ],
+          [
+            6.6534994,
+            46.6483853
+          ],
+          [
+            6.6563907,
+            46.649351
+          ],
+          [
+            6.6575574,
+            46.6497511
+          ],
+          [
+            6.6584029,
+            46.6500953
+          ],
+          [
+            6.6591846,
+            46.6504588
+          ],
+          [
+            6.659787,
+            46.65078
+          ],
+          [
+            6.6603322,
+            46.6511147
+          ],
+          [
+            6.6613599,
+            46.6518362
+          ],
+          [
+            6.6624931,
+            46.6526516
+          ],
+          [
+            6.6633319,
+            46.6532673
+          ],
+          [
+            6.6648172,
+            46.6543252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290724",
+      "properties": {
+        "@id": "way/316290724",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.627735,
+            46.6370321
+          ],
+          [
+            6.6278516,
+            46.6374651
+          ],
+          [
+            6.6279382,
+            46.6376681
+          ],
+          [
+            6.6280328,
+            46.6378646
+          ],
+          [
+            6.6281629,
+            46.6380483
+          ],
+          [
+            6.6283074,
+            46.6382096
+          ],
+          [
+            6.6286419,
+            46.63851
+          ],
+          [
+            6.6296051,
+            46.639346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/205392277",
+      "properties": {
+        "@id": "way/205392277",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6313006,
+            46.6399439
+          ],
+          [
+            6.6316151,
+            46.6398718
+          ],
+          [
+            6.6322196,
+            46.6396582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290697",
+      "properties": {
+        "@id": "way/316290697",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6296051,
+            46.639346
+          ],
+          [
+            6.629874,
+            46.639564
+          ],
+          [
+            6.6299814,
+            46.6396403
+          ],
+          [
+            6.6300991,
+            46.6397103
+          ],
+          [
+            6.6302065,
+            46.6397643
+          ],
+          [
+            6.6303229,
+            46.6398129
+          ],
+          [
+            6.630452,
+            46.6398574
+          ],
+          [
+            6.6306044,
+            46.6398982
+          ],
+          [
+            6.6307784,
+            46.6399312
+          ],
+          [
+            6.6309951,
+            46.6399485
+          ],
+          [
+            6.6312004,
+            46.6399526
+          ],
+          [
+            6.6313006,
+            46.6399439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33899796",
+      "properties": {
+        "@id": "way/33899796",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6313006,
+            46.6399439
+          ],
+          [
+            6.631495,
+            46.6399225
+          ],
+          [
+            6.6316889,
+            46.6398838
+          ],
+          [
+            6.6319714,
+            46.6397878
+          ],
+          [
+            6.6322244,
+            46.6396874
+          ],
+          [
+            6.6342213,
+            46.6388791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/205392276",
+      "properties": {
+        "@id": "way/205392276",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6322196,
+            46.6396582
+          ],
+          [
+            6.6336915,
+            46.6390529
+          ],
+          [
+            6.6339465,
+            46.6389735
+          ],
+          [
+            6.6342213,
+            46.6388791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315298690",
+      "properties": {
+        "@id": "way/315298690",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6334153,
+            46.6392232
+          ],
+          [
+            6.6322217,
+            46.6397009
+          ],
+          [
+            6.6322404,
+            46.6397229
+          ],
+          [
+            6.633434,
+            46.6392451
+          ],
+          [
+            6.6334153,
+            46.6392232
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33899797",
+      "properties": {
+        "@id": "way/33899797",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6354531,
+            46.6384283
+          ],
+          [
+            6.6355962,
+            46.6384104
+          ],
+          [
+            6.6357457,
+            46.6384033
+          ],
+          [
+            6.635895,
+            46.638406
+          ],
+          [
+            6.6360413,
+            46.6384189
+          ],
+          [
+            6.6361886,
+            46.6384474
+          ],
+          [
+            6.6363166,
+            46.6384825
+          ],
+          [
+            6.6364545,
+            46.6385289
+          ],
+          [
+            6.6365871,
+            46.6385923
+          ],
+          [
+            6.6367204,
+            46.6386626
+          ],
+          [
+            6.6368466,
+            46.6387528
+          ],
+          [
+            6.6369992,
+            46.6388649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290706",
+      "properties": {
+        "@id": "way/316290706",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6342213,
+            46.6388791
+          ],
+          [
+            6.6349371,
+            46.6385811
+          ],
+          [
+            6.6352228,
+            46.6384861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315299106",
+      "properties": {
+        "@id": "way/315299106",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6352228,
+            46.6384861
+          ],
+          [
+            6.6353415,
+            46.6384504
+          ],
+          [
+            6.6354531,
+            46.6384283
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303453593",
+      "properties": {
+        "@id": "way/303453593",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6324937,
+            46.63953
+          ],
+          [
+            6.6337265,
+            46.6390185
+          ],
+          [
+            6.6337184,
+            46.6390041
+          ],
+          [
+            6.6335584,
+            46.6390482
+          ],
+          [
+            6.6333214,
+            46.639134
+          ],
+          [
+            6.6328743,
+            46.6393199
+          ],
+          [
+            6.6327143,
+            46.6393993
+          ],
+          [
+            6.6324937,
+            46.63953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34394173",
+      "properties": {
+        "@id": "way/34394173",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6424765,
+            46.6435799
+          ],
+          [
+            6.6424917,
+            46.6435714
+          ],
+          [
+            6.6417754,
+            46.6429638
+          ],
+          [
+            6.6417602,
+            46.6429722
+          ],
+          [
+            6.6424765,
+            46.6435799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/277555150",
+      "properties": {
+        "@id": "way/277555150",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6397147,
+            46.6412265
+          ],
+          [
+            6.6399306,
+            46.6414098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34393550",
+      "properties": {
+        "@id": "way/34393550",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6387049,
+            46.6403124
+          ],
+          [
+            6.6389374,
+            46.6405141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290716",
+      "properties": {
+        "@id": "way/316290716",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6369992,
+            46.6388649
+          ],
+          [
+            6.6371683,
+            46.6390115
+          ],
+          [
+            6.6382464,
+            46.6399413
+          ],
+          [
+            6.6385997,
+            46.6402488
+          ],
+          [
+            6.6397147,
+            46.6412265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315302255",
+      "properties": {
+        "@id": "way/315302255",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6840045,
+            46.6739206
+          ],
+          [
+            6.6840324,
+            46.67393
+          ],
+          [
+            6.6844935,
+            46.6740838
+          ],
+          [
+            6.6846683,
+            46.6741421
+          ],
+          [
+            6.6848549,
+            46.6742043
+          ],
+          [
+            6.6852149,
+            46.6742847
+          ],
+          [
+            6.6856083,
+            46.674362
+          ],
+          [
+            6.6865308,
+            46.6744923
+          ],
+          [
+            6.686761,
+            46.6745249
+          ],
+          [
+            6.6876536,
+            46.674651
+          ],
+          [
+            6.6882592,
+            46.6747462
+          ],
+          [
+            6.6883973,
+            46.6747825
+          ],
+          [
+            6.6885868,
+            46.6748324
+          ],
+          [
+            6.6886913,
+            46.6748599
+          ],
+          [
+            6.6891863,
+            46.6750518
+          ],
+          [
+            6.6895197,
+            46.675225
+          ],
+          [
+            6.6898011,
+            46.6754097
+          ],
+          [
+            6.690055,
+            46.6756174
+          ],
+          [
+            6.6902125,
+            46.675777
+          ],
+          [
+            6.6903716,
+            46.6759816
+          ],
+          [
+            6.6905475,
+            46.6762586
+          ],
+          [
+            6.691357,
+            46.6776648
+          ],
+          [
+            6.6921209,
+            46.6789891
+          ],
+          [
+            6.692366,
+            46.6793863
+          ],
+          [
+            6.6926216,
+            46.6796863
+          ],
+          [
+            6.6929153,
+            46.6799791
+          ],
+          [
+            6.6933717,
+            46.6803285
+          ],
+          [
+            6.6938259,
+            46.6805966
+          ],
+          [
+            6.6941672,
+            46.6807611
+          ],
+          [
+            6.694651,
+            46.6809619
+          ],
+          [
+            6.6954391,
+            46.6812525
+          ],
+          [
+            6.6954687,
+            46.6812646
+          ],
+          [
+            6.6957841,
+            46.6813936
+          ],
+          [
+            6.696183,
+            46.6815934
+          ],
+          [
+            6.6965565,
+            46.6818548
+          ],
+          [
+            6.6968045,
+            46.6820967
+          ],
+          [
+            6.6970166,
+            46.6823591
+          ],
+          [
+            6.697181,
+            46.6826819
+          ],
+          [
+            6.6973109,
+            46.6830478
+          ],
+          [
+            6.6974275,
+            46.6834096
+          ],
+          [
+            6.6975425,
+            46.6836648
+          ],
+          [
+            6.6977442,
+            46.6839651
+          ],
+          [
+            6.6980057,
+            46.6842531
+          ],
+          [
+            6.6983567,
+            46.6845821
+          ],
+          [
+            6.6985614,
+            46.6847963
+          ],
+          [
+            6.6987317,
+            46.6850146
+          ],
+          [
+            6.6988617,
+            46.6852432
+          ],
+          [
+            6.7002123,
+            46.6880685
+          ],
+          [
+            6.7005753,
+            46.6887539
+          ],
+          [
+            6.7007781,
+            46.6890785
+          ],
+          [
+            6.7027812,
+            46.6917697
+          ],
+          [
+            6.7035714,
+            46.6928269
+          ],
+          [
+            6.7039117,
+            46.6932791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303453808",
+      "properties": {
+        "@id": "way/303453808",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6652687,
+            46.6546117
+          ],
+          [
+            6.665282,
+            46.6546032
+          ],
+          [
+            6.6656519,
+            46.6548767
+          ],
+          [
+            6.6657988,
+            46.6549824
+          ],
+          [
+            6.6658675,
+            46.6550329
+          ],
+          [
+            6.6660048,
+            46.6551371
+          ],
+          [
+            6.665992,
+            46.6551453
+          ],
+          [
+            6.6652687,
+            46.6546117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315302876",
+      "properties": {
+        "@id": "way/315302876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6648172,
+            46.6543252
+          ],
+          [
+            6.6659441,
+            46.6551321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315302877",
+      "properties": {
+        "@id": "way/315302877",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6659441,
+            46.6551321
+          ],
+          [
+            6.6661363,
+            46.6552812
+          ],
+          [
+            6.6665904,
+            46.6556705
+          ],
+          [
+            6.6670308,
+            46.6560784
+          ],
+          [
+            6.6678202,
+            46.656883
+          ],
+          [
+            6.6685901,
+            46.6577942
+          ],
+          [
+            6.6689627,
+            46.6582809
+          ],
+          [
+            6.6692438,
+            46.6588068
+          ],
+          [
+            6.6708015,
+            46.6614305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316296245",
+      "properties": {
+        "@id": "way/316296245",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6708015,
+            46.6614305
+          ],
+          [
+            6.6709689,
+            46.661643
+          ],
+          [
+            6.6711719,
+            46.6618286
+          ],
+          [
+            6.6714345,
+            46.6620332
+          ],
+          [
+            6.6717581,
+            46.6622359
+          ],
+          [
+            6.6725615,
+            46.6627114
+          ],
+          [
+            6.6728747,
+            46.6629673
+          ],
+          [
+            6.6731708,
+            46.6632967
+          ],
+          [
+            6.6733853,
+            46.6636822
+          ],
+          [
+            6.6736744,
+            46.6646353
+          ],
+          [
+            6.6739479,
+            46.6651478
+          ],
+          [
+            6.6742426,
+            46.6654817
+          ],
+          [
+            6.6745029,
+            46.66573
+          ],
+          [
+            6.6746225,
+            46.6658351
+          ],
+          [
+            6.6749241,
+            46.6661001
+          ],
+          [
+            6.6751128,
+            46.6663093
+          ],
+          [
+            6.6753272,
+            46.6666691
+          ],
+          [
+            6.6754053,
+            46.6668516
+          ],
+          [
+            6.6761859,
+            46.6686764
+          ],
+          [
+            6.6769621,
+            46.6706052
+          ],
+          [
+            6.6770517,
+            46.6708013
+          ],
+          [
+            6.677174,
+            46.6710249
+          ],
+          [
+            6.6773796,
+            46.6713056
+          ],
+          [
+            6.6775848,
+            46.671509
+          ],
+          [
+            6.6778836,
+            46.671731
+          ],
+          [
+            6.6781935,
+            46.6719104
+          ],
+          [
+            6.6785529,
+            46.6720698
+          ],
+          [
+            6.6788876,
+            46.6721914
+          ],
+          [
+            6.6790047,
+            46.672234
+          ],
+          [
+            6.6812803,
+            46.6730015
+          ],
+          [
+            6.6827054,
+            46.6734823
+          ],
+          [
+            6.6834702,
+            46.6737403
+          ],
+          [
+            6.6840045,
+            46.6739206
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/316290722",
+      "properties": {
+        "@id": "way/316290722",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6852807,
+            46.6743195
+          ],
+          [
+            6.6851966,
+            46.6743013
+          ],
+          [
+            6.684847,
+            46.6742172
+          ],
+          [
+            6.6842319,
+            46.6740098
+          ],
+          [
+            6.6842231,
+            46.674026
+          ],
+          [
+            6.6849813,
+            46.6742749
+          ],
+          [
+            6.6852719,
+            46.6743448
+          ],
+          [
+            6.6852807,
+            46.6743195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/329150487",
+      "properties": {
+        "@id": "node/329150487",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.605169,
+          46.544402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223613352",
+      "properties": {
+        "@id": "node/3223613352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6051305,
+          46.5446232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223613355",
+      "properties": {
+        "@id": "node/3223613355",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6016982,
+          46.5483922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/385498496",
+      "properties": {
+        "@id": "node/385498496",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6009468,
+          46.5565954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223613356",
+      "properties": {
+        "@id": "node/3223613356",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.600892,
+          46.556658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/385511850",
+      "properties": {
+        "@id": "node/385511850",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.603233,
+          46.562408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223613360",
+      "properties": {
+        "@id": "node/3223613360",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6032368,
+          46.5623059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223616198",
+      "properties": {
+        "@id": "node/3223616198",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6031872,
+          46.5624009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/385532821",
+      "properties": {
+        "@id": "node/385532821",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6048704,
+          46.5703938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223616162",
+      "properties": {
+        "@id": "node/3223616162",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6048267,
+          46.5709687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3074926249",
+      "properties": {
+        "@id": "node/3074926249",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6302505,
+          46.5206867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3200281819",
+      "properties": {
+        "@id": "node/3200281819",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630333,
+          46.5206725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/258755877",
+      "properties": {
+        "@id": "node/258755877",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.613449,
+          46.530048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223613358",
+      "properties": {
+        "@id": "node/3223613358",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6134094,
+          46.5300273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422729",
+      "properties": {
+        "@id": "node/253422729",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6258159,
+          46.5233344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223997328",
+      "properties": {
+        "@id": "node/3223997328",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.625841,
+          46.5233813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/365232134",
+      "properties": {
+        "@id": "node/365232134",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6074593,
+          46.5397223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1604768866",
+      "properties": {
+        "@id": "node/1604768866",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6101901,
+          46.5342961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223613359",
+      "properties": {
+        "@id": "node/3223613359",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6074014,
+          46.5397105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223616161",
+      "properties": {
+        "@id": "node/3223616161",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6102686,
+          46.5340873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223997356",
+      "properties": {
+        "@id": "node/3223997356",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.610111,
+          46.5342772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/385532830",
+      "properties": {
+        "@id": "node/385532830",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6056156,
+          46.5782519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223613351",
+      "properties": {
+        "@id": "node/3223613351",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6055768,
+          46.5785487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223613353",
+      "properties": {
+        "@id": "node/3223613353",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6059617,
+          46.584402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223613357",
+      "properties": {
+        "@id": "node/3223613357",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.607977,
+          46.5921035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223613354",
+      "properties": {
+        "@id": "node/3223613354",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6131944,
+          46.60009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355965174",
+      "properties": {
+        "@id": "node/355965174",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6204975,
+          46.6133127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3223613350",
+      "properties": {
+        "@id": "node/3223613350",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6205575,
+          46.61323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1071633268",
+      "properties": {
+        "@id": "node/1071633268",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63306,
+          46.6395005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214139342",
+      "properties": {
+        "@id": "node/3214139342",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6421368,
+          46.6432524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214139343",
+      "properties": {
+        "@id": "node/3214139343",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6388926,
+          46.640415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/983813947",
+      "properties": {
+        "@id": "node/983813947",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6658665,
+          46.6550062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3078117759",
+      "properties": {
+        "@id": "node/3078117759",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6659441,
+          46.6551321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/699954859",
+      "properties": {
+        "@id": "node/699954859",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6852149,
+          46.6742847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214126028",
+      "properties": {
+        "@id": "node/3214126028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 391342,
+            "reltags": {
+              "description": "Lausanne-Flon - Echallens - Bercher",
+              "from": "Lausanne-Flon",
+              "operator": "LEB",
+              "public_transport:version": "2",
+              "ref": "101",
+              "route": "light_rail",
+              "to": "Bercher",
+              "type": "route",
+              "via": "Echallens"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6850186,
+          46.674341
+        ]
+      }
+    }
+  ]
+}

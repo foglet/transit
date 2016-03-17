@@ -1,0 +1,510 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-16T08:21:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/364976148",
+      "properties": {
+        "@id": "way/364976148",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5587340,
+            "reltags": {
+              "name": "خط 1",
+              "name:en": "Line 1",
+              "operator": "سازمان قطارشهری اصفهان و حومه",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.6065036,
+            32.7150589
+          ],
+          [
+            51.6070271,
+            32.7147048
+          ],
+          [
+            51.6080113,
+            32.7144376
+          ],
+          [
+            51.6091036,
+            32.7142693
+          ],
+          [
+            51.6129036,
+            32.7146706
+          ],
+          [
+            51.6184114,
+            32.7152531
+          ],
+          [
+            51.6211329,
+            32.7149238
+          ],
+          [
+            51.6219581,
+            32.7148901
+          ],
+          [
+            51.6239,
+            32.7150345
+          ],
+          [
+            51.6245652,
+            32.7151428
+          ],
+          [
+            51.6255737,
+            32.715197
+          ],
+          [
+            51.6305358,
+            32.7154859
+          ],
+          [
+            51.6344035,
+            32.7157296
+          ],
+          [
+            51.6355006,
+            32.7158049
+          ],
+          [
+            51.6380996,
+            32.7159688
+          ],
+          [
+            51.6401971,
+            32.7160861
+          ],
+          [
+            51.6425574,
+            32.7161945
+          ],
+          [
+            51.6446227,
+            32.7159959
+          ],
+          [
+            51.6453761,
+            32.7159492
+          ],
+          [
+            51.6531629,
+            32.715188
+          ],
+          [
+            51.658243,
+            32.7147727
+          ],
+          [
+            51.6617942,
+            32.7144748
+          ],
+          [
+            51.6633513,
+            32.7142541
+          ],
+          [
+            51.6640165,
+            32.7136583
+          ],
+          [
+            51.6646173,
+            32.7125525
+          ],
+          [
+            51.6658308,
+            32.7091997
+          ],
+          [
+            51.6660942,
+            32.7084383
+          ],
+          [
+            51.666299,
+            32.7078562
+          ],
+          [
+            51.6667953,
+            32.706459
+          ],
+          [
+            51.6668597,
+            32.7058225
+          ],
+          [
+            51.6670206,
+            32.705177
+          ],
+          [
+            51.6671815,
+            32.7042742
+          ],
+          [
+            51.6673639,
+            32.703412
+          ],
+          [
+            51.667557,
+            32.7026085
+          ],
+          [
+            51.6680982,
+            32.7016931
+          ],
+          [
+            51.6688767,
+            32.7010286
+          ],
+          [
+            51.669397,
+            32.7005727
+          ],
+          [
+            51.6699815,
+            32.7001163
+          ],
+          [
+            51.6707217,
+            32.6997223
+          ],
+          [
+            51.6717935,
+            32.6990893
+          ],
+          [
+            51.6724704,
+            32.6986591
+          ],
+          [
+            51.6731507,
+            32.6982181
+          ],
+          [
+            51.6738749,
+            32.6977711
+          ],
+          [
+            51.6742665,
+            32.6972791
+          ],
+          [
+            51.6744221,
+            32.6964123
+          ],
+          [
+            51.6742021,
+            32.6941235
+          ],
+          [
+            51.6740168,
+            32.6926506
+          ],
+          [
+            51.6721852,
+            32.6790494
+          ],
+          [
+            51.6712303,
+            32.6719816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3690028870",
+      "properties": {
+        "@id": "node/3690028870",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5587340,
+            "reltags": {
+              "name": "خط 1",
+              "name:en": "Line 1",
+              "operator": "سازمان قطارشهری اصفهان و حومه",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6712303,
+          32.6719816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3787736366",
+      "properties": {
+        "@id": "node/3787736366",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5587340,
+            "reltags": {
+              "name": "خط 1",
+              "name:en": "Line 1",
+              "operator": "سازمان قطارشهری اصفهان و حومه",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6721852,
+          32.6790494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3690028835",
+      "properties": {
+        "@id": "node/3690028835",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5587340,
+            "reltags": {
+              "name": "خط 1",
+              "name:en": "Line 1",
+              "operator": "سازمان قطارشهری اصفهان و حومه",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6065036,
+          32.7150589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3787736361",
+      "properties": {
+        "@id": "node/3787736361",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5587340,
+            "reltags": {
+              "name": "خط 1",
+              "name:en": "Line 1",
+              "operator": "سازمان قطارشهری اصفهان و حومه",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6211329,
+          32.7149238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3787736360",
+      "properties": {
+        "@id": "node/3787736360",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5587340,
+            "reltags": {
+              "name": "خط 1",
+              "name:en": "Line 1",
+              "operator": "سازمان قطارشهری اصفهان و حومه",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6355006,
+          32.7158049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3787736364",
+      "properties": {
+        "@id": "node/3787736364",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5587340,
+            "reltags": {
+              "name": "خط 1",
+              "name:en": "Line 1",
+              "operator": "سازمان قطارشهری اصفهان و حومه",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6724704,
+          32.6986591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3787736365",
+      "properties": {
+        "@id": "node/3787736365",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5587340,
+            "reltags": {
+              "name": "خط 1",
+              "name:en": "Line 1",
+              "operator": "سازمان قطارشهری اصفهان و حومه",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6740168,
+          32.6926506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3690028848",
+      "properties": {
+        "@id": "node/3690028848",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5587340,
+            "reltags": {
+              "name": "خط 1",
+              "name:en": "Line 1",
+              "operator": "سازمان قطارشهری اصفهان و حومه",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6453761,
+          32.7159492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3787736362",
+      "properties": {
+        "@id": "node/3787736362",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5587340,
+            "reltags": {
+              "name": "خط 1",
+              "name:en": "Line 1",
+              "operator": "سازمان قطارشهری اصفهان و حومه",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6660942,
+          32.7084383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3690028850",
+      "properties": {
+        "@id": "node/3690028850",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5587340,
+            "reltags": {
+              "name": "خط 1",
+              "name:en": "Line 1",
+              "operator": "سازمان قطارشهری اصفهان و حومه",
+              "ref": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.658243,
+          32.7147727
+        ]
+      }
+    }
+  ]
+}

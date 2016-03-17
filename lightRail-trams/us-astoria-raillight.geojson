@@ -1,0 +1,196 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-24T21:33:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/118630395",
+      "properties": {
+        "@id": "way/118630395",
+        "is_in": "Clatsop, OR",
+        "name": "City of Astoria Trolley",
+        "railway": "light_rail",
+        "tiger:reviewed": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.8464723,
+            46.1912766
+          ],
+          [
+            -123.846425,
+            46.191285
+          ],
+          [
+            -123.846213,
+            46.191309
+          ],
+          [
+            -123.8458745,
+            46.1913222
+          ],
+          [
+            -123.845405,
+            46.1913293
+          ],
+          [
+            -123.843129,
+            46.1912858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/118630406",
+      "properties": {
+        "@id": "way/118630406",
+        "bridge": "yes",
+        "highway": "cycleway",
+        "is_in": "Clatsop, OR",
+        "layer": "1",
+        "name": "City of Astoria Trolley",
+        "railway": "light_rail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.8480399,
+            46.1907843
+          ],
+          [
+            -123.8476853,
+            46.1909327
+          ],
+          [
+            -123.8475932,
+            46.190975
+          ],
+          [
+            -123.8473946,
+            46.1910483
+          ],
+          [
+            -123.8471736,
+            46.191123
+          ],
+          [
+            -123.8469609,
+            46.19118
+          ],
+          [
+            -123.8467829,
+            46.191217
+          ],
+          [
+            -123.846644,
+            46.191246
+          ],
+          [
+            -123.8464723,
+            46.1912766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/118728386",
+      "properties": {
+        "@id": "way/118728386",
+        "bridge": "yes",
+        "highway": "cycleway",
+        "is_in": "Clatsop, OR",
+        "layer": "1",
+        "name": "City of Astoria Trolley",
+        "railway": "light_rail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.843129,
+            46.1912858
+          ],
+          [
+            -123.8423337,
+            46.191272
+          ],
+          [
+            -123.8404166,
+            46.1912386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157301084",
+      "properties": {
+        "@id": "way/157301084",
+        "is_in": "Clatsop, OR",
+        "name": "City of Astoria Trolley",
+        "railway": "light_rail",
+        "tiger:reviewed": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.855261,
+            46.187504
+          ],
+          [
+            -123.8549992,
+            46.1876218
+          ],
+          [
+            -123.852505,
+            46.1887442
+          ],
+          [
+            -123.852401,
+            46.188791
+          ],
+          [
+            -123.8523979,
+            46.1887924
+          ],
+          [
+            -123.85176,
+            46.1890829
+          ],
+          [
+            -123.850254,
+            46.189759
+          ],
+          [
+            -123.850061,
+            46.189849
+          ],
+          [
+            -123.8494955,
+            46.1901132
+          ],
+          [
+            -123.849269,
+            46.190219
+          ],
+          [
+            -123.8488986,
+            46.1903876
+          ],
+          [
+            -123.8480399,
+            46.1907843
+          ]
+        ]
+      }
+    }
+  ]
+}

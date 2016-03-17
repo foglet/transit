@@ -1,0 +1,772 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T10:54:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/329578277",
+      "properties": {
+        "@id": "way/329578277",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.2344106,
+            36.7588495
+          ],
+          [
+            137.2342961,
+            36.7583688
+          ],
+          [
+            137.2341747,
+            36.7580607
+          ],
+          [
+            137.2338439,
+            36.7574739
+          ],
+          [
+            137.2326877,
+            36.7555943
+          ],
+          [
+            137.2307581,
+            36.7524823
+          ],
+          [
+            137.2297386,
+            36.750804
+          ],
+          [
+            137.228823,
+            36.7493241
+          ],
+          [
+            137.2286738,
+            36.7490786
+          ],
+          [
+            137.2285407,
+            36.7488163
+          ],
+          [
+            137.2284284,
+            36.7485451
+          ],
+          [
+            137.2284162,
+            36.7485096
+          ],
+          [
+            137.2283626,
+            36.748342
+          ],
+          [
+            137.2283089,
+            36.748105
+          ],
+          [
+            137.2282375,
+            36.7475618
+          ],
+          [
+            137.2280555,
+            36.7461304
+          ],
+          [
+            137.2275491,
+            36.7423592
+          ],
+          [
+            137.2272177,
+            36.7398834
+          ],
+          [
+            137.2271487,
+            36.7394013
+          ],
+          [
+            137.2271263,
+            36.7392651
+          ],
+          [
+            137.2268634,
+            36.737249
+          ],
+          [
+            137.2266023,
+            36.7352602
+          ],
+          [
+            137.2262327,
+            36.7325377
+          ],
+          [
+            137.2260727,
+            36.7311734
+          ],
+          [
+            137.225918,
+            36.7301761
+          ],
+          [
+            137.2257729,
+            36.729085
+          ],
+          [
+            137.2254337,
+            36.7265849
+          ],
+          [
+            137.225292,
+            36.7255066
+          ],
+          [
+            137.2249528,
+            36.7228625
+          ],
+          [
+            137.2248971,
+            36.7224891
+          ],
+          [
+            137.2247145,
+            36.7211297
+          ],
+          [
+            137.2247027,
+            36.7210238
+          ],
+          [
+            137.2246921,
+            36.7207024
+          ],
+          [
+            137.2247074,
+            36.7203555
+          ],
+          [
+            137.2247546,
+            36.7198167
+          ],
+          [
+            137.2248127,
+            36.7192591
+          ],
+          [
+            137.224845,
+            36.718827
+          ],
+          [
+            137.224871,
+            36.71854
+          ],
+          [
+            137.224906,
+            36.718169
+          ],
+          [
+            137.224961,
+            36.717566
+          ],
+          [
+            137.225018,
+            36.717048
+          ],
+          [
+            137.225094,
+            36.716147
+          ],
+          [
+            137.225129,
+            36.715719
+          ],
+          [
+            137.225136,
+            36.715353
+          ],
+          [
+            137.224885,
+            36.713776
+          ],
+          [
+            137.224739,
+            36.712872
+          ],
+          [
+            137.224675,
+            36.712475
+          ],
+          [
+            137.224646,
+            36.712293
+          ],
+          [
+            137.2246016,
+            36.7120115
+          ],
+          [
+            137.224529,
+            36.711552
+          ],
+          [
+            137.224451,
+            36.711056
+          ],
+          [
+            137.224353,
+            36.71038
+          ],
+          [
+            137.224039,
+            36.708213
+          ],
+          [
+            137.2239248,
+            36.7074121
+          ],
+          [
+            137.223823,
+            36.706698
+          ],
+          [
+            137.223634,
+            36.705414
+          ],
+          [
+            137.223578,
+            36.704946
+          ],
+          [
+            137.223592,
+            36.703831
+          ],
+          [
+            137.22362,
+            36.703313
+          ],
+          [
+            137.223558,
+            36.703079
+          ],
+          [
+            137.223431,
+            36.702981
+          ],
+          [
+            137.22019,
+            36.703029
+          ],
+          [
+            137.218305,
+            36.702924
+          ],
+          [
+            137.216661,
+            36.703535
+          ],
+          [
+            137.216166,
+            36.703708
+          ],
+          [
+            137.215135,
+            36.704035
+          ],
+          [
+            137.214945,
+            36.704055
+          ],
+          [
+            137.214782,
+            36.70398
+          ],
+          [
+            137.2140412,
+            36.7027503
+          ],
+          [
+            137.2139822,
+            36.7026787
+          ],
+          [
+            137.2139072,
+            36.7026328
+          ],
+          [
+            137.2135889,
+            36.7024841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24853134",
+      "properties": {
+        "@id": "way/24853134",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.2135889,
+            36.7024841
+          ],
+          [
+            137.2134914,
+            36.702444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24853133",
+      "properties": {
+        "@id": "way/24853133",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.2344333,
+            36.7591249
+          ],
+          [
+            137.234449,
+            36.759385
+          ],
+          [
+            137.234412,
+            36.759757
+          ],
+          [
+            137.2340029,
+            36.7615162
+          ],
+          [
+            137.2339501,
+            36.7617149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/329578274",
+      "properties": {
+        "@id": "way/329578274",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.2344333,
+            36.7591249
+          ],
+          [
+            137.2344106,
+            36.7588495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043100",
+      "properties": {
+        "@id": "node/270043100",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2135889,
+          36.7024841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043171",
+      "properties": {
+        "@id": "node/270043171",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.216661,
+          36.703535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043144",
+      "properties": {
+        "@id": "node/270043144",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.223592,
+          36.703831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043140",
+      "properties": {
+        "@id": "node/270043140",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.224646,
+          36.712293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043120",
+      "properties": {
+        "@id": "node/270043120",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2248971,
+          36.7224891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043126",
+      "properties": {
+        "@id": "node/270043126",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2248127,
+          36.7192591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043106",
+      "properties": {
+        "@id": "node/270043106",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2266023,
+          36.7352602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043111",
+      "properties": {
+        "@id": "node/270043111",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2260727,
+          36.7311734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043102",
+      "properties": {
+        "@id": "node/270043102",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2283089,
+          36.748105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043189",
+      "properties": {
+        "@id": "node/270043189",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2307581,
+          36.7524823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043168",
+      "properties": {
+        "@id": "node/270043168",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2340029,
+          36.7615162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270043178",
+      "properties": {
+        "@id": "node/270043178",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1895506,
+            "reltags": {
+              "name": "富山ライトレール富山港線",
+              "name:en": "Toyama Light Rail Toyamakō Line",
+              "name:ja": "富山ライトレール富山港線",
+              "public_transport:version": "1",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2338439,
+          36.7574739
+        ]
+      }
+    }
+  ]
+}

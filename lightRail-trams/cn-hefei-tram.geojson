@@ -1,0 +1,1388 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-16T10:51:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/367858678",
+      "properties": {
+        "@id": "way/367858678",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5965839,
+            "reltags": {
+              "name": "繁华大道有轨电车",
+              "name:en": "Tram of Fanhua Ave.",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.2853189,
+            31.7955229
+          ],
+          [
+            117.2840887,
+            31.7953376
+          ],
+          [
+            117.2830121,
+            31.7951102
+          ],
+          [
+            117.2813937,
+            31.7944907
+          ],
+          [
+            117.2802034,
+            31.7938143
+          ],
+          [
+            117.2792806,
+            31.7932573
+          ],
+          [
+            117.2778629,
+            31.7922569
+          ],
+          [
+            117.276512,
+            31.7913191
+          ],
+          [
+            117.2761161,
+            31.7910631
+          ],
+          [
+            117.2750897,
+            31.7904541
+          ],
+          [
+            117.2743539,
+            31.7900657
+          ],
+          [
+            117.273405,
+            31.7896279
+          ],
+          [
+            117.2725065,
+            31.789246
+          ],
+          [
+            117.2716564,
+            31.7889382
+          ],
+          [
+            117.2703197,
+            31.7885425
+          ],
+          [
+            117.2678865,
+            31.7877246
+          ],
+          [
+            117.265852,
+            31.7868131
+          ],
+          [
+            117.26357,
+            31.7857264
+          ],
+          [
+            117.2590595,
+            31.7835197
+          ],
+          [
+            117.2544461,
+            31.7813217
+          ],
+          [
+            117.2517525,
+            31.7800012
+          ],
+          [
+            117.2512717,
+            31.7796867
+          ],
+          [
+            117.2505213,
+            31.7791227
+          ],
+          [
+            117.2495841,
+            31.7785328
+          ],
+          [
+            117.249111,
+            31.7783834
+          ],
+          [
+            117.2486469,
+            31.7783145
+          ],
+          [
+            117.2473537,
+            31.7782762
+          ],
+          [
+            117.2440193,
+            31.7782608
+          ],
+          [
+            117.2404912,
+            31.7782915
+          ],
+          [
+            117.2368684,
+            31.778303
+          ],
+          [
+            117.2335926,
+            31.7783106
+          ],
+          [
+            117.2294607,
+            31.7783183
+          ],
+          [
+            117.2254909,
+            31.7783183
+          ],
+          [
+            117.2229857,
+            31.7783489
+          ],
+          [
+            117.2224675,
+            31.7784409
+          ],
+          [
+            117.2220214,
+            31.7785826
+          ],
+          [
+            117.2216339,
+            31.7787856
+          ],
+          [
+            117.2211292,
+            31.7791495
+          ],
+          [
+            117.2195747,
+            31.7802335
+          ],
+          [
+            117.2188402,
+            31.7807774
+          ],
+          [
+            117.2182229,
+            31.7811719
+          ],
+          [
+            117.2171505,
+            31.781984
+          ],
+          [
+            117.2156365,
+            31.7830794
+          ],
+          [
+            117.2150958,
+            31.7834586
+          ],
+          [
+            117.2146452,
+            31.7837842
+          ],
+          [
+            117.2141631,
+            31.7840293
+          ],
+          [
+            117.2136133,
+            31.7841902
+          ],
+          [
+            117.2129329,
+            31.7842476
+          ],
+          [
+            117.2105628,
+            31.7842515
+          ],
+          [
+            117.2073411,
+            31.7842476
+          ],
+          [
+            117.2037274,
+            31.7842591
+          ],
+          [
+            117.1984014,
+            31.7842706
+          ],
+          [
+            117.1942244,
+            31.7842744
+          ],
+          [
+            117.1899077,
+            31.7842744
+          ],
+          [
+            117.1864246,
+            31.7842859
+          ],
+          [
+            117.1838923,
+            31.7843012
+          ],
+          [
+            117.1804903,
+            31.7843051
+          ],
+          [
+            117.1779355,
+            31.7843166
+          ],
+          [
+            117.1746552,
+            31.7843166
+          ],
+          [
+            117.1722805,
+            31.7843012
+          ],
+          [
+            117.1687839,
+            31.7843127
+          ],
+          [
+            117.1660308,
+            31.7843166
+          ],
+          [
+            117.1628587,
+            31.7843166
+          ],
+          [
+            117.1560103,
+            31.784348
+          ],
+          [
+            117.1525771,
+            31.7843206
+          ],
+          [
+            117.1466655,
+            31.784348
+          ],
+          [
+            117.1376532,
+            31.7843571
+          ],
+          [
+            117.131055,
+            31.7843571
+          ],
+          [
+            117.1248752,
+            31.7843662
+          ],
+          [
+            117.1165282,
+            31.7843754
+          ],
+          [
+            117.110166,
+            31.7843754
+          ],
+          [
+            117.1095008,
+            31.7842842
+          ],
+          [
+            117.1087283,
+            31.7841015
+          ],
+          [
+            117.1081452,
+            31.7838464
+          ],
+          [
+            117.1078507,
+            31.7837138
+          ],
+          [
+            117.1073773,
+            31.7833752
+          ],
+          [
+            117.1070944,
+            31.7831053
+          ],
+          [
+            117.1068,
+            31.7827912
+          ],
+          [
+            117.1059686,
+            31.7818587
+          ],
+          [
+            117.1055645,
+            31.7814416
+          ],
+          [
+            117.1044964,
+            31.7806122
+          ],
+          [
+            117.1017829,
+            31.7785656
+          ],
+          [
+            117.1015115,
+            31.7783791
+          ],
+          [
+            117.1007956,
+            31.7779815
+          ],
+          [
+            117.0990867,
+            31.7772846
+          ],
+          [
+            117.0982092,
+            31.7769361
+          ],
+          [
+            117.0973316,
+            31.7764601
+          ],
+          [
+            117.0947336,
+            31.7755815
+          ],
+          [
+            117.0888043,
+            31.7733336
+          ],
+          [
+            117.0859638,
+            31.7722194
+          ],
+          [
+            117.0832503,
+            31.7711642
+          ],
+          [
+            117.0797574,
+            31.7698389
+          ],
+          [
+            117.0753927,
+            31.7681455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151494094",
+      "properties": {
+        "@id": "way/151494094",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.3309122,
+            31.8586734
+          ],
+          [
+            117.3348931,
+            31.8576018
+          ],
+          [
+            117.3395401,
+            31.8563771
+          ],
+          [
+            117.3455271,
+            31.8547929
+          ],
+          [
+            117.3486742,
+            31.8539793
+          ],
+          [
+            117.3541002,
+            31.8525764
+          ],
+          [
+            117.3594555,
+            31.8512052
+          ],
+          [
+            117.3606899,
+            31.8508892
+          ],
+          [
+            117.3627506,
+            31.8503434
+          ],
+          [
+            117.3714951,
+            31.8481337
+          ],
+          [
+            117.3737517,
+            31.8477343
+          ],
+          [
+            117.3775387,
+            31.8471144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151494122",
+      "properties": {
+        "@id": "way/151494122",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.3088909,
+            31.8660382
+          ],
+          [
+            117.3100039,
+            31.8654125
+          ],
+          [
+            117.3120423,
+            31.8644194
+          ],
+          [
+            117.3135528,
+            31.8637422
+          ],
+          [
+            117.3152315,
+            31.8629896
+          ],
+          [
+            117.3168915,
+            31.8623913
+          ],
+          [
+            117.3204118,
+            31.8614766
+          ],
+          [
+            117.3217905,
+            31.8611022
+          ],
+          [
+            117.3220059,
+            31.8610446
+          ],
+          [
+            117.3255029,
+            31.8601091
+          ],
+          [
+            117.330348,
+            31.8588131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151494106",
+      "properties": {
+        "@id": "way/151494106",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.3054189,
+            31.8685676
+          ],
+          [
+            117.3083345,
+            31.8664176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151494107",
+      "properties": {
+        "@id": "way/151494107",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.3083345,
+            31.8664176
+          ],
+          [
+            117.3088909,
+            31.8660382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151494111",
+      "properties": {
+        "@id": "way/151494111",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.330348,
+            31.8588131
+          ],
+          [
+            117.3309122,
+            31.8586734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151494097",
+      "properties": {
+        "@id": "way/151494097",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.2919417,
+            31.8819788
+          ],
+          [
+            117.2921492,
+            31.8813767
+          ],
+          [
+            117.2923049,
+            31.8809803
+          ],
+          [
+            117.292668,
+            31.8803929
+          ],
+          [
+            117.2933252,
+            31.8793282
+          ],
+          [
+            117.2945876,
+            31.8771989
+          ],
+          [
+            117.2949421,
+            31.8766703
+          ],
+          [
+            117.2953398,
+            31.8762517
+          ],
+          [
+            117.2958586,
+            31.8757892
+          ],
+          [
+            117.2964206,
+            31.8753706
+          ],
+          [
+            117.2981772,
+            31.8740589
+          ],
+          [
+            117.2987935,
+            31.8735987
+          ],
+          [
+            117.2998363,
+            31.8728199
+          ],
+          [
+            117.3041492,
+            31.869566
+          ],
+          [
+            117.3050192,
+            31.8689004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151494108",
+      "properties": {
+        "@id": "way/151494108",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.3050192,
+            31.8689004
+          ],
+          [
+            117.3054189,
+            31.8685676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151494103",
+      "properties": {
+        "@id": "way/151494103",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.2918293,
+            31.8825588
+          ],
+          [
+            117.2919417,
+            31.8819788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151494096",
+      "properties": {
+        "@id": "way/151494096",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.2909214,
+            31.9006553
+          ],
+          [
+            117.2919158,
+            31.8977557
+          ],
+          [
+            117.2925729,
+            31.8957443
+          ],
+          [
+            117.2926767,
+            31.8952231
+          ],
+          [
+            117.2927764,
+            31.8944095
+          ],
+          [
+            117.2927286,
+            31.893586
+          ],
+          [
+            117.2925383,
+            31.8926023
+          ],
+          [
+            117.2918576,
+            31.8897886
+          ],
+          [
+            117.2916218,
+            31.8888141
+          ],
+          [
+            117.2915007,
+            31.8880799
+          ],
+          [
+            117.2914316,
+            31.8874265
+          ],
+          [
+            117.2914316,
+            31.8865895
+          ],
+          [
+            117.2915699,
+            31.8851285
+          ],
+          [
+            117.2918293,
+            31.8825588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3717327695",
+      "properties": {
+        "@id": "node/3717327695",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965839,
+            "reltags": {
+              "name": "繁华大道有轨电车",
+              "name:en": "Tram of Fanhua Ave.",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0753927,
+          31.7681455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3718223478",
+      "properties": {
+        "@id": "node/3718223478",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965839,
+            "reltags": {
+              "name": "繁华大道有轨电车",
+              "name:en": "Tram of Fanhua Ave.",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2853189,
+          31.7955229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3315767342",
+      "properties": {
+        "@id": "node/3315767342",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3088909,
+          31.8660382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3717319053",
+      "properties": {
+        "@id": "node/3717319053",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3220059,
+          31.8610446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3717319062",
+      "properties": {
+        "@id": "node/3717319062",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3255029,
+          31.8601091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643073806",
+      "properties": {
+        "@id": "node/1643073806",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3309122,
+          31.8586734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643073890",
+      "properties": {
+        "@id": "node/1643073890",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2998363,
+          31.8728199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643073863",
+      "properties": {
+        "@id": "node/1643073863",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3050192,
+          31.8689004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643073902",
+      "properties": {
+        "@id": "node/1643073902",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2964206,
+          31.8753706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643073947",
+      "properties": {
+        "@id": "node/1643073947",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2919417,
+          31.8819788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643073950",
+      "properties": {
+        "@id": "node/1643073950",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2915699,
+          31.8851285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643073955",
+      "properties": {
+        "@id": "node/1643073955",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2916218,
+          31.8888141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643073791",
+      "properties": {
+        "@id": "node/1643073791",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3541002,
+          31.8525764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3717319080",
+      "properties": {
+        "@id": "node/3717319080",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3594555,
+          31.8512052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643073794",
+      "properties": {
+        "@id": "node/1643073794",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3395401,
+          31.8563771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3717319075",
+      "properties": {
+        "@id": "node/3717319075",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3486742,
+          31.8539793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643073788",
+      "properties": {
+        "@id": "node/1643073788",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3714951,
+          31.8481337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3717319087",
+      "properties": {
+        "@id": "node/3717319087",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3775387,
+          31.8471144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643074022",
+      "properties": {
+        "@id": "node/1643074022",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2927764,
+          31.8944095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3717319052",
+      "properties": {
+        "@id": "node/3717319052",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5965844,
+            "reltags": {
+              "name": "老淮南线有轨电车",
+              "name:en": "Tram of Former Huainan Railway",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2909214,
+          31.9006553
+        ]
+      }
+    }
+  ]
+}
