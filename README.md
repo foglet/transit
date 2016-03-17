@@ -14,3 +14,4 @@ Most files are labeled by two-letter country code, city/location, and the query 
 	ru-smolensk-trolleywire (Russia, Smolensk, search: trolley_wire=yes)
 	au-australiaEast-ferry	(Australia, the east side of, search: route=ferry)
 
+# test
