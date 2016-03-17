@@ -1,0 +1,5783 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T07:22:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/212463779",
+      "properties": {
+        "@id": "way/212463779",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8657293,
+            47.7363649
+          ],
+          [
+            27.8718366,
+            47.7388921
+          ],
+          [
+            27.8744461,
+            47.7399718
+          ],
+          [
+            27.8748596,
+            47.7401429
+          ],
+          [
+            27.8753158,
+            47.7403317
+          ],
+          [
+            27.8775678,
+            47.7412635
+          ],
+          [
+            27.8786296,
+            47.7417028
+          ],
+          [
+            27.8792729,
+            47.741969
+          ],
+          [
+            27.8800463,
+            47.742289
+          ],
+          [
+            27.8808784,
+            47.7426333
+          ],
+          [
+            27.8816801,
+            47.7429649
+          ],
+          [
+            27.8828746,
+            47.7434592
+          ],
+          [
+            27.883117,
+            47.7435595
+          ],
+          [
+            27.8837359,
+            47.7438155
+          ],
+          [
+            27.887385,
+            47.7453253
+          ],
+          [
+            27.8917137,
+            47.7471162
+          ],
+          [
+            27.8957061,
+            47.7487679
+          ],
+          [
+            27.9034447,
+            47.7519692
+          ],
+          [
+            27.9049521,
+            47.7525928
+          ],
+          [
+            27.9054308,
+            47.7527909
+          ],
+          [
+            27.9088821,
+            47.7542185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/366214708",
+      "properties": {
+        "@id": "way/366214708",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8960524,
+            47.7627724
+          ],
+          [
+            27.8959262,
+            47.7626396
+          ],
+          [
+            27.895315,
+            47.7622693
+          ],
+          [
+            27.8946026,
+            47.7618447
+          ],
+          [
+            27.8909342,
+            47.7596226
+          ],
+          [
+            27.8889385,
+            47.7584252
+          ],
+          [
+            27.8868333,
+            47.7571086
+          ],
+          [
+            27.8840529,
+            47.7554943
+          ],
+          [
+            27.8828029,
+            47.7547477
+          ],
+          [
+            27.8822848,
+            47.7544456
+          ],
+          [
+            27.8802082,
+            47.7532345
+          ],
+          [
+            27.8801367,
+            47.7532073
+          ],
+          [
+            27.8800758,
+            47.7531927
+          ],
+          [
+            27.8781179,
+            47.752959
+          ],
+          [
+            27.877918,
+            47.7529051
+          ],
+          [
+            27.8777736,
+            47.7528662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136356743",
+      "properties": {
+        "@id": "way/136356743",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8625449,
+            47.735433
+          ],
+          [
+            27.8633055,
+            47.7356713
+          ],
+          [
+            27.8657293,
+            47.7363649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212463795",
+      "properties": {
+        "@id": "way/212463795",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8625449,
+            47.735433
+          ],
+          [
+            27.8625917,
+            47.735339
+          ],
+          [
+            27.8631429,
+            47.7355164
+          ],
+          [
+            27.8633055,
+            47.7356713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212466639",
+      "properties": {
+        "@id": "way/212466639",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8831321,
+            47.7492258
+          ],
+          [
+            27.8829896,
+            47.7491782
+          ],
+          [
+            27.8828885,
+            47.7491587
+          ],
+          [
+            27.8827514,
+            47.7491574
+          ],
+          [
+            27.8823043,
+            47.7491931
+          ],
+          [
+            27.8821464,
+            47.7492259
+          ],
+          [
+            27.8820562,
+            47.7492575
+          ],
+          [
+            27.8819543,
+            47.749308
+          ],
+          [
+            27.880055,
+            47.7509585
+          ],
+          [
+            27.8778559,
+            47.7527973
+          ],
+          [
+            27.8777736,
+            47.7528662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212470976",
+      "properties": {
+        "@id": "way/212470976",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8899867,
+            47.7820004
+          ],
+          [
+            27.8900306,
+            47.7819518
+          ],
+          [
+            27.8900633,
+            47.7819156
+          ],
+          [
+            27.8915103,
+            47.7803131
+          ],
+          [
+            27.8922101,
+            47.7795066
+          ],
+          [
+            27.8926703,
+            47.7789791
+          ],
+          [
+            27.8945284,
+            47.7768395
+          ],
+          [
+            27.8946649,
+            47.7767546
+          ],
+          [
+            27.8948494,
+            47.7766578
+          ],
+          [
+            27.8951876,
+            47.7764183
+          ],
+          [
+            27.8959911,
+            47.7755945
+          ],
+          [
+            27.8960626,
+            47.7755163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29183977",
+      "properties": {
+        "@id": "way/29183977",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8989031,
+            47.7856725
+          ],
+          [
+            27.8986626,
+            47.7855735
+          ],
+          [
+            27.8962976,
+            47.7846001
+          ],
+          [
+            27.894548,
+            47.7838801
+          ],
+          [
+            27.8929188,
+            47.7832095
+          ],
+          [
+            27.8900996,
+            47.782047
+          ],
+          [
+            27.8899867,
+            47.7820004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41660900",
+      "properties": {
+        "@id": "way/41660900",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9031565,
+            47.7673997
+          ],
+          [
+            27.9016589,
+            47.7664757
+          ],
+          [
+            27.9002184,
+            47.765579
+          ],
+          [
+            27.8993221,
+            47.7650207
+          ],
+          [
+            27.8988061,
+            47.7646966
+          ],
+          [
+            27.897429,
+            47.7637904
+          ],
+          [
+            27.8964313,
+            47.7631523
+          ],
+          [
+            27.8960524,
+            47.7627724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212466638",
+      "properties": {
+        "@id": "way/212466638",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9031565,
+            47.7673997
+          ],
+          [
+            27.9036422,
+            47.7669726
+          ],
+          [
+            27.9039515,
+            47.7667393
+          ],
+          [
+            27.9043469,
+            47.7664795
+          ],
+          [
+            27.9048114,
+            47.7661942
+          ],
+          [
+            27.9053912,
+            47.7658689
+          ],
+          [
+            27.9076779,
+            47.7647623
+          ],
+          [
+            27.908064,
+            47.7645614
+          ],
+          [
+            27.9083779,
+            47.7643991
+          ],
+          [
+            27.9095157,
+            47.7638108
+          ],
+          [
+            27.9103141,
+            47.7634137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58618412",
+      "properties": {
+        "@id": "way/58618412",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9154317,
+            47.7569496
+          ],
+          [
+            27.9180061,
+            47.7580716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41660899",
+      "properties": {
+        "@id": "way/41660899",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9195761,
+            47.7588038
+          ],
+          [
+            27.9188892,
+            47.7591548
+          ],
+          [
+            27.9185989,
+            47.7593032
+          ],
+          [
+            27.9184176,
+            47.7593958
+          ],
+          [
+            27.9182046,
+            47.7595151
+          ],
+          [
+            27.9110842,
+            47.763033
+          ],
+          [
+            27.9109711,
+            47.7630894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58817283",
+      "properties": {
+        "@id": "way/58817283",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9088821,
+            47.7542185
+          ],
+          [
+            27.9119451,
+            47.7555331
+          ],
+          [
+            27.9139944,
+            47.7563536
+          ],
+          [
+            27.9154317,
+            47.7569496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/60126184",
+      "properties": {
+        "@id": "way/60126184",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9180061,
+            47.7580716
+          ],
+          [
+            27.9195761,
+            47.7588038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41660898",
+      "properties": {
+        "@id": "way/41660898",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9103141,
+            47.7634137
+          ],
+          [
+            27.9109711,
+            47.7630894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212470981",
+      "properties": {
+        "@id": "way/212470981",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8960626,
+            47.7755163
+          ],
+          [
+            27.8974565,
+            47.7738972
+          ],
+          [
+            27.8988371,
+            47.7722579
+          ],
+          [
+            27.8991353,
+            47.7719365
+          ],
+          [
+            27.9002972,
+            47.7706076
+          ],
+          [
+            27.9014625,
+            47.7692747
+          ],
+          [
+            27.9023128,
+            47.7682994
+          ],
+          [
+            27.9029524,
+            47.7676119
+          ],
+          [
+            27.9031565,
+            47.7673997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212471008",
+      "properties": {
+        "@id": "way/212471008",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8948494,
+            47.7766578
+          ],
+          [
+            27.8952143,
+            47.7768397
+          ],
+          [
+            27.8953,
+            47.776889
+          ],
+          [
+            27.8976444,
+            47.7780919
+          ],
+          [
+            27.8981382,
+            47.7783268
+          ],
+          [
+            27.8984329,
+            47.7784685
+          ],
+          [
+            27.8985944,
+            47.7785384
+          ],
+          [
+            27.8988868,
+            47.7786613
+          ],
+          [
+            27.8994283,
+            47.778876
+          ],
+          [
+            27.8995755,
+            47.7789329
+          ],
+          [
+            27.9001236,
+            47.7791449
+          ],
+          [
+            27.9002588,
+            47.7791973
+          ],
+          [
+            27.9009955,
+            47.7794827
+          ],
+          [
+            27.901007,
+            47.7794871
+          ],
+          [
+            27.9017408,
+            47.7797715
+          ],
+          [
+            27.9024446,
+            47.7800442
+          ],
+          [
+            27.9030608,
+            47.7802829
+          ],
+          [
+            27.9036228,
+            47.7805011
+          ],
+          [
+            27.9037774,
+            47.7805612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212470990",
+      "properties": {
+        "@id": "way/212470990",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8960626,
+            47.7755163
+          ],
+          [
+            27.8959794,
+            47.7758736
+          ],
+          [
+            27.8958363,
+            47.7761484
+          ],
+          [
+            27.8957983,
+            47.7763565
+          ],
+          [
+            27.8957223,
+            47.7764429
+          ],
+          [
+            27.8954623,
+            47.7764684
+          ],
+          [
+            27.8952929,
+            47.7765018
+          ],
+          [
+            27.8951527,
+            47.7766216
+          ],
+          [
+            27.8952143,
+            47.7768397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58618424",
+      "properties": {
+        "@id": "way/58618424",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9195761,
+            47.7588038
+          ],
+          [
+            27.9197079,
+            47.7588664
+          ],
+          [
+            27.9198051,
+            47.758913
+          ],
+          [
+            27.9203652,
+            47.7591776
+          ],
+          [
+            27.9208908,
+            47.7594266
+          ],
+          [
+            27.9210637,
+            47.7595085
+          ],
+          [
+            27.9217418,
+            47.7598447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212463786",
+      "properties": {
+        "@id": "way/212463786",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9235711,
+            47.7606841
+          ],
+          [
+            27.9256781,
+            47.7616623
+          ],
+          [
+            27.932392,
+            47.764595
+          ],
+          [
+            27.9324947,
+            47.7646378
+          ],
+          [
+            27.9353638,
+            47.7659941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/82488656",
+      "properties": {
+        "@id": "way/82488656",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9232242,
+            47.760523
+          ],
+          [
+            27.9230221,
+            47.7608337
+          ],
+          [
+            27.9228707,
+            47.7608531
+          ],
+          [
+            27.9223868,
+            47.7606477
+          ],
+          [
+            27.9223492,
+            47.7605283
+          ],
+          [
+            27.922559,
+            47.7602314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136450887",
+      "properties": {
+        "@id": "way/136450887",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.922559,
+            47.7602314
+          ],
+          [
+            27.9232242,
+            47.760523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136450889",
+      "properties": {
+        "@id": "way/136450889",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9232242,
+            47.760523
+          ],
+          [
+            27.9234165,
+            47.7606123
+          ],
+          [
+            27.9235711,
+            47.7606841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212463785",
+      "properties": {
+        "@id": "way/212463785",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9217418,
+            47.7598447
+          ],
+          [
+            27.921944,
+            47.7599449
+          ],
+          [
+            27.922559,
+            47.7602314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212463799",
+      "properties": {
+        "@id": "way/212463799",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9217418,
+            47.7598447
+          ],
+          [
+            27.9220817,
+            47.759838
+          ],
+          [
+            27.9235193,
+            47.7604915
+          ],
+          [
+            27.9235711,
+            47.7606841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41660910",
+      "properties": {
+        "@id": "way/41660910",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9291888,
+            47.7713037
+          ],
+          [
+            27.9294023,
+            47.7708751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41660911",
+      "properties": {
+        "@id": "way/41660911",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9294023,
+            47.7708751
+          ],
+          [
+            27.929483,
+            47.7707105
+          ],
+          [
+            27.9306616,
+            47.7683615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41793145",
+      "properties": {
+        "@id": "way/41793145",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9306616,
+            47.7683615
+          ],
+          [
+            27.9308837,
+            47.7682362
+          ],
+          [
+            27.9315916,
+            47.7680523
+          ],
+          [
+            27.932309,
+            47.767866
+          ],
+          [
+            27.93321,
+            47.7676321
+          ],
+          [
+            27.9334312,
+            47.7675645
+          ],
+          [
+            27.9336195,
+            47.767463
+          ],
+          [
+            27.9346203,
+            47.7667929
+          ],
+          [
+            27.9353638,
+            47.7659941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148788402",
+      "properties": {
+        "@id": "way/148788402",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9291888,
+            47.7713037
+          ],
+          [
+            27.9287588,
+            47.7720738
+          ],
+          [
+            27.9286789,
+            47.7724719
+          ],
+          [
+            27.9286577,
+            47.7726792
+          ],
+          [
+            27.9284638,
+            47.7741562
+          ],
+          [
+            27.9282953,
+            47.7749219
+          ],
+          [
+            27.9282822,
+            47.7749685
+          ],
+          [
+            27.9279542,
+            47.7756075
+          ],
+          [
+            27.9276087,
+            47.7762518
+          ],
+          [
+            27.9268581,
+            47.7776454
+          ],
+          [
+            27.9264132,
+            47.7784553
+          ],
+          [
+            27.9263561,
+            47.7785535
+          ],
+          [
+            27.9261115,
+            47.7790102
+          ],
+          [
+            27.9258753,
+            47.7799119
+          ],
+          [
+            27.9256915,
+            47.781246
+          ],
+          [
+            27.9255096,
+            47.7824722
+          ],
+          [
+            27.9251314,
+            47.7848085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42009999",
+      "properties": {
+        "@id": "way/42009999",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.94416,
+            47.7698981
+          ],
+          [
+            27.9437977,
+            47.7697179
+          ],
+          [
+            27.9430611,
+            47.7693426
+          ],
+          [
+            27.9421316,
+            47.7688228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149737091",
+      "properties": {
+        "@id": "way/149737091",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9417707,
+            47.768628
+          ],
+          [
+            27.9416795,
+            47.7686617
+          ],
+          [
+            27.9416197,
+            47.7686678
+          ],
+          [
+            27.9415187,
+            47.7686542
+          ],
+          [
+            27.941448,
+            47.7686215
+          ],
+          [
+            27.9414029,
+            47.768579
+          ],
+          [
+            27.9413803,
+            47.7685262
+          ],
+          [
+            27.9413859,
+            47.7684715
+          ],
+          [
+            27.941436,
+            47.7684063
+          ],
+          [
+            27.9414993,
+            47.7683715
+          ],
+          [
+            27.9415764,
+            47.7683534
+          ],
+          [
+            27.9416582,
+            47.7683541
+          ],
+          [
+            27.9417606,
+            47.7683855
+          ],
+          [
+            27.9418149,
+            47.7684265
+          ],
+          [
+            27.9418415,
+            47.7684676
+          ],
+          [
+            27.9418499,
+            47.7685087
+          ],
+          [
+            27.9418435,
+            47.7685463
+          ],
+          [
+            27.9418215,
+            47.7685849
+          ],
+          [
+            27.9417707,
+            47.768628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149737093",
+      "properties": {
+        "@id": "way/149737093",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9418499,
+            47.7685087
+          ],
+          [
+            27.9419659,
+            47.7686701
+          ],
+          [
+            27.9420571,
+            47.768771
+          ],
+          [
+            27.9421316,
+            47.7688228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149737094",
+      "properties": {
+        "@id": "way/149737094",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9421316,
+            47.7688228
+          ],
+          [
+            27.9419526,
+            47.7687704
+          ],
+          [
+            27.9416988,
+            47.7686961
+          ],
+          [
+            27.9416197,
+            47.7686678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171401480",
+      "properties": {
+        "@id": "way/171401480",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.941448,
+            47.7686215
+          ],
+          [
+            27.9409319,
+            47.7683465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171401481",
+      "properties": {
+        "@id": "way/171401481",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9409319,
+            47.7683465
+          ],
+          [
+            27.9410003,
+            47.76836
+          ],
+          [
+            27.9411065,
+            47.7683793
+          ],
+          [
+            27.9412003,
+            47.7683894
+          ],
+          [
+            27.9412825,
+            47.7683977
+          ],
+          [
+            27.9413712,
+            47.7684047
+          ],
+          [
+            27.941436,
+            47.7684063
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42009998",
+      "properties": {
+        "@id": "way/42009998",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.944596,
+            47.7701273
+          ],
+          [
+            27.94416,
+            47.7698981
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/212470985",
+      "properties": {
+        "@id": "way/212470985",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9353638,
+            47.7659941
+          ],
+          [
+            27.9353872,
+            47.766004
+          ],
+          [
+            27.9386156,
+            47.7673679
+          ],
+          [
+            27.9407601,
+            47.7682827
+          ],
+          [
+            27.9409319,
+            47.7683465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136450888",
+      "properties": {
+        "@id": "way/136450888",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9497316,
+            47.7744208
+          ],
+          [
+            27.9496719,
+            47.7743208
+          ],
+          [
+            27.9486563,
+            47.7726197
+          ],
+          [
+            27.9485951,
+            47.7725303
+          ],
+          [
+            27.9484682,
+            47.7723749
+          ],
+          [
+            27.9483121,
+            47.772209
+          ],
+          [
+            27.9480935,
+            47.7720537
+          ],
+          [
+            27.9478468,
+            47.7718939
+          ],
+          [
+            27.9467841,
+            47.7713304
+          ],
+          [
+            27.944596,
+            47.7701273
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41603975",
+      "properties": {
+        "@id": "way/41603975",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9037774,
+            47.7805612
+          ],
+          [
+            27.9037026,
+            47.7806396
+          ],
+          [
+            27.9035492,
+            47.7808005
+          ],
+          [
+            27.8989626,
+            47.7856101
+          ],
+          [
+            27.8989031,
+            47.7856725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/211788700",
+      "properties": {
+        "@id": "way/211788700",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9251314,
+            47.7848085
+          ],
+          [
+            27.9250842,
+            47.7849143
+          ],
+          [
+            27.9250324,
+            47.785013
+          ],
+          [
+            27.9249909,
+            47.785084
+          ],
+          [
+            27.9249734,
+            47.7851139
+          ],
+          [
+            27.9249037,
+            47.7852113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/82512690",
+      "properties": {
+        "@id": "way/82512690",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.9251314,
+            47.7848085
+          ],
+          [
+            27.9251555,
+            47.7848418
+          ],
+          [
+            27.9254109,
+            47.7851954
+          ],
+          [
+            27.9256728,
+            47.7855264
+          ],
+          [
+            27.9257312,
+            47.7856002
+          ],
+          [
+            27.9256456,
+            47.7856355
+          ],
+          [
+            27.9253738,
+            47.7857478
+          ],
+          [
+            27.9253227,
+            47.7857689
+          ],
+          [
+            27.924995,
+            47.7853345
+          ],
+          [
+            27.9249037,
+            47.7852113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157492",
+      "properties": {
+        "@id": "node/1255157492",
+        "@relations": [
+          {
+            "role": "stop 0",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop 14",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8626852,
+          47.7352718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157436",
+      "properties": {
+        "@id": "node/1255157436",
+        "@relations": [
+          {
+            "role": "stop 13",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8667297,
+          47.736909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157522",
+      "properties": {
+        "@id": "node/1255157522",
+        "@relations": [
+          {
+            "role": "stop 1",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8675022,
+          47.7370101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157752",
+      "properties": {
+        "@id": "node/1255157752",
+        "@relations": [
+          {
+            "role": "stop 2",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8724053,
+          47.739052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157361",
+      "properties": {
+        "@id": "node/1255157361",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8728935,
+          47.7395318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157385",
+      "properties": {
+        "@id": "node/1255157385",
+        "@relations": [
+          {
+            "role": "stop 3",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8774747,
+          47.7411877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157628",
+      "properties": {
+        "@id": "node/1255157628",
+        "@relations": [
+          {
+            "role": "stop 12",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8752916,
+          47.740539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157603",
+      "properties": {
+        "@id": "node/1255157603",
+        "@relations": [
+          {
+            "role": "stop 4",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8806933,
+          47.742526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157850",
+      "properties": {
+        "@id": "node/1255157850",
+        "@relations": [
+          {
+            "role": "stop 11",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8793844,
+          47.7422663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157625",
+      "properties": {
+        "@id": "node/1255157625",
+        "@relations": [
+          {
+            "role": "stop 5",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8859183,
+          47.744694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157849",
+      "properties": {
+        "@id": "node/1255157849",
+        "@relations": [
+          {
+            "role": "stop 10",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.886047,
+          47.7449393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157745",
+      "properties": {
+        "@id": "node/1255157745",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8826192,
+          47.7492606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157355",
+      "properties": {
+        "@id": "node/1255157355",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8813478,
+          47.7540215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157422",
+      "properties": {
+        "@id": "node/1255157422",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.881675,
+          47.7539024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157539",
+      "properties": {
+        "@id": "node/1255157539",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8885897,
+          47.7580643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157826",
+      "properties": {
+        "@id": "node/1255157826",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8858003,
+          47.756647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157887",
+      "properties": {
+        "@id": "node/1255157887",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8895071,
+          47.7588829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157357",
+      "properties": {
+        "@id": "node/1255157357",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8910252,
+          47.7825849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157504",
+      "properties": {
+        "@id": "node/1255157504",
+        "@relations": [
+          {
+            "role": "stop 6",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8951558,
+          47.7485247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157671",
+      "properties": {
+        "@id": "node/1255157671",
+        "@relations": [
+          {
+            "role": "stop 9",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8939139,
+          47.7482019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157424",
+      "properties": {
+        "@id": "node/1255157424",
+        "@relations": [
+          {
+            "role": "stop 7",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9005363,
+          47.7506853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157796",
+      "properties": {
+        "@id": "node/1255157796",
+        "@relations": [
+          {
+            "role": "stop 8",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8995814,
+          47.7505158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157806",
+      "properties": {
+        "@id": "node/1255157806",
+        "@relations": [
+          {
+            "role": "stop 8",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9046669,
+          47.7524309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157860",
+      "properties": {
+        "@id": "node/1255157860",
+        "@relations": [
+          {
+            "role": "stop 7",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9051336,
+          47.7528529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157373",
+      "properties": {
+        "@id": "node/1255157373",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8941956,
+          47.7617137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157477",
+      "properties": {
+        "@id": "node/1255157477",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8934177,
+          47.7610755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157883",
+      "properties": {
+        "@id": "node/1255157883",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.896859,
+          47.7632607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157474",
+      "properties": {
+        "@id": "node/1255157474",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9007992,
+          47.7658064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157746",
+      "properties": {
+        "@id": "node/1255157746",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8988626,
+          47.7648725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157702",
+      "properties": {
+        "@id": "node/1255157702",
+        "@relations": [
+          {
+            "role": "stop 6",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9097309,
+          47.7547572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157784",
+      "properties": {
+        "@id": "node/1255157784",
+        "@relations": [
+          {
+            "role": "stop 9",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9104283,
+          47.7548474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157536",
+      "properties": {
+        "@id": "node/1255157536",
+        "@relations": [
+          {
+            "role": "stop 10",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.916197,
+          47.7571546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157558",
+      "properties": {
+        "@id": "node/1255157558",
+        "@relations": [
+          {
+            "role": "stop 5",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9173645,
+          47.7578768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157800",
+      "properties": {
+        "@id": "node/1255157800",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9097846,
+          47.7636105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157814",
+      "properties": {
+        "@id": "node/1255157814",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9091787,
+          47.7641018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157495",
+      "properties": {
+        "@id": "node/1255157495",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9172411,
+          47.7598674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157528",
+      "properties": {
+        "@id": "node/1255157528",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9161038,
+          47.7606896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157416",
+      "properties": {
+        "@id": "node/1255157416",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9015234,
+          47.7689902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157462",
+      "properties": {
+        "@id": "node/1255157462",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9042378,
+          47.7667043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157818",
+      "properties": {
+        "@id": "node/1255157818",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9046455,
+          47.7661634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157881",
+      "properties": {
+        "@id": "node/1255157881",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9012283,
+          47.7696176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157389",
+      "properties": {
+        "@id": "node/1255157389",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8986051,
+          47.7727903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157556",
+      "properties": {
+        "@id": "node/1255157556",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8977522,
+          47.7733672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157706",
+      "properties": {
+        "@id": "node/1255157706",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8960195,
+          47.7760169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157726",
+      "properties": {
+        "@id": "node/1255157726",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8993239,
+          47.7787783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157441",
+      "properties": {
+        "@id": "node/1255157441",
+        "@relations": [
+          {
+            "role": "stop 11",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9231259,
+          47.7602533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157454",
+      "properties": {
+        "@id": "node/1255157454",
+        "@relations": [
+          {
+            "role": "stop 4",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.92245,
+          47.7608014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157780",
+      "properties": {
+        "@id": "node/1255157780",
+        "@relations": [
+          {
+            "role": "stop 12",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9311004,
+          47.7639832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157791",
+      "properties": {
+        "@id": "node/1255157791",
+        "@relations": [
+          {
+            "role": "stop 3",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9338011,
+          47.7654278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157430",
+      "properties": {
+        "@id": "node/1255157430",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9265698,
+          47.7783457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157602",
+      "properties": {
+        "@id": "node/1255157602",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9284903,
+          47.7731869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157622",
+      "properties": {
+        "@id": "node/1255157622",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9287961,
+          47.7728192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2031248166",
+      "properties": {
+        "@id": "node/2031248166",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9260254,
+          47.7789306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157458",
+      "properties": {
+        "@id": "node/1255157458",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9349574,
+          47.7666676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157670",
+      "properties": {
+        "@id": "node/1255157670",
+        "@relations": [
+          {
+            "role": "stop 13",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9369101,
+          47.766517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157731",
+      "properties": {
+        "@id": "node/1255157731",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9320684,
+          47.7680564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157854",
+      "properties": {
+        "@id": "node/1255157854",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9325297,
+          47.7677174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157735",
+      "properties": {
+        "@id": "node/1255157735",
+        "@relations": [
+          {
+            "role": "stop 2",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.941719,
+          47.7694999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157844",
+      "properties": {
+        "@id": "node/1255157844",
+        "@relations": [
+          {
+            "role": "stop 14",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9408839,
+          47.7678003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3478020976",
+      "properties": {
+        "@id": "node/3478020976",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9399981,
+          47.767803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3478020977",
+      "properties": {
+        "@id": "node/3478020977",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9415602,
+          47.7687175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157411",
+      "properties": {
+        "@id": "node/1255157411",
+        "@relations": [
+          {
+            "role": "stop 1",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9464772,
+          47.7712833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2031238610",
+      "properties": {
+        "@id": "node/2031238610",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9473865,
+          47.7715545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157358",
+      "properties": {
+        "@id": "node/1255157358",
+        "@relations": [
+          {
+            "role": "stop 16",
+            "rel": 1836778,
+            "reltags": {
+              "from": "Cartierul Molodova",
+              "name": "микрорайон Молодово – Аэропорт",
+              "name:ro": "Cartierul Molodova – Aeroportul Bălți-Oraș",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Aeroportul Bălți-Oraș",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop 0",
+            "rel": 1837959,
+            "reltags": {
+              "from": "Aeroportul Bălți-Oraș",
+              "name": "Аэропорт – микрорайон Молодово",
+              "name:ro": "Aeroportul Bălți-Oraș – Cartierul Molodova",
+              "network": "Bălți",
+              "operator": "Î.M. Direcția troleibuze",
+              "ref": "1",
+              "route": "trolleybus",
+              "to": "Cartierul Molodova",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2595143,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 1",
+              "name:ro": "Troleibuzul 1",
+              "network": "Троллейбус",
+              "operator": "Бельцкое троллейбусное управление",
+              "ref": "1",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2840203,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 3",
+              "name:ro": "Troleibuzul 3",
+              "ref": "3",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9497177,
+          47.7747343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157571",
+      "properties": {
+        "@id": "node/1255157571",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8924414,
+          47.7790631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157822",
+      "properties": {
+        "@id": "node/1255157822",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8950914,
+          47.784261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157526",
+      "properties": {
+        "@id": "node/1255157526",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9010942,
+          47.7835726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157786",
+      "properties": {
+        "@id": "node/1255157786",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9030683,
+          47.7801518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157393",
+      "properties": {
+        "@id": "node/1255157393",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9254648,
+          47.7820767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2223155705",
+      "properties": {
+        "@id": "node/2223155705",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9256205,
+          47.7829151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255157876",
+      "properties": {
+        "@id": "node/1255157876",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2840228,
+            "reltags": {
+              "bus": "trolley",
+              "name": "Троллейбус 2",
+              "name:ro": "Troleibuzul 2",
+              "ref": "2",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9250839,
+          47.7856596
+        ]
+      }
+    }
+  ]
+}

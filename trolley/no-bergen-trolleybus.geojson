@@ -1,0 +1,4741 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T07:33:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/8080220",
+      "properties": {
+        "@id": "way/8080220",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3565562,
+            60.3842242
+          ],
+          [
+            5.3564168,
+            60.3842321
+          ],
+          [
+            5.3561591,
+            60.3842512
+          ],
+          [
+            5.3558681,
+            60.3842643
+          ],
+          [
+            5.3555828,
+            60.3842841
+          ],
+          [
+            5.3553108,
+            60.3843131
+          ],
+          [
+            5.3551569,
+            60.3843335
+          ],
+          [
+            5.3549878,
+            60.38436
+          ],
+          [
+            5.3548039,
+            60.3843945
+          ],
+          [
+            5.3546163,
+            60.3844414
+          ],
+          [
+            5.3544682,
+            60.3844785
+          ],
+          [
+            5.3542925,
+            60.384529
+          ],
+          [
+            5.3541356,
+            60.3845826
+          ],
+          [
+            5.3540182,
+            60.3846283
+          ],
+          [
+            5.3539161,
+            60.3846697
+          ],
+          [
+            5.3537779,
+            60.3847292
+          ],
+          [
+            5.3536181,
+            60.3847989
+          ],
+          [
+            5.3535323,
+            60.3848352
+          ],
+          [
+            5.3534512,
+            60.3848681
+          ],
+          [
+            5.3533419,
+            60.3849099
+          ],
+          [
+            5.3533171,
+            60.3849196
+          ],
+          [
+            5.3532921,
+            60.3849294
+          ],
+          [
+            5.3532404,
+            60.3849495
+          ],
+          [
+            5.3531475,
+            60.3849852
+          ],
+          [
+            5.3530311,
+            60.3850273
+          ],
+          [
+            5.3529447,
+            60.385059
+          ],
+          [
+            5.3528244,
+            60.3851009
+          ],
+          [
+            5.3525886,
+            60.3851867
+          ],
+          [
+            5.3522995,
+            60.3852922
+          ],
+          [
+            5.3522403,
+            60.3853135
+          ],
+          [
+            5.3520557,
+            60.3853802
+          ],
+          [
+            5.3516924,
+            60.38552
+          ],
+          [
+            5.3514297,
+            60.3856347
+          ],
+          [
+            5.3513357,
+            60.3856811
+          ],
+          [
+            5.3512905,
+            60.3857032
+          ],
+          [
+            5.3511507,
+            60.3857798
+          ],
+          [
+            5.3510533,
+            60.3858306
+          ],
+          [
+            5.350866,
+            60.3859191
+          ],
+          [
+            5.3507729,
+            60.3859611
+          ],
+          [
+            5.3505226,
+            60.3860649
+          ],
+          [
+            5.3502804,
+            60.3861612
+          ],
+          [
+            5.3501006,
+            60.3862303
+          ],
+          [
+            5.3498597,
+            60.3863266
+          ],
+          [
+            5.349627,
+            60.3864272
+          ],
+          [
+            5.3494648,
+            60.3865058
+          ],
+          [
+            5.3493248,
+            60.3865878
+          ],
+          [
+            5.3491984,
+            60.3866744
+          ],
+          [
+            5.3491898,
+            60.3866792
+          ],
+          [
+            5.3490469,
+            60.3867909
+          ],
+          [
+            5.3488468,
+            60.3869228
+          ],
+          [
+            5.3487955,
+            60.3869471
+          ],
+          [
+            5.3486322,
+            60.3870165
+          ],
+          [
+            5.3484699,
+            60.3870707
+          ],
+          [
+            5.3483011,
+            60.387109
+          ],
+          [
+            5.3481209,
+            60.3871437
+          ],
+          [
+            5.3479765,
+            60.3871684
+          ],
+          [
+            5.3478193,
+            60.3871922
+          ],
+          [
+            5.3477341,
+            60.3872022
+          ],
+          [
+            5.347579,
+            60.3872144
+          ],
+          [
+            5.347441,
+            60.3872242
+          ],
+          [
+            5.3472829,
+            60.3872334
+          ],
+          [
+            5.3471169,
+            60.3872439
+          ],
+          [
+            5.3470337,
+            60.3872512
+          ],
+          [
+            5.3469614,
+            60.3872569
+          ],
+          [
+            5.3468271,
+            60.3872715
+          ],
+          [
+            5.3464754,
+            60.3872992
+          ],
+          [
+            5.3463983,
+            60.3872999
+          ],
+          [
+            5.346345,
+            60.3873014
+          ],
+          [
+            5.3462336,
+            60.3873005
+          ],
+          [
+            5.3460744,
+            60.3872897
+          ],
+          [
+            5.3459304,
+            60.3872701
+          ],
+          [
+            5.3458469,
+            60.3872559
+          ],
+          [
+            5.3457096,
+            60.3872323
+          ],
+          [
+            5.3456388,
+            60.3872228
+          ],
+          [
+            5.3455692,
+            60.3872129
+          ],
+          [
+            5.3455171,
+            60.3872106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183973408",
+      "properties": {
+        "@id": "way/183973408",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3455171,
+            60.3872106
+          ],
+          [
+            5.3454094,
+            60.387213
+          ],
+          [
+            5.345351,
+            60.387216
+          ],
+          [
+            5.3452208,
+            60.3872345
+          ],
+          [
+            5.3450676,
+            60.3872775
+          ],
+          [
+            5.3449882,
+            60.3873043
+          ],
+          [
+            5.3448707,
+            60.3873427
+          ],
+          [
+            5.3447401,
+            60.3873883
+          ],
+          [
+            5.3445626,
+            60.3874495
+          ],
+          [
+            5.3444327,
+            60.3874934
+          ],
+          [
+            5.3442696,
+            60.3875501
+          ],
+          [
+            5.3441067,
+            60.3876061
+          ],
+          [
+            5.3439305,
+            60.3876691
+          ],
+          [
+            5.3436892,
+            60.3877555
+          ],
+          [
+            5.3436096,
+            60.387784
+          ],
+          [
+            5.3434413,
+            60.387845
+          ],
+          [
+            5.3432489,
+            60.3879141
+          ],
+          [
+            5.3430706,
+            60.3879779
+          ],
+          [
+            5.3429402,
+            60.3880236
+          ],
+          [
+            5.3428073,
+            60.3880708
+          ],
+          [
+            5.3426559,
+            60.3881249
+          ],
+          [
+            5.3425024,
+            60.3881797
+          ],
+          [
+            5.3423314,
+            60.3882399
+          ],
+          [
+            5.3422445,
+            60.388272
+          ],
+          [
+            5.3420708,
+            60.3883335
+          ],
+          [
+            5.3418722,
+            60.3884049
+          ],
+          [
+            5.3416936,
+            60.3884706
+          ],
+          [
+            5.3414888,
+            60.3885441
+          ],
+          [
+            5.3413171,
+            60.3886057
+          ],
+          [
+            5.3411155,
+            60.3886796
+          ],
+          [
+            5.3409797,
+            60.3887257
+          ],
+          [
+            5.340835,
+            60.3887748
+          ],
+          [
+            5.3406882,
+            60.3888319
+          ],
+          [
+            5.3404375,
+            60.3889248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4079004",
+      "properties": {
+        "@id": "way/4079004",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3203034,
+            60.3949548
+          ],
+          [
+            5.3203883,
+            60.3949333
+          ],
+          [
+            5.3204202,
+            60.3949203
+          ],
+          [
+            5.320585,
+            60.394853
+          ],
+          [
+            5.3208834,
+            60.3947319
+          ],
+          [
+            5.3209494,
+            60.3947021
+          ],
+          [
+            5.3210758,
+            60.394645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160731518",
+      "properties": {
+        "@id": "way/160731518",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3216941,
+            60.3950762
+          ],
+          [
+            5.3209498,
+            60.3953253
+          ],
+          [
+            5.3208948,
+            60.3953333
+          ],
+          [
+            5.3208305,
+            60.395328
+          ],
+          [
+            5.3207272,
+            60.3952651
+          ],
+          [
+            5.3206927,
+            60.3952381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/235618526",
+      "properties": {
+        "@id": "way/235618526",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3210758,
+            60.394645
+          ],
+          [
+            5.3211975,
+            60.3946054
+          ],
+          [
+            5.3221806,
+            60.394285
+          ],
+          [
+            5.3222676,
+            60.3942567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26491277",
+      "properties": {
+        "@id": "way/26491277",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3206927,
+            60.3952381
+          ],
+          [
+            5.3205259,
+            60.3951097
+          ],
+          [
+            5.3204019,
+            60.3950154
+          ],
+          [
+            5.3203034,
+            60.3949548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/3505622",
+      "properties": {
+        "@id": "way/3505622",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3250513,
+            60.3936505
+          ],
+          [
+            5.3250297,
+            60.39374
+          ],
+          [
+            5.3251073,
+            60.3940774
+          ],
+          [
+            5.3251055,
+            60.3940882
+          ],
+          [
+            5.3251038,
+            60.394099
+          ],
+          [
+            5.3250866,
+            60.3941759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/3506255",
+      "properties": {
+        "@id": "way/3506255",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3273161,
+            60.3931323
+          ],
+          [
+            5.3267066,
+            60.393226
+          ],
+          [
+            5.3262076,
+            60.393333
+          ],
+          [
+            5.326021,
+            60.393373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4079005",
+      "properties": {
+        "@id": "way/4079005",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3235712,
+            60.3938557
+          ],
+          [
+            5.3237389,
+            60.3938163
+          ],
+          [
+            5.3244444,
+            60.3936507
+          ],
+          [
+            5.324482,
+            60.3936421
+          ],
+          [
+            5.3247454,
+            60.3935822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4713093",
+      "properties": {
+        "@id": "way/4713093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3222676,
+            60.3942567
+          ],
+          [
+            5.3223482,
+            60.3942325
+          ],
+          [
+            5.32312,
+            60.394001
+          ],
+          [
+            5.3231326,
+            60.3939982
+          ],
+          [
+            5.3233832,
+            60.3939168
+          ],
+          [
+            5.3235712,
+            60.3938557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124830899",
+      "properties": {
+        "@id": "way/124830899",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.326021,
+            60.393373
+          ],
+          [
+            5.3254035,
+            60.3935042
+          ],
+          [
+            5.3251158,
+            60.3935814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124830903",
+      "properties": {
+        "@id": "way/124830903",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3247454,
+            60.3935822
+          ],
+          [
+            5.3250441,
+            60.3935032
+          ],
+          [
+            5.3259515,
+            60.3933002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124830906",
+      "properties": {
+        "@id": "way/124830906",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3259515,
+            60.3933002
+          ],
+          [
+            5.326138,
+            60.3932606
+          ],
+          [
+            5.326608,
+            60.3931608
+          ],
+          [
+            5.3268384,
+            60.393113
+          ],
+          [
+            5.3269608,
+            60.3931096
+          ],
+          [
+            5.3271565,
+            60.3931042
+          ],
+          [
+            5.3273161,
+            60.3931323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391281093",
+      "properties": {
+        "@id": "way/391281093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3251158,
+            60.3935814
+          ],
+          [
+            5.3250513,
+            60.3936505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/3506362",
+      "properties": {
+        "@id": "way/3506362",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3310531,
+            60.3929262
+          ],
+          [
+            5.3312354,
+            60.392789
+          ],
+          [
+            5.331762,
+            60.3924886
+          ],
+          [
+            5.3319952,
+            60.3923364
+          ],
+          [
+            5.3323899,
+            60.3920964
+          ],
+          [
+            5.3327597,
+            60.3918809
+          ],
+          [
+            5.333269,
+            60.391608
+          ],
+          [
+            5.3334408,
+            60.3915154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4936990",
+      "properties": {
+        "@id": "way/4936990",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3300608,
+            60.3924937
+          ],
+          [
+            5.3299773,
+            60.3924752
+          ],
+          [
+            5.329894,
+            60.3924627
+          ],
+          [
+            5.3297966,
+            60.3924687
+          ],
+          [
+            5.3296587,
+            60.3925016
+          ],
+          [
+            5.3294449,
+            60.3925783
+          ],
+          [
+            5.3288025,
+            60.3928048
+          ],
+          [
+            5.3286758,
+            60.39286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4936997",
+      "properties": {
+        "@id": "way/4936997",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3310531,
+            60.3929262
+          ],
+          [
+            5.330784,
+            60.3928776
+          ],
+          [
+            5.3306643,
+            60.392819
+          ],
+          [
+            5.330614,
+            60.3927811
+          ],
+          [
+            5.3305461,
+            60.3927434
+          ],
+          [
+            5.3300608,
+            60.3924937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194859590",
+      "properties": {
+        "@id": "way/194859590",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3334408,
+            60.3915154
+          ],
+          [
+            5.3337978,
+            60.3913374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26468485",
+      "properties": {
+        "@id": "way/26468485",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3337978,
+            60.3913374
+          ],
+          [
+            5.334401,
+            60.3910927
+          ],
+          [
+            5.3351542,
+            60.3908819
+          ],
+          [
+            5.3356843,
+            60.3907194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193658490",
+      "properties": {
+        "@id": "way/193658490",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3250866,
+            60.3941759
+          ],
+          [
+            5.3249196,
+            60.394218
+          ],
+          [
+            5.3246191,
+            60.3942938
+          ],
+          [
+            5.3237661,
+            60.394474
+          ],
+          [
+            5.3230499,
+            60.3946613
+          ],
+          [
+            5.3228059,
+            60.3947251
+          ],
+          [
+            5.3221671,
+            60.3949269
+          ],
+          [
+            5.3216941,
+            60.3950762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194859585",
+      "properties": {
+        "@id": "way/194859585",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3286758,
+            60.39286
+          ],
+          [
+            5.3285701,
+            60.3929042
+          ],
+          [
+            5.3283718,
+            60.3929744
+          ],
+          [
+            5.3282451,
+            60.3930062
+          ],
+          [
+            5.3280988,
+            60.3930331
+          ],
+          [
+            5.3276932,
+            60.3931118
+          ],
+          [
+            5.3275998,
+            60.3931318
+          ],
+          [
+            5.3274369,
+            60.3931321
+          ],
+          [
+            5.3273161,
+            60.3931323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1227",
+      "properties": {
+        "@id": "way/1227",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3356843,
+            60.3907194
+          ],
+          [
+            5.3358712,
+            60.390621
+          ],
+          [
+            5.3360107,
+            60.3905624
+          ],
+          [
+            5.3361229,
+            60.3905236
+          ],
+          [
+            5.3362529,
+            60.3904753
+          ],
+          [
+            5.3364711,
+            60.3903872
+          ],
+          [
+            5.336571,
+            60.390352
+          ],
+          [
+            5.3367668,
+            60.3902958
+          ],
+          [
+            5.3370035,
+            60.3902137
+          ],
+          [
+            5.3371213,
+            60.3901776
+          ],
+          [
+            5.3372135,
+            60.3901531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1231",
+      "properties": {
+        "@id": "way/1231",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3395656,
+            60.3892553
+          ],
+          [
+            5.339491,
+            60.3892836
+          ],
+          [
+            5.3393778,
+            60.3893266
+          ],
+          [
+            5.3391179,
+            60.3894315
+          ],
+          [
+            5.338905,
+            60.3895145
+          ],
+          [
+            5.3387177,
+            60.3895849
+          ],
+          [
+            5.3384834,
+            60.3896717
+          ],
+          [
+            5.338182,
+            60.3897871
+          ],
+          [
+            5.3378715,
+            60.3899058
+          ],
+          [
+            5.3377946,
+            60.3899342
+          ],
+          [
+            5.3374853,
+            60.3900518
+          ],
+          [
+            5.3372135,
+            60.3901531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/3254985",
+      "properties": {
+        "@id": "way/3254985",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3372135,
+            60.3901531
+          ],
+          [
+            5.3370696,
+            60.3902303
+          ],
+          [
+            5.3369578,
+            60.3902809
+          ],
+          [
+            5.336875,
+            60.3903255
+          ],
+          [
+            5.3367698,
+            60.3903901
+          ],
+          [
+            5.3366954,
+            60.3904426
+          ],
+          [
+            5.3366815,
+            60.3904587
+          ],
+          [
+            5.3366252,
+            60.3905071
+          ],
+          [
+            5.3365656,
+            60.3905407
+          ],
+          [
+            5.3364897,
+            60.3905695
+          ],
+          [
+            5.3363885,
+            60.3905956
+          ],
+          [
+            5.3363001,
+            60.3906099
+          ],
+          [
+            5.3362531,
+            60.3906188
+          ],
+          [
+            5.3361589,
+            60.3906366
+          ],
+          [
+            5.3359698,
+            60.3906689
+          ],
+          [
+            5.3358188,
+            60.3906976
+          ],
+          [
+            5.3356843,
+            60.3907194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183973406",
+      "properties": {
+        "@id": "way/183973406",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3395656,
+            60.3892553
+          ],
+          [
+            5.3396507,
+            60.3892025
+          ],
+          [
+            5.3399505,
+            60.3890927
+          ],
+          [
+            5.3402831,
+            60.3889672
+          ],
+          [
+            5.3404375,
+            60.3889248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183973407",
+      "properties": {
+        "@id": "way/183973407",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3404375,
+            60.3889248
+          ],
+          [
+            5.3403659,
+            60.3889686
+          ],
+          [
+            5.3401865,
+            60.3890782
+          ],
+          [
+            5.339932,
+            60.3891809
+          ],
+          [
+            5.3397945,
+            60.3892108
+          ],
+          [
+            5.3396711,
+            60.3892351
+          ],
+          [
+            5.3395656,
+            60.3892553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250606936",
+      "properties": {
+        "@id": "way/250606936",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3683964,
+            60.3542583
+          ],
+          [
+            5.3684009,
+            60.354118
+          ],
+          [
+            5.3684057,
+            60.3539658
+          ],
+          [
+            5.3685914,
+            60.3530169
+          ],
+          [
+            5.3686268,
+            60.3528557
+          ],
+          [
+            5.3687017,
+            60.3525471
+          ],
+          [
+            5.3687979,
+            60.352081
+          ],
+          [
+            5.3688078,
+            60.3518839
+          ],
+          [
+            5.3687761,
+            60.3517264
+          ],
+          [
+            5.3686957,
+            60.3515208
+          ],
+          [
+            5.3685801,
+            60.351352
+          ],
+          [
+            5.3684156,
+            60.3511698
+          ],
+          [
+            5.3681823,
+            60.350955
+          ],
+          [
+            5.3680074,
+            60.3508263
+          ],
+          [
+            5.3674902,
+            60.3504337
+          ],
+          [
+            5.3673071,
+            60.3502923
+          ],
+          [
+            5.3671722,
+            60.3501667
+          ],
+          [
+            5.367058,
+            60.3500449
+          ],
+          [
+            5.366807,
+            60.3494733
+          ],
+          [
+            5.3666713,
+            60.3492822
+          ],
+          [
+            5.3664729,
+            60.3490497
+          ],
+          [
+            5.366335,
+            60.3489054
+          ],
+          [
+            5.3661273,
+            60.3487035
+          ],
+          [
+            5.365903,
+            60.3484887
+          ],
+          [
+            5.3656541,
+            60.3482422
+          ],
+          [
+            5.3655363,
+            60.3481088
+          ],
+          [
+            5.3651538,
+            60.3477401
+          ],
+          [
+            5.3649654,
+            60.3475478
+          ],
+          [
+            5.364371,
+            60.3469534
+          ],
+          [
+            5.3642751,
+            60.3468399
+          ],
+          [
+            5.3641984,
+            60.3467176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4677194",
+      "properties": {
+        "@id": "way/4677194",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3638271,
+            60.3456832
+          ],
+          [
+            5.3639152,
+            60.3456306
+          ],
+          [
+            5.3640795,
+            60.3456022
+          ],
+          [
+            5.3642542,
+            60.3455907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4705699",
+      "properties": {
+        "@id": "way/4705699",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3645331,
+            60.3450968
+          ],
+          [
+            5.3642375,
+            60.3450885
+          ],
+          [
+            5.3641294,
+            60.3451064
+          ],
+          [
+            5.3640266,
+            60.3451399
+          ],
+          [
+            5.3639336,
+            60.3452028
+          ],
+          [
+            5.3638554,
+            60.345265
+          ],
+          [
+            5.3637803,
+            60.3453227
+          ],
+          [
+            5.363724,
+            60.34537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183973409",
+      "properties": {
+        "@id": "way/183973409",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3641984,
+            60.3467176
+          ],
+          [
+            5.3640649,
+            60.34651
+          ],
+          [
+            5.3640103,
+            60.346328
+          ],
+          [
+            5.3639428,
+            60.3459795
+          ],
+          [
+            5.3638954,
+            60.3458136
+          ],
+          [
+            5.3638271,
+            60.3456832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373603088",
+      "properties": {
+        "@id": "way/373603088",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.363724,
+            60.34537
+          ],
+          [
+            5.3639152,
+            60.3456306
+          ],
+          [
+            5.3639649,
+            60.3456953
+          ],
+          [
+            5.3640204,
+            60.3458103
+          ],
+          [
+            5.3640736,
+            60.3459677
+          ],
+          [
+            5.3641127,
+            60.3461349
+          ],
+          [
+            5.364126,
+            60.346236
+          ],
+          [
+            5.3641325,
+            60.3463291
+          ],
+          [
+            5.3641667,
+            60.3464994
+          ],
+          [
+            5.3641984,
+            60.3467176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373603090",
+      "properties": {
+        "@id": "way/373603090",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3642542,
+            60.3455907
+          ],
+          [
+            5.3643675,
+            60.3455454
+          ],
+          [
+            5.3644176,
+            60.3455061
+          ],
+          [
+            5.3644744,
+            60.3454451
+          ],
+          [
+            5.364503,
+            60.3453165
+          ],
+          [
+            5.3645331,
+            60.3450968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124196274",
+      "properties": {
+        "@id": "way/124196274",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3683674,
+            60.3547869
+          ],
+          [
+            5.3683964,
+            60.3542583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124196279",
+      "properties": {
+        "@id": "way/124196279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.366914,
+            60.3615261
+          ],
+          [
+            5.3670595,
+            60.3614733
+          ],
+          [
+            5.367341,
+            60.3613563
+          ],
+          [
+            5.3678042,
+            60.3611471
+          ],
+          [
+            5.3680999,
+            60.3608545
+          ],
+          [
+            5.3681777,
+            60.3606329
+          ],
+          [
+            5.3681999,
+            60.3603534
+          ],
+          [
+            5.3682059,
+            60.3601572
+          ],
+          [
+            5.3682113,
+            60.3600666
+          ],
+          [
+            5.3682237,
+            60.3590704
+          ],
+          [
+            5.3682363,
+            60.3586404
+          ],
+          [
+            5.3682331,
+            60.358492
+          ],
+          [
+            5.3682119,
+            60.357518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133729221",
+      "properties": {
+        "@id": "way/133729221",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3682939,
+            60.3562792
+          ],
+          [
+            5.3683324,
+            60.3558099
+          ],
+          [
+            5.3683674,
+            60.3547869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156778215",
+      "properties": {
+        "@id": "way/156778215",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.366081,
+            60.3621319
+          ],
+          [
+            5.3661345,
+            60.3620882
+          ],
+          [
+            5.3661952,
+            60.3619826
+          ],
+          [
+            5.3664058,
+            60.3618146
+          ],
+          [
+            5.366601,
+            60.3616815
+          ],
+          [
+            5.3667616,
+            60.3615967
+          ],
+          [
+            5.366914,
+            60.3615261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133729220",
+      "properties": {
+        "@id": "way/133729220",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3682119,
+            60.357518
+          ],
+          [
+            5.368216,
+            60.3574338
+          ],
+          [
+            5.368223,
+            60.3572908
+          ],
+          [
+            5.3682281,
+            60.3570819
+          ],
+          [
+            5.3682939,
+            60.3562792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155875601",
+      "properties": {
+        "@id": "way/155875601",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3621892,
+            60.368639
+          ],
+          [
+            5.3621491,
+            60.3686633
+          ],
+          [
+            5.3621473,
+            60.368667
+          ],
+          [
+            5.3620469,
+            60.3687389
+          ],
+          [
+            5.3619516,
+            60.3688045
+          ],
+          [
+            5.3618357,
+            60.3689353
+          ],
+          [
+            5.3617711,
+            60.3690491
+          ],
+          [
+            5.3615142,
+            60.369365
+          ],
+          [
+            5.361361,
+            60.3695781
+          ],
+          [
+            5.3611943,
+            60.3697873
+          ],
+          [
+            5.361123,
+            60.369917
+          ],
+          [
+            5.3610444,
+            60.3700343
+          ],
+          [
+            5.3609802,
+            60.3701508
+          ],
+          [
+            5.3608202,
+            60.3703634
+          ],
+          [
+            5.3607457,
+            60.3704846
+          ],
+          [
+            5.360682,
+            60.3705992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/330475257",
+      "properties": {
+        "@id": "way/330475257",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3593103,
+            60.3725423
+          ],
+          [
+            5.3592607,
+            60.3726906
+          ],
+          [
+            5.3592524,
+            60.3728411
+          ],
+          [
+            5.3592712,
+            60.3740753
+          ],
+          [
+            5.3591454,
+            60.3757113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1262",
+      "properties": {
+        "@id": "way/1262",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3593103,
+            60.3725423
+          ],
+          [
+            5.3592969,
+            60.3724334
+          ],
+          [
+            5.3594045,
+            60.3722585
+          ],
+          [
+            5.3596213,
+            60.3719612
+          ],
+          [
+            5.3596455,
+            60.371899
+          ],
+          [
+            5.3596467,
+            60.3718962
+          ],
+          [
+            5.3596846,
+            60.3717954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133615132",
+      "properties": {
+        "@id": "way/133615132",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3596846,
+            60.3717954
+          ],
+          [
+            5.3597497,
+            60.3717052
+          ],
+          [
+            5.3598941,
+            60.371534
+          ],
+          [
+            5.3599549,
+            60.3714612
+          ],
+          [
+            5.3599973,
+            60.3713968
+          ],
+          [
+            5.3601489,
+            60.3711966
+          ],
+          [
+            5.3601982,
+            60.3711021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155875599",
+      "properties": {
+        "@id": "way/155875599",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.360682,
+            60.3705992
+          ],
+          [
+            5.3603534,
+            60.371091
+          ],
+          [
+            5.3602491,
+            60.3712505
+          ],
+          [
+            5.3599957,
+            60.3716369
+          ],
+          [
+            5.359951,
+            60.3717344
+          ],
+          [
+            5.3598743,
+            60.3718274
+          ],
+          [
+            5.3598095,
+            60.3719264
+          ],
+          [
+            5.3597992,
+            60.371944
+          ],
+          [
+            5.359691,
+            60.3720917
+          ],
+          [
+            5.3595584,
+            60.3722809
+          ],
+          [
+            5.3594547,
+            60.3724421
+          ],
+          [
+            5.3593103,
+            60.3725423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391573366",
+      "properties": {
+        "@id": "way/391573366",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3601982,
+            60.3711021
+          ],
+          [
+            5.3603187,
+            60.370929
+          ],
+          [
+            5.360457,
+            60.370769
+          ],
+          [
+            5.360682,
+            60.3705992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34201230",
+      "properties": {
+        "@id": "way/34201230",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3658667,
+            60.3628922
+          ],
+          [
+            5.3659117,
+            60.3625379
+          ],
+          [
+            5.3659556,
+            60.3623108
+          ],
+          [
+            5.366081,
+            60.3621319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133729366",
+      "properties": {
+        "@id": "way/133729366",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3657476,
+            60.3652696
+          ],
+          [
+            5.3657591,
+            60.36522
+          ],
+          [
+            5.3658648,
+            60.3643495
+          ],
+          [
+            5.3659036,
+            60.363637
+          ],
+          [
+            5.3659238,
+            60.3632849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156778214",
+      "properties": {
+        "@id": "way/156778214",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3659238,
+            60.3632849
+          ],
+          [
+            5.3658711,
+            60.3630704
+          ],
+          [
+            5.3658639,
+            60.3629824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156778216",
+      "properties": {
+        "@id": "way/156778216",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.366081,
+            60.3621319
+          ],
+          [
+            5.3659995,
+            60.3626204
+          ],
+          [
+            5.3659835,
+            60.3628793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194159586",
+      "properties": {
+        "@id": "way/194159586",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3658639,
+            60.3629824
+          ],
+          [
+            5.3658667,
+            60.3628922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194159587",
+      "properties": {
+        "@id": "way/194159587",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3659835,
+            60.3628793
+          ],
+          [
+            5.365985,
+            60.3629031
+          ],
+          [
+            5.3659904,
+            60.3629874
+          ],
+          [
+            5.3659918,
+            60.3630093
+          ],
+          [
+            5.3659861,
+            60.3630716
+          ],
+          [
+            5.3659761,
+            60.3631805
+          ],
+          [
+            5.3659238,
+            60.3632849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4627603",
+      "properties": {
+        "@id": "way/4627603",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3621892,
+            60.368639
+          ],
+          [
+            5.3623188,
+            60.3685304
+          ],
+          [
+            5.3625005,
+            60.368459
+          ],
+          [
+            5.3629243,
+            60.3683697
+          ],
+          [
+            5.3636881,
+            60.3682968
+          ],
+          [
+            5.3640486,
+            60.3682119
+          ],
+          [
+            5.364349,
+            60.3681016
+          ],
+          [
+            5.3646322,
+            60.3679403
+          ],
+          [
+            5.3648382,
+            60.3677706
+          ],
+          [
+            5.364967,
+            60.3675923
+          ],
+          [
+            5.3650785,
+            60.3674013
+          ],
+          [
+            5.3652931,
+            60.3670364
+          ],
+          [
+            5.3654476,
+            60.3667181
+          ],
+          [
+            5.3655077,
+            60.3665059
+          ],
+          [
+            5.3656278,
+            60.3660348
+          ],
+          [
+            5.3656879,
+            60.3654449
+          ],
+          [
+            5.3657476,
+            60.3652696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1261",
+      "properties": {
+        "@id": "way/1261",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.360121,
+            60.380016
+          ],
+          [
+            5.36002,
+            60.3801404
+          ],
+          [
+            5.359968,
+            60.3802171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4719592",
+      "properties": {
+        "@id": "way/4719592",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3593347,
+            60.3775538
+          ],
+          [
+            5.3592877,
+            60.3775078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38093144",
+      "properties": {
+        "@id": "way/38093144",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3590775,
+            60.3773432
+          ],
+          [
+            5.3590974,
+            60.3773356
+          ],
+          [
+            5.3591422,
+            60.3773243
+          ],
+          [
+            5.3591741,
+            60.3773202
+          ],
+          [
+            5.3592165,
+            60.3773185
+          ],
+          [
+            5.3592661,
+            60.3773225
+          ],
+          [
+            5.3593122,
+            60.3773324
+          ],
+          [
+            5.3593518,
+            60.3773479
+          ],
+          [
+            5.3593823,
+            60.3773677
+          ],
+          [
+            5.3594032,
+            60.3773943
+          ],
+          [
+            5.359409,
+            60.3774153
+          ],
+          [
+            5.3594036,
+            60.3774401
+          ],
+          [
+            5.3593727,
+            60.377474
+          ],
+          [
+            5.3593387,
+            60.3774924
+          ],
+          [
+            5.3592877,
+            60.3775078
+          ],
+          [
+            5.3592238,
+            60.3775157
+          ],
+          [
+            5.359182,
+            60.3775149
+          ],
+          [
+            5.3591109,
+            60.3775029
+          ],
+          [
+            5.3590538,
+            60.3774786
+          ],
+          [
+            5.3590276,
+            60.3774574
+          ],
+          [
+            5.3590142,
+            60.377436
+          ],
+          [
+            5.3590111,
+            60.3774086
+          ],
+          [
+            5.3590216,
+            60.3773843
+          ],
+          [
+            5.3590444,
+            60.377362
+          ],
+          [
+            5.3590775,
+            60.3773432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38093146",
+      "properties": {
+        "@id": "way/38093146",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3591741,
+            60.3773202
+          ],
+          [
+            5.3591744,
+            60.377272
+          ],
+          [
+            5.3591704,
+            60.3772052
+          ],
+          [
+            5.35924,
+            60.3769584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110146281",
+      "properties": {
+        "@id": "way/110146281",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3592441,
+            60.3760233
+          ],
+          [
+            5.3592038,
+            60.3759017
+          ],
+          [
+            5.3591454,
+            60.3757113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133600214",
+      "properties": {
+        "@id": "way/133600214",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3592833,
+            60.3761701
+          ],
+          [
+            5.3592685,
+            60.3761201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133729364",
+      "properties": {
+        "@id": "way/133729364",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.35924,
+            60.3769584
+          ],
+          [
+            5.3593042,
+            60.3767114
+          ],
+          [
+            5.3593214,
+            60.3766256
+          ],
+          [
+            5.3593279,
+            60.3764912
+          ],
+          [
+            5.3593149,
+            60.3763362
+          ],
+          [
+            5.359313,
+            60.376313
+          ],
+          [
+            5.3592833,
+            60.3761701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160731516",
+      "properties": {
+        "@id": "way/160731516",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3592685,
+            60.3761201
+          ],
+          [
+            5.3592441,
+            60.3760233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391573444",
+      "properties": {
+        "@id": "way/391573444",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3605257,
+            60.3789961
+          ],
+          [
+            5.3605381,
+            60.3788674
+          ],
+          [
+            5.3605137,
+            60.3786459
+          ],
+          [
+            5.3604946,
+            60.3785351
+          ],
+          [
+            5.360458,
+            60.3784176
+          ],
+          [
+            5.3604464,
+            60.378393
+          ],
+          [
+            5.360385,
+            60.3783101
+          ],
+          [
+            5.3603681,
+            60.3782903
+          ],
+          [
+            5.3603333,
+            60.3782497
+          ],
+          [
+            5.3602193,
+            60.3781431
+          ],
+          [
+            5.3601486,
+            60.3780774
+          ],
+          [
+            5.3600331,
+            60.3780018
+          ],
+          [
+            5.3599008,
+            60.3779151
+          ],
+          [
+            5.3596593,
+            60.3777614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391573446",
+      "properties": {
+        "@id": "way/391573446",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3596593,
+            60.3777614
+          ],
+          [
+            5.3595455,
+            60.3776975
+          ],
+          [
+            5.3594178,
+            60.3776152
+          ],
+          [
+            5.3593347,
+            60.3775538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391573449",
+      "properties": {
+        "@id": "way/391573449",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.360121,
+            60.380016
+          ],
+          [
+            5.3601812,
+            60.3799067
+          ],
+          [
+            5.3602566,
+            60.3797859
+          ],
+          [
+            5.3603536,
+            60.3796477
+          ],
+          [
+            5.3604281,
+            60.3794657
+          ],
+          [
+            5.3604856,
+            60.3793023
+          ],
+          [
+            5.3604982,
+            60.3791706
+          ],
+          [
+            5.3605257,
+            60.3789961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391573445",
+      "properties": {
+        "@id": "way/391573445",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3571069,
+            60.3841116
+          ],
+          [
+            5.3572113,
+            60.384066
+          ],
+          [
+            5.3573114,
+            60.3840029
+          ],
+          [
+            5.3574066,
+            60.3839088
+          ],
+          [
+            5.3575243,
+            60.3837721
+          ],
+          [
+            5.3576582,
+            60.383618
+          ],
+          [
+            5.3576978,
+            60.3835705
+          ],
+          [
+            5.357726,
+            60.3835407
+          ],
+          [
+            5.357988,
+            60.3832434
+          ],
+          [
+            5.3580113,
+            60.3832159
+          ],
+          [
+            5.3582792,
+            60.3829071
+          ],
+          [
+            5.3585844,
+            60.3824825
+          ],
+          [
+            5.3589123,
+            60.3819466
+          ],
+          [
+            5.358914,
+            60.3819436
+          ],
+          [
+            5.3592472,
+            60.3814081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/296320745",
+      "properties": {
+        "@id": "node/296320745",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.359632,
+          60.3723187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/296320746",
+      "properties": {
+        "@id": "node/296320746",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3594048,
+          60.3722012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287159653",
+      "properties": {
+        "@id": "node/287159653",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3594896,
+          60.3764869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287159655",
+      "properties": {
+        "@id": "node/287159655",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3590874,
+          60.3760349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/287159660",
+      "properties": {
+        "@id": "node/287159660",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3600642,
+          60.3803158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/288676037",
+      "properties": {
+        "@id": "node/288676037",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3601814,
+          60.3797278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1728664045",
+      "properties": {
+        "@id": "node/1728664045",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3513357,
+          60.3856811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2064504659",
+      "properties": {
+        "@id": "node/2064504659",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3533171,
+          60.3849196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/288676028",
+      "properties": {
+        "@id": "node/288676028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3574787,
+          60.3838526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/288676029",
+      "properties": {
+        "@id": "node/288676029",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 29179,
+            "reltags": {
+              "fixme": "directional",
+              "from": "Strandkaien",
+              "name": "2 Strandkaien - Birkelundstoppen",
+              "network": "Skyss",
+              "operator": "Tide",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Birkelundstoppen",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.357988,
+          60.3832434
+        ]
+      }
+    }
+  ]
+}
