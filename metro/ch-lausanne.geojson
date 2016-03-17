@@ -1,0 +1,4708 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-27T21:52:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/315909309",
+      "properties": {
+        "@id": "way/315909309",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6267037,
+            46.5078247
+          ],
+          [
+            6.626635,
+            46.5075923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315757166",
+      "properties": {
+        "@id": "way/315757166",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6265263,
+            46.5072929
+          ],
+          [
+            6.6265549,
+            46.5073997
+          ],
+          [
+            6.6266001,
+            46.5075687
+          ],
+          [
+            6.6265733,
+            46.5075721
+          ],
+          [
+            6.6265308,
+            46.5074135
+          ],
+          [
+            6.6264996,
+            46.507297
+          ],
+          [
+            6.6265122,
+            46.5072951
+          ],
+          [
+            6.6265263,
+            46.5072929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315913206",
+      "properties": {
+        "@id": "way/315913206",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.626635,
+            46.5075923
+          ],
+          [
+            6.6265274,
+            46.5072285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23407704",
+      "properties": {
+        "@id": "way/23407704",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.628161,
+            46.5124766
+          ],
+          [
+            6.6280845,
+            46.5122204
+          ],
+          [
+            6.6273539,
+            46.5098888
+          ],
+          [
+            6.6267718,
+            46.50792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32114112",
+      "properties": {
+        "@id": "way/32114112",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6286423,
+            46.5141129
+          ],
+          [
+            6.628161,
+            46.5124766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315756160",
+      "properties": {
+        "@id": "way/315756160",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6286039,
+            46.5141183
+          ],
+          [
+            6.6281226,
+            46.5124817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315756163",
+      "properties": {
+        "@id": "way/315756163",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6281025,
+            46.5121105
+          ],
+          [
+            6.6281866,
+            46.5123837
+          ],
+          [
+            6.6281599,
+            46.5123876
+          ],
+          [
+            6.6280757,
+            46.5121144
+          ],
+          [
+            6.6281025,
+            46.5121105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315756166",
+      "properties": {
+        "@id": "way/315756166",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6279936,
+            46.5121293
+          ],
+          [
+            6.6280781,
+            46.5124032
+          ],
+          [
+            6.6280514,
+            46.5124071
+          ],
+          [
+            6.6279669,
+            46.5121332
+          ],
+          [
+            6.6279936,
+            46.5121293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315756167",
+      "properties": {
+        "@id": "way/315756167",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6281226,
+            46.5124817
+          ],
+          [
+            6.6280478,
+            46.512225
+          ],
+          [
+            6.6273155,
+            46.5098942
+          ],
+          [
+            6.6271613,
+            46.5093813
+          ],
+          [
+            6.626978,
+            46.5087563
+          ],
+          [
+            6.626847,
+            46.5083096
+          ],
+          [
+            6.6267346,
+            46.5079293
+          ],
+          [
+            6.6267037,
+            46.5078247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315757163",
+      "properties": {
+        "@id": "way/315757163",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6273592,
+            46.5097447
+          ],
+          [
+            6.6274416,
+            46.5100186
+          ],
+          [
+            6.6274148,
+            46.5100224
+          ],
+          [
+            6.6273327,
+            46.5097493
+          ],
+          [
+            6.6273592,
+            46.5097447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315757165",
+      "properties": {
+        "@id": "way/315757165",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6272503,
+            46.5097633
+          ],
+          [
+            6.6273329,
+            46.5100378
+          ],
+          [
+            6.6273062,
+            46.5100416
+          ],
+          [
+            6.6272239,
+            46.5097678
+          ],
+          [
+            6.6272503,
+            46.5097633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315763511",
+      "properties": {
+        "@id": "way/315763511",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6267037,
+            46.5078247
+          ],
+          [
+            6.626738,
+            46.5078727
+          ],
+          [
+            6.6267718,
+            46.50792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32114113",
+      "properties": {
+        "@id": "way/32114113",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6286965,
+            46.5142973
+          ],
+          [
+            6.6286423,
+            46.5141129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32643741",
+      "properties": {
+        "@id": "way/32643741",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6361153,
+            46.5213998
+          ],
+          [
+            6.6356852,
+            46.52171
+          ],
+          [
+            6.6351037,
+            46.5220179
+          ],
+          [
+            6.6345102,
+            46.5222699
+          ],
+          [
+            6.6338912,
+            46.5224847
+          ],
+          [
+            6.6326412,
+            46.5228914
+          ],
+          [
+            6.6323298,
+            46.5230025
+          ],
+          [
+            6.6320676,
+            46.5230452
+          ],
+          [
+            6.6317128,
+            46.5230354
+          ],
+          [
+            6.6313175,
+            46.5229446
+          ],
+          [
+            6.6310667,
+            46.5228496
+          ],
+          [
+            6.6308386,
+            46.5227318
+          ],
+          [
+            6.630721,
+            46.5226146
+          ],
+          [
+            6.6306219,
+            46.5224784
+          ],
+          [
+            6.6305567,
+            46.5222865
+          ],
+          [
+            6.6305218,
+            46.5220876
+          ],
+          [
+            6.6305522,
+            46.5218887
+          ],
+          [
+            6.6306068,
+            46.52168
+          ],
+          [
+            6.6306625,
+            46.5214584
+          ],
+          [
+            6.6306754,
+            46.5212023
+          ],
+          [
+            6.630433,
+            46.5203554
+          ],
+          [
+            6.6297003,
+            46.5178706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313989608",
+      "properties": {
+        "@id": "way/313989608",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6361432,
+            46.5214187
+          ],
+          [
+            6.6357117,
+            46.5217299
+          ],
+          [
+            6.6351192,
+            46.5220433
+          ],
+          [
+            6.6345296,
+            46.5222944
+          ],
+          [
+            6.6339084,
+            46.5225109
+          ],
+          [
+            6.6326489,
+            46.5229218
+          ],
+          [
+            6.6323439,
+            46.5230313
+          ],
+          [
+            6.6320725,
+            46.5230793
+          ],
+          [
+            6.6317106,
+            46.5230644
+          ],
+          [
+            6.6313051,
+            46.5229712
+          ],
+          [
+            6.6310397,
+            46.5228728
+          ],
+          [
+            6.6306895,
+            46.5226301
+          ],
+          [
+            6.6305846,
+            46.5224879
+          ],
+          [
+            6.630514,
+            46.5222958
+          ],
+          [
+            6.6304821,
+            46.522088
+          ],
+          [
+            6.6305073,
+            46.5218825
+          ],
+          [
+            6.6305678,
+            46.5216771
+          ],
+          [
+            6.6306197,
+            46.521446
+          ],
+          [
+            6.630636,
+            46.5212033
+          ],
+          [
+            6.630395,
+            46.5203592
+          ],
+          [
+            6.6296936,
+            46.517983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315756162",
+      "properties": {
+        "@id": "way/315756162",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6286581,
+            46.5143027
+          ],
+          [
+            6.6286039,
+            46.5141183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23407699",
+      "properties": {
+        "@id": "way/23407699",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6289571,
+            46.5152059
+          ],
+          [
+            6.6288891,
+            46.514946
+          ],
+          [
+            6.6288378,
+            46.5147438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48012902",
+      "properties": {
+        "@id": "way/48012902",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6288378,
+            46.5147438
+          ],
+          [
+            6.6286965,
+            46.5142973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313989609",
+      "properties": {
+        "@id": "way/313989609",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6294542,
+            46.517032
+          ],
+          [
+            6.6289571,
+            46.5152059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315754586",
+      "properties": {
+        "@id": "way/315754586",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6296152,
+            46.5174345
+          ],
+          [
+            6.629618,
+            46.5174436
+          ],
+          [
+            6.6297049,
+            46.5177326
+          ],
+          [
+            6.6296781,
+            46.5177364
+          ],
+          [
+            6.6295885,
+            46.5174383
+          ],
+          [
+            6.6296152,
+            46.5174345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315754587",
+      "properties": {
+        "@id": "way/315754587",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6295087,
+            46.5174484
+          ],
+          [
+            6.6295959,
+            46.5177518
+          ],
+          [
+            6.629569,
+            46.5177554
+          ],
+          [
+            6.6294861,
+            46.5174671
+          ],
+          [
+            6.6294818,
+            46.5174521
+          ],
+          [
+            6.6295087,
+            46.5174484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315756161",
+      "properties": {
+        "@id": "way/315756161",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6287918,
+            46.5147503
+          ],
+          [
+            6.6286581,
+            46.5143027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315756164",
+      "properties": {
+        "@id": "way/315756164",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6289571,
+            46.5152059
+          ],
+          [
+            6.6288989,
+            46.5151436
+          ],
+          [
+            6.6288415,
+            46.5149196
+          ],
+          [
+            6.6287918,
+            46.5147503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315756165",
+      "properties": {
+        "@id": "way/315756165",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6287757,
+            46.5147836
+          ],
+          [
+            6.6287848,
+            46.5147823
+          ],
+          [
+            6.6288665,
+            46.5150559
+          ],
+          [
+            6.6288565,
+            46.5150573
+          ],
+          [
+            6.6288219,
+            46.5150622
+          ],
+          [
+            6.6287398,
+            46.5147887
+          ],
+          [
+            6.6287757,
+            46.5147836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315756168",
+      "properties": {
+        "@id": "way/315756168",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6289236,
+            46.5147973
+          ],
+          [
+            6.6289634,
+            46.5149299
+          ],
+          [
+            6.6290045,
+            46.5150666
+          ],
+          [
+            6.62897,
+            46.5150715
+          ],
+          [
+            6.628956,
+            46.5150734
+          ],
+          [
+            6.6288756,
+            46.5148041
+          ],
+          [
+            6.6288887,
+            46.5148023
+          ],
+          [
+            6.6289236,
+            46.5147973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315763521",
+      "properties": {
+        "@id": "way/315763521",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.630432,
+            46.5201949
+          ],
+          [
+            6.6304055,
+            46.5201994
+          ],
+          [
+            6.6304867,
+            46.5204726
+          ],
+          [
+            6.6305134,
+            46.5204689
+          ],
+          [
+            6.630432,
+            46.5201949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315763528",
+      "properties": {
+        "@id": "way/315763528",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6303231,
+            46.5202133
+          ],
+          [
+            6.6304047,
+            46.520488
+          ],
+          [
+            6.630378,
+            46.5204917
+          ],
+          [
+            6.630321,
+            46.5204997
+          ],
+          [
+            6.6303084,
+            46.5204574
+          ],
+          [
+            6.6302396,
+            46.5202258
+          ],
+          [
+            6.6302966,
+            46.5202178
+          ],
+          [
+            6.6303231,
+            46.5202133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315909311",
+      "properties": {
+        "@id": "way/315909311",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6297003,
+            46.5178706
+          ],
+          [
+            6.6295966,
+            46.5175284
+          ],
+          [
+            6.6294542,
+            46.517032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315909312",
+      "properties": {
+        "@id": "way/315909312",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6296936,
+            46.517983
+          ],
+          [
+            6.6295581,
+            46.5175334
+          ],
+          [
+            6.6294294,
+            46.5170855
+          ],
+          [
+            6.6294542,
+            46.517032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239714491",
+      "properties": {
+        "@id": "way/239714491",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.640707,
+            46.5212087
+          ],
+          [
+            6.6406521,
+            46.5209231
+          ],
+          [
+            6.6404977,
+            46.5206971
+          ],
+          [
+            6.6403025,
+            46.5205084
+          ],
+          [
+            6.6400885,
+            46.5203821
+          ],
+          [
+            6.6398138,
+            46.5202721
+          ],
+          [
+            6.6394553,
+            46.5201675
+          ],
+          [
+            6.6390371,
+            46.5200689
+          ],
+          [
+            6.6387051,
+            46.5200569
+          ],
+          [
+            6.6383355,
+            46.5201028
+          ],
+          [
+            6.6381408,
+            46.5201408
+          ],
+          [
+            6.6379467,
+            46.5201955
+          ],
+          [
+            6.6377607,
+            46.5202621
+          ],
+          [
+            6.6375775,
+            46.520342
+          ],
+          [
+            6.6373225,
+            46.5205203
+          ],
+          [
+            6.636973,
+            46.5207803
+          ],
+          [
+            6.6367899,
+            46.5209193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313989607",
+      "properties": {
+        "@id": "way/313989607",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6406692,
+            46.5212158
+          ],
+          [
+            6.6406179,
+            46.5209364
+          ],
+          [
+            6.640462,
+            46.5207195
+          ],
+          [
+            6.6402745,
+            46.5205282
+          ],
+          [
+            6.6400593,
+            46.5203999
+          ],
+          [
+            6.6397956,
+            46.520296
+          ],
+          [
+            6.6394488,
+            46.5201966
+          ],
+          [
+            6.6390316,
+            46.5200967
+          ],
+          [
+            6.6387002,
+            46.5200939
+          ],
+          [
+            6.6383433,
+            46.5201293
+          ],
+          [
+            6.6381526,
+            46.5201653
+          ],
+          [
+            6.6379635,
+            46.5202191
+          ],
+          [
+            6.6377785,
+            46.5202879
+          ],
+          [
+            6.6375947,
+            46.5203667
+          ],
+          [
+            6.6374665,
+            46.52045
+          ],
+          [
+            6.6370025,
+            46.5208004
+          ],
+          [
+            6.6368167,
+            46.520939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315763515",
+      "properties": {
+        "@id": "way/315763515",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6368089,
+            46.5208236
+          ],
+          [
+            6.6368297,
+            46.5208085
+          ],
+          [
+            6.6369241,
+            46.5207406
+          ],
+          [
+            6.637089,
+            46.5206217
+          ],
+          [
+            6.6371287,
+            46.5206477
+          ],
+          [
+            6.6368486,
+            46.5208497
+          ],
+          [
+            6.6368089,
+            46.5208236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315763525",
+      "properties": {
+        "@id": "way/315763525",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6369107,
+            46.5208855
+          ],
+          [
+            6.6372036,
+            46.5206828
+          ],
+          [
+            6.6372473,
+            46.5207127
+          ],
+          [
+            6.6370608,
+            46.5208418
+          ],
+          [
+            6.6369545,
+            46.5209154
+          ],
+          [
+            6.6369107,
+            46.5208855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32643740",
+      "properties": {
+        "@id": "way/32643740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6367899,
+            46.5209193
+          ],
+          [
+            6.6361153,
+            46.5213998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/313989606",
+      "properties": {
+        "@id": "way/313989606",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6368167,
+            46.520939
+          ],
+          [
+            6.6361432,
+            46.5214187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315763519",
+      "properties": {
+        "@id": "way/315763519",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6324782,
+            46.522915
+          ],
+          [
+            6.6328423,
+            46.5227909
+          ],
+          [
+            6.6328543,
+            46.5228076
+          ],
+          [
+            6.6324912,
+            46.5229315
+          ],
+          [
+            6.6324782,
+            46.522915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315763527",
+      "properties": {
+        "@id": "way/315763527",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6325015,
+            46.5229861
+          ],
+          [
+            6.6328662,
+            46.5228611
+          ],
+          [
+            6.6328784,
+            46.5228779
+          ],
+          [
+            6.6325146,
+            46.5230026
+          ],
+          [
+            6.6325015,
+            46.5229861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23407744",
+      "properties": {
+        "@id": "way/23407744",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.640707,
+            46.5212087
+          ],
+          [
+            6.6409861,
+            46.5229623
+          ],
+          [
+            6.640922,
+            46.5233952
+          ],
+          [
+            6.6407568,
+            46.5236971
+          ],
+          [
+            6.64059,
+            46.5239825
+          ],
+          [
+            6.6405481,
+            46.524289
+          ],
+          [
+            6.6406531,
+            46.5246805
+          ],
+          [
+            6.6411687,
+            46.525484
+          ],
+          [
+            6.6413259,
+            46.525705
+          ],
+          [
+            6.6414212,
+            46.5259003
+          ],
+          [
+            6.6415319,
+            46.5263649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315763517",
+      "properties": {
+        "@id": "way/315763517",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6406189,
+            46.5210719
+          ],
+          [
+            6.6406678,
+            46.5213499
+          ],
+          [
+            6.6406403,
+            46.5213521
+          ],
+          [
+            6.6406179,
+            46.5212251
+          ],
+          [
+            6.6405914,
+            46.5210742
+          ],
+          [
+            6.6406189,
+            46.5210719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315763524",
+      "properties": {
+        "@id": "way/315763524",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6407299,
+            46.5210594
+          ],
+          [
+            6.6407546,
+            46.5212011
+          ],
+          [
+            6.6407782,
+            46.5213369
+          ],
+          [
+            6.6407512,
+            46.5213393
+          ],
+          [
+            6.640703,
+            46.5210623
+          ],
+          [
+            6.6407299,
+            46.5210594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315767573",
+      "properties": {
+        "@id": "way/315767573",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6414628,
+            46.526334
+          ],
+          [
+            6.6415378,
+            46.526623
+          ],
+          [
+            6.6415025,
+            46.5266273
+          ],
+          [
+            6.6414728,
+            46.526631
+          ],
+          [
+            6.6414078,
+            46.5263806
+          ],
+          [
+            6.641403,
+            46.526362
+          ],
+          [
+            6.6413978,
+            46.5263422
+          ],
+          [
+            6.64143,
+            46.5263379
+          ],
+          [
+            6.6414628,
+            46.526334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315767574",
+      "properties": {
+        "@id": "way/315767574",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6416218,
+            46.5263141
+          ],
+          [
+            6.641627,
+            46.5263342
+          ],
+          [
+            6.6416319,
+            46.5263531
+          ],
+          [
+            6.6416966,
+            46.5266021
+          ],
+          [
+            6.6416578,
+            46.5266069
+          ],
+          [
+            6.6416266,
+            46.5266107
+          ],
+          [
+            6.6415519,
+            46.5263229
+          ],
+          [
+            6.6415932,
+            46.5263177
+          ],
+          [
+            6.6416218,
+            46.5263141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315778169",
+      "properties": {
+        "@id": "way/315778169",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6414938,
+            46.526369
+          ],
+          [
+            6.6413831,
+            46.525907
+          ],
+          [
+            6.6412896,
+            46.5257152
+          ],
+          [
+            6.6411332,
+            46.5254954
+          ],
+          [
+            6.6406154,
+            46.5246885
+          ],
+          [
+            6.6405086,
+            46.5242902
+          ],
+          [
+            6.6405513,
+            46.5239781
+          ],
+          [
+            6.6407184,
+            46.5236919
+          ],
+          [
+            6.640883,
+            46.5233923
+          ],
+          [
+            6.6409474,
+            46.5229671
+          ],
+          [
+            6.6406692,
+            46.5212158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315778170",
+      "properties": {
+        "@id": "way/315778170",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6415319,
+            46.5263649
+          ],
+          [
+            6.6415552,
+            46.5264725
+          ],
+          [
+            6.6415935,
+            46.5266185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315778171",
+      "properties": {
+        "@id": "way/315778171",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6415553,
+            46.5266234
+          ],
+          [
+            6.6415177,
+            46.5264756
+          ],
+          [
+            6.6414938,
+            46.526369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315767570",
+      "properties": {
+        "@id": "way/315767570",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6449842,
+            46.5305144
+          ],
+          [
+            6.6448183,
+            46.5302446
+          ],
+          [
+            6.644485,
+            46.5298968
+          ],
+          [
+            6.6441729,
+            46.5296356
+          ],
+          [
+            6.6424677,
+            46.528538
+          ],
+          [
+            6.6420949,
+            46.5282139
+          ],
+          [
+            6.6418703,
+            46.5278901
+          ],
+          [
+            6.6417467,
+            46.5274433
+          ],
+          [
+            6.6415553,
+            46.5266234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315767571",
+      "properties": {
+        "@id": "way/315767571",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6450331,
+            46.5305021
+          ],
+          [
+            6.6454395,
+            46.5313435
+          ],
+          [
+            6.6457192,
+            46.5318225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315767572",
+      "properties": {
+        "@id": "way/315767572",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6456345,
+            46.5318415
+          ],
+          [
+            6.645356,
+            46.5312588
+          ],
+          [
+            6.6449842,
+            46.5305144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315778172",
+      "properties": {
+        "@id": "way/315778172",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6415935,
+            46.5266185
+          ],
+          [
+            6.6417853,
+            46.5274386
+          ],
+          [
+            6.6419076,
+            46.5278812
+          ],
+          [
+            6.6421284,
+            46.5281995
+          ],
+          [
+            6.6424966,
+            46.5285197
+          ],
+          [
+            6.6442015,
+            46.5296171
+          ],
+          [
+            6.6445165,
+            46.5298808
+          ],
+          [
+            6.6448527,
+            46.5302315
+          ],
+          [
+            6.6450331,
+            46.5305021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315894398",
+      "properties": {
+        "@id": "way/315894398",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6581321,
+            46.5413659
+          ],
+          [
+            6.6575683,
+            46.5412719
+          ],
+          [
+            6.6537264,
+            46.5406213
+          ],
+          [
+            6.6527818,
+            46.5403174
+          ],
+          [
+            6.6520455,
+            46.5398877
+          ],
+          [
+            6.6511366,
+            46.5388721
+          ],
+          [
+            6.646698,
+            46.5338458
+          ],
+          [
+            6.6463184,
+            46.5332363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315915249",
+      "properties": {
+        "@id": "way/315915249",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6464324,
+            46.5332333
+          ],
+          [
+            6.6467446,
+            46.5338293
+          ],
+          [
+            6.6511799,
+            46.5388519
+          ],
+          [
+            6.6520831,
+            46.5398624
+          ],
+          [
+            6.6528095,
+            46.5402867
+          ],
+          [
+            6.6537444,
+            46.5405874
+          ],
+          [
+            6.6561132,
+            46.5409876
+          ],
+          [
+            6.6568942,
+            46.5410954
+          ],
+          [
+            6.6570417,
+            46.5411192
+          ],
+          [
+            6.6575919,
+            46.5412115
+          ],
+          [
+            6.6581514,
+            46.5413112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49580935",
+      "properties": {
+        "@id": "way/49580935",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6459355,
+            46.5324713
+          ],
+          [
+            6.6456345,
+            46.5318415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315311323",
+      "properties": {
+        "@id": "way/315311323",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6460468,
+            46.5324455
+          ],
+          [
+            6.6462385,
+            46.532838
+          ],
+          [
+            6.6464324,
+            46.5332333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315311327",
+      "properties": {
+        "@id": "way/315311327",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6457192,
+            46.5318225
+          ],
+          [
+            6.6459207,
+            46.5321725
+          ],
+          [
+            6.6460468,
+            46.5324455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315767575",
+      "properties": {
+        "@id": "way/315767575",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6461503,
+            46.5327103
+          ],
+          [
+            6.646279,
+            46.5329753
+          ],
+          [
+            6.6462538,
+            46.5329811
+          ],
+          [
+            6.6462294,
+            46.5329867
+          ],
+          [
+            6.6461007,
+            46.5327217
+          ],
+          [
+            6.6461245,
+            46.5327162
+          ],
+          [
+            6.6461503,
+            46.5327103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315772963",
+      "properties": {
+        "@id": "way/315772963",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6463184,
+            46.5332363
+          ],
+          [
+            6.6461309,
+            46.5328633
+          ],
+          [
+            6.6459355,
+            46.5324713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315772978",
+      "properties": {
+        "@id": "way/315772978",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6511074,
+            46.5387142
+          ],
+          [
+            6.6513173,
+            46.5389532
+          ],
+          [
+            6.6512939,
+            46.5389629
+          ],
+          [
+            6.6510841,
+            46.5387239
+          ],
+          [
+            6.6511074,
+            46.5387142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315772981",
+      "properties": {
+        "@id": "way/315772981",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6510137,
+            46.5387566
+          ],
+          [
+            6.651224,
+            46.5389962
+          ],
+          [
+            6.6512007,
+            46.5390058
+          ],
+          [
+            6.6509903,
+            46.5387662
+          ],
+          [
+            6.6510137,
+            46.5387566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315772942",
+      "properties": {
+        "@id": "way/315772942",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6604746,
+            46.5423833
+          ],
+          [
+            6.6601904,
+            46.5421651
+          ],
+          [
+            6.6597628,
+            46.5418724
+          ],
+          [
+            6.6593432,
+            46.5416586
+          ],
+          [
+            6.6588285,
+            46.5414936
+          ],
+          [
+            6.6581321,
+            46.5413659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315894397",
+      "properties": {
+        "@id": "way/315894397",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6581514,
+            46.5413112
+          ],
+          [
+            6.6588525,
+            46.5414666
+          ],
+          [
+            6.6593689,
+            46.5416368
+          ],
+          [
+            6.6597925,
+            46.5418533
+          ],
+          [
+            6.6602182,
+            46.5421502
+          ],
+          [
+            6.6605023,
+            46.5423669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315772975",
+      "properties": {
+        "@id": "way/315772975",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6574004,
+            46.5411305
+          ],
+          [
+            6.6577947,
+            46.5411967
+          ],
+          [
+            6.6577882,
+            46.5412149
+          ],
+          [
+            6.6573939,
+            46.5411488
+          ],
+          [
+            6.6574004,
+            46.5411305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315772982",
+      "properties": {
+        "@id": "way/315772982",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6573626,
+            46.541261
+          ],
+          [
+            6.6577579,
+            46.5413273
+          ],
+          [
+            6.6577514,
+            46.5413455
+          ],
+          [
+            6.6573561,
+            46.5412792
+          ],
+          [
+            6.6573626,
+            46.541261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23407742",
+      "properties": {
+        "@id": "way/23407742",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6613705,
+            46.5431045
+          ],
+          [
+            6.6605813,
+            46.5424692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315772946",
+      "properties": {
+        "@id": "way/315772946",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6605023,
+            46.5423669
+          ],
+          [
+            6.6605813,
+            46.5424692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315772980",
+      "properties": {
+        "@id": "way/315772980",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6610795,
+            46.5429017
+          ],
+          [
+            6.661348,
+            46.5431119
+          ],
+          [
+            6.6613275,
+            46.5431243
+          ],
+          [
+            6.661059,
+            46.5429141
+          ],
+          [
+            6.6610795,
+            46.5429017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315909310",
+      "properties": {
+        "@id": "way/315909310",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6605813,
+            46.5424692
+          ],
+          [
+            6.6604746,
+            46.5423833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3218868155",
+      "properties": {
+        "@id": "node/3218868155",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6265274,
+          46.5072285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422452",
+      "properties": {
+        "@id": "node/253422452",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6280845,
+          46.5122204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422453",
+      "properties": {
+        "@id": "node/253422453",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6273539,
+          46.5098888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3218868154",
+      "properties": {
+        "@id": "node/3218868154",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6273155,
+          46.5098942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3218883262",
+      "properties": {
+        "@id": "node/3218883262",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6280478,
+          46.512225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422192",
+      "properties": {
+        "@id": "node/253422192",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630433,
+          46.5203554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422450",
+      "properties": {
+        "@id": "node/253422450",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6295966,
+          46.5175284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422451",
+      "properties": {
+        "@id": "node/253422451",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6288891,
+          46.514946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3200281826",
+      "properties": {
+        "@id": "node/3200281826",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6295581,
+          46.5175334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3200281834",
+      "properties": {
+        "@id": "node/3200281834",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630395,
+          46.5203592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3218868153",
+      "properties": {
+        "@id": "node/3218868153",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6288415,
+          46.5149196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3832754057",
+      "properties": {
+        "@id": "node/3832754057",
+        "@relations": [
+          {
+            "role": "Salle de concert, discothèque, club, cinéma",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6312755,
+          46.5201383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422175",
+      "properties": {
+        "@id": "node/253422175",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.636973,
+          46.5207803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422181",
+      "properties": {
+        "@id": "node/253422181",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6326412,
+          46.5228914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3200281836",
+      "properties": {
+        "@id": "node/3200281836",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6370025,
+          46.5208004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3200281850",
+      "properties": {
+        "@id": "node/3200281850",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6326489,
+          46.5229218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422336",
+      "properties": {
+        "@id": "node/253422336",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6415552,
+          46.5264725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422341",
+      "properties": {
+        "@id": "node/253422341",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.640707,
+          46.5212087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3200281820",
+      "properties": {
+        "@id": "node/3200281820",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6406692,
+          46.5212158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3219005475",
+      "properties": {
+        "@id": "node/3219005475",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6415177,
+          46.5264756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422330",
+      "properties": {
+        "@id": "node/253422330",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6461309,
+          46.5328633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422327",
+      "properties": {
+        "@id": "node/253422327",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6511366,
+          46.5388721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3219060218",
+      "properties": {
+        "@id": "node/3219060218",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6511799,
+          46.5388519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253422324",
+      "properties": {
+        "@id": "node/253422324",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6575683,
+          46.5412719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3219063407",
+      "properties": {
+        "@id": "node/3219063407",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6575919,
+          46.5412115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3219063438",
+      "properties": {
+        "@id": "node/3219063438",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 79743,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Ouchy",
+              "name": "m2: Ouchy => Croisettes",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Croisettes",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4250695,
+            "reltags": {
+              "colour": "#FF0000",
+              "from": "Croisettes",
+              "name": "m2: Croisettes => Ouchy",
+              "network": "TL",
+              "operator": "Transports publics de la région Lausannoise",
+              "public_transport:version": "2",
+              "ref": "m2",
+              "route": "subway",
+              "to": "Ouchy",
+              "type": "route",
+              "url": "http://www.t-l.ch/",
+              "wikipedia": "fr:Ligne M2 du métro de Lausanne"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6613705,
+          46.5431045
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1243 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-19T03:21:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/52870860",
+      "properties": {
+        "@id": "way/52870860",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 456667,
+            "reltags": {
+              "colour": "green",
+              "name": "Line 2",
+              "ref": "2",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 534625,
+            "reltags": {
+              "is_in": "Baku;Azerbaijan",
+              "name": "Bakı Metropoliteni",
+              "name:da": "Baku Metro",
+              "name:fr": "Métro de Bakou",
+              "name:pl": "Metro w Baku",
+              "name:tt": "Бакы метросы",
+              "name:uk": "Бакинський метрополітен",
+              "route": "subway",
+              "type": "route",
+              "website": "http://metro.gov.az/",
+              "wikipedia": "az:Bakı Metropoliteni"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8427875,
+            40.4259693
+          ],
+          [
+            49.8346384,
+            40.4254894
+          ],
+          [
+            49.8291294,
+            40.424721
+          ],
+          [
+            49.8263423,
+            40.4243764
+          ],
+          [
+            49.8160116,
+            40.4154957
+          ],
+          [
+            49.8144358,
+            40.4107656
+          ],
+          [
+            49.8096991,
+            40.4061028
+          ],
+          [
+            49.8077261,
+            40.4041604
+          ],
+          [
+            49.8032982,
+            40.4015299
+          ],
+          [
+            49.8011126,
+            40.3988007
+          ],
+          [
+            49.8002543,
+            40.3965783
+          ],
+          [
+            49.8001684,
+            40.3940943
+          ],
+          [
+            49.8009838,
+            40.3915122
+          ],
+          [
+            49.8023575,
+            40.3890935
+          ],
+          [
+            49.8031051,
+            40.3877718
+          ],
+          [
+            49.8047761,
+            40.3837854
+          ],
+          [
+            49.8071508,
+            40.3788331
+          ],
+          [
+            49.8101248,
+            40.3762134
+          ],
+          [
+            49.8126248,
+            40.3750718
+          ],
+          [
+            49.8149742,
+            40.3750038
+          ],
+          [
+            49.8154836,
+            40.3751519
+          ],
+          [
+            49.8196294,
+            40.3770173
+          ],
+          [
+            49.8249568,
+            40.3779063
+          ],
+          [
+            49.8250351,
+            40.3779291
+          ],
+          [
+            49.8298444,
+            40.3793274
+          ],
+          [
+            49.8302202,
+            40.3793366
+          ],
+          [
+            49.8310636,
+            40.3793683
+          ],
+          [
+            49.8390201,
+            40.3795529
+          ],
+          [
+            49.8411526,
+            40.3796053
+          ],
+          [
+            49.8460664,
+            40.379875
+          ],
+          [
+            49.8486969,
+            40.3798355
+          ],
+          [
+            49.8723114,
+            40.3830015
+          ],
+          [
+            49.8740472,
+            40.3832421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52871079",
+      "properties": {
+        "@id": "way/52871079",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 534625,
+            "reltags": {
+              "is_in": "Baku;Azerbaijan",
+              "name": "Bakı Metropoliteni",
+              "name:da": "Baku Metro",
+              "name:fr": "Métro de Bakou",
+              "name:pl": "Metro w Baku",
+              "name:tt": "Бакы метросы",
+              "name:uk": "Бакинський метрополітен",
+              "route": "subway",
+              "type": "route",
+              "website": "http://metro.gov.az/",
+              "wikipedia": "az:Bakı Metropoliteni"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8316454,
+            40.3659591
+          ],
+          [
+            49.8322728,
+            40.3673496
+          ],
+          [
+            49.8340669,
+            40.3683331
+          ],
+          [
+            49.8445559,
+            40.3717359
+          ],
+          [
+            49.8486969,
+            40.3798355
+          ],
+          [
+            49.8491357,
+            40.3931376
+          ],
+          [
+            49.8497674,
+            40.3967811
+          ],
+          [
+            49.8510078,
+            40.3998121
+          ],
+          [
+            49.8712645,
+            40.4035567
+          ],
+          [
+            49.8780238,
+            40.4063904
+          ],
+          [
+            49.878771,
+            40.406776
+          ],
+          [
+            49.8790751,
+            40.4069368
+          ],
+          [
+            49.8794808,
+            40.4071514
+          ],
+          [
+            49.8865838,
+            40.4121419
+          ],
+          [
+            49.8901791,
+            40.4146259
+          ],
+          [
+            49.8904419,
+            40.4146756
+          ],
+          [
+            49.8913983,
+            40.4148383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386319213",
+      "properties": {
+        "@id": "way/386319213",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 534625,
+            "reltags": {
+              "is_in": "Baku;Azerbaijan",
+              "name": "Bakı Metropoliteni",
+              "name:da": "Baku Metro",
+              "name:fr": "Métro de Bakou",
+              "name:pl": "Metro w Baku",
+              "name:tt": "Бакы метросы",
+              "name:uk": "Бакинський метрополітен",
+              "route": "subway",
+              "type": "route",
+              "website": "http://metro.gov.az/",
+              "wikipedia": "az:Bakı Metropoliteni"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8913983,
+            40.4148383
+          ],
+          [
+            49.8922208,
+            40.4149787
+          ],
+          [
+            49.8964758,
+            40.4157035
+          ],
+          [
+            49.9102933,
+            40.4173247
+          ],
+          [
+            49.9166675,
+            40.420294
+          ],
+          [
+            49.9179603,
+            40.4208075
+          ],
+          [
+            49.9203535,
+            40.4208268
+          ],
+          [
+            49.921995,
+            40.420438
+          ],
+          [
+            49.9278384,
+            40.418786
+          ],
+          [
+            49.9339594,
+            40.4176118
+          ],
+          [
+            49.9345397,
+            40.4175054
+          ],
+          [
+            49.9369903,
+            40.4169955
+          ],
+          [
+            49.9383146,
+            40.4167318
+          ],
+          [
+            49.9383973,
+            40.4166996
+          ],
+          [
+            49.9384561,
+            40.4166541
+          ],
+          [
+            49.9395682,
+            40.4152
+          ],
+          [
+            49.9425681,
+            40.411155
+          ],
+          [
+            49.9433623,
+            40.410144
+          ],
+          [
+            49.9445892,
+            40.408431
+          ],
+          [
+            49.9475599,
+            40.4043924
+          ],
+          [
+            49.9504864,
+            40.4002234
+          ],
+          [
+            49.9529864,
+            40.3968851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52871068",
+      "properties": {
+        "@id": "way/52871068",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8790751,
+            40.4069368
+          ],
+          [
+            49.8792691,
+            40.4071185
+          ],
+          [
+            49.8795282,
+            40.4073326
+          ],
+          [
+            49.8799984,
+            40.4076853
+          ],
+          [
+            49.8802047,
+            40.4078556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/248963475",
+      "properties": {
+        "@id": "way/248963475",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8802047,
+            40.4078556
+          ],
+          [
+            49.8802957,
+            40.4079527
+          ],
+          [
+            49.8803692,
+            40.4080467
+          ],
+          [
+            49.8804451,
+            40.4081602
+          ],
+          [
+            49.8804846,
+            40.4082609
+          ],
+          [
+            49.8805241,
+            40.4083939
+          ],
+          [
+            49.880548,
+            40.408516
+          ],
+          [
+            49.8805638,
+            40.408641
+          ],
+          [
+            49.8805672,
+            40.4087695
+          ],
+          [
+            49.880557,
+            40.4088774
+          ],
+          [
+            49.8805094,
+            40.4090637
+          ],
+          [
+            49.8800805,
+            40.4104731
+          ],
+          [
+            49.8790413,
+            40.4137021
+          ],
+          [
+            49.8788376,
+            40.4143148
+          ],
+          [
+            49.8772068,
+            40.4191015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386319212",
+      "properties": {
+        "@id": "way/386319212",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 534625,
+            "reltags": {
+              "is_in": "Baku;Azerbaijan",
+              "name": "Bakı Metropoliteni",
+              "name:da": "Baku Metro",
+              "name:fr": "Métro de Bakou",
+              "name:pl": "Metro w Baku",
+              "name:tt": "Бакы метросы",
+              "name:uk": "Бакинський метрополітен",
+              "route": "subway",
+              "type": "route",
+              "website": "http://metro.gov.az/",
+              "wikipedia": "az:Bakı Metropoliteni"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8903948,
+            40.4146644
+          ],
+          [
+            49.892369,
+            40.4150018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/326420311",
+      "properties": {
+        "@id": "way/326420311",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 534625,
+            "reltags": {
+              "is_in": "Baku;Azerbaijan",
+              "name": "Bakı Metropoliteni",
+              "name:da": "Baku Metro",
+              "name:fr": "Métro de Bakou",
+              "name:pl": "Metro w Baku",
+              "name:tt": "Бакы метросы",
+              "name:uk": "Бакинський метрополітен",
+              "route": "subway",
+              "type": "route",
+              "website": "http://metro.gov.az/",
+              "wikipedia": "az:Bakı Metropoliteni"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.9529864,
+            40.3968851
+          ],
+          [
+            49.9537378,
+            40.3959023
+          ],
+          [
+            49.9538124,
+            40.3957159
+          ],
+          [
+            49.9538666,
+            40.3950139
+          ],
+          [
+            49.9539295,
+            40.3898942
+          ],
+          [
+            49.9539437,
+            40.3869019
+          ],
+          [
+            49.9539452,
+            40.3855583
+          ],
+          [
+            49.9539476,
+            40.3844638
+          ],
+          [
+            49.9539764,
+            40.381823
+          ],
+          [
+            49.9540099,
+            40.3788636
+          ],
+          [
+            49.953618,
+            40.373018
+          ],
+          [
+            49.9535532,
+            40.3712194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670198805",
+      "properties": {
+        "@id": "node/670198805",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8316454,
+          40.3659591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670217100",
+      "properties": {
+        "@id": "node/670217100",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456667,
+            "reltags": {
+              "colour": "green",
+              "name": "Line 2",
+              "ref": "2",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8154836,
+          40.3751519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670199291",
+      "properties": {
+        "@id": "node/670199291",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8445559,
+          40.3717359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2295524457",
+      "properties": {
+        "@id": "node/2295524457",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456667,
+            "reltags": {
+              "colour": "green",
+              "name": "Line 2",
+              "ref": "2",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8486969,
+          40.3798355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670199298",
+      "properties": {
+        "@id": "node/670199298",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456667,
+            "reltags": {
+              "colour": "green",
+              "name": "Line 2",
+              "ref": "2",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8723114,
+          40.3830015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670217274",
+      "properties": {
+        "@id": "node/670217274",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456667,
+            "reltags": {
+              "colour": "green",
+              "name": "Line 2",
+              "ref": "2",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8023575,
+          40.3890935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1930089762",
+      "properties": {
+        "@id": "node/1930089762",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456667,
+            "reltags": {
+              "colour": "green",
+              "name": "Line 2",
+              "ref": "2",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8077261,
+          40.4041604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670217372",
+      "properties": {
+        "@id": "node/670217372",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456667,
+            "reltags": {
+              "colour": "green",
+              "name": "Line 2",
+              "ref": "2",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8144358,
+          40.4107656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670219440",
+      "properties": {
+        "@id": "node/670219440",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8510078,
+          40.3998121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670217698",
+      "properties": {
+        "@id": "node/670217698",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456667,
+            "reltags": {
+              "colour": "green",
+              "name": "Line 2",
+              "ref": "2",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8263423,
+          40.4243764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1148914625",
+      "properties": {
+        "@id": "node/1148914625",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456667,
+            "reltags": {
+              "colour": "green",
+              "name": "Line 2",
+              "ref": "2",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8427875,
+          40.4259693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670219867",
+      "properties": {
+        "@id": "node/670219867",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8712645,
+          40.4035567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670220144",
+      "properties": {
+        "@id": "node/670220144",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8790413,
+          40.4137021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670220271",
+      "properties": {
+        "@id": "node/670220271",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.892369,
+          40.4150018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670220993",
+      "properties": {
+        "@id": "node/670220993",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.953618,
+          40.373018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670220979",
+      "properties": {
+        "@id": "node/670220979",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9539452,
+          40.3855583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670220733",
+      "properties": {
+        "@id": "node/670220733",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9529864,
+          40.3968851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670220410",
+      "properties": {
+        "@id": "node/670220410",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9425681,
+          40.411155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670220312",
+      "properties": {
+        "@id": "node/670220312",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9179603,
+          40.4208075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/670220397",
+      "properties": {
+        "@id": "node/670220397",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 456668,
+            "reltags": {
+              "colour": "red",
+              "name": "Line 1",
+              "ref": "1",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9339594,
+          40.4176118
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5967 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-18T06:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/26192812",
+      "properties": {
+        "@id": "way/26192812",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea A",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "A",
+        "start_date": "1913-12-01",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea A (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.370595,
+            -34.6087679
+          ],
+          [
+            -58.3706714,
+            -34.6087709
+          ],
+          [
+            -58.3720605,
+            -34.6088237
+          ],
+          [
+            -58.3725164,
+            -34.6087532
+          ],
+          [
+            -58.3735254,
+            -34.6086085
+          ],
+          [
+            -58.3738188,
+            -34.6086175
+          ],
+          [
+            -58.3775471,
+            -34.60886
+          ],
+          [
+            -58.3800553,
+            -34.6089777
+          ],
+          [
+            -58.3825611,
+            -34.6091274
+          ],
+          [
+            -58.3865888,
+            -34.6094355
+          ],
+          [
+            -58.3872054,
+            -34.6094861
+          ],
+          [
+            -58.3875535,
+            -34.6094916
+          ],
+          [
+            -58.3877449,
+            -34.6094439
+          ],
+          [
+            -58.3878894,
+            -34.6093915
+          ],
+          [
+            -58.3881856,
+            -34.6091925
+          ],
+          [
+            -58.388259,
+            -34.6091701
+          ],
+          [
+            -58.3883726,
+            -34.6091501
+          ],
+          [
+            -58.3905338,
+            -34.6091631
+          ],
+          [
+            -58.392555,
+            -34.6092997
+          ],
+          [
+            -58.3933304,
+            -34.6093521
+          ],
+          [
+            -58.3970734,
+            -34.6095739
+          ],
+          [
+            -58.3991185,
+            -34.6097417
+          ],
+          [
+            -58.4014618,
+            -34.609934
+          ],
+          [
+            -58.4056809,
+            -34.6101611
+          ],
+          [
+            -58.4058252,
+            -34.6101543
+          ],
+          [
+            -58.4066237,
+            -34.6098268
+          ],
+          [
+            -58.4068196,
+            -34.6097659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26198637",
+      "properties": {
+        "@id": "way/26198637",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1986-05-08",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.458014,
+            -34.639835
+          ],
+          [
+            -58.460537,
+            -34.641698
+          ],
+          [
+            -58.460832,
+            -34.6419534
+          ],
+          [
+            -58.4611091,
+            -34.6422303
+          ],
+          [
+            -58.4614272,
+            -34.6426115
+          ],
+          [
+            -58.4616516,
+            -34.6429077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26199103",
+      "properties": {
+        "@id": "way/26199103",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "B",
+        "start_date": "1931-12-01",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3691412,
+            -34.6029809
+          ],
+          [
+            -58.3694474,
+            -34.6030124
+          ],
+          [
+            -58.3702799,
+            -34.6030961
+          ],
+          [
+            -58.3706829,
+            -34.6031143
+          ],
+          [
+            -58.3710483,
+            -34.603151
+          ],
+          [
+            -58.373722,
+            -34.6033343
+          ],
+          [
+            -58.3740643,
+            -34.603371
+          ],
+          [
+            -58.3745696,
+            -34.6034057
+          ],
+          [
+            -58.3750985,
+            -34.6034287
+          ],
+          [
+            -58.3756287,
+            -34.6034385
+          ],
+          [
+            -58.3807266,
+            -34.6036601
+          ],
+          [
+            -58.3809242,
+            -34.6036927
+          ],
+          [
+            -58.3811698,
+            -34.6037034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53865348",
+      "properties": {
+        "@id": "way/53865348",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea H",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "H",
+        "start_date": "2010-12-06",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea H (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4053281,
+            -34.6041249
+          ],
+          [
+            -58.4054279,
+            -34.6045748
+          ],
+          [
+            -58.4056228,
+            -34.6053414
+          ],
+          [
+            -58.4056781,
+            -34.605575
+          ],
+          [
+            -58.4059239,
+            -34.6065585
+          ],
+          [
+            -58.4060742,
+            -34.6071881
+          ],
+          [
+            -58.4061001,
+            -34.6074887
+          ],
+          [
+            -58.4061094,
+            -34.6077615
+          ],
+          [
+            -58.4059959,
+            -34.6092415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93602136",
+      "properties": {
+        "@id": "way/93602136",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "B",
+        "start_date": "2013-07-26",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4742532,
+            -34.5814005
+          ],
+          [
+            -58.474844,
+            -34.5807403
+          ],
+          [
+            -58.4749739,
+            -34.5805493
+          ],
+          [
+            -58.4752442,
+            -34.5802285
+          ],
+          [
+            -58.4754272,
+            -34.580059
+          ],
+          [
+            -58.4755805,
+            -34.5799781
+          ],
+          [
+            -58.4757895,
+            -34.5798986
+          ],
+          [
+            -58.4771765,
+            -34.5795748
+          ],
+          [
+            -58.4783901,
+            -34.5792964
+          ],
+          [
+            -58.4789621,
+            -34.5791438
+          ],
+          [
+            -58.479211,
+            -34.5790087
+          ],
+          [
+            -58.4794541,
+            -34.5788461
+          ],
+          [
+            -58.4841941,
+            -34.5756766
+          ],
+          [
+            -58.486104,
+            -34.5745696
+          ],
+          [
+            -58.4863283,
+            -34.5744032
+          ],
+          [
+            -58.4866522,
+            -34.5741547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93602386",
+      "properties": {
+        "@id": "way/93602386",
+        "electrified": "contact_line",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea A",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "A",
+        "start_date": "2013-09-27",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea A (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4560999,
+            -34.6264658
+          ],
+          [
+            -58.4598229,
+            -34.6279665
+          ],
+          [
+            -58.4611624,
+            -34.6284243
+          ],
+          [
+            -58.4625488,
+            -34.6288208
+          ],
+          [
+            -58.4634698,
+            -34.629093
+          ],
+          [
+            -58.4655139,
+            -34.6296833
+          ],
+          [
+            -58.466847,
+            -34.630008
+          ],
+          [
+            -58.4695322,
+            -34.6307032
+          ],
+          [
+            -58.4698343,
+            -34.6308199
+          ],
+          [
+            -58.470462,
+            -34.6309878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/140023932",
+      "properties": {
+        "@id": "way/140023932",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "railway": "subway",
+        "service": "yard",
+        "tunnel": "yes",
+        "voltage": "1100"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4423607,
+            -34.6210049
+          ],
+          [
+            -58.4428429,
+            -34.6212417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/140023942",
+      "properties": {
+        "@id": "way/140023942",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "railway": "subway",
+        "service": "yard",
+        "voltage": "1100"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4440716,
+            -34.6217478
+          ],
+          [
+            -58.4437385,
+            -34.6216076
+          ],
+          [
+            -58.4433317,
+            -34.6214358
+          ],
+          [
+            -58.4428429,
+            -34.6212417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143486057",
+      "properties": {
+        "@id": "way/143486057",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "2000",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4624581,
+            -34.5554935
+          ],
+          [
+            -58.4618673,
+            -34.5561064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/209809633",
+      "properties": {
+        "@id": "way/209809633",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1966-04-24",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3736437,
+            -34.6093226
+          ],
+          [
+            -58.3738457,
+            -34.6094855
+          ],
+          [
+            -58.3746338,
+            -34.6101765
+          ],
+          [
+            -58.3761401,
+            -34.6115713
+          ],
+          [
+            -58.3775506,
+            -34.6128784
+          ],
+          [
+            -58.3776081,
+            -34.6129484
+          ],
+          [
+            -58.381459,
+            -34.6177704
+          ],
+          [
+            -58.3814745,
+            -34.6178073
+          ],
+          [
+            -58.3814591,
+            -34.6181108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/216938890",
+      "properties": {
+        "@id": "way/216938890",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea H",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "H",
+        "start_date": "2013-05-27",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea H (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4059356,
+            -34.6377201
+          ],
+          [
+            -58.4064452,
+            -34.6378175
+          ],
+          [
+            -58.4078293,
+            -34.6381088
+          ],
+          [
+            -58.4093249,
+            -34.638404
+          ],
+          [
+            -58.4106563,
+            -34.6386119
+          ],
+          [
+            -58.4108655,
+            -34.6386649
+          ],
+          [
+            -58.4110425,
+            -34.6387267
+          ],
+          [
+            -58.4111445,
+            -34.6387752
+          ],
+          [
+            -58.4112035,
+            -34.6388282
+          ],
+          [
+            -58.4113243,
+            -34.6389679
+          ],
+          [
+            -58.4119379,
+            -34.6400614
+          ],
+          [
+            -58.4123244,
+            -34.6408732
+          ],
+          [
+            -58.4126445,
+            -34.6416893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221908241",
+      "properties": {
+        "@id": "way/221908241",
+        "description": "antigua traza de la línea E; el túnel existe todavía",
+        "gauge": "1435",
+        "layer": "-1",
+        "railway": "subway",
+        "service": "yard",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3804987,
+            -34.6257414
+          ],
+          [
+            -58.380599,
+            -34.6252582
+          ],
+          [
+            -58.3808774,
+            -34.6244905
+          ],
+          [
+            -58.3813336,
+            -34.6238499
+          ],
+          [
+            -58.382049,
+            -34.6230865
+          ],
+          [
+            -58.382798,
+            -34.6226449
+          ],
+          [
+            -58.3838375,
+            -34.6224287
+          ],
+          [
+            -58.3844401,
+            -34.6223086
+          ],
+          [
+            -58.3846417,
+            -34.6222944
+          ],
+          [
+            -58.3852178,
+            -34.6223357
+          ],
+          [
+            -58.3863165,
+            -34.6224208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221908244",
+      "properties": {
+        "@id": "way/221908244",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1966-04-24",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3814591,
+            -34.6181108
+          ],
+          [
+            -58.3814115,
+            -34.6210746
+          ],
+          [
+            -58.3814392,
+            -34.6212022
+          ],
+          [
+            -58.3815172,
+            -34.6213426
+          ],
+          [
+            -58.3816728,
+            -34.6214839
+          ],
+          [
+            -58.3818608,
+            -34.6215834
+          ],
+          [
+            -58.3820429,
+            -34.6216605
+          ],
+          [
+            -58.3824962,
+            -34.6218307
+          ],
+          [
+            -58.3837727,
+            -34.6221666
+          ],
+          [
+            -58.3844084,
+            -34.6223234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221908245",
+      "properties": {
+        "@id": "way/221908245",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3863188,
+            -34.6223939
+          ],
+          [
+            -58.3859449,
+            -34.6223192
+          ],
+          [
+            -58.3852272,
+            -34.6222701
+          ],
+          [
+            -58.3847027,
+            -34.6222251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/221908246",
+      "properties": {
+        "@id": "way/221908246",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3844084,
+            -34.6223234
+          ],
+          [
+            -58.3847336,
+            -34.6223924
+          ],
+          [
+            -58.3852133,
+            -34.6224189
+          ],
+          [
+            -58.3859305,
+            -34.6224585
+          ],
+          [
+            -58.3863165,
+            -34.6224208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224417716",
+      "properties": {
+        "@id": "way/224417716",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Taller Parque Patricios",
+        "network": "Subte de Buenos Aires",
+        "note": "recorrido estimado",
+        "railway": "subway",
+        "service": "yard",
+        "tunnel": "yes",
+        "wikipedia": "es:Cochera-Taller Parque Patricios (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4069772,
+            -34.6385034
+          ],
+          [
+            -58.407165,
+            -34.6386303
+          ],
+          [
+            -58.4110394,
+            -34.6395074
+          ],
+          [
+            -58.4115986,
+            -34.6396893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224417717",
+      "properties": {
+        "@id": "way/224417717",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Taller Parque Patricios",
+        "network": "Subte de Buenos Aires",
+        "note": "recorrido estimado",
+        "railway": "subway",
+        "service": "yard",
+        "tunnel": "yes",
+        "wikipedia": "es:Cochera-Taller Parque Patricios (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4119379,
+            -34.6400614
+          ],
+          [
+            -58.4115986,
+            -34.6396893
+          ],
+          [
+            -58.4110796,
+            -34.6394191
+          ],
+          [
+            -58.4108568,
+            -34.6393694
+          ],
+          [
+            -58.410464,
+            -34.6392817
+          ],
+          [
+            -58.4069772,
+            -34.6385034
+          ],
+          [
+            -58.4064452,
+            -34.6378175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232580830",
+      "properties": {
+        "@id": "way/232580830",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "B",
+        "start_date": "2003-08-09",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4549277,
+            -34.5872722
+          ],
+          [
+            -58.4551271,
+            -34.5872064
+          ],
+          [
+            -58.4591219,
+            -34.5858884
+          ],
+          [
+            -58.4595116,
+            -34.5857518
+          ],
+          [
+            -58.4598348,
+            -34.5856735
+          ],
+          [
+            -58.4601219,
+            -34.5856524
+          ],
+          [
+            -58.4603888,
+            -34.5856663
+          ],
+          [
+            -58.4614372,
+            -34.5857801
+          ],
+          [
+            -58.4620803,
+            -34.5855659
+          ],
+          [
+            -58.4653658,
+            -34.5844399
+          ],
+          [
+            -58.4656227,
+            -34.584383
+          ],
+          [
+            -58.4663944,
+            -34.584119
+          ],
+          [
+            -58.4668723,
+            -34.5839555
+          ],
+          [
+            -58.4670728,
+            -34.5838599
+          ],
+          [
+            -58.4675488,
+            -34.5836954
+          ],
+          [
+            -58.4694967,
+            -34.5830642
+          ],
+          [
+            -58.4709344,
+            -34.5826361
+          ],
+          [
+            -58.4720661,
+            -34.5822659
+          ],
+          [
+            -58.4735195,
+            -34.5818009
+          ],
+          [
+            -58.4737455,
+            -34.581733
+          ],
+          [
+            -58.4739825,
+            -34.5816469
+          ],
+          [
+            -58.4741232,
+            -34.5815364
+          ],
+          [
+            -58.4742532,
+            -34.5814005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232580831",
+      "properties": {
+        "@id": "way/232580831",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "B",
+        "start_date": "1930-10-17",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3928395,
+            -34.6044668
+          ],
+          [
+            -58.3933152,
+            -34.6044825
+          ],
+          [
+            -58.39616,
+            -34.6045312
+          ],
+          [
+            -58.3995083,
+            -34.6046617
+          ],
+          [
+            -58.4035721,
+            -34.6047763
+          ],
+          [
+            -58.4054543,
+            -34.6045754
+          ],
+          [
+            -58.4066803,
+            -34.6044446
+          ],
+          [
+            -58.4088106,
+            -34.6041566
+          ],
+          [
+            -58.4095513,
+            -34.6040988
+          ],
+          [
+            -58.4104735,
+            -34.6040589
+          ],
+          [
+            -58.4113975,
+            -34.6040989
+          ],
+          [
+            -58.411819,
+            -34.6041172
+          ],
+          [
+            -58.4131352,
+            -34.6041806
+          ],
+          [
+            -58.4144774,
+            -34.604071
+          ],
+          [
+            -58.4155993,
+            -34.6038461
+          ],
+          [
+            -58.4167317,
+            -34.6036354
+          ],
+          [
+            -58.418757,
+            -34.603416
+          ],
+          [
+            -58.4208612,
+            -34.6032071
+          ],
+          [
+            -58.4226407,
+            -34.6030305
+          ],
+          [
+            -58.4249081,
+            -34.6027878
+          ],
+          [
+            -58.4271303,
+            -34.6025874
+          ],
+          [
+            -58.4301155,
+            -34.6022814
+          ],
+          [
+            -58.4314985,
+            -34.6021419
+          ],
+          [
+            -58.4318726,
+            -34.6021042
+          ],
+          [
+            -58.432351,
+            -34.6020212
+          ],
+          [
+            -58.4334701,
+            -34.6016616
+          ],
+          [
+            -58.4348137,
+            -34.6012068
+          ],
+          [
+            -58.4360688,
+            -34.6007752
+          ],
+          [
+            -58.4360926,
+            -34.6007663
+          ],
+          [
+            -58.4383681,
+            -34.6000051
+          ],
+          [
+            -58.4387006,
+            -34.599894
+          ],
+          [
+            -58.4388639,
+            -34.5997997
+          ],
+          [
+            -58.4390693,
+            -34.5996223
+          ],
+          [
+            -58.4397225,
+            -34.599024
+          ],
+          [
+            -58.4406454,
+            -34.5981674
+          ],
+          [
+            -58.4449817,
+            -34.5941294
+          ],
+          [
+            -58.4459284,
+            -34.5932707
+          ],
+          [
+            -58.4475047,
+            -34.5917723
+          ],
+          [
+            -58.4491794,
+            -34.5901803
+          ],
+          [
+            -58.4499506,
+            -34.5894353
+          ],
+          [
+            -58.4506707,
+            -34.5888274
+          ],
+          [
+            -58.4511832,
+            -34.5886258
+          ],
+          [
+            -58.4527365,
+            -34.588076
+          ],
+          [
+            -58.4549277,
+            -34.5872722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232580832",
+      "properties": {
+        "@id": "way/232580832",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "B",
+        "start_date": "1931-06-22",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3811698,
+            -34.6037034
+          ],
+          [
+            -58.3818408,
+            -34.6037473
+          ],
+          [
+            -58.3820993,
+            -34.6037404
+          ],
+          [
+            -58.385087,
+            -34.6039359
+          ],
+          [
+            -58.3867937,
+            -34.604039
+          ],
+          [
+            -58.3878963,
+            -34.6041213
+          ],
+          [
+            -58.3904447,
+            -34.6043231
+          ],
+          [
+            -58.3917431,
+            -34.6044253
+          ],
+          [
+            -58.392208,
+            -34.6044461
+          ],
+          [
+            -58.3928395,
+            -34.6044668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232581228",
+      "properties": {
+        "@id": "way/232581228",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea A",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "A",
+        "start_date": "1914-07-14",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea A (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4294726,
+            -34.6152681
+          ],
+          [
+            -58.4306502,
+            -34.6157895
+          ],
+          [
+            -58.4318228,
+            -34.6163171
+          ],
+          [
+            -58.4359501,
+            -34.6181157
+          ],
+          [
+            -58.4364178,
+            -34.6183173
+          ],
+          [
+            -58.437744,
+            -34.6189707
+          ],
+          [
+            -58.4388918,
+            -34.6194906
+          ],
+          [
+            -58.4413805,
+            -34.620612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232581229",
+      "properties": {
+        "@id": "way/232581229",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea A",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "A",
+        "start_date": "1914-04-01",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea A (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4068196,
+            -34.6097659
+          ],
+          [
+            -58.4079483,
+            -34.6098861
+          ],
+          [
+            -58.4085233,
+            -34.6100234
+          ],
+          [
+            -58.4088436,
+            -34.6101776
+          ],
+          [
+            -58.4092961,
+            -34.6103073
+          ],
+          [
+            -58.413063,
+            -34.6106938
+          ],
+          [
+            -58.4155489,
+            -34.6108401
+          ],
+          [
+            -58.4183963,
+            -34.6110621
+          ],
+          [
+            -58.4197143,
+            -34.6111865
+          ],
+          [
+            -58.421004,
+            -34.6114919
+          ],
+          [
+            -58.4261132,
+            -34.6137784
+          ],
+          [
+            -58.4294726,
+            -34.6152681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232581230",
+      "properties": {
+        "@id": "way/232581230",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea A",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "A",
+        "start_date": "2008-12-22",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea A (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4413805,
+            -34.620612
+          ],
+          [
+            -58.4423607,
+            -34.6210049
+          ],
+          [
+            -58.442847,
+            -34.6211999
+          ],
+          [
+            -58.4443175,
+            -34.621869
+          ],
+          [
+            -58.4450742,
+            -34.6221986
+          ],
+          [
+            -58.4462609,
+            -34.6226543
+          ],
+          [
+            -58.4471263,
+            -34.6229866
+          ],
+          [
+            -58.4481025,
+            -34.6233596
+          ],
+          [
+            -58.4486347,
+            -34.6235719
+          ],
+          [
+            -58.4508628,
+            -34.6244609
+          ],
+          [
+            -58.4520044,
+            -34.6248943
+          ],
+          [
+            -58.4539848,
+            -34.6256308
+          ],
+          [
+            -58.4560999,
+            -34.6264658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232582324",
+      "properties": {
+        "@id": "way/232582324",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "1940",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4256166,
+            -34.5784525
+          ],
+          [
+            -58.4251016,
+            -34.5787303
+          ],
+          [
+            -58.4249231,
+            -34.5788826
+          ],
+          [
+            -58.4241701,
+            -34.579374
+          ],
+          [
+            -58.4235177,
+            -34.5798041
+          ],
+          [
+            -58.4217831,
+            -34.5809797
+          ],
+          [
+            -58.4215744,
+            -34.5810839
+          ],
+          [
+            -58.4210609,
+            -34.5814299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232639708",
+      "properties": {
+        "@id": "way/232639708",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1985-10-07",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4338902,
+            -34.6280385
+          ],
+          [
+            -58.4365569,
+            -34.628434
+          ],
+          [
+            -58.439083,
+            -34.6288285
+          ],
+          [
+            -58.4392618,
+            -34.6288709
+          ],
+          [
+            -58.4393698,
+            -34.6289393
+          ],
+          [
+            -58.4409252,
+            -34.6301325
+          ],
+          [
+            -58.4423034,
+            -34.6311705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232639709",
+      "properties": {
+        "@id": "way/232639709",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1985-10-31",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4423034,
+            -34.6311705
+          ],
+          [
+            -58.4423409,
+            -34.6312173
+          ],
+          [
+            -58.4427998,
+            -34.6329609
+          ],
+          [
+            -58.4428979,
+            -34.6331324
+          ],
+          [
+            -58.4430328,
+            -34.6332632
+          ],
+          [
+            -58.4447621,
+            -34.6345693
+          ],
+          [
+            -58.4464771,
+            -34.6356942
+          ],
+          [
+            -58.4471941,
+            -34.6360194
+          ],
+          [
+            -58.4479662,
+            -34.6362397
+          ],
+          [
+            -58.4486258,
+            -34.6363589
+          ],
+          [
+            -58.4495434,
+            -34.6363378
+          ],
+          [
+            -58.4501925,
+            -34.6363161
+          ],
+          [
+            -58.4506832,
+            -34.6363043
+          ],
+          [
+            -58.451314,
+            -34.6362958
+          ],
+          [
+            -58.4517424,
+            -34.6363126
+          ],
+          [
+            -58.4521147,
+            -34.6363388
+          ],
+          [
+            -58.4524772,
+            -34.636392
+          ],
+          [
+            -58.4527733,
+            -34.6364571
+          ],
+          [
+            -58.4529934,
+            -34.6365234
+          ],
+          [
+            -58.4533075,
+            -34.6366311
+          ],
+          [
+            -58.4535482,
+            -34.6367283
+          ],
+          [
+            -58.4538096,
+            -34.6368553
+          ],
+          [
+            -58.4542616,
+            -34.6371013
+          ],
+          [
+            -58.4548688,
+            -34.6374816
+          ],
+          [
+            -58.4556189,
+            -34.6379663
+          ],
+          [
+            -58.456287,
+            -34.6384302
+          ],
+          [
+            -58.458014,
+            -34.639835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232650181",
+      "properties": {
+        "@id": "way/232650181",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "name": "Línea H",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "H",
+        "start_date": "2007-10-18",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea H (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4059959,
+            -34.6092415
+          ],
+          [
+            -58.4058408,
+            -34.6112767
+          ],
+          [
+            -58.40555,
+            -34.6124429
+          ],
+          [
+            -58.4048095,
+            -34.6150041
+          ],
+          [
+            -58.4045592,
+            -34.6158531
+          ],
+          [
+            -58.4041007,
+            -34.6170589
+          ],
+          [
+            -58.4034793,
+            -34.6188792
+          ],
+          [
+            -58.4027962,
+            -34.6211396
+          ],
+          [
+            -58.4023061,
+            -34.6230774
+          ],
+          [
+            -58.4017765,
+            -34.6252342
+          ],
+          [
+            -58.4015453,
+            -34.626395
+          ],
+          [
+            -58.4012928,
+            -34.627456
+          ],
+          [
+            -58.4010442,
+            -34.6286708
+          ],
+          [
+            -58.4009462,
+            -34.6293019
+          ],
+          [
+            -58.4006578,
+            -34.6310431
+          ],
+          [
+            -58.4005368,
+            -34.6315223
+          ],
+          [
+            -58.4004955,
+            -34.6316576
+          ],
+          [
+            -58.400083,
+            -34.6326398
+          ],
+          [
+            -58.3996339,
+            -34.6337581
+          ],
+          [
+            -58.3992507,
+            -34.6347824
+          ],
+          [
+            -58.3988998,
+            -34.635775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232650182",
+      "properties": {
+        "@id": "way/232650182",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea H",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "H",
+        "start_date": "2011-10-04",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea H (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3988998,
+            -34.635775
+          ],
+          [
+            -58.398856,
+            -34.6358793
+          ],
+          [
+            -58.3988372,
+            -34.6359576
+          ],
+          [
+            -58.3988405,
+            -34.6360429
+          ],
+          [
+            -58.3988675,
+            -34.6361039
+          ],
+          [
+            -58.3989051,
+            -34.6361613
+          ],
+          [
+            -58.3989695,
+            -34.6362055
+          ],
+          [
+            -58.3990338,
+            -34.6362452
+          ],
+          [
+            -58.3990928,
+            -34.6362761
+          ],
+          [
+            -58.3991787,
+            -34.6363202
+          ],
+          [
+            -58.399286,
+            -34.6363599
+          ],
+          [
+            -58.3994469,
+            -34.6363952
+          ],
+          [
+            -58.4008096,
+            -34.6366726
+          ],
+          [
+            -58.4031579,
+            -34.637162
+          ],
+          [
+            -58.4059356,
+            -34.6377201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233570688",
+      "properties": {
+        "@id": "way/233570688",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1973-06-23",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4267536,
+            -34.6270745
+          ],
+          [
+            -58.4269391,
+            -34.6271006
+          ],
+          [
+            -58.4275517,
+            -34.6271345
+          ],
+          [
+            -58.428081,
+            -34.627207
+          ],
+          [
+            -58.4309457,
+            -34.6276169
+          ],
+          [
+            -58.4338902,
+            -34.6280385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233570689",
+      "properties": {
+        "@id": "way/233570689",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1966",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4164273,
+            -34.6255758
+          ],
+          [
+            -58.4166508,
+            -34.6256102
+          ],
+          [
+            -58.4173121,
+            -34.6256362
+          ],
+          [
+            -58.4214627,
+            -34.626234
+          ],
+          [
+            -58.4253546,
+            -34.6268197
+          ],
+          [
+            -58.4258746,
+            -34.6269536
+          ],
+          [
+            -58.4267536,
+            -34.6270745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234142394",
+      "properties": {
+        "@id": "way/234142394",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1944",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3863165,
+            -34.6224208
+          ],
+          [
+            -58.3871191,
+            -34.622469
+          ],
+          [
+            -58.3914486,
+            -34.6227555
+          ],
+          [
+            -58.3953333,
+            -34.6229985
+          ],
+          [
+            -58.3963906,
+            -34.6230855
+          ],
+          [
+            -58.39757,
+            -34.6232278
+          ],
+          [
+            -58.4003015,
+            -34.6235661
+          ],
+          [
+            -58.4023914,
+            -34.6238451
+          ],
+          [
+            -58.4041147,
+            -34.6240339
+          ],
+          [
+            -58.4058399,
+            -34.6242387
+          ],
+          [
+            -58.4092547,
+            -34.6246552
+          ],
+          [
+            -58.4125037,
+            -34.6250253
+          ],
+          [
+            -58.4135388,
+            -34.625146
+          ],
+          [
+            -58.4146354,
+            -34.6252963
+          ],
+          [
+            -58.4155846,
+            -34.6254554
+          ],
+          [
+            -58.4164273,
+            -34.6255758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234142596",
+      "properties": {
+        "@id": "way/234142596",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "note": "La Línea D queda debajo del Arroyo Maldonado",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "1987",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4344314,
+            -34.5753208
+          ],
+          [
+            -58.43439,
+            -34.5753389
+          ],
+          [
+            -58.4316033,
+            -34.5765598
+          ],
+          [
+            -58.4300948,
+            -34.5770147
+          ],
+          [
+            -58.426348,
+            -34.5781382
+          ],
+          [
+            -58.4261109,
+            -34.5781859
+          ],
+          [
+            -58.4256166,
+            -34.5784525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234142597",
+      "properties": {
+        "@id": "way/234142597",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "1938",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4210609,
+            -34.5814299
+          ],
+          [
+            -58.4205429,
+            -34.5818026
+          ],
+          [
+            -58.4203773,
+            -34.5819645
+          ],
+          [
+            -58.4180669,
+            -34.583632
+          ],
+          [
+            -58.4158862,
+            -34.5851455
+          ],
+          [
+            -58.4113208,
+            -34.5881461
+          ],
+          [
+            -58.4100506,
+            -34.5890098
+          ],
+          [
+            -58.4096639,
+            -34.5893107
+          ],
+          [
+            -58.4070568,
+            -34.5916901
+          ],
+          [
+            -58.4050575,
+            -34.5933177
+          ],
+          [
+            -58.403631,
+            -34.5940467
+          ],
+          [
+            -58.4034164,
+            -34.5941159
+          ],
+          [
+            -58.403178,
+            -34.594159
+          ],
+          [
+            -58.4025407,
+            -34.594357
+          ],
+          [
+            -58.4019182,
+            -34.5945504
+          ],
+          [
+            -58.4017816,
+            -34.5946236
+          ],
+          [
+            -58.4012167,
+            -34.5949954
+          ],
+          [
+            -58.4009154,
+            -34.5953952
+          ],
+          [
+            -58.4007571,
+            -34.5957751
+          ],
+          [
+            -58.4006628,
+            -34.5961873
+          ],
+          [
+            -58.4006393,
+            -34.5965338
+          ],
+          [
+            -58.4006426,
+            -34.5969406
+          ],
+          [
+            -58.4006426,
+            -34.5977036
+          ],
+          [
+            -58.4005876,
+            -34.5982196
+          ],
+          [
+            -58.4005568,
+            -34.5985091
+          ],
+          [
+            -58.4004572,
+            -34.5988754
+          ],
+          [
+            -58.4003078,
+            -34.5990844
+          ],
+          [
+            -58.4001782,
+            -34.5992416
+          ],
+          [
+            -58.3999704,
+            -34.5994008
+          ],
+          [
+            -58.399715,
+            -34.5995304
+          ],
+          [
+            -58.3991545,
+            -34.5996934
+          ],
+          [
+            -58.3987146,
+            -34.5997222
+          ],
+          [
+            -58.3977798,
+            -34.5997314
+          ],
+          [
+            -58.3972047,
+            -34.5997132
+          ],
+          [
+            -58.3927423,
+            -34.5996155
+          ],
+          [
+            -58.390515,
+            -34.5995011
+          ],
+          [
+            -58.389785,
+            -34.5996264
+          ],
+          [
+            -58.3889887,
+            -34.5998875
+          ],
+          [
+            -58.3854968,
+            -34.6012058
+          ],
+          [
+            -58.3851713,
+            -34.6013947
+          ],
+          [
+            -58.3847152,
+            -34.6018233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234142598",
+      "properties": {
+        "@id": "way/234142598",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "1999",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4563075,
+            -34.5623996
+          ],
+          [
+            -58.4542396,
+            -34.5648358
+          ],
+          [
+            -58.4541623,
+            -34.5649092
+          ],
+          [
+            -58.4531571,
+            -34.5655853
+          ],
+          [
+            -58.452026,
+            -34.5662083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234142599",
+      "properties": {
+        "@id": "way/234142599",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "1937",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3847152,
+            -34.6018233
+          ],
+          [
+            -58.3842626,
+            -34.6022486
+          ],
+          [
+            -58.3840788,
+            -34.6023965
+          ],
+          [
+            -58.3833634,
+            -34.6028384
+          ],
+          [
+            -58.380734,
+            -34.6041662
+          ],
+          [
+            -58.3802345,
+            -34.6044266
+          ],
+          [
+            -58.3793048,
+            -34.604911
+          ],
+          [
+            -58.3738285,
+            -34.6078696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234142600",
+      "properties": {
+        "@id": "way/234142600",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "source": "Bing",
+        "start_date": "1997",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4344314,
+            -34.5753208
+          ],
+          [
+            -58.4395332,
+            -34.5727302
+          ],
+          [
+            -58.4413153,
+            -34.5717875
+          ],
+          [
+            -58.4443494,
+            -34.570237
+          ],
+          [
+            -58.4489297,
+            -34.5678826
+          ],
+          [
+            -58.4501668,
+            -34.5672265
+          ],
+          [
+            -58.452026,
+            -34.5662083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/240265404",
+      "properties": {
+        "@id": "way/240265404",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea H",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "H",
+        "start_date": "2015-12-18",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea H (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3971722,
+            -34.5875482
+          ],
+          [
+            -58.3977084,
+            -34.5877957
+          ],
+          [
+            -58.3987531,
+            -34.5884872
+          ],
+          [
+            -58.3998081,
+            -34.5892143
+          ],
+          [
+            -58.3999444,
+            -34.5894177
+          ],
+          [
+            -58.4003548,
+            -34.590269
+          ],
+          [
+            -58.4010496,
+            -34.5916214
+          ],
+          [
+            -58.4024468,
+            -34.5947407
+          ],
+          [
+            -58.4028768,
+            -34.5958739
+          ],
+          [
+            -58.4037163,
+            -34.5985644
+          ],
+          [
+            -58.4047455,
+            -34.6018625
+          ],
+          [
+            -58.4053281,
+            -34.6041249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/306291534",
+      "properties": {
+        "@id": "way/306291534",
+        "ele": "-1",
+        "electrified": "contact_line",
+        "name": "Línea C",
+        "railway": "subway",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3811209,
+            -34.6278111
+          ],
+          [
+            -58.3811212,
+            -34.6278005
+          ],
+          [
+            -58.3811419,
+            -34.6272424
+          ],
+          [
+            -58.3811338,
+            -34.6271905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/306291536",
+      "properties": {
+        "@id": "way/306291536",
+        "ele": "-1",
+        "electrified": "contact_line",
+        "name": "Línea C",
+        "railway": "subway",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.381103,
+            -34.6271995
+          ],
+          [
+            -58.3811083,
+            -34.6272487
+          ],
+          [
+            -58.3810966,
+            -34.6278003
+          ],
+          [
+            -58.3810962,
+            -34.6278113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333651439",
+      "properties": {
+        "@id": "way/333651439",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "B",
+        "start_date": "2013-07-26",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4865933,
+            -34.5741033
+          ],
+          [
+            -58.4862844,
+            -34.5743661
+          ],
+          [
+            -58.4860622,
+            -34.5745242
+          ],
+          [
+            -58.4841743,
+            -34.5756552
+          ],
+          [
+            -58.4794266,
+            -34.5788166
+          ],
+          [
+            -58.4791908,
+            -34.5789735
+          ],
+          [
+            -58.4789475,
+            -34.5791193
+          ],
+          [
+            -58.4783807,
+            -34.5792706
+          ],
+          [
+            -58.4771676,
+            -34.5795489
+          ],
+          [
+            -58.4757781,
+            -34.5798733
+          ],
+          [
+            -58.4755647,
+            -34.5799544
+          ],
+          [
+            -58.4754057,
+            -34.5800383
+          ],
+          [
+            -58.4752184,
+            -34.5802118
+          ],
+          [
+            -58.4749341,
+            -34.5805247
+          ],
+          [
+            -58.4747481,
+            -34.5806888
+          ],
+          [
+            -58.474168,
+            -34.5813517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333651442",
+      "properties": {
+        "@id": "way/333651442",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "B",
+        "start_date": "2003-08-09",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.474168,
+            -34.5813517
+          ],
+          [
+            -58.4740521,
+            -34.5814848
+          ],
+          [
+            -58.4739395,
+            -34.5815914
+          ],
+          [
+            -58.4737288,
+            -34.5816961
+          ],
+          [
+            -58.473507,
+            -34.581776
+          ],
+          [
+            -58.4720541,
+            -34.5822409
+          ],
+          [
+            -58.4709228,
+            -34.5826108
+          ],
+          [
+            -58.4694851,
+            -34.583039
+          ],
+          [
+            -58.467536,
+            -34.5836706
+          ],
+          [
+            -58.4670592,
+            -34.5838354
+          ],
+          [
+            -58.4668226,
+            -34.5838849
+          ],
+          [
+            -58.4663482,
+            -34.5840472
+          ],
+          [
+            -58.4655791,
+            -34.5843102
+          ],
+          [
+            -58.4653553,
+            -34.5844143
+          ],
+          [
+            -58.462068,
+            -34.5855409
+          ],
+          [
+            -58.4614329,
+            -34.5857524
+          ],
+          [
+            -58.460392,
+            -34.5856395
+          ],
+          [
+            -58.4601215,
+            -34.5856254
+          ],
+          [
+            -58.4598287,
+            -34.5856469
+          ],
+          [
+            -58.4595005,
+            -34.5857264
+          ],
+          [
+            -58.4591094,
+            -34.5858635
+          ],
+          [
+            -58.4559599,
+            -34.5869031
+          ],
+          [
+            -58.4557182,
+            -34.5869824
+          ],
+          [
+            -58.4549149,
+            -34.5872474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333651447",
+      "properties": {
+        "@id": "way/333651447",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "B",
+        "start_date": "1931-12-01",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3811678,
+            -34.603636
+          ],
+          [
+            -58.3809219,
+            -34.6036253
+          ],
+          [
+            -58.3807285,
+            -34.6036332
+          ],
+          [
+            -58.3756263,
+            -34.6034114
+          ],
+          [
+            -58.3751024,
+            -34.6033609
+          ],
+          [
+            -58.3745738,
+            -34.6033297
+          ],
+          [
+            -58.3740662,
+            -34.6033031
+          ],
+          [
+            -58.3737244,
+            -34.6033075
+          ],
+          [
+            -58.3710517,
+            -34.6031242
+          ],
+          [
+            -58.3706899,
+            -34.6030878
+          ],
+          [
+            -58.3702962,
+            -34.6030263
+          ],
+          [
+            -58.3694626,
+            -34.6029425
+          ],
+          [
+            -58.3691523,
+            -34.6029095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333651451",
+      "properties": {
+        "@id": "way/333651451",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "B",
+        "start_date": "1930-10-17",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4549149,
+            -34.5872474
+          ],
+          [
+            -58.4527234,
+            -34.5880513
+          ],
+          [
+            -58.4511697,
+            -34.5886012
+          ],
+          [
+            -58.4506513,
+            -34.5888052
+          ],
+          [
+            -58.4499264,
+            -34.5894171
+          ],
+          [
+            -58.4491544,
+            -34.5901628
+          ],
+          [
+            -58.44748,
+            -34.5917546
+          ],
+          [
+            -58.4459041,
+            -34.5932527
+          ],
+          [
+            -58.4449573,
+            -34.5941114
+          ],
+          [
+            -58.440621,
+            -34.5981493
+          ],
+          [
+            -58.4396942,
+            -34.599007
+          ],
+          [
+            -58.439045,
+            -34.5996042
+          ],
+          [
+            -58.4388424,
+            -34.5997791
+          ],
+          [
+            -58.4386848,
+            -34.5998702
+          ],
+          [
+            -58.4383558,
+            -34.5999801
+          ],
+          [
+            -58.4360796,
+            -34.6007416
+          ],
+          [
+            -58.4360557,
+            -34.6007505
+          ],
+          [
+            -58.4348011,
+            -34.6011819
+          ],
+          [
+            -58.4334659,
+            -34.6016178
+          ],
+          [
+            -58.4323416,
+            -34.6019953
+          ],
+          [
+            -58.4318674,
+            -34.6020776
+          ],
+          [
+            -58.4314946,
+            -34.6021152
+          ],
+          [
+            -58.4301114,
+            -34.6022546
+          ],
+          [
+            -58.4271265,
+            -34.6025606
+          ],
+          [
+            -58.4249042,
+            -34.602761
+          ],
+          [
+            -58.4226366,
+            -34.6030038
+          ],
+          [
+            -58.4208572,
+            -34.6031804
+          ],
+          [
+            -58.4187529,
+            -34.6033893
+          ],
+          [
+            -58.4167254,
+            -34.6036089
+          ],
+          [
+            -58.4155918,
+            -34.6038198
+          ],
+          [
+            -58.4144724,
+            -34.6040443
+          ],
+          [
+            -58.4131345,
+            -34.6041536
+          ],
+          [
+            -58.411821,
+            -34.6040903
+          ],
+          [
+            -58.4113993,
+            -34.604072
+          ],
+          [
+            -58.4104734,
+            -34.6040319
+          ],
+          [
+            -58.4095489,
+            -34.6040719
+          ],
+          [
+            -58.4088064,
+            -34.6041298
+          ],
+          [
+            -58.4066754,
+            -34.604418
+          ],
+          [
+            -58.40545,
+            -34.6045488
+          ],
+          [
+            -58.4035707,
+            -34.6047493
+          ],
+          [
+            -58.3994331,
+            -34.6046372
+          ],
+          [
+            -58.3961611,
+            -34.6045043
+          ],
+          [
+            -58.3933129,
+            -34.6044555
+          ],
+          [
+            -58.3928407,
+            -34.6044399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333651457",
+      "properties": {
+        "@id": "way/333651457",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "B",
+        "start_date": "1931-06-22",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3928407,
+            -34.6044399
+          ],
+          [
+            -58.3922012,
+            -34.6044188
+          ],
+          [
+            -58.3917455,
+            -34.6043984
+          ],
+          [
+            -58.3904478,
+            -34.6042962
+          ],
+          [
+            -58.3878993,
+            -34.6040945
+          ],
+          [
+            -58.3867964,
+            -34.6040121
+          ],
+          [
+            -58.3850895,
+            -34.603909
+          ],
+          [
+            -58.3820994,
+            -34.6037133
+          ],
+          [
+            -58.3818396,
+            -34.60368
+          ],
+          [
+            -58.3811678,
+            -34.603636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333661087",
+      "properties": {
+        "@id": "way/333661087",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "B",
+        "service": "yard",
+        "start_date": "2013-07-26",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4866522,
+            -34.5741547
+          ],
+          [
+            -58.4870987,
+            -34.5737917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/333661089",
+      "properties": {
+        "@id": "way/333661089",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea B",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "B",
+        "service": "yard",
+        "start_date": "2013-07-26",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "600",
+        "wikipedia": "es:Línea B (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4870358,
+            -34.5737398
+          ],
+          [
+            -58.4865933,
+            -34.5741033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337856942",
+      "properties": {
+        "@id": "way/337856942",
+        "electrified": "contact_line",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea A",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "A",
+        "start_date": "2013-09-27",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea A (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4705175,
+            -34.6308832
+          ],
+          [
+            -58.4698946,
+            -34.6307201
+          ],
+          [
+            -58.4695527,
+            -34.6306644
+          ],
+          [
+            -58.4655163,
+            -34.6296314
+          ],
+          [
+            -58.4634839,
+            -34.6290586
+          ],
+          [
+            -58.4625596,
+            -34.6287953
+          ],
+          [
+            -58.4611741,
+            -34.6283992
+          ],
+          [
+            -58.4598364,
+            -34.627942
+          ],
+          [
+            -58.4561142,
+            -34.6264416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337856943",
+      "properties": {
+        "@id": "way/337856943",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea A",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "A",
+        "start_date": "1914-04-01",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea A (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4294881,
+            -34.6152444
+          ],
+          [
+            -58.4261288,
+            -34.6137547
+          ],
+          [
+            -58.4210165,
+            -34.6114668
+          ],
+          [
+            -58.4197207,
+            -34.61116
+          ],
+          [
+            -58.4183997,
+            -34.6110353
+          ],
+          [
+            -58.4155516,
+            -34.6108132
+          ],
+          [
+            -58.4130662,
+            -34.6106669
+          ],
+          [
+            -58.4093036,
+            -34.6102809
+          ],
+          [
+            -58.4088574,
+            -34.610153
+          ],
+          [
+            -58.4085363,
+            -34.6099984
+          ],
+          [
+            -58.407955,
+            -34.6098596
+          ],
+          [
+            -58.4068157,
+            -34.6097383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337856944",
+      "properties": {
+        "@id": "way/337856944",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea A",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "A",
+        "start_date": "2008-12-22",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea A (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4561142,
+            -34.6264416
+          ],
+          [
+            -58.4539986,
+            -34.6256063
+          ],
+          [
+            -58.452018,
+            -34.6248698
+          ],
+          [
+            -58.4508766,
+            -34.6244365
+          ],
+          [
+            -58.448649,
+            -34.6235477
+          ],
+          [
+            -58.4481165,
+            -34.6233352
+          ],
+          [
+            -58.4471401,
+            -34.6229622
+          ],
+          [
+            -58.4462753,
+            -34.6226302
+          ],
+          [
+            -58.4450891,
+            -34.6221747
+          ],
+          [
+            -58.444333,
+            -34.6218453
+          ],
+          [
+            -58.4428621,
+            -34.621176
+          ],
+          [
+            -58.4423751,
+            -34.6209807
+          ],
+          [
+            -58.4413956,
+            -34.620588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337856945",
+      "properties": {
+        "@id": "way/337856945",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea A",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "A",
+        "start_date": "1913-12-01",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea A (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4068157,
+            -34.6097383
+          ],
+          [
+            -58.4066106,
+            -34.6098021
+          ],
+          [
+            -58.405845,
+            -34.6100795
+          ],
+          [
+            -58.4056911,
+            -34.6101134
+          ],
+          [
+            -58.4014641,
+            -34.6099071
+          ],
+          [
+            -58.3991214,
+            -34.6097149
+          ],
+          [
+            -58.3970763,
+            -34.609547
+          ],
+          [
+            -58.3933337,
+            -34.6093253
+          ],
+          [
+            -58.3925585,
+            -34.6092729
+          ],
+          [
+            -58.3905353,
+            -34.6091362
+          ],
+          [
+            -58.3883693,
+            -34.6091231
+          ],
+          [
+            -58.3882498,
+            -34.6091441
+          ],
+          [
+            -58.3881691,
+            -34.6091687
+          ],
+          [
+            -58.3878721,
+            -34.6093684
+          ],
+          [
+            -58.3877335,
+            -34.6094186
+          ],
+          [
+            -58.3875489,
+            -34.6094646
+          ],
+          [
+            -58.3872069,
+            -34.6094591
+          ],
+          [
+            -58.3865912,
+            -34.6094087
+          ],
+          [
+            -58.3825637,
+            -34.6091005
+          ],
+          [
+            -58.380056,
+            -34.6089507
+          ],
+          [
+            -58.3775497,
+            -34.6088331
+          ],
+          [
+            -58.3738207,
+            -34.6085906
+          ],
+          [
+            -58.3735251,
+            -34.6085815
+          ],
+          [
+            -58.3725082,
+            -34.6087257
+          ],
+          [
+            -58.3720662,
+            -34.6087453
+          ],
+          [
+            -58.3706771,
+            -34.6086935
+          ],
+          [
+            -58.3706013,
+            -34.6086905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337856946",
+      "properties": {
+        "@id": "way/337856946",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea A",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "A",
+        "start_date": "1914-07-14",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea A (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4413956,
+            -34.620588
+          ],
+          [
+            -58.4389076,
+            -34.619467
+          ],
+          [
+            -58.4377602,
+            -34.6189473
+          ],
+          [
+            -58.436435,
+            -34.6182943
+          ],
+          [
+            -58.435966,
+            -34.6180922
+          ],
+          [
+            -58.4318383,
+            -34.6162934
+          ],
+          [
+            -58.4307895,
+            -34.6158215
+          ],
+          [
+            -58.4306658,
+            -34.6157658
+          ],
+          [
+            -58.4294881,
+            -34.6152444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337866221",
+      "properties": {
+        "@id": "way/337866221",
+        "description": "conexión entre líneas A y D",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "service": "yard",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3720662,
+            -34.6087453
+          ],
+          [
+            -58.3726563,
+            -34.6086051
+          ],
+          [
+            -58.3730202,
+            -34.6083455
+          ],
+          [
+            -58.3738285,
+            -34.6078696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337872580",
+      "properties": {
+        "@id": "way/337872580",
+        "electrified": "contact_line",
+        "gauge": "1435",
+        "layer": "-1",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "service": "yard",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.470462,
+            -34.6309878
+          ],
+          [
+            -58.4713929,
+            -34.6312435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337872581",
+      "properties": {
+        "@id": "way/337872581",
+        "electrified": "contact_line",
+        "gauge": "1435",
+        "layer": "-1",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "service": "yard",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4705175,
+            -34.6308832
+          ],
+          [
+            -58.4714246,
+            -34.6311157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340334797",
+      "properties": {
+        "@id": "way/340334797",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "1938",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3847876,
+            -34.6018782
+          ],
+          [
+            -58.3852445,
+            -34.6014498
+          ],
+          [
+            -58.3854009,
+            -34.6013091
+          ],
+          [
+            -58.3855146,
+            -34.6012287
+          ],
+          [
+            -58.3890016,
+            -34.5999123
+          ],
+          [
+            -58.3897945,
+            -34.5996523
+          ],
+          [
+            -58.3905174,
+            -34.5995282
+          ],
+          [
+            -58.3927408,
+            -34.5996424
+          ],
+          [
+            -58.3972037,
+            -34.5997401
+          ],
+          [
+            -58.3977794,
+            -34.5997584
+          ],
+          [
+            -58.3987161,
+            -34.5997491
+          ],
+          [
+            -58.3991614,
+            -34.59972
+          ],
+          [
+            -58.3997292,
+            -34.5995548
+          ],
+          [
+            -58.3999903,
+            -34.5994223
+          ],
+          [
+            -58.4002032,
+            -34.5992592
+          ],
+          [
+            -58.4003355,
+            -34.5990988
+          ],
+          [
+            -58.400488,
+            -34.5988854
+          ],
+          [
+            -58.4005892,
+            -34.5985132
+          ],
+          [
+            -58.4006202,
+            -34.598222
+          ],
+          [
+            -58.4006753,
+            -34.5977048
+          ],
+          [
+            -58.4006753,
+            -34.5969413
+          ],
+          [
+            -58.4006719,
+            -34.5965375
+          ],
+          [
+            -58.4006942,
+            -34.5961953
+          ],
+          [
+            -58.4007868,
+            -34.5957866
+          ],
+          [
+            -58.4009427,
+            -34.5954103
+          ],
+          [
+            -58.4012401,
+            -34.5950144
+          ],
+          [
+            -58.4018045,
+            -34.5946867
+          ],
+          [
+            -58.4019589,
+            -34.5946244
+          ],
+          [
+            -58.4025837,
+            -34.5944302
+          ],
+          [
+            -58.4032249,
+            -34.5942309
+          ],
+          [
+            -58.4034348,
+            -34.5941511
+          ],
+          [
+            -58.4036454,
+            -34.594071
+          ],
+          [
+            -58.4050777,
+            -34.5933392
+          ],
+          [
+            -58.4071145,
+            -34.5917233
+          ],
+          [
+            -58.4096872,
+            -34.5893296
+          ],
+          [
+            -58.4100723,
+            -34.58903
+          ],
+          [
+            -58.4113414,
+            -34.588167
+          ],
+          [
+            -58.4159343,
+            -34.5851828
+          ],
+          [
+            -58.4180883,
+            -34.5836524
+          ],
+          [
+            -58.420398,
+            -34.5819855
+          ],
+          [
+            -58.4206083,
+            -34.5818509
+          ],
+          [
+            -58.4211244,
+            -34.5814916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340334798",
+      "properties": {
+        "@id": "way/340334798",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "1940",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4211244,
+            -34.5814916
+          ],
+          [
+            -58.4216406,
+            -34.5811321
+          ],
+          [
+            -58.4218048,
+            -34.5809999
+          ],
+          [
+            -58.4235381,
+            -34.5798252
+          ],
+          [
+            -58.4241904,
+            -34.5793951
+          ],
+          [
+            -58.424942,
+            -34.5789046
+          ],
+          [
+            -58.4251686,
+            -34.5787898
+          ],
+          [
+            -58.4256544,
+            -34.5785208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340334799",
+      "properties": {
+        "@id": "way/340334799",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "note": "La Línea D queda debajo del Arroyo Maldonado",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "1987",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4256544,
+            -34.5785208
+          ],
+          [
+            -58.4261425,
+            -34.5782498
+          ],
+          [
+            -58.4263614,
+            -34.5781628
+          ],
+          [
+            -58.430106,
+            -34.57704
+          ],
+          [
+            -58.4316167,
+            -34.5765845
+          ],
+          [
+            -58.4344054,
+            -34.5753627
+          ],
+          [
+            -58.4344477,
+            -34.5753442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340334800",
+      "properties": {
+        "@id": "way/340334800",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "1999",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4520439,
+            -34.5662309
+          ],
+          [
+            -58.4531767,
+            -34.5656069
+          ],
+          [
+            -58.4541803,
+            -34.5649387
+          ],
+          [
+            -58.4542646,
+            -34.5648553
+          ],
+          [
+            -58.4563342,
+            -34.5624152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340334801",
+      "properties": {
+        "@id": "way/340334801",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "2000",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4563342,
+            -34.5624152
+          ],
+          [
+            -58.4598425,
+            -34.5583426
+          ],
+          [
+            -58.4599852,
+            -34.558178
+          ],
+          [
+            -58.4615395,
+            -34.556537
+          ],
+          [
+            -58.4618426,
+            -34.5562609
+          ],
+          [
+            -58.4624471,
+            -34.5556275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340334802",
+      "properties": {
+        "@id": "way/340334802",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "1937",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3738464,
+            -34.6078922
+          ],
+          [
+            -58.3793225,
+            -34.6049336
+          ],
+          [
+            -58.380252,
+            -34.6044493
+          ],
+          [
+            -58.3807513,
+            -34.6041891
+          ],
+          [
+            -58.3833819,
+            -34.6028607
+          ],
+          [
+            -58.3840969,
+            -34.602419
+          ],
+          [
+            -58.3843274,
+            -34.6023097
+          ],
+          [
+            -58.3847876,
+            -34.6018782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340334803",
+      "properties": {
+        "@id": "way/340334803",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "source": "Bing",
+        "start_date": "1997",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4520439,
+            -34.5662309
+          ],
+          [
+            -58.450187,
+            -34.567244
+          ],
+          [
+            -58.4489595,
+            -34.5679136
+          ],
+          [
+            -58.4443663,
+            -34.570262
+          ],
+          [
+            -58.4413332,
+            -34.5718101
+          ],
+          [
+            -58.4395506,
+            -34.572753
+          ],
+          [
+            -58.4344477,
+            -34.5753442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340338117",
+      "properties": {
+        "@id": "way/340338117",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "2000",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4624471,
+            -34.5556275
+          ],
+          [
+            -58.4626702,
+            -34.5554442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340338121",
+      "properties": {
+        "@id": "way/340338121",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea D",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "ref": "D",
+        "start_date": "2000",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea D (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4618673,
+            -34.5561064
+          ],
+          [
+            -58.4617486,
+            -34.556236
+          ],
+          [
+            -58.4615373,
+            -34.5564915
+          ],
+          [
+            -58.459959,
+            -34.5581619
+          ],
+          [
+            -58.4598158,
+            -34.558327
+          ],
+          [
+            -58.4563075,
+            -34.5623996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340338983",
+      "properties": {
+        "@id": "way/340338983",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Cochera Manuela Pedraza",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "service": "yard",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4663739,
+            -34.5512918
+          ],
+          [
+            -58.4645047,
+            -34.5536006
+          ],
+          [
+            -58.4626702,
+            -34.5554442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340338984",
+      "properties": {
+        "@id": "way/340338984",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Cochera Manuela Pedraza",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "service": "yard",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4663163,
+            -34.5512682
+          ],
+          [
+            -58.4645514,
+            -34.5534873
+          ],
+          [
+            -58.4635613,
+            -34.5544551
+          ],
+          [
+            -58.4624581,
+            -34.5554935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358410630",
+      "properties": {
+        "@id": "way/358410630",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea C",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "C",
+        "start_date": "1934-11-09",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea C (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3811338,
+            -34.6271905
+          ],
+          [
+            -58.3805147,
+            -34.6257382
+          ],
+          [
+            -58.3799253,
+            -34.6221012
+          ],
+          [
+            -58.3801521,
+            -34.6180921
+          ],
+          [
+            -58.3804663,
+            -34.6124561
+          ],
+          [
+            -58.3806476,
+            -34.6090464
+          ],
+          [
+            -58.3807594,
+            -34.6069432
+          ],
+          [
+            -58.3808259,
+            -34.6054613
+          ],
+          [
+            -58.3808177,
+            -34.6052417
+          ],
+          [
+            -58.3807183,
+            -34.6050537
+          ],
+          [
+            -58.380581,
+            -34.6049451
+          ],
+          [
+            -58.3803869,
+            -34.604841
+          ],
+          [
+            -58.3801193,
+            -34.6047819
+          ],
+          [
+            -58.379862,
+            -34.6047621
+          ],
+          [
+            -58.3797225,
+            -34.6047584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358410631",
+      "properties": {
+        "@id": "way/358410631",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea C",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "C",
+        "start_date": "1934-11-09",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea C (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3797217,
+            -34.6047854
+          ],
+          [
+            -58.37986,
+            -34.6047891
+          ],
+          [
+            -58.3801135,
+            -34.6048085
+          ],
+          [
+            -58.3803733,
+            -34.604866
+          ],
+          [
+            -58.3805606,
+            -34.6049663
+          ],
+          [
+            -58.3806909,
+            -34.6050693
+          ],
+          [
+            -58.3807851,
+            -34.6052477
+          ],
+          [
+            -58.3807931,
+            -34.6054613
+          ],
+          [
+            -58.3807266,
+            -34.606942
+          ],
+          [
+            -58.3806148,
+            -34.6090452
+          ],
+          [
+            -58.3804335,
+            -34.6124549
+          ],
+          [
+            -58.3801193,
+            -34.6180909
+          ],
+          [
+            -58.3798925,
+            -34.6221024
+          ],
+          [
+            -58.3804827,
+            -34.6257446
+          ],
+          [
+            -58.381103,
+            -34.6271995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358410632",
+      "properties": {
+        "@id": "way/358410632",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea C",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "C",
+        "start_date": "1936-02-06",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea C (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3797225,
+            -34.6047584
+          ],
+          [
+            -58.3796261,
+            -34.6047572
+          ],
+          [
+            -58.3791015,
+            -34.6047481
+          ],
+          [
+            -58.3788193,
+            -34.6046846
+          ],
+          [
+            -58.3786145,
+            -34.6045764
+          ],
+          [
+            -58.3784538,
+            -34.6044332
+          ],
+          [
+            -58.3783241,
+            -34.6042722
+          ],
+          [
+            -58.3782055,
+            -34.6039678
+          ],
+          [
+            -58.3781144,
+            -34.6029711
+          ],
+          [
+            -58.3781214,
+            -34.6027333
+          ],
+          [
+            -58.3781441,
+            -34.6022404
+          ],
+          [
+            -58.3781625,
+            -34.6011864
+          ],
+          [
+            -58.3783686,
+            -34.5977711
+          ],
+          [
+            -58.3784462,
+            -34.5967164
+          ],
+          [
+            -58.3784601,
+            -34.5964423
+          ],
+          [
+            -58.3784737,
+            -34.5960634
+          ],
+          [
+            -58.3784578,
+            -34.5958909
+          ],
+          [
+            -58.378395,
+            -34.5957563
+          ],
+          [
+            -58.3782834,
+            -34.5954552
+          ],
+          [
+            -58.3779134,
+            -34.5950166
+          ],
+          [
+            -58.3773308,
+            -34.5943259
+          ],
+          [
+            -58.3762157,
+            -34.5932182
+          ],
+          [
+            -58.3741219,
+            -34.59122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358410633",
+      "properties": {
+        "@id": "way/358410633",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea C",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "C",
+        "start_date": "1936-02-06",
+        "tracks": "1",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea C (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3740959,
+            -34.5912364
+          ],
+          [
+            -58.3761986,
+            -34.5932436
+          ],
+          [
+            -58.3773014,
+            -34.5943384
+          ],
+          [
+            -58.3778871,
+            -34.5950326
+          ],
+          [
+            -58.378256,
+            -34.5954697
+          ],
+          [
+            -58.3783675,
+            -34.5957709
+          ],
+          [
+            -58.3784267,
+            -34.5959004
+          ],
+          [
+            -58.3784409,
+            -34.5960662
+          ],
+          [
+            -58.3784273,
+            -34.5964423
+          ],
+          [
+            -58.3784134,
+            -34.5967156
+          ],
+          [
+            -58.3783359,
+            -34.5977697
+          ],
+          [
+            -58.3781297,
+            -34.6011854
+          ],
+          [
+            -58.3781113,
+            -34.6022408
+          ],
+          [
+            -58.3780887,
+            -34.6027348
+          ],
+          [
+            -58.3780816,
+            -34.6029719
+          ],
+          [
+            -58.3781731,
+            -34.6039728
+          ],
+          [
+            -58.3782943,
+            -34.604284
+          ],
+          [
+            -58.378428,
+            -34.6044498
+          ],
+          [
+            -58.3785933,
+            -34.6045972
+          ],
+          [
+            -58.3788059,
+            -34.6047096
+          ],
+          [
+            -58.3790967,
+            -34.6047749
+          ],
+          [
+            -58.3796255,
+            -34.6047842
+          ],
+          [
+            -58.3797217,
+            -34.6047854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373520825",
+      "properties": {
+        "@id": "way/373520825",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1944",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4156304,
+            -34.6253383
+          ],
+          [
+            -58.4146409,
+            -34.625253
+          ],
+          [
+            -58.4135443,
+            -34.6251195
+          ],
+          [
+            -58.4125084,
+            -34.6249986
+          ],
+          [
+            -58.4092594,
+            -34.6246286
+          ],
+          [
+            -58.405845,
+            -34.6242061
+          ],
+          [
+            -58.4041183,
+            -34.6240039
+          ],
+          [
+            -58.4023963,
+            -34.6238184
+          ],
+          [
+            -58.4003064,
+            -34.6235394
+          ],
+          [
+            -58.397575,
+            -34.6232012
+          ],
+          [
+            -58.396395,
+            -34.6230588
+          ],
+          [
+            -58.3953362,
+            -34.6229717
+          ],
+          [
+            -58.3914512,
+            -34.6227286
+          ],
+          [
+            -58.3871216,
+            -34.6224422
+          ],
+          [
+            -58.3863188,
+            -34.6223939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373520830",
+      "properties": {
+        "@id": "way/373520830",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1966",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4261019,
+            -34.6268615
+          ],
+          [
+            -58.4258973,
+            -34.6268327
+          ],
+          [
+            -58.4253624,
+            -34.6267917
+          ],
+          [
+            -58.4214684,
+            -34.6262075
+          ],
+          [
+            -58.4173177,
+            -34.6256085
+          ],
+          [
+            -58.4166834,
+            -34.625476
+          ],
+          [
+            -58.4156304,
+            -34.6253383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373520834",
+      "properties": {
+        "@id": "way/373520834",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1973-06-23",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4338959,
+            -34.628012
+          ],
+          [
+            -58.4309512,
+            -34.6275903
+          ],
+          [
+            -58.4280865,
+            -34.6271805
+          ],
+          [
+            -58.4275563,
+            -34.6271079
+          ],
+          [
+            -58.4269649,
+            -34.6269806
+          ],
+          [
+            -58.4261019,
+            -34.6268615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373520836",
+      "properties": {
+        "@id": "way/373520836",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1985-10-07",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4423307,
+            -34.6311557
+          ],
+          [
+            -58.4409475,
+            -34.6301128
+          ],
+          [
+            -58.4393911,
+            -34.6289187
+          ],
+          [
+            -58.4392762,
+            -34.6288461
+          ],
+          [
+            -58.4390899,
+            -34.6288021
+          ],
+          [
+            -58.436563,
+            -34.6284075
+          ],
+          [
+            -58.4338959,
+            -34.628012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373522954",
+      "properties": {
+        "@id": "way/373522954",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1985-10-31",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4580365,
+            -34.6398154
+          ],
+          [
+            -58.4563091,
+            -34.6384103
+          ],
+          [
+            -58.4556396,
+            -34.6379454
+          ],
+          [
+            -58.4548888,
+            -34.6374603
+          ],
+          [
+            -58.4542806,
+            -34.6370793
+          ],
+          [
+            -58.453827,
+            -34.6368324
+          ],
+          [
+            -58.4535638,
+            -34.6367046
+          ],
+          [
+            -58.453321,
+            -34.6366065
+          ],
+          [
+            -58.4530053,
+            -34.6364983
+          ],
+          [
+            -58.4527832,
+            -34.6364314
+          ],
+          [
+            -58.4524843,
+            -34.6363657
+          ],
+          [
+            -58.452119,
+            -34.6363121
+          ],
+          [
+            -58.4517446,
+            -34.6362857
+          ],
+          [
+            -58.4513145,
+            -34.6362688
+          ],
+          [
+            -58.4506825,
+            -34.6362774
+          ],
+          [
+            -58.4501914,
+            -34.6362891
+          ],
+          [
+            -58.4495423,
+            -34.6363108
+          ],
+          [
+            -58.4486289,
+            -34.6363319
+          ],
+          [
+            -58.4479751,
+            -34.6362137
+          ],
+          [
+            -58.4472075,
+            -34.6359947
+          ],
+          [
+            -58.4464953,
+            -34.6356717
+          ],
+          [
+            -58.4447834,
+            -34.6345488
+          ],
+          [
+            -58.4430565,
+            -34.6332445
+          ],
+          [
+            -58.4429257,
+            -34.6331177
+          ],
+          [
+            -58.442831,
+            -34.6329522
+          ],
+          [
+            -58.4423717,
+            -34.6312067
+          ],
+          [
+            -58.4423307,
+            -34.6311557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373522955",
+      "properties": {
+        "@id": "way/373522955",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1986-05-08",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4616794,
+            -34.6428934
+          ],
+          [
+            -58.4614546,
+            -34.6425967
+          ],
+          [
+            -58.4611353,
+            -34.6422141
+          ],
+          [
+            -58.4608565,
+            -34.6419355
+          ],
+          [
+            -58.4605598,
+            -34.6416787
+          ],
+          [
+            -58.4580365,
+            -34.6398154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373525778",
+      "properties": {
+        "@id": "way/373525778",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1966-04-24",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3847027,
+            -34.6222251
+          ],
+          [
+            -58.384253,
+            -34.6221949
+          ],
+          [
+            -58.3837831,
+            -34.6221266
+          ],
+          [
+            -58.3825087,
+            -34.6218058
+          ],
+          [
+            -58.3820572,
+            -34.6216362
+          ],
+          [
+            -58.3818772,
+            -34.62156
+          ],
+          [
+            -58.3816942,
+            -34.6214632
+          ],
+          [
+            -58.3815449,
+            -34.6213276
+          ],
+          [
+            -58.3814707,
+            -34.6211941
+          ],
+          [
+            -58.3814442,
+            -34.6210721
+          ],
+          [
+            -58.3814855,
+            -34.6181114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373525779",
+      "properties": {
+        "@id": "way/373525779",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Línea E",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "E",
+        "start_date": "1966-04-24",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea E (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3814855,
+            -34.6181114
+          ],
+          [
+            -58.3815036,
+            -34.6177946
+          ],
+          [
+            -58.3814829,
+            -34.6177512
+          ],
+          [
+            -58.3776341,
+            -34.6129319
+          ],
+          [
+            -58.3775795,
+            -34.6128647
+          ],
+          [
+            -58.3761647,
+            -34.6115535
+          ],
+          [
+            -58.374658,
+            -34.6101584
+          ],
+          [
+            -58.3738691,
+            -34.6094667
+          ],
+          [
+            -58.3736667,
+            -34.6093033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373802071",
+      "properties": {
+        "@id": "way/373802071",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea H",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "H",
+        "start_date": "2013-05-27",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea H (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4126757,
+            -34.641681
+          ],
+          [
+            -58.4123552,
+            -34.6408642
+          ],
+          [
+            -58.411968,
+            -34.6400508
+          ],
+          [
+            -58.4113528,
+            -34.6389543
+          ],
+          [
+            -58.411229,
+            -34.6388112
+          ],
+          [
+            -58.4111653,
+            -34.6387539
+          ],
+          [
+            -58.4110571,
+            -34.6387025
+          ],
+          [
+            -58.4108767,
+            -34.6386396
+          ],
+          [
+            -58.4106642,
+            -34.6385857
+          ],
+          [
+            -58.4093318,
+            -34.6383776
+          ],
+          [
+            -58.4078372,
+            -34.6380826
+          ],
+          [
+            -58.406453,
+            -34.6377913
+          ],
+          [
+            -58.405943,
+            -34.6376938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373802072",
+      "properties": {
+        "@id": "way/373802072",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea H",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "H",
+        "start_date": "2011-10-04",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea H (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.405943,
+            -34.6376938
+          ],
+          [
+            -58.4031658,
+            -34.6371358
+          ],
+          [
+            -58.4008176,
+            -34.6366465
+          ],
+          [
+            -58.3994551,
+            -34.6363691
+          ],
+          [
+            -58.399297,
+            -34.6363344
+          ],
+          [
+            -58.3991942,
+            -34.6362964
+          ],
+          [
+            -58.3991103,
+            -34.6362533
+          ],
+          [
+            -58.3990525,
+            -34.636223
+          ],
+          [
+            -58.3989899,
+            -34.6361843
+          ],
+          [
+            -58.398931,
+            -34.6361439
+          ],
+          [
+            -58.3988975,
+            -34.6360928
+          ],
+          [
+            -58.3988731,
+            -34.6360377
+          ],
+          [
+            -58.3988701,
+            -34.6359598
+          ],
+          [
+            -58.3988877,
+            -34.6358863
+          ],
+          [
+            -58.3989308,
+            -34.6357838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373802073",
+      "properties": {
+        "@id": "way/373802073",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-3",
+        "name": "Línea H",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "H",
+        "start_date": "2007-10-18",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea H (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3989308,
+            -34.6357838
+          ],
+          [
+            -58.399282,
+            -34.6347902
+          ],
+          [
+            -58.3996651,
+            -34.6337662
+          ],
+          [
+            -58.400114,
+            -34.6326484
+          ],
+          [
+            -58.4005269,
+            -34.6316653
+          ],
+          [
+            -58.4005687,
+            -34.6315284
+          ],
+          [
+            -58.4006901,
+            -34.6310476
+          ],
+          [
+            -58.4009787,
+            -34.6293054
+          ],
+          [
+            -58.4010766,
+            -34.6286747
+          ],
+          [
+            -58.401325,
+            -34.6274608
+          ],
+          [
+            -58.4015775,
+            -34.6263998
+          ],
+          [
+            -58.4018088,
+            -34.625239
+          ],
+          [
+            -58.4023382,
+            -34.6230828
+          ],
+          [
+            -58.4028282,
+            -34.6211456
+          ],
+          [
+            -58.403511,
+            -34.6188861
+          ],
+          [
+            -58.4041321,
+            -34.6170666
+          ],
+          [
+            -58.4045908,
+            -34.6158603
+          ],
+          [
+            -58.4048414,
+            -34.6150104
+          ],
+          [
+            -58.405582,
+            -34.6124488
+          ],
+          [
+            -58.4058733,
+            -34.6112803
+          ],
+          [
+            -58.4060286,
+            -34.6092432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373802270",
+      "properties": {
+        "@id": "way/373802270",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea H",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "H",
+        "start_date": "2010-12-06",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea H (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4060286,
+            -34.6092432
+          ],
+          [
+            -58.4061422,
+            -34.607762
+          ],
+          [
+            -58.4061328,
+            -34.6074874
+          ],
+          [
+            -58.4061067,
+            -34.6071846
+          ],
+          [
+            -58.405956,
+            -34.6065531
+          ],
+          [
+            -58.4057102,
+            -34.6055697
+          ],
+          [
+            -58.4056549,
+            -34.6053361
+          ],
+          [
+            -58.4054601,
+            -34.6045696
+          ],
+          [
+            -58.4053603,
+            -34.6041201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386496900",
+      "properties": {
+        "@id": "way/386496900",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Línea H",
+        "network": "Subte de Buenos Aires",
+        "operator": "Metrovías",
+        "railway": "subway",
+        "railway:preferred_direction": "forward",
+        "ref": "H",
+        "start_date": "2015-12-18",
+        "tunnel": "yes",
+        "voltage": "1500",
+        "wikipedia": "es:Línea H (Subte de Buenos Aires)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4053603,
+            -34.6041201
+          ],
+          [
+            -58.4047774,
+            -34.6018564
+          ],
+          [
+            -58.403748,
+            -34.5985577
+          ],
+          [
+            -58.4029083,
+            -34.5958665
+          ],
+          [
+            -58.4024778,
+            -34.594732
+          ],
+          [
+            -58.4010801,
+            -34.5916115
+          ],
+          [
+            -58.4003851,
+            -34.5902588
+          ],
+          [
+            -58.3999741,
+            -34.5894062
+          ],
+          [
+            -58.3998338,
+            -34.5891969
+          ],
+          [
+            -58.3987739,
+            -34.5884664
+          ],
+          [
+            -58.3977268,
+            -34.5877733
+          ],
+          [
+            -58.3971882,
+            -34.5875247
+          ]
+        ]
+      }
+    }
+  ]
+}
