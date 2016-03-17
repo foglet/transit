@@ -1,8 +1,8 @@
-# transit
+# Transit
 
 This repository contains transit routes from the world's cities; most are from OpenStreetMap (OSM). It is divided by system type: metro (i.e., subway or U-Bahn), tram and light rail (S-Bahn), cable car and funicular, trolley bus, monorail and maglev, and ferries. No systems are represented for North Korea (KP), outside of Pyongyang. No bus systems of any type.
 
-<h2> sub-heading </h2>
+<h2> Naming Convention </h2>
 
 Most files are labeled by two-letter country code, city/location, and the query parameter in overpass-turbo.eu. For example,
 
