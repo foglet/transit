@@ -1,8 +1,8 @@
 # transit
 
-This repository contains transit routes from the world's cities. It is divided by system type: metro (i.e., subway or U-Bahn), tram and light rail (S-Bahn), cable car and funicular, trolley bus, monorail and maglev, and ferries. Outside of Pyongyang, no other systems are represented in North Korea (KP); Bus systems, including BRT, are also not represented.
+This repository contains transit routes from the world's cities. It is divided by system type: metro (i.e., subway or U-Bahn), tram and light rail (S-Bahn), cable car and funicular, trolley bus, monorail and maglev, and ferries. No systems are represented for North Korea (KP), outside of Pyongyang. No bus systems, including BRT, are represented.
 
-Most files are labeled by two-letter country code, city/location, and how each was queried in overpass-turbo.eu. For example,
+Most files are labeled by two-letter country code, city/location, and the query parameter in overpass-turbo.eu. For example,
 
 	ch-lausanne-lr		(Switzerland, Lausanne, search: route=light_rail)
 	fi-helsinki-tram	(Finland, Helsinki, search: route=tram)
