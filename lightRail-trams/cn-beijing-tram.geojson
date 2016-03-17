@@ -1,0 +1,539 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-01T19:34:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/127159286",
+      "properties": {
+        "@id": "way/127159286",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1722442,
+            "reltags": {
+              "name": "Tram 2: 前门 => 珠市口",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1722443,
+            "reltags": {
+              "name": "Tram 2: 珠市口 => 前门",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.3917507,
+            39.896844
+          ],
+          [
+            116.3918379,
+            39.8946413
+          ],
+          [
+            116.3920395,
+            39.8912217
+          ],
+          [
+            116.3920808,
+            39.8904203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127159287",
+      "properties": {
+        "@id": "way/127159287",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1722440,
+            "reltags": {
+              "name": "Tram 1: 前门 => 珠市口",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1722441,
+            "reltags": {
+              "name": "Tram 1: 珠市口 => 前门",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.392145,
+            39.8904219
+          ],
+          [
+            116.392105,
+            39.8912239
+          ],
+          [
+            116.3919698,
+            39.8946467
+          ],
+          [
+            116.3918262,
+            39.8968456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93467825",
+      "properties": {
+        "@id": "way/93467825",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825698,
+            "reltags": {
+              "name": "交限",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.4264658,
+            40.0208423
+          ],
+          [
+            116.4224479,
+            40.0209285
+          ],
+          [
+            116.4186968,
+            40.0209976
+          ],
+          [
+            116.4146274,
+            40.0210589
+          ],
+          [
+            116.4122816,
+            40.0210942
+          ],
+          [
+            116.4117466,
+            40.0211101
+          ],
+          [
+            116.4099469,
+            40.0211134
+          ],
+          [
+            116.4098091,
+            40.0212545
+          ],
+          [
+            116.4098118,
+            40.0219473
+          ],
+          [
+            116.4083537,
+            40.021952
+          ],
+          [
+            116.4078042,
+            40.0219538
+          ],
+          [
+            116.4075804,
+            40.0219036
+          ],
+          [
+            116.4069223,
+            40.0215271
+          ],
+          [
+            116.4066793,
+            40.0214923
+          ],
+          [
+            116.4062766,
+            40.0214886
+          ],
+          [
+            116.4055828,
+            40.0214778
+          ],
+          [
+            116.4047509,
+            40.0213765
+          ],
+          [
+            116.403812,
+            40.021251
+          ],
+          [
+            116.4027147,
+            40.0212174
+          ],
+          [
+            116.4025829,
+            40.0212179
+          ],
+          [
+            116.4024365,
+            40.0212186
+          ],
+          [
+            116.4022644,
+            40.0212194
+          ],
+          [
+            116.4008123,
+            40.0212042
+          ],
+          [
+            116.3995539,
+            40.0212465
+          ],
+          [
+            116.3976334,
+            40.0213111
+          ],
+          [
+            116.3965019,
+            40.0213492
+          ],
+          [
+            116.3960033,
+            40.0214081
+          ],
+          [
+            116.3954149,
+            40.0214298
+          ],
+          [
+            116.3948177,
+            40.0214519
+          ],
+          [
+            116.3940012,
+            40.0214731
+          ],
+          [
+            116.3926838,
+            40.0214127
+          ],
+          [
+            116.3899436,
+            40.0214459
+          ],
+          [
+            116.3881997,
+            40.0214681
+          ],
+          [
+            116.3866283,
+            40.0214881
+          ],
+          [
+            116.385961,
+            40.0214912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1408143367",
+      "properties": {
+        "@id": "node/1408143367",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1722442,
+            "reltags": {
+              "name": "Tram 2: 前门 => 珠市口",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1722443,
+            "reltags": {
+              "name": "Tram 2: 珠市口 => 前门",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3917177,
+          39.8968439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1408143368",
+      "properties": {
+        "@id": "node/1408143368",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1722440,
+            "reltags": {
+              "name": "Tram 1: 前门 => 珠市口",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1722441,
+            "reltags": {
+              "name": "Tram 1: 珠市口 => 前门",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3918601,
+          39.8968463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1408143387",
+      "properties": {
+        "@id": "node/1408143387",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1722442,
+            "reltags": {
+              "name": "Tram 2: 前门 => 珠市口",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1722443,
+            "reltags": {
+              "name": "Tram 2: 珠市口 => 前门",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3917507,
+          39.896844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1408143388",
+      "properties": {
+        "@id": "node/1408143388",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1722440,
+            "reltags": {
+              "name": "Tram 1: 前门 => 珠市口",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1722441,
+            "reltags": {
+              "name": "Tram 1: 珠市口 => 前门",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3918262,
+          39.8968456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1408143354",
+      "properties": {
+        "@id": "node/1408143354",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1722442,
+            "reltags": {
+              "name": "Tram 2: 前门 => 珠市口",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1722443,
+            "reltags": {
+              "name": "Tram 2: 珠市口 => 前门",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3920547,
+          39.8904204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1408143355",
+      "properties": {
+        "@id": "node/1408143355",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1722440,
+            "reltags": {
+              "name": "Tram 1: 前门 => 珠市口",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1722441,
+            "reltags": {
+              "name": "Tram 1: 珠市口 => 前门",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3921807,
+          39.8904238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1408143389",
+      "properties": {
+        "@id": "node/1408143389",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1722442,
+            "reltags": {
+              "name": "Tram 2: 前门 => 珠市口",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1722443,
+            "reltags": {
+              "name": "Tram 2: 珠市口 => 前门",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3920808,
+          39.8904203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1408143390",
+      "properties": {
+        "@id": "node/1408143390",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1722440,
+            "reltags": {
+              "name": "Tram 1: 前门 => 珠市口",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1722441,
+            "reltags": {
+              "name": "Tram 1: 珠市口 => 前门",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.392145,
+          39.8904219
+        ]
+      }
+    }
+  ]
+}

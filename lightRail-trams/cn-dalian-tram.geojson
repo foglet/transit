@@ -1,0 +1,3340 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-01T03:38:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/43310265",
+      "properties": {
+        "@id": "way/43310265",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.6953474,
+            38.9121151
+          ],
+          [
+            121.6943335,
+            38.9117102
+          ],
+          [
+            121.6939698,
+            38.9116217
+          ],
+          [
+            121.6936254,
+            38.9115766
+          ],
+          [
+            121.6932499,
+            38.9115808
+          ],
+          [
+            121.6929369,
+            38.9116053
+          ],
+          [
+            121.6911738,
+            38.9117436
+          ],
+          [
+            121.6907501,
+            38.911777
+          ],
+          [
+            121.6903649,
+            38.9118471
+          ],
+          [
+            121.6902269,
+            38.9118837
+          ],
+          [
+            121.6899089,
+            38.9119681
+          ],
+          [
+            121.6894894,
+            38.9121818
+          ],
+          [
+            121.6891032,
+            38.912449
+          ],
+          [
+            121.6885828,
+            38.9127203
+          ],
+          [
+            121.6879885,
+            38.9129156
+          ],
+          [
+            121.6874241,
+            38.9130501
+          ],
+          [
+            121.6873271,
+            38.9130662
+          ],
+          [
+            121.6868448,
+            38.9131461
+          ],
+          [
+            121.6862279,
+            38.9131961
+          ],
+          [
+            121.6799354,
+            38.9131878
+          ],
+          [
+            121.6796564,
+            38.9131878
+          ],
+          [
+            121.6792809,
+            38.9132128
+          ],
+          [
+            121.6789483,
+            38.9132462
+          ],
+          [
+            121.6785793,
+            38.9133122
+          ],
+          [
+            121.6782939,
+            38.9134048
+          ],
+          [
+            121.6780192,
+            38.9135238
+          ],
+          [
+            121.6770727,
+            38.914012
+          ],
+          [
+            121.6768391,
+            38.914139
+          ],
+          [
+            121.6727833,
+            38.9163429
+          ],
+          [
+            121.6724126,
+            38.916835
+          ],
+          [
+            121.6719419,
+            38.917321
+          ],
+          [
+            121.6714304,
+            38.917647
+          ],
+          [
+            121.6710761,
+            38.9178263
+          ],
+          [
+            121.6708636,
+            38.9179235
+          ],
+          [
+            121.6707528,
+            38.9179742
+          ],
+          [
+            121.6701451,
+            38.9181637
+          ],
+          [
+            121.6687474,
+            38.9183257
+          ],
+          [
+            121.6681763,
+            38.9182613
+          ],
+          [
+            121.6674984,
+            38.9181716
+          ],
+          [
+            121.665893,
+            38.9182591
+          ],
+          [
+            121.6651484,
+            38.9183626
+          ],
+          [
+            121.6626224,
+            38.9186949
+          ],
+          [
+            121.6609909,
+            38.9189096
+          ],
+          [
+            121.6597349,
+            38.9190749
+          ],
+          [
+            121.6583058,
+            38.9192629
+          ],
+          [
+            121.6582199,
+            38.919273
+          ],
+          [
+            121.6579599,
+            38.9193037
+          ],
+          [
+            121.6575796,
+            38.9192751
+          ],
+          [
+            121.6573838,
+            38.9192562
+          ],
+          [
+            121.6566405,
+            38.9191803
+          ],
+          [
+            121.6562011,
+            38.9191355
+          ],
+          [
+            121.6556658,
+            38.9190785
+          ],
+          [
+            121.6532891,
+            38.9188254
+          ],
+          [
+            121.6527726,
+            38.9187722
+          ],
+          [
+            121.6523334,
+            38.918767
+          ],
+          [
+            121.6523005,
+            38.9187666
+          ],
+          [
+            121.6520052,
+            38.9187631
+          ],
+          [
+            121.651791,
+            38.9188052
+          ],
+          [
+            121.6503978,
+            38.9190793
+          ],
+          [
+            121.6503116,
+            38.9190957
+          ],
+          [
+            121.6488928,
+            38.9193648
+          ],
+          [
+            121.647836,
+            38.9195955
+          ],
+          [
+            121.6464299,
+            38.9198254
+          ],
+          [
+            121.6461852,
+            38.9198654
+          ],
+          [
+            121.6459096,
+            38.9199316
+          ],
+          [
+            121.6457806,
+            38.9200281
+          ],
+          [
+            121.6451708,
+            38.921291
+          ],
+          [
+            121.6450544,
+            38.9214799
+          ],
+          [
+            121.6445704,
+            38.9224265
+          ],
+          [
+            121.6439318,
+            38.9235815
+          ],
+          [
+            121.6432457,
+            38.9250509
+          ],
+          [
+            121.643189,
+            38.9251177
+          ],
+          [
+            121.6431103,
+            38.9251817
+          ],
+          [
+            121.6429242,
+            38.9252755
+          ],
+          [
+            121.6425529,
+            38.9254689
+          ],
+          [
+            121.6423712,
+            38.925546
+          ],
+          [
+            121.6423071,
+            38.9255731
+          ],
+          [
+            121.6400889,
+            38.9255245
+          ],
+          [
+            121.6389414,
+            38.9254994
+          ],
+          [
+            121.6383925,
+            38.9254982
+          ],
+          [
+            121.6366462,
+            38.9254793
+          ],
+          [
+            121.6349409,
+            38.9254643
+          ],
+          [
+            121.6347997,
+            38.9254295
+          ],
+          [
+            121.6345771,
+            38.9252895
+          ],
+          [
+            121.6343436,
+            38.925077
+          ],
+          [
+            121.6340671,
+            38.92483
+          ],
+          [
+            121.6330213,
+            38.9239866
+          ],
+          [
+            121.6328067,
+            38.9237292
+          ],
+          [
+            121.6321438,
+            38.9226229
+          ],
+          [
+            121.6310531,
+            38.9209649
+          ],
+          [
+            121.630676,
+            38.9203535
+          ],
+          [
+            121.6306409,
+            38.9202966
+          ],
+          [
+            121.6305044,
+            38.9202014
+          ],
+          [
+            121.6304117,
+            38.9201424
+          ],
+          [
+            121.6298679,
+            38.9199585
+          ],
+          [
+            121.6286145,
+            38.919546
+          ],
+          [
+            121.6285103,
+            38.9195117
+          ],
+          [
+            121.6277714,
+            38.9192796
+          ],
+          [
+            121.6251748,
+            38.9184639
+          ],
+          [
+            121.6250986,
+            38.91844
+          ],
+          [
+            121.6213963,
+            38.9185449
+          ],
+          [
+            121.6213298,
+            38.9185468
+          ],
+          [
+            121.6186885,
+            38.9189353
+          ],
+          [
+            121.6180523,
+            38.9190434
+          ],
+          [
+            121.6176393,
+            38.9189958
+          ],
+          [
+            121.6167121,
+            38.9188291
+          ],
+          [
+            121.6153913,
+            38.9190595
+          ],
+          [
+            121.6143557,
+            38.9193583
+          ],
+          [
+            121.6141226,
+            38.919394
+          ],
+          [
+            121.613852,
+            38.9193905
+          ],
+          [
+            121.6135605,
+            38.9193304
+          ],
+          [
+            121.6119208,
+            38.9190238
+          ],
+          [
+            121.6115266,
+            38.9189612
+          ],
+          [
+            121.6107933,
+            38.9186518
+          ],
+          [
+            121.6098133,
+            38.9183889
+          ],
+          [
+            121.6079234,
+            38.9182827
+          ],
+          [
+            121.6032536,
+            38.91781
+          ],
+          [
+            121.6024322,
+            38.9177268
+          ],
+          [
+            121.6015804,
+            38.9176406
+          ],
+          [
+            121.5960633,
+            38.9171275
+          ],
+          [
+            121.5903868,
+            38.9165793
+          ],
+          [
+            121.5882001,
+            38.9163557
+          ],
+          [
+            121.5873154,
+            38.9162626
+          ],
+          [
+            121.586828,
+            38.9162669
+          ],
+          [
+            121.5864783,
+            38.9163739
+          ],
+          [
+            121.5855706,
+            38.916625
+          ],
+          [
+            121.5844676,
+            38.9169553
+          ],
+          [
+            121.58434,
+            38.9169902
+          ],
+          [
+            121.5842731,
+            38.9169656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219696048",
+      "properties": {
+        "@id": "way/219696048",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5287018,
+            38.8639927
+          ],
+          [
+            121.5268629,
+            38.8616761
+          ],
+          [
+            121.5267556,
+            38.8615545
+          ],
+          [
+            121.5252634,
+            38.8596361
+          ],
+          [
+            121.523275,
+            38.8571733
+          ],
+          [
+            121.5207905,
+            38.8540053
+          ],
+          [
+            121.5206568,
+            38.8538518
+          ],
+          [
+            121.5202703,
+            38.8534085
+          ],
+          [
+            121.5197282,
+            38.8530547
+          ],
+          [
+            121.5190243,
+            38.8527387
+          ],
+          [
+            121.5172629,
+            38.8521145
+          ],
+          [
+            121.5165227,
+            38.85161
+          ],
+          [
+            121.5152115,
+            38.8498656
+          ],
+          [
+            121.5142098,
+            38.8484756
+          ],
+          [
+            121.51384,
+            38.8479157
+          ],
+          [
+            121.5132568,
+            38.8468622
+          ],
+          [
+            121.512996,
+            38.8463911
+          ],
+          [
+            121.5123895,
+            38.8452946
+          ],
+          [
+            121.5118185,
+            38.8445046
+          ],
+          [
+            121.5113866,
+            38.8441611
+          ],
+          [
+            121.5107191,
+            38.8437763
+          ],
+          [
+            121.509779,
+            38.8432013
+          ],
+          [
+            121.5076532,
+            38.8420572
+          ],
+          [
+            121.5071737,
+            38.8419312
+          ],
+          [
+            121.5063282,
+            38.8418997
+          ],
+          [
+            121.5056255,
+            38.8420056
+          ],
+          [
+            121.505134,
+            38.8422003
+          ],
+          [
+            121.5045124,
+            38.8426168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219553696",
+      "properties": {
+        "@id": "way/219553696",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5309156,
+            38.8667157
+          ],
+          [
+            121.529959,
+            38.865554
+          ],
+          [
+            121.5289408,
+            38.8643195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219696047",
+      "properties": {
+        "@id": "way/219696047",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5289408,
+            38.8643195
+          ],
+          [
+            121.5287018,
+            38.8639927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/218623139",
+      "properties": {
+        "@id": "way/218623139",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5356476,
+            38.8721466
+          ],
+          [
+            121.5334076,
+            38.8698088
+          ],
+          [
+            121.5326225,
+            38.8688927
+          ],
+          [
+            121.5319086,
+            38.8679743
+          ],
+          [
+            121.5316392,
+            38.8676447
+          ],
+          [
+            121.5309156,
+            38.8667157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219553692",
+      "properties": {
+        "@id": "way/219553692",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5459322,
+            38.8730487
+          ],
+          [
+            121.5455844,
+            38.8730763
+          ],
+          [
+            121.5451123,
+            38.8732106
+          ],
+          [
+            121.5445286,
+            38.8735714
+          ],
+          [
+            121.5435244,
+            38.8740926
+          ],
+          [
+            121.5428438,
+            38.8742477
+          ],
+          [
+            121.5421515,
+            38.8742558
+          ],
+          [
+            121.5417473,
+            38.874219
+          ],
+          [
+            121.5413223,
+            38.8741185
+          ],
+          [
+            121.5407387,
+            38.8739343
+          ],
+          [
+            121.5402293,
+            38.8737766
+          ],
+          [
+            121.5393558,
+            38.8735239
+          ],
+          [
+            121.5373503,
+            38.8731507
+          ],
+          [
+            121.53677,
+            38.8729443
+          ],
+          [
+            121.5362909,
+            38.8726896
+          ],
+          [
+            121.535917,
+            38.8724407
+          ],
+          [
+            121.5356476,
+            38.8721466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219553699",
+      "properties": {
+        "@id": "way/219553699",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5811166,
+            38.9031438
+          ],
+          [
+            121.5809771,
+            38.9029571
+          ],
+          [
+            121.5807849,
+            38.9027257
+          ],
+          [
+            121.580401,
+            38.9023319
+          ],
+          [
+            121.579986,
+            38.9016177
+          ],
+          [
+            121.5798527,
+            38.9011878
+          ],
+          [
+            121.5798276,
+            38.9006652
+          ],
+          [
+            121.5799572,
+            38.8985362
+          ],
+          [
+            121.5799636,
+            38.8982481
+          ],
+          [
+            121.5800495,
+            38.8959059
+          ],
+          [
+            121.580127,
+            38.8937925
+          ],
+          [
+            121.5801308,
+            38.8935186
+          ],
+          [
+            121.5801402,
+            38.8928475
+          ],
+          [
+            121.5800759,
+            38.8908147
+          ],
+          [
+            121.5800331,
+            38.8894605
+          ],
+          [
+            121.5800247,
+            38.8893603
+          ],
+          [
+            121.5797999,
+            38.886688
+          ],
+          [
+            121.5796953,
+            38.8858115
+          ],
+          [
+            121.5796621,
+            38.8852989
+          ],
+          [
+            121.5795877,
+            38.8850245
+          ],
+          [
+            121.5793341,
+            38.884748
+          ],
+          [
+            121.5789302,
+            38.884534
+          ],
+          [
+            121.5750516,
+            38.8830443
+          ],
+          [
+            121.5719349,
+            38.8819317
+          ],
+          [
+            121.5715794,
+            38.8818404
+          ],
+          [
+            121.5712257,
+            38.8817969
+          ],
+          [
+            121.5696667,
+            38.881726
+          ],
+          [
+            121.5664962,
+            38.880983
+          ],
+          [
+            121.5659982,
+            38.880878
+          ],
+          [
+            121.5647402,
+            38.880572
+          ],
+          [
+            121.5635573,
+            38.8802698
+          ],
+          [
+            121.5631552,
+            38.8801007
+          ],
+          [
+            121.5628447,
+            38.8798788
+          ],
+          [
+            121.5616365,
+            38.8784502
+          ],
+          [
+            121.5613407,
+            38.8781332
+          ],
+          [
+            121.5609583,
+            38.8778535
+          ],
+          [
+            121.5577154,
+            38.8763759
+          ],
+          [
+            121.5572015,
+            38.8761876
+          ],
+          [
+            121.5565922,
+            38.8760076
+          ],
+          [
+            121.5550076,
+            38.8755142
+          ],
+          [
+            121.5545893,
+            38.875343
+          ],
+          [
+            121.5540795,
+            38.875077
+          ],
+          [
+            121.5536171,
+            38.874764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219553689",
+      "properties": {
+        "@id": "way/219553689",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5536171,
+            38.874764
+          ],
+          [
+            121.5520812,
+            38.8736931
+          ],
+          [
+            121.5510875,
+            38.8729023
+          ],
+          [
+            121.5507578,
+            38.8726454
+          ],
+          [
+            121.5502255,
+            38.8724591
+          ],
+          [
+            121.5496524,
+            38.8724358
+          ],
+          [
+            121.5486098,
+            38.8726707
+          ],
+          [
+            121.5479443,
+            38.8728803
+          ],
+          [
+            121.5475619,
+            38.873017
+          ],
+          [
+            121.5472357,
+            38.8731239
+          ],
+          [
+            121.5468593,
+            38.8731528
+          ],
+          [
+            121.5466112,
+            38.8731298
+          ],
+          [
+            121.5461292,
+            38.8730698
+          ],
+          [
+            121.5459322,
+            38.8730487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206823188",
+      "properties": {
+        "@id": "way/206823188",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5842731,
+            38.9169656
+          ],
+          [
+            121.584169,
+            38.9169035
+          ],
+          [
+            121.5840913,
+            38.9167526
+          ],
+          [
+            121.5836197,
+            38.9158436
+          ],
+          [
+            121.5831658,
+            38.9149597
+          ],
+          [
+            121.5825366,
+            38.9137341
+          ],
+          [
+            121.5825091,
+            38.9135665
+          ],
+          [
+            121.5824616,
+            38.9132767
+          ],
+          [
+            121.5824363,
+            38.9104539
+          ],
+          [
+            121.5824305,
+            38.9098961
+          ],
+          [
+            121.5824147,
+            38.9089902
+          ],
+          [
+            121.5823849,
+            38.9080647
+          ],
+          [
+            121.5823517,
+            38.9069929
+          ],
+          [
+            121.5823664,
+            38.9068032
+          ],
+          [
+            121.5823264,
+            38.9059779
+          ],
+          [
+            121.582319,
+            38.9049006
+          ],
+          [
+            121.5822772,
+            38.9045033
+          ],
+          [
+            121.5821483,
+            38.9042159
+          ],
+          [
+            121.5816142,
+            38.9036571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219553694",
+      "properties": {
+        "@id": "way/219553694",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.5816142,
+            38.9036571
+          ],
+          [
+            121.5811166,
+            38.9031438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544302735",
+      "properties": {
+        "@id": "node/544302735",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509779,
+          38.8432013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544302736",
+      "properties": {
+        "@id": "node/544302736",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.505134,
+          38.8422003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544302733",
+      "properties": {
+        "@id": "node/544302733",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.512996,
+          38.8463911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544302732",
+      "properties": {
+        "@id": "node/544302732",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5165227,
+          38.85161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298311",
+      "properties": {
+        "@id": "node/544298311",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.523275,
+          38.8571733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298310",
+      "properties": {
+        "@id": "node/544298310",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5268629,
+          38.8616761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298309",
+      "properties": {
+        "@id": "node/544298309",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.529959,
+          38.865554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2288348324",
+      "properties": {
+        "@id": "node/2288348324",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5402293,
+          38.8737766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298307",
+      "properties": {
+        "@id": "node/544298307",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5545893,
+          38.875343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298306",
+      "properties": {
+        "@id": "node/544298306",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5616365,
+          38.8784502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298305",
+      "properties": {
+        "@id": "node/544298305",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5664962,
+          38.880983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298304",
+      "properties": {
+        "@id": "node/544298304",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5750516,
+          38.8830443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298302",
+      "properties": {
+        "@id": "node/544298302",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5800331,
+          38.8894605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298303",
+      "properties": {
+        "@id": "node/544298303",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5796953,
+          38.8858115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298300",
+      "properties": {
+        "@id": "node/544298300",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5799572,
+          38.8985362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298301",
+      "properties": {
+        "@id": "node/544298301",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.580127,
+          38.8937925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298299",
+      "properties": {
+        "@id": "node/544298299",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5823264,
+          38.9059779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298298",
+      "properties": {
+        "@id": "node/544298298",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5824363,
+          38.9104539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296652",
+      "properties": {
+        "@id": "node/544296652",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5855706,
+          38.916625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544298297",
+      "properties": {
+        "@id": "node/544298297",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383716,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "202路",
+              "name:en": "Tram 202 - Xinggong Street - Xiaoping Island",
+              "ref": "202",
+              "route": "tram",
+              "to": "小平岛前",
+              "to:en": "Xiaoping Island",
+              "to:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383717,
+            "reltags": {
+              "from": "小平岛前",
+              "from:en": "Xiaoping Island",
+              "from:zh_pinyin": "Xiǎopíngdǎo Qián",
+              "name": "202路",
+              "name:en": "Tram 202 - Xiaoping Island - Xinggong Street",
+              "ref": "202",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5836197,
+          38.9158436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296651",
+      "properties": {
+        "@id": "node/544296651",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5903868,
+          38.9165793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296649",
+      "properties": {
+        "@id": "node/544296649",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6015804,
+          38.9176406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296650",
+      "properties": {
+        "@id": "node/544296650",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5960633,
+          38.9171275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296648",
+      "properties": {
+        "@id": "node/544296648",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6079234,
+          38.9182827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296647",
+      "properties": {
+        "@id": "node/544296647",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6135605,
+          38.9193304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296646",
+      "properties": {
+        "@id": "node/544296646",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6176393,
+          38.9189958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296645",
+      "properties": {
+        "@id": "node/544296645",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6298679,
+          38.9199585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296644",
+      "properties": {
+        "@id": "node/544296644",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6345771,
+          38.9252895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296638",
+      "properties": {
+        "@id": "node/544296638",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6651484,
+          38.9183626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296637",
+      "properties": {
+        "@id": "node/544296637",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6710761,
+          38.9178263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296636",
+      "properties": {
+        "@id": "node/544296636",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6770727,
+          38.914012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296641",
+      "properties": {
+        "@id": "node/544296641",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6450544,
+          38.9214799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296643",
+      "properties": {
+        "@id": "node/544296643",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6389414,
+          38.9254994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544238157",
+      "properties": {
+        "@id": "node/544238157",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6429242,
+          38.9252755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296640",
+      "properties": {
+        "@id": "node/544296640",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6503978,
+          38.9190793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/544296639",
+      "properties": {
+        "@id": "node/544296639",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 383432,
+            "reltags": {
+              "from": "海之韵公园",
+              "from:en": "Haizhiyun Park",
+              "from:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "name": "201路",
+              "name:en": "Tram 201 - Haizhiyun Park - Xinggong Street",
+              "ref": "201",
+              "route": "tram",
+              "to": "兴工街",
+              "to:en": "Xinggong Street",
+              "to:zh_pinyin": "Xīnggōng Jiē",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 383433,
+            "reltags": {
+              "from": "兴工街",
+              "from:en": "Xinggong Street",
+              "from:zh_pinyin": "Xīnggōng Jiē",
+              "name": "201路",
+              "name:en": "Tram 201 - Xinggong Street - Haizhiyun Park",
+              "ref": "201",
+              "route": "tram",
+              "to": "海之韵公园",
+              "to:en": "Haizhiyun Park",
+              "to:zh_pinyin": "Hǎizhīyùn Gōngyuán",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6579599,
+          38.9193037
+        ]
+      }
+    }
+  ]
+}

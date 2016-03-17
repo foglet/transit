@@ -1,0 +1,9084 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-11T05:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/43914279",
+      "properties": {
+        "@id": "way/43914279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6441196,
+            50.5160959
+          ],
+          [
+            13.6440552,
+            50.5162409
+          ],
+          [
+            13.6439908,
+            50.5163712
+          ],
+          [
+            13.6439135,
+            50.5164857
+          ],
+          [
+            13.6438311,
+            50.5165734
+          ],
+          [
+            13.6437372,
+            50.5166649
+          ],
+          [
+            13.6435954,
+            50.5167606
+          ],
+          [
+            13.6432427,
+            50.5169555
+          ],
+          [
+            13.6426336,
+            50.5172716
+          ],
+          [
+            13.6423605,
+            50.5174283
+          ],
+          [
+            13.6421217,
+            50.5175821
+          ],
+          [
+            13.6418888,
+            50.5177412
+          ],
+          [
+            13.6416813,
+            50.5179004
+          ],
+          [
+            13.6413207,
+            50.5181942
+          ],
+          [
+            13.6411372,
+            50.5183711
+          ],
+          [
+            13.6409632,
+            50.5185506
+          ],
+          [
+            13.6408321,
+            50.5186953
+          ],
+          [
+            13.6407176,
+            50.5188395
+          ],
+          [
+            13.6405489,
+            50.5190685
+          ],
+          [
+            13.6403606,
+            50.5193265
+          ],
+          [
+            13.6396125,
+            50.5203956
+          ],
+          [
+            13.6392326,
+            50.5209306
+          ],
+          [
+            13.6388415,
+            50.5214617
+          ],
+          [
+            13.6385101,
+            50.5218682
+          ],
+          [
+            13.6383185,
+            50.5220679
+          ],
+          [
+            13.6381055,
+            50.522266
+          ],
+          [
+            13.6379281,
+            50.5224172
+          ],
+          [
+            13.6377352,
+            50.5225667
+          ],
+          [
+            13.6375164,
+            50.5227222
+          ],
+          [
+            13.6372852,
+            50.5228779
+          ],
+          [
+            13.6370806,
+            50.5230022
+          ],
+          [
+            13.6368607,
+            50.5231255
+          ],
+          [
+            13.6366613,
+            50.5232283
+          ],
+          [
+            13.6364432,
+            50.5233349
+          ],
+          [
+            13.6361165,
+            50.5234775
+          ],
+          [
+            13.6357644,
+            50.5236165
+          ],
+          [
+            13.6353977,
+            50.523744
+          ],
+          [
+            13.6350148,
+            50.5238728
+          ],
+          [
+            13.6336562,
+            50.5243021
+          ],
+          [
+            13.6322848,
+            50.5247287
+          ],
+          [
+            13.6318622,
+            50.5248678
+          ],
+          [
+            13.6316337,
+            50.5249467
+          ],
+          [
+            13.6314055,
+            50.5250356
+          ],
+          [
+            13.6311267,
+            50.525142
+          ],
+          [
+            13.6308247,
+            50.5252417
+          ],
+          [
+            13.6300732,
+            50.5254773
+          ],
+          [
+            13.6297207,
+            50.5255856
+          ],
+          [
+            13.6294081,
+            50.5256966
+          ],
+          [
+            13.6291502,
+            50.5258117
+          ],
+          [
+            13.6289543,
+            50.5259153
+          ],
+          [
+            13.6288139,
+            50.5259991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844529",
+      "properties": {
+        "@id": "way/188844529",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6287771,
+            50.525973
+          ],
+          [
+            13.6289174,
+            50.5258861
+          ],
+          [
+            13.629117,
+            50.5257752
+          ],
+          [
+            13.6293867,
+            50.5256621
+          ],
+          [
+            13.6296978,
+            50.5255546
+          ],
+          [
+            13.6300539,
+            50.5254426
+          ],
+          [
+            13.6307966,
+            50.5252082
+          ],
+          [
+            13.6311023,
+            50.5251053
+          ],
+          [
+            13.6313757,
+            50.5250024
+          ],
+          [
+            13.6316112,
+            50.5249109
+          ],
+          [
+            13.631845,
+            50.5248286
+          ],
+          [
+            13.6322676,
+            50.5246937
+          ],
+          [
+            13.6336326,
+            50.524265
+          ],
+          [
+            13.6349957,
+            50.5238363
+          ],
+          [
+            13.6353751,
+            50.5237128
+          ],
+          [
+            13.635742,
+            50.5235859
+          ],
+          [
+            13.6360855,
+            50.5234464
+          ],
+          [
+            13.6364056,
+            50.5233035
+          ],
+          [
+            13.6366214,
+            50.5232017
+          ],
+          [
+            13.6368246,
+            50.5230965
+          ],
+          [
+            13.6370422,
+            50.5229719
+          ],
+          [
+            13.6372346,
+            50.5228507
+          ],
+          [
+            13.6374792,
+            50.5226907
+          ],
+          [
+            13.6376968,
+            50.5225397
+          ],
+          [
+            13.6378838,
+            50.52239
+          ],
+          [
+            13.6380546,
+            50.5222448
+          ],
+          [
+            13.638265,
+            50.5220481
+          ],
+          [
+            13.6384521,
+            50.5218492
+          ],
+          [
+            13.6387829,
+            50.521449
+          ],
+          [
+            13.6391804,
+            50.5209105
+          ],
+          [
+            13.6395544,
+            50.5203765
+          ],
+          [
+            13.6403097,
+            50.5193097
+          ],
+          [
+            13.6404913,
+            50.5190582
+          ],
+          [
+            13.640664,
+            50.5188307
+          ],
+          [
+            13.6407888,
+            50.5186759
+          ],
+          [
+            13.6409185,
+            50.5185319
+          ],
+          [
+            13.6410915,
+            50.51835
+          ],
+          [
+            13.6412847,
+            50.5181681
+          ],
+          [
+            13.6416408,
+            50.5178722
+          ],
+          [
+            13.6418531,
+            50.5177129
+          ],
+          [
+            13.6420871,
+            50.5175504
+          ],
+          [
+            13.6423198,
+            50.5174016
+          ],
+          [
+            13.6426034,
+            50.5172407
+          ],
+          [
+            13.6432112,
+            50.5169238
+          ],
+          [
+            13.6435552,
+            50.516732
+          ],
+          [
+            13.6436939,
+            50.5166318
+          ],
+          [
+            13.6437849,
+            50.5165473
+          ],
+          [
+            13.6438658,
+            50.51646
+          ],
+          [
+            13.6439294,
+            50.516358
+          ],
+          [
+            13.6439988,
+            50.5162294
+          ],
+          [
+            13.6440552,
+            50.5161108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168041666",
+      "properties": {
+        "@id": "way/168041666",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.628268,
+            50.5299676
+          ],
+          [
+            13.6283189,
+            50.530631
+          ],
+          [
+            13.6283893,
+            50.5315886
+          ],
+          [
+            13.6284596,
+            50.5325448
+          ],
+          [
+            13.6284771,
+            50.5328307
+          ],
+          [
+            13.6284788,
+            50.5329795
+          ],
+          [
+            13.6284718,
+            50.5331346
+          ],
+          [
+            13.6284664,
+            50.5332561
+          ],
+          [
+            13.6284508,
+            50.5333789
+          ],
+          [
+            13.6284328,
+            50.5335016
+          ],
+          [
+            13.6284023,
+            50.5336274
+          ],
+          [
+            13.6283845,
+            50.5337019
+          ],
+          [
+            13.6283596,
+            50.5337952
+          ],
+          [
+            13.6282996,
+            50.53397
+          ],
+          [
+            13.6282049,
+            50.5342061
+          ],
+          [
+            13.6280933,
+            50.5344388
+          ],
+          [
+            13.6279794,
+            50.53463
+          ],
+          [
+            13.627858,
+            50.534811
+          ],
+          [
+            13.6277623,
+            50.5349388
+          ],
+          [
+            13.6276696,
+            50.5350634
+          ],
+          [
+            13.6275415,
+            50.5352064
+          ],
+          [
+            13.6273989,
+            50.5353648
+          ],
+          [
+            13.6272644,
+            50.5354923
+          ],
+          [
+            13.6271257,
+            50.5356205
+          ],
+          [
+            13.6269574,
+            50.5357592
+          ],
+          [
+            13.6267846,
+            50.5358917
+          ],
+          [
+            13.6264148,
+            50.536172
+          ],
+          [
+            13.6259163,
+            50.5365417
+          ],
+          [
+            13.625606,
+            50.5367741
+          ],
+          [
+            13.6241629,
+            50.537853
+          ],
+          [
+            13.6222557,
+            50.5392776
+          ],
+          [
+            13.6215921,
+            50.5397745
+          ],
+          [
+            13.6209366,
+            50.5402811
+          ],
+          [
+            13.6203198,
+            50.5407868
+          ],
+          [
+            13.6182589,
+            50.5424952
+          ],
+          [
+            13.6178407,
+            50.5428456
+          ],
+          [
+            13.6174457,
+            50.5431682
+          ],
+          [
+            13.6168323,
+            50.5436375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844527",
+      "properties": {
+        "@id": "way/188844527",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6168008,
+            50.5436166
+          ],
+          [
+            13.6174111,
+            50.5431519
+          ],
+          [
+            13.6178092,
+            50.542827
+          ],
+          [
+            13.6182265,
+            50.5424788
+          ],
+          [
+            13.6202824,
+            50.5407688
+          ],
+          [
+            13.6209055,
+            50.5402604
+          ],
+          [
+            13.621554,
+            50.5397602
+          ],
+          [
+            13.6222254,
+            50.5392575
+          ],
+          [
+            13.6241316,
+            50.5378351
+          ],
+          [
+            13.6255723,
+            50.5367594
+          ],
+          [
+            13.6258634,
+            50.5365384
+          ],
+          [
+            13.6263836,
+            50.53615
+          ],
+          [
+            13.6267507,
+            50.5358731
+          ],
+          [
+            13.6269189,
+            50.5357337
+          ],
+          [
+            13.6270789,
+            50.5355965
+          ],
+          [
+            13.6272129,
+            50.5354748
+          ],
+          [
+            13.627346,
+            50.5353393
+          ],
+          [
+            13.6274844,
+            50.5351879
+          ],
+          [
+            13.6276103,
+            50.535049
+          ],
+          [
+            13.6277218,
+            50.534913
+          ],
+          [
+            13.627809,
+            50.5347901
+          ],
+          [
+            13.6279286,
+            50.5346112
+          ],
+          [
+            13.6280329,
+            50.534426
+          ],
+          [
+            13.6281498,
+            50.5341991
+          ],
+          [
+            13.6282406,
+            50.5339671
+          ],
+          [
+            13.6283009,
+            50.5337917
+          ],
+          [
+            13.6283261,
+            50.5336954
+          ],
+          [
+            13.6283458,
+            50.5336173
+          ],
+          [
+            13.6283737,
+            50.5335019
+          ],
+          [
+            13.6283908,
+            50.5333744
+          ],
+          [
+            13.6284088,
+            50.533255
+          ],
+          [
+            13.6284178,
+            50.5331287
+          ],
+          [
+            13.6284223,
+            50.5329749
+          ],
+          [
+            13.6284214,
+            50.5328303
+          ],
+          [
+            13.6284061,
+            50.5325469
+          ],
+          [
+            13.6283309,
+            50.5315924
+          ],
+          [
+            13.6282594,
+            50.5306331
+          ],
+          [
+            13.6282087,
+            50.5299667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43914277",
+      "properties": {
+        "@id": "way/43914277",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6285138,
+            50.5262478
+          ],
+          [
+            13.6283995,
+            50.5263729
+          ],
+          [
+            13.6282601,
+            50.5265663
+          ],
+          [
+            13.6281846,
+            50.5266978
+          ],
+          [
+            13.6281306,
+            50.5268339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43914278",
+      "properties": {
+        "@id": "way/43914278",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6281879,
+            50.5289843
+          ],
+          [
+            13.628268,
+            50.5299676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43914280",
+      "properties": {
+        "@id": "way/43914280",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6288139,
+            50.5259991
+          ],
+          [
+            13.6286946,
+            50.5260888
+          ],
+          [
+            13.6285999,
+            50.5261706
+          ],
+          [
+            13.6285138,
+            50.5262478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844523",
+      "properties": {
+        "@id": "way/188844523",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6282087,
+            50.5299667
+          ],
+          [
+            13.6281286,
+            50.5289801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844524",
+      "properties": {
+        "@id": "way/188844524",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6281286,
+            50.5289801
+          ],
+          [
+            13.6280795,
+            50.5283166
+          ],
+          [
+            13.6280299,
+            50.5276529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844526",
+      "properties": {
+        "@id": "way/188844526",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6280895,
+            50.527654
+          ],
+          [
+            13.628141,
+            50.5283176
+          ],
+          [
+            13.6281879,
+            50.5289843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844528",
+      "properties": {
+        "@id": "way/188844528",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6284642,
+            50.5262314
+          ],
+          [
+            13.6285523,
+            50.5261468
+          ],
+          [
+            13.6286548,
+            50.5260599
+          ],
+          [
+            13.6287771,
+            50.525973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844531",
+      "properties": {
+        "@id": "way/188844531",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6280722,
+            50.526819
+          ],
+          [
+            13.6281279,
+            50.5266853
+          ],
+          [
+            13.6282106,
+            50.5265378
+          ],
+          [
+            13.6283496,
+            50.5263543
+          ],
+          [
+            13.6284642,
+            50.5262314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844532",
+      "properties": {
+        "@id": "way/188844532",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6280299,
+            50.5276529
+          ],
+          [
+            13.6280092,
+            50.5273495
+          ],
+          [
+            13.6280056,
+            50.5272043
+          ],
+          [
+            13.6280182,
+            50.5270602
+          ],
+          [
+            13.6280416,
+            50.5269368
+          ],
+          [
+            13.6280722,
+            50.526819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844533",
+      "properties": {
+        "@id": "way/188844533",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6281306,
+            50.5268339
+          ],
+          [
+            13.6280923,
+            50.526946
+          ],
+          [
+            13.6280704,
+            50.5270676
+          ],
+          [
+            13.6280605,
+            50.5272125
+          ],
+          [
+            13.6280674,
+            50.5273533
+          ],
+          [
+            13.6280895,
+            50.527654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59315985",
+      "properties": {
+        "@id": "way/59315985",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6098925,
+            50.5494235
+          ],
+          [
+            13.6089782,
+            50.5502838
+          ],
+          [
+            13.6086087,
+            50.5506187
+          ],
+          [
+            13.6081794,
+            50.5509866
+          ],
+          [
+            13.6076187,
+            50.5514397
+          ],
+          [
+            13.6067783,
+            50.5520873
+          ],
+          [
+            13.6052188,
+            50.5532973
+          ],
+          [
+            13.6035361,
+            50.5545967
+          ],
+          [
+            13.6032142,
+            50.5548488
+          ],
+          [
+            13.6029388,
+            50.5550799
+          ],
+          [
+            13.6027863,
+            50.5552297
+          ],
+          [
+            13.6026524,
+            50.5553852
+          ],
+          [
+            13.6025279,
+            50.5555696
+          ],
+          [
+            13.602454,
+            50.5556902
+          ],
+          [
+            13.6023959,
+            50.5558159
+          ],
+          [
+            13.6023355,
+            50.5559692
+          ],
+          [
+            13.60228,
+            50.5561359
+          ],
+          [
+            13.6022416,
+            50.5563032
+          ],
+          [
+            13.6022178,
+            50.556538
+          ],
+          [
+            13.6022244,
+            50.5567662
+          ],
+          [
+            13.6022776,
+            50.5576095
+          ],
+          [
+            13.6022821,
+            50.5577687
+          ],
+          [
+            13.6022957,
+            50.5579683
+          ],
+          [
+            13.6023236,
+            50.5584184
+          ],
+          [
+            13.6023288,
+            50.5585159
+          ],
+          [
+            13.6023631,
+            50.5591593
+          ],
+          [
+            13.6023863,
+            50.5594981
+          ],
+          [
+            13.6023901,
+            50.5597487
+          ],
+          [
+            13.6023675,
+            50.5598588
+          ],
+          [
+            13.6023287,
+            50.5599501
+          ],
+          [
+            13.6022816,
+            50.5600417
+          ],
+          [
+            13.6021935,
+            50.5601512
+          ],
+          [
+            13.6020841,
+            50.5602519
+          ],
+          [
+            13.6019647,
+            50.5603556
+          ],
+          [
+            13.6017336,
+            50.5605755
+          ],
+          [
+            13.6013552,
+            50.5609134
+          ],
+          [
+            13.6012379,
+            50.5610132
+          ],
+          [
+            13.6011486,
+            50.5611066
+          ],
+          [
+            13.6010915,
+            50.5611743
+          ],
+          [
+            13.6010366,
+            50.5612479
+          ],
+          [
+            13.6009996,
+            50.561321
+          ],
+          [
+            13.60096,
+            50.5614109
+          ],
+          [
+            13.6009412,
+            50.5614962
+          ],
+          [
+            13.6009351,
+            50.5616298
+          ],
+          [
+            13.6009397,
+            50.5618134
+          ],
+          [
+            13.6009449,
+            50.5621309
+          ],
+          [
+            13.6009618,
+            50.5623026
+          ],
+          [
+            13.6009971,
+            50.562463
+          ],
+          [
+            13.6010523,
+            50.5626223
+          ],
+          [
+            13.6011159,
+            50.5627773
+          ],
+          [
+            13.6011973,
+            50.5629209
+          ],
+          [
+            13.6012853,
+            50.5630564
+          ],
+          [
+            13.6013829,
+            50.5631878
+          ],
+          [
+            13.6014837,
+            50.5633061
+          ],
+          [
+            13.6015999,
+            50.5634271
+          ],
+          [
+            13.6017233,
+            50.5635406
+          ],
+          [
+            13.6018502,
+            50.563643
+          ],
+          [
+            13.6019908,
+            50.5637432
+          ],
+          [
+            13.602227,
+            50.5638939
+          ],
+          [
+            13.6025841,
+            50.5641026
+          ],
+          [
+            13.6031594,
+            50.5644253
+          ],
+          [
+            13.6033757,
+            50.564558
+          ],
+          [
+            13.6035811,
+            50.5646956
+          ],
+          [
+            13.6037543,
+            50.564829
+          ],
+          [
+            13.6039126,
+            50.5649742
+          ],
+          [
+            13.604071,
+            50.5651358
+          ],
+          [
+            13.6042152,
+            50.5653163
+          ],
+          [
+            13.6043287,
+            50.5654754
+          ],
+          [
+            13.6044312,
+            50.5656496
+          ],
+          [
+            13.604506,
+            50.5657998
+          ],
+          [
+            13.6045656,
+            50.5659532
+          ],
+          [
+            13.6046103,
+            50.5661018
+          ],
+          [
+            13.6046406,
+            50.5662493
+          ],
+          [
+            13.6046593,
+            50.5664274
+          ],
+          [
+            13.604662,
+            50.5666081
+          ],
+          [
+            13.6046239,
+            50.5678427
+          ],
+          [
+            13.6045912,
+            50.5688016
+          ],
+          [
+            13.6045716,
+            50.5693028
+          ],
+          [
+            13.6045536,
+            50.5696349
+          ],
+          [
+            13.6045438,
+            50.5697729
+          ],
+          [
+            13.6045249,
+            50.5699125
+          ],
+          [
+            13.6044958,
+            50.5700428
+          ],
+          [
+            13.6044191,
+            50.5703086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188812569",
+      "properties": {
+        "@id": "way/188812569",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6043658,
+            50.5702988
+          ],
+          [
+            13.6044394,
+            50.5700285
+          ],
+          [
+            13.6044653,
+            50.5699037
+          ],
+          [
+            13.6044866,
+            50.5697659
+          ],
+          [
+            13.6045032,
+            50.5696322
+          ],
+          [
+            13.6045143,
+            50.5692914
+          ],
+          [
+            13.60453,
+            50.5688023
+          ],
+          [
+            13.604566,
+            50.5678415
+          ],
+          [
+            13.6046085,
+            50.5666151
+          ],
+          [
+            13.6046085,
+            50.5664227
+          ],
+          [
+            13.6045928,
+            50.5662497
+          ],
+          [
+            13.6045549,
+            50.5661036
+          ],
+          [
+            13.6045124,
+            50.5659599
+          ],
+          [
+            13.6044533,
+            50.5658045
+          ],
+          [
+            13.6043758,
+            50.5656467
+          ],
+          [
+            13.6042853,
+            50.5654848
+          ],
+          [
+            13.6041689,
+            50.5653241
+          ],
+          [
+            13.604023,
+            50.5651499
+          ],
+          [
+            13.603866,
+            50.5649932
+          ],
+          [
+            13.6037146,
+            50.5648548
+          ],
+          [
+            13.6035382,
+            50.5647176
+          ],
+          [
+            13.6033415,
+            50.5645832
+          ],
+          [
+            13.6031245,
+            50.5644513
+          ],
+          [
+            13.6025548,
+            50.5641292
+          ],
+          [
+            13.6021798,
+            50.5639163
+          ],
+          [
+            13.6019388,
+            50.5637597
+          ],
+          [
+            13.6018012,
+            50.5636617
+          ],
+          [
+            13.6016784,
+            50.5635591
+          ],
+          [
+            13.6015454,
+            50.5634388
+          ],
+          [
+            13.6014282,
+            50.5633174
+          ],
+          [
+            13.6013266,
+            50.5631971
+          ],
+          [
+            13.6012259,
+            50.5630581
+          ],
+          [
+            13.6011382,
+            50.5629214
+          ],
+          [
+            13.6010606,
+            50.562773
+          ],
+          [
+            13.600996,
+            50.5626252
+          ],
+          [
+            13.6009378,
+            50.5624616
+          ],
+          [
+            13.6009046,
+            50.562292
+          ],
+          [
+            13.6008843,
+            50.5621284
+          ],
+          [
+            13.600875,
+            50.5618116
+          ],
+          [
+            13.6008787,
+            50.5616215
+          ],
+          [
+            13.6008907,
+            50.561496
+          ],
+          [
+            13.6009092,
+            50.5614057
+          ],
+          [
+            13.6009526,
+            50.5613018
+          ],
+          [
+            13.6009923,
+            50.561232
+          ],
+          [
+            13.601044,
+            50.5611564
+          ],
+          [
+            13.601092,
+            50.5610989
+          ],
+          [
+            13.601201,
+            50.5609933
+          ],
+          [
+            13.6013137,
+            50.56089
+          ],
+          [
+            13.6016849,
+            50.5605562
+          ],
+          [
+            13.6019277,
+            50.5603369
+          ],
+          [
+            13.6019911,
+            50.5602858
+          ],
+          [
+            13.6020681,
+            50.5602236
+          ],
+          [
+            13.6021512,
+            50.5601386
+          ],
+          [
+            13.6022343,
+            50.5600324
+          ],
+          [
+            13.6022814,
+            50.5599397
+          ],
+          [
+            13.6023193,
+            50.5598499
+          ],
+          [
+            13.6023359,
+            50.5597485
+          ],
+          [
+            13.6023391,
+            50.5596226
+          ],
+          [
+            13.602339,
+            50.5595554
+          ],
+          [
+            13.6023109,
+            50.5591583
+          ],
+          [
+            13.6022699,
+            50.5584356
+          ],
+          [
+            13.6022463,
+            50.5579586
+          ],
+          [
+            13.6022302,
+            50.5577613
+          ],
+          [
+            13.602219,
+            50.5576076
+          ],
+          [
+            13.6021818,
+            50.5567647
+          ],
+          [
+            13.6021742,
+            50.556536
+          ],
+          [
+            13.602199,
+            50.5563
+          ],
+          [
+            13.6022343,
+            50.5561283
+          ],
+          [
+            13.6022888,
+            50.5559542
+          ],
+          [
+            13.6023546,
+            50.5557928
+          ],
+          [
+            13.6024139,
+            50.5556781
+          ],
+          [
+            13.6024903,
+            50.5555592
+          ],
+          [
+            13.6026249,
+            50.5553674
+          ],
+          [
+            13.6027567,
+            50.555217
+          ],
+          [
+            13.6029105,
+            50.5550592
+          ],
+          [
+            13.6031888,
+            50.5548236
+          ],
+          [
+            13.6035036,
+            50.5545781
+          ],
+          [
+            13.6051857,
+            50.5532801
+          ],
+          [
+            13.6067453,
+            50.552072
+          ],
+          [
+            13.6075897,
+            50.5514188
+          ],
+          [
+            13.6081483,
+            50.5509688
+          ],
+          [
+            13.6085723,
+            50.5506043
+          ],
+          [
+            13.608947,
+            50.5502686
+          ],
+          [
+            13.6098569,
+            50.549407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188843647",
+      "properties": {
+        "@id": "way/188843647",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.610587,
+            50.5487146
+          ],
+          [
+            13.6108066,
+            50.5485018
+          ],
+          [
+            13.6114462,
+            50.5478914
+          ],
+          [
+            13.6120012,
+            50.5473632
+          ],
+          [
+            13.612498,
+            50.5469124
+          ],
+          [
+            13.6128356,
+            50.546622
+          ],
+          [
+            13.6131718,
+            50.5463429
+          ],
+          [
+            13.6137318,
+            50.5459068
+          ],
+          [
+            13.614499,
+            50.545336
+          ],
+          [
+            13.6155851,
+            50.5445232
+          ],
+          [
+            13.6166685,
+            50.543716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844520",
+      "properties": {
+        "@id": "way/188844520",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6167013,
+            50.5437352
+          ],
+          [
+            13.6156131,
+            50.5445467
+          ],
+          [
+            13.6145322,
+            50.5453529
+          ],
+          [
+            13.6137702,
+            50.5459243
+          ],
+          [
+            13.613202,
+            50.5463655
+          ],
+          [
+            13.6128617,
+            50.5466464
+          ],
+          [
+            13.6125313,
+            50.5469309
+          ],
+          [
+            13.6120325,
+            50.547384
+          ],
+          [
+            13.6114757,
+            50.5479121
+          ],
+          [
+            13.6108354,
+            50.5485228
+          ],
+          [
+            13.6106216,
+            50.5487271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844521",
+      "properties": {
+        "@id": "way/188844521",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6166685,
+            50.543716
+          ],
+          [
+            13.6168008,
+            50.5436166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188844522",
+      "properties": {
+        "@id": "way/188844522",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6168323,
+            50.5436375
+          ],
+          [
+            13.6167013,
+            50.5437352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168041661",
+      "properties": {
+        "@id": "way/168041661",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6106216,
+            50.5487271
+          ],
+          [
+            13.6098925,
+            50.5494235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188843646",
+      "properties": {
+        "@id": "way/188843646",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6098569,
+            50.549407
+          ],
+          [
+            13.610587,
+            50.5487146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24853792",
+      "properties": {
+        "@id": "way/24853792",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6355128,
+            50.4918816
+          ],
+          [
+            13.6354909,
+            50.4922449
+          ],
+          [
+            13.6354779,
+            50.4923803
+          ],
+          [
+            13.6354445,
+            50.4928407
+          ],
+          [
+            13.6354014,
+            50.4934606
+          ],
+          [
+            13.6353887,
+            50.4936144
+          ],
+          [
+            13.6353779,
+            50.4937444
+          ],
+          [
+            13.6353702,
+            50.4939869
+          ],
+          [
+            13.6353826,
+            50.4942937
+          ],
+          [
+            13.6354082,
+            50.4945724
+          ],
+          [
+            13.6354496,
+            50.4948123
+          ],
+          [
+            13.6354994,
+            50.4950408
+          ],
+          [
+            13.6355486,
+            50.4952407
+          ],
+          [
+            13.6356064,
+            50.4954238
+          ],
+          [
+            13.6357045,
+            50.4956952
+          ],
+          [
+            13.6357357,
+            50.4957763
+          ],
+          [
+            13.6358597,
+            50.4960585
+          ],
+          [
+            13.6359499,
+            50.4962358
+          ],
+          [
+            13.6360867,
+            50.4964806
+          ],
+          [
+            13.6362257,
+            50.4967062
+          ],
+          [
+            13.6363295,
+            50.4968582
+          ],
+          [
+            13.6364518,
+            50.4970339
+          ],
+          [
+            13.6371001,
+            50.4979017
+          ],
+          [
+            13.6372063,
+            50.4980437
+          ],
+          [
+            13.6373016,
+            50.4981712
+          ],
+          [
+            13.6377088,
+            50.4987159
+          ],
+          [
+            13.6382046,
+            50.4993989
+          ],
+          [
+            13.6384675,
+            50.4998194
+          ],
+          [
+            13.6386992,
+            50.5002297
+          ],
+          [
+            13.6387442,
+            50.5003141
+          ],
+          [
+            13.6388677,
+            50.5005577
+          ],
+          [
+            13.6389348,
+            50.5007638
+          ],
+          [
+            13.6389617,
+            50.5008848
+          ],
+          [
+            13.6390275,
+            50.5011635
+          ],
+          [
+            13.6392189,
+            50.5019633
+          ],
+          [
+            13.6394013,
+            50.5027251
+          ],
+          [
+            13.6395195,
+            50.5032066
+          ],
+          [
+            13.6397344,
+            50.5040863
+          ],
+          [
+            13.6398699,
+            50.5046663
+          ],
+          [
+            13.6399203,
+            50.5048511
+          ],
+          [
+            13.6399722,
+            50.5049934
+          ],
+          [
+            13.6400441,
+            50.5051176
+          ],
+          [
+            13.6401229,
+            50.5052344
+          ],
+          [
+            13.6402699,
+            50.5053981
+          ],
+          [
+            13.6403647,
+            50.5054977
+          ],
+          [
+            13.6405317,
+            50.5056742
+          ],
+          [
+            13.6407116,
+            50.5058638
+          ],
+          [
+            13.640754,
+            50.5059085
+          ],
+          [
+            13.640852,
+            50.5060211
+          ],
+          [
+            13.6409605,
+            50.506162
+          ],
+          [
+            13.6410409,
+            50.5063007
+          ],
+          [
+            13.6411112,
+            50.5064471
+          ],
+          [
+            13.641152,
+            50.5065995
+          ],
+          [
+            13.6412186,
+            50.5068549
+          ],
+          [
+            13.6413707,
+            50.5074273
+          ],
+          [
+            13.6414732,
+            50.5078047
+          ],
+          [
+            13.6415393,
+            50.508048
+          ],
+          [
+            13.6416219,
+            50.508307
+          ],
+          [
+            13.641717,
+            50.5085759
+          ],
+          [
+            13.6418123,
+            50.5087919
+          ],
+          [
+            13.641933,
+            50.5090329
+          ],
+          [
+            13.6421567,
+            50.5093895
+          ],
+          [
+            13.6424194,
+            50.5097295
+          ],
+          [
+            13.6429483,
+            50.5103486
+          ],
+          [
+            13.6430206,
+            50.5104264
+          ],
+          [
+            13.6431446,
+            50.5105806
+          ],
+          [
+            13.6433264,
+            50.5107955
+          ],
+          [
+            13.6441183,
+            50.511714
+          ],
+          [
+            13.6446674,
+            50.5123535
+          ],
+          [
+            13.6448915,
+            50.5126144
+          ],
+          [
+            13.6452456,
+            50.5130145
+          ],
+          [
+            13.6458082,
+            50.513668
+          ],
+          [
+            13.6458502,
+            50.5137213
+          ],
+          [
+            13.6460557,
+            50.5139514
+          ],
+          [
+            13.6461835,
+            50.5141081
+          ],
+          [
+            13.6462526,
+            50.5142456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198850896",
+      "properties": {
+        "@id": "way/198850896",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.646189,
+            50.5142613
+          ],
+          [
+            13.6461709,
+            50.5141983
+          ],
+          [
+            13.6461271,
+            50.5141182
+          ],
+          [
+            13.645997,
+            50.5139675
+          ],
+          [
+            13.6458061,
+            50.5137364
+          ],
+          [
+            13.6454215,
+            50.5132945
+          ],
+          [
+            13.6451922,
+            50.513031
+          ],
+          [
+            13.6448532,
+            50.5126226
+          ],
+          [
+            13.6446317,
+            50.5123654
+          ],
+          [
+            13.6440756,
+            50.5117197
+          ],
+          [
+            13.6432803,
+            50.5107989
+          ],
+          [
+            13.6431062,
+            50.5105941
+          ],
+          [
+            13.642979,
+            50.5104413
+          ],
+          [
+            13.6429029,
+            50.5103549
+          ],
+          [
+            13.642383,
+            50.5097431
+          ],
+          [
+            13.6421122,
+            50.5093915
+          ],
+          [
+            13.6418916,
+            50.5090392
+          ],
+          [
+            13.6417646,
+            50.508797
+          ],
+          [
+            13.641671,
+            50.5085769
+          ],
+          [
+            13.6415789,
+            50.5083165
+          ],
+          [
+            13.641498,
+            50.5080531
+          ],
+          [
+            13.6414318,
+            50.5078097
+          ],
+          [
+            13.6413329,
+            50.5074464
+          ],
+          [
+            13.6411774,
+            50.5068579
+          ],
+          [
+            13.6411044,
+            50.5065955
+          ],
+          [
+            13.6410615,
+            50.5064501
+          ],
+          [
+            13.6410012,
+            50.5063128
+          ],
+          [
+            13.6409107,
+            50.5061665
+          ],
+          [
+            13.6408044,
+            50.5060251
+          ],
+          [
+            13.6407136,
+            50.505928
+          ],
+          [
+            13.6406684,
+            50.5058796
+          ],
+          [
+            13.6404924,
+            50.5056913
+          ],
+          [
+            13.6403246,
+            50.5055116
+          ],
+          [
+            13.6402298,
+            50.5054104
+          ],
+          [
+            13.6400933,
+            50.5052539
+          ],
+          [
+            13.6399965,
+            50.5051257
+          ],
+          [
+            13.6399314,
+            50.5050005
+          ],
+          [
+            13.6398759,
+            50.5048511
+          ],
+          [
+            13.6398251,
+            50.5046694
+          ],
+          [
+            13.6396825,
+            50.5040917
+          ],
+          [
+            13.6394775,
+            50.5032117
+          ],
+          [
+            13.6393622,
+            50.5027294
+          ],
+          [
+            13.6391791,
+            50.5019721
+          ],
+          [
+            13.6389829,
+            50.5011724
+          ],
+          [
+            13.6389109,
+            50.5008787
+          ],
+          [
+            13.6388866,
+            50.5007691
+          ],
+          [
+            13.6388135,
+            50.5005624
+          ],
+          [
+            13.6387014,
+            50.5003215
+          ],
+          [
+            13.638649,
+            50.5002266
+          ],
+          [
+            13.6384199,
+            50.4998365
+          ],
+          [
+            13.6381659,
+            50.4994175
+          ],
+          [
+            13.6376675,
+            50.498725
+          ],
+          [
+            13.6372652,
+            50.4981824
+          ],
+          [
+            13.6371715,
+            50.498056
+          ],
+          [
+            13.6370596,
+            50.4979052
+          ],
+          [
+            13.6364137,
+            50.497046
+          ],
+          [
+            13.6362883,
+            50.4968663
+          ],
+          [
+            13.6361883,
+            50.4967168
+          ],
+          [
+            13.6360438,
+            50.4964897
+          ],
+          [
+            13.6359042,
+            50.4962393
+          ],
+          [
+            13.6358121,
+            50.4960575
+          ],
+          [
+            13.6356947,
+            50.4957869
+          ],
+          [
+            13.6356598,
+            50.4956971
+          ],
+          [
+            13.6355645,
+            50.4954215
+          ],
+          [
+            13.6355074,
+            50.4952427
+          ],
+          [
+            13.6354534,
+            50.4950448
+          ],
+          [
+            13.6354064,
+            50.4948127
+          ],
+          [
+            13.6353652,
+            50.4945734
+          ],
+          [
+            13.6353366,
+            50.4942896
+          ],
+          [
+            13.6353271,
+            50.4939847
+          ],
+          [
+            13.6353382,
+            50.4937383
+          ],
+          [
+            13.6353475,
+            50.4936122
+          ],
+          [
+            13.6353588,
+            50.4934587
+          ],
+          [
+            13.6353969,
+            50.4928387
+          ],
+          [
+            13.6354382,
+            50.4923742
+          ],
+          [
+            13.6354715,
+            50.4918786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250546609",
+      "properties": {
+        "@id": "way/250546609",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6354715,
+            50.4918786
+          ],
+          [
+            13.6355144,
+            50.4912283
+          ],
+          [
+            13.6355175,
+            50.4911576
+          ],
+          [
+            13.6355207,
+            50.4910828
+          ],
+          [
+            13.6355438,
+            50.4909409
+          ],
+          [
+            13.6355937,
+            50.4907808
+          ],
+          [
+            13.6356244,
+            50.490666
+          ],
+          [
+            13.6356477,
+            50.4905445
+          ],
+          [
+            13.635654,
+            50.4904294
+          ],
+          [
+            13.6356683,
+            50.4901103
+          ],
+          [
+            13.6356985,
+            50.4897318
+          ],
+          [
+            13.6357366,
+            50.489247
+          ],
+          [
+            13.6358219,
+            50.4881581
+          ],
+          [
+            13.6358393,
+            50.4880562
+          ],
+          [
+            13.6358584,
+            50.4879805
+          ],
+          [
+            13.6358996,
+            50.4878836
+          ],
+          [
+            13.6359441,
+            50.4878078
+          ],
+          [
+            13.6359996,
+            50.487726
+          ],
+          [
+            13.6360996,
+            50.4876422
+          ],
+          [
+            13.6361964,
+            50.4875806
+          ],
+          [
+            13.6363155,
+            50.4875261
+          ],
+          [
+            13.636444,
+            50.4874887
+          ],
+          [
+            13.6366191,
+            50.4874583
+          ],
+          [
+            13.6368234,
+            50.4874433
+          ],
+          [
+            13.6370503,
+            50.4874453
+          ],
+          [
+            13.6374598,
+            50.4874867
+          ],
+          [
+            13.639539,
+            50.4877099
+          ],
+          [
+            13.640439,
+            50.4878068
+          ],
+          [
+            13.6406086,
+            50.487825
+          ],
+          [
+            13.6411834,
+            50.4878866
+          ],
+          [
+            13.6416486,
+            50.4879358
+          ],
+          [
+            13.6419946,
+            50.4879656
+          ],
+          [
+            13.6423115,
+            50.4879831
+          ],
+          [
+            13.6426025,
+            50.4879924
+          ],
+          [
+            13.6429177,
+            50.4879975
+          ],
+          [
+            13.6432281,
+            50.4879924
+          ],
+          [
+            13.6435224,
+            50.487979
+          ],
+          [
+            13.6439023,
+            50.4879574
+          ],
+          [
+            13.6442822,
+            50.4879234
+          ],
+          [
+            13.644633,
+            50.4878813
+          ],
+          [
+            13.6449725,
+            50.4878319
+          ],
+          [
+            13.6452942,
+            50.4877743
+          ],
+          [
+            13.6456564,
+            50.4876992
+          ],
+          [
+            13.6459716,
+            50.4876231
+          ],
+          [
+            13.6462626,
+            50.4875459
+          ],
+          [
+            13.6465795,
+            50.4874544
+          ],
+          [
+            13.6476335,
+            50.4871191
+          ],
+          [
+            13.6486132,
+            50.4868043
+          ],
+          [
+            13.6491708,
+            50.486625
+          ],
+          [
+            13.6498113,
+            50.4864206
+          ],
+          [
+            13.6500116,
+            50.4863562
+          ],
+          [
+            13.6503188,
+            50.4862581
+          ],
+          [
+            13.6507728,
+            50.4861117
+          ],
+          [
+            13.6508976,
+            50.4860874
+          ],
+          [
+            13.6509765,
+            50.4860919
+          ],
+          [
+            13.6510963,
+            50.4861113
+          ],
+          [
+            13.6511687,
+            50.4861481
+          ],
+          [
+            13.6512326,
+            50.4861913
+          ],
+          [
+            13.6514361,
+            50.4864561
+          ],
+          [
+            13.6515115,
+            50.4865572
+          ],
+          [
+            13.6515378,
+            50.486614
+          ],
+          [
+            13.6515281,
+            50.4866799
+          ],
+          [
+            13.6514992,
+            50.4867479
+          ],
+          [
+            13.651444,
+            50.4868043
+          ],
+          [
+            13.65136,
+            50.4868547
+          ],
+          [
+            13.6506874,
+            50.4870742
+          ],
+          [
+            13.650487,
+            50.4871366
+          ],
+          [
+            13.6504049,
+            50.4871581
+          ],
+          [
+            13.6503172,
+            50.4871643
+          ],
+          [
+            13.6502137,
+            50.4871582
+          ],
+          [
+            13.6501268,
+            50.4871354
+          ],
+          [
+            13.6500553,
+            50.4871057
+          ],
+          [
+            13.6499664,
+            50.4870471
+          ],
+          [
+            13.6497047,
+            50.4867176
+          ],
+          [
+            13.6496421,
+            50.4866637
+          ],
+          [
+            13.6495848,
+            50.4866365
+          ],
+          [
+            13.649517,
+            50.4866233
+          ],
+          [
+            13.6494454,
+            50.4866075
+          ],
+          [
+            13.6493327,
+            50.4866202
+          ],
+          [
+            13.649195,
+            50.4866599
+          ],
+          [
+            13.6486391,
+            50.4868362
+          ],
+          [
+            13.6476691,
+            50.4871489
+          ],
+          [
+            13.6466101,
+            50.4874883
+          ],
+          [
+            13.6462859,
+            50.4875848
+          ],
+          [
+            13.6460013,
+            50.4876587
+          ],
+          [
+            13.6456693,
+            50.4877362
+          ],
+          [
+            13.64531,
+            50.4878091
+          ],
+          [
+            13.6449896,
+            50.4878691
+          ],
+          [
+            13.6446488,
+            50.4879162
+          ],
+          [
+            13.6442853,
+            50.4879602
+          ],
+          [
+            13.643907,
+            50.4879952
+          ],
+          [
+            13.643533,
+            50.4880212
+          ],
+          [
+            13.643234,
+            50.488027
+          ],
+          [
+            13.6429229,
+            50.4880309
+          ],
+          [
+            13.6425945,
+            50.488029
+          ],
+          [
+            13.6423039,
+            50.4880182
+          ],
+          [
+            13.641983,
+            50.4880006
+          ],
+          [
+            13.6416436,
+            50.4879724
+          ],
+          [
+            13.6411897,
+            50.4879241
+          ],
+          [
+            13.6407625,
+            50.4878817
+          ],
+          [
+            13.6405964,
+            50.487861
+          ],
+          [
+            13.6404188,
+            50.4878408
+          ],
+          [
+            13.6395248,
+            50.4877459
+          ],
+          [
+            13.6374501,
+            50.487525
+          ],
+          [
+            13.6370431,
+            50.4874838
+          ],
+          [
+            13.6368234,
+            50.4874857
+          ],
+          [
+            13.636607,
+            50.4875035
+          ],
+          [
+            13.6364551,
+            50.4875301
+          ],
+          [
+            13.6363539,
+            50.4875639
+          ],
+          [
+            13.6362377,
+            50.4876139
+          ],
+          [
+            13.6361482,
+            50.4876682
+          ],
+          [
+            13.6360695,
+            50.4877432
+          ],
+          [
+            13.6360091,
+            50.487822
+          ],
+          [
+            13.6359574,
+            50.4878977
+          ],
+          [
+            13.6359219,
+            50.4879845
+          ],
+          [
+            13.6358933,
+            50.4880653
+          ],
+          [
+            13.6358783,
+            50.4881612
+          ],
+          [
+            13.6357918,
+            50.489261
+          ],
+          [
+            13.6357586,
+            50.4897009
+          ],
+          [
+            13.6357499,
+            50.4898172
+          ],
+          [
+            13.6357404,
+            50.489981
+          ],
+          [
+            13.6357327,
+            50.4901147
+          ],
+          [
+            13.6357118,
+            50.4904462
+          ],
+          [
+            13.6356969,
+            50.4906082
+          ],
+          [
+            13.6356646,
+            50.4907198
+          ],
+          [
+            13.6355964,
+            50.4909266
+          ],
+          [
+            13.6355699,
+            50.4910595
+          ],
+          [
+            13.6355601,
+            50.4911626
+          ],
+          [
+            13.6355537,
+            50.4912292
+          ],
+          [
+            13.6355128,
+            50.4918816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35763353",
+      "properties": {
+        "@id": "way/35763353",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6354715,
+            50.4918786
+          ],
+          [
+            13.6354367,
+            50.4918237
+          ],
+          [
+            13.6354018,
+            50.4917627
+          ],
+          [
+            13.6353538,
+            50.4917127
+          ],
+          [
+            13.6352229,
+            50.4915961
+          ],
+          [
+            13.6351743,
+            50.4915185
+          ],
+          [
+            13.6351603,
+            50.4914428
+          ],
+          [
+            13.6351969,
+            50.4913711
+          ],
+          [
+            13.6352626,
+            50.4913
+          ],
+          [
+            13.6353569,
+            50.4912576
+          ],
+          [
+            13.6354431,
+            50.4912356
+          ],
+          [
+            13.6355144,
+            50.4912283
+          ],
+          [
+            13.6355537,
+            50.4912292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250546608",
+      "properties": {
+        "@id": "way/250546608",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6355537,
+            50.4912292
+          ],
+          [
+            13.6356524,
+            50.4912497
+          ],
+          [
+            13.6357416,
+            50.4912764
+          ],
+          [
+            13.635826,
+            50.4913319
+          ],
+          [
+            13.635873,
+            50.4913945
+          ],
+          [
+            13.63588,
+            50.4914664
+          ],
+          [
+            13.6358403,
+            50.4915432
+          ],
+          [
+            13.6357339,
+            50.4916328
+          ],
+          [
+            13.6356525,
+            50.4916916
+          ],
+          [
+            13.6355895,
+            50.4917409
+          ],
+          [
+            13.6355422,
+            50.4918099
+          ],
+          [
+            13.6355128,
+            50.4918816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43914282",
+      "properties": {
+        "@id": "way/43914282",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6458367,
+            50.5150137
+          ],
+          [
+            13.645716,
+            50.515021
+          ],
+          [
+            13.6452242,
+            50.5150624
+          ],
+          [
+            13.6450253,
+            50.5150931
+          ],
+          [
+            13.6448933,
+            50.5151304
+          ],
+          [
+            13.6447874,
+            50.5151753
+          ],
+          [
+            13.6446079,
+            50.5152666
+          ],
+          [
+            13.6444772,
+            50.5153799
+          ],
+          [
+            13.6443882,
+            50.5154986
+          ],
+          [
+            13.6443224,
+            50.5156324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198850897",
+      "properties": {
+        "@id": "way/198850897",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6442387,
+            50.5156725
+          ],
+          [
+            13.6442921,
+            50.5155577
+          ],
+          [
+            13.6443442,
+            50.5154621
+          ],
+          [
+            13.6444092,
+            50.5153684
+          ],
+          [
+            13.6445046,
+            50.5152756
+          ],
+          [
+            13.6446057,
+            50.5152039
+          ],
+          [
+            13.6447329,
+            50.5151387
+          ],
+          [
+            13.6449236,
+            50.5150771
+          ],
+          [
+            13.6451202,
+            50.5150339
+          ],
+          [
+            13.6452271,
+            50.5150229
+          ],
+          [
+            13.6457213,
+            50.5149815
+          ],
+          [
+            13.6458265,
+            50.5149756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43914281",
+      "properties": {
+        "@id": "way/43914281",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6443224,
+            50.5156324
+          ],
+          [
+            13.6441196,
+            50.5160959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198850898",
+      "properties": {
+        "@id": "way/198850898",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6440552,
+            50.5161108
+          ],
+          [
+            13.6442387,
+            50.5156725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24853794",
+      "properties": {
+        "@id": "way/24853794",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6576886,
+            50.5092821
+          ],
+          [
+            13.6580936,
+            50.5090665
+          ],
+          [
+            13.658723,
+            50.5087381
+          ],
+          [
+            13.6614829,
+            50.5072978
+          ],
+          [
+            13.6616075,
+            50.5072351
+          ],
+          [
+            13.6617439,
+            50.5071739
+          ],
+          [
+            13.6618693,
+            50.5071464
+          ],
+          [
+            13.6619635,
+            50.5071525
+          ],
+          [
+            13.6620465,
+            50.5071676
+          ],
+          [
+            13.662119,
+            50.5071945
+          ],
+          [
+            13.6621851,
+            50.5072455
+          ],
+          [
+            13.6622291,
+            50.5073048
+          ],
+          [
+            13.6622461,
+            50.5073676
+          ],
+          [
+            13.6622399,
+            50.5074141
+          ],
+          [
+            13.6622308,
+            50.5074608
+          ],
+          [
+            13.6622052,
+            50.5074933
+          ],
+          [
+            13.6621668,
+            50.5075306
+          ],
+          [
+            13.6621137,
+            50.5075573
+          ],
+          [
+            13.662019,
+            50.5075871
+          ],
+          [
+            13.661746,
+            50.5076182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59291585",
+      "properties": {
+        "@id": "way/59291585",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6577625,
+            50.5092905
+          ],
+          [
+            13.6576438,
+            50.5093452
+          ],
+          [
+            13.6572467,
+            50.5095606
+          ],
+          [
+            13.6570374,
+            50.5096708
+          ],
+          [
+            13.6563767,
+            50.5100177
+          ],
+          [
+            13.655608,
+            50.5104184
+          ],
+          [
+            13.6544809,
+            50.5110055
+          ],
+          [
+            13.6533479,
+            50.5115983
+          ],
+          [
+            13.6525625,
+            50.5120086
+          ],
+          [
+            13.6522158,
+            50.5121903
+          ],
+          [
+            13.651582,
+            50.5125191
+          ],
+          [
+            13.6503845,
+            50.5131442
+          ],
+          [
+            13.64978,
+            50.513461
+          ],
+          [
+            13.649168,
+            50.5137799
+          ],
+          [
+            13.6488407,
+            50.5139462
+          ],
+          [
+            13.6484973,
+            50.5141077
+          ],
+          [
+            13.6479823,
+            50.5143285
+          ],
+          [
+            13.6474494,
+            50.5145383
+          ],
+          [
+            13.6469624,
+            50.5147138
+          ],
+          [
+            13.6467351,
+            50.5147998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198850899",
+      "properties": {
+        "@id": "way/198850899",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6466928,
+            50.5147757
+          ],
+          [
+            13.6469249,
+            50.5146863
+          ],
+          [
+            13.647422,
+            50.5145053
+          ],
+          [
+            13.6479549,
+            50.5142947
+          ],
+          [
+            13.6484763,
+            50.514068
+          ],
+          [
+            13.6488136,
+            50.5139097
+          ],
+          [
+            13.6491391,
+            50.5137468
+          ],
+          [
+            13.6497533,
+            50.5134264
+          ],
+          [
+            13.6503602,
+            50.513107
+          ],
+          [
+            13.6512189,
+            50.5126621
+          ],
+          [
+            13.6521763,
+            50.512161
+          ],
+          [
+            13.652525,
+            50.511979
+          ],
+          [
+            13.6528583,
+            50.5118076
+          ],
+          [
+            13.6533222,
+            50.5115597
+          ],
+          [
+            13.6544399,
+            50.5109801
+          ],
+          [
+            13.655595,
+            50.5103738
+          ],
+          [
+            13.6563535,
+            50.5099795
+          ],
+          [
+            13.6569987,
+            50.5096404
+          ],
+          [
+            13.657208,
+            50.5095296
+          ],
+          [
+            13.6576115,
+            50.5093214
+          ],
+          [
+            13.6576886,
+            50.5092821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24853789",
+      "properties": {
+        "@id": "way/24853789",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6467351,
+            50.5147998
+          ],
+          [
+            13.6466011,
+            50.5148524
+          ],
+          [
+            13.6464234,
+            50.5149078
+          ],
+          [
+            13.6462861,
+            50.5149526
+          ],
+          [
+            13.646143,
+            50.5149792
+          ],
+          [
+            13.6458367,
+            50.5150137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24853790",
+      "properties": {
+        "@id": "way/24853790",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.646205,
+            50.5145852
+          ],
+          [
+            13.6461892,
+            50.5146925
+          ],
+          [
+            13.6461593,
+            50.5148096
+          ],
+          [
+            13.6461208,
+            50.5148709
+          ],
+          [
+            13.6460703,
+            50.5149179
+          ],
+          [
+            13.6460007,
+            50.5149559
+          ],
+          [
+            13.6459254,
+            50.514986
+          ],
+          [
+            13.6458367,
+            50.5150137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24853791",
+      "properties": {
+        "@id": "way/24853791",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6462526,
+            50.5142456
+          ],
+          [
+            13.6462528,
+            50.514359
+          ],
+          [
+            13.6462355,
+            50.5144702
+          ],
+          [
+            13.646205,
+            50.5145852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59291602",
+      "properties": {
+        "@id": "way/59291602",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.646205,
+            50.5145852
+          ],
+          [
+            13.6462456,
+            50.514676
+          ],
+          [
+            13.6463121,
+            50.5147336
+          ],
+          [
+            13.6464161,
+            50.5147804
+          ],
+          [
+            13.646542,
+            50.5147968
+          ],
+          [
+            13.6466167,
+            50.514789
+          ],
+          [
+            13.6466928,
+            50.5147757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198850895",
+      "properties": {
+        "@id": "way/198850895",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6467351,
+            50.5147998
+          ],
+          [
+            13.6466569,
+            50.5148197
+          ],
+          [
+            13.6466078,
+            50.5148221
+          ],
+          [
+            13.6465492,
+            50.5148267
+          ],
+          [
+            13.6464898,
+            50.5148267
+          ],
+          [
+            13.646393,
+            50.514812
+          ],
+          [
+            13.6463282,
+            50.5147887
+          ],
+          [
+            13.6462495,
+            50.514746
+          ],
+          [
+            13.6461892,
+            50.5146925
+          ],
+          [
+            13.6461613,
+            50.5146416
+          ],
+          [
+            13.646152,
+            50.5145889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198850900",
+      "properties": {
+        "@id": "way/198850900",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.646152,
+            50.5145889
+          ],
+          [
+            13.646169,
+            50.5144784
+          ],
+          [
+            13.6461892,
+            50.5143663
+          ],
+          [
+            13.646189,
+            50.5142613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198850901",
+      "properties": {
+        "@id": "way/198850901",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6458265,
+            50.5149756
+          ],
+          [
+            13.6458887,
+            50.5149599
+          ],
+          [
+            13.6459869,
+            50.5149186
+          ],
+          [
+            13.6460563,
+            50.514869
+          ],
+          [
+            13.6461054,
+            50.5148056
+          ],
+          [
+            13.6461372,
+            50.5146925
+          ],
+          [
+            13.646152,
+            50.5145889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250550348",
+      "properties": {
+        "@id": "way/250550348",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6458265,
+            50.5149756
+          ],
+          [
+            13.6460007,
+            50.5149559
+          ],
+          [
+            13.6461141,
+            50.5149416
+          ],
+          [
+            13.6462283,
+            50.514927
+          ],
+          [
+            13.6463468,
+            50.5148949
+          ],
+          [
+            13.6465492,
+            50.5148267
+          ],
+          [
+            13.6466928,
+            50.5147757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59306746",
+      "properties": {
+        "@id": "way/59306746",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.661746,
+            50.5076182
+          ],
+          [
+            13.66166,
+            50.5076427
+          ],
+          [
+            13.6615325,
+            50.5076725
+          ],
+          [
+            13.6613637,
+            50.5076978
+          ],
+          [
+            13.6612064,
+            50.5077114
+          ],
+          [
+            13.660939,
+            50.5077698
+          ],
+          [
+            13.6608045,
+            50.5078182
+          ],
+          [
+            13.6606403,
+            50.5078926
+          ],
+          [
+            13.6592905,
+            50.5085959
+          ],
+          [
+            13.6583256,
+            50.5091
+          ],
+          [
+            13.6582094,
+            50.5091627
+          ],
+          [
+            13.6581329,
+            50.5091977
+          ],
+          [
+            13.6579897,
+            50.509238
+          ],
+          [
+            13.6577625,
+            50.5092905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24853787",
+      "properties": {
+        "@id": "way/24853787",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6032387,
+            50.5729975
+          ],
+          [
+            13.6031198,
+            50.573368
+          ],
+          [
+            13.6027281,
+            50.5745924
+          ],
+          [
+            13.6022677,
+            50.5760259
+          ],
+          [
+            13.6021023,
+            50.5765582
+          ],
+          [
+            13.6019626,
+            50.5770206
+          ],
+          [
+            13.601937,
+            50.5770983
+          ],
+          [
+            13.6018583,
+            50.5773249
+          ],
+          [
+            13.6016799,
+            50.5778863
+          ],
+          [
+            13.6015065,
+            50.5785985
+          ],
+          [
+            13.6006667,
+            50.5833003
+          ],
+          [
+            13.6005375,
+            50.58401
+          ],
+          [
+            13.6004941,
+            50.5842985
+          ],
+          [
+            13.6004793,
+            50.5845633
+          ],
+          [
+            13.6005123,
+            50.585053
+          ],
+          [
+            13.6006275,
+            50.5855434
+          ],
+          [
+            13.6008017,
+            50.5859329
+          ],
+          [
+            13.6010871,
+            50.5864185
+          ],
+          [
+            13.6013552,
+            50.5867506
+          ],
+          [
+            13.6015888,
+            50.5870006
+          ],
+          [
+            13.6017314,
+            50.5871368
+          ],
+          [
+            13.6019522,
+            50.5873222
+          ],
+          [
+            13.6023066,
+            50.5875807
+          ],
+          [
+            13.6027022,
+            50.5878336
+          ],
+          [
+            13.6032077,
+            50.5881218
+          ],
+          [
+            13.6036914,
+            50.5883965
+          ],
+          [
+            13.603979,
+            50.5885624
+          ],
+          [
+            13.6042771,
+            50.5887518
+          ],
+          [
+            13.604741,
+            50.5890896
+          ],
+          [
+            13.6050712,
+            50.5893741
+          ],
+          [
+            13.6053558,
+            50.5896634
+          ],
+          [
+            13.6055016,
+            50.5898289
+          ],
+          [
+            13.6056321,
+            50.5900011
+          ],
+          [
+            13.6058025,
+            50.5902478
+          ],
+          [
+            13.6060277,
+            50.5906414
+          ],
+          [
+            13.6061288,
+            50.5908827
+          ],
+          [
+            13.6062521,
+            50.5912339
+          ],
+          [
+            13.6064394,
+            50.5917668
+          ],
+          [
+            13.6065431,
+            50.5920455
+          ],
+          [
+            13.6066405,
+            50.5922243
+          ],
+          [
+            13.6067591,
+            50.5923906
+          ],
+          [
+            13.6068545,
+            50.5924957
+          ],
+          [
+            13.6069682,
+            50.5925933
+          ],
+          [
+            13.6071033,
+            50.592693
+          ],
+          [
+            13.6072386,
+            50.5927757
+          ],
+          [
+            13.6073588,
+            50.5928447
+          ],
+          [
+            13.607488,
+            50.5929036
+          ],
+          [
+            13.6076209,
+            50.5929626
+          ],
+          [
+            13.6077684,
+            50.5930146
+          ],
+          [
+            13.6080235,
+            50.5930932
+          ],
+          [
+            13.6082844,
+            50.59316
+          ],
+          [
+            13.6088287,
+            50.5933044
+          ],
+          [
+            13.6091434,
+            50.593389
+          ],
+          [
+            13.6095552,
+            50.5935042
+          ],
+          [
+            13.6097969,
+            50.593569
+          ],
+          [
+            13.610419,
+            50.5937329
+          ],
+          [
+            13.6113759,
+            50.5939897
+          ],
+          [
+            13.6119915,
+            50.59416
+          ],
+          [
+            13.6121294,
+            50.5942142
+          ],
+          [
+            13.6122361,
+            50.5942761
+          ],
+          [
+            13.6123424,
+            50.5943482
+          ],
+          [
+            13.6124279,
+            50.5944287
+          ],
+          [
+            13.6124942,
+            50.5945137
+          ],
+          [
+            13.6125394,
+            50.5946016
+          ],
+          [
+            13.6125668,
+            50.5946895
+          ],
+          [
+            13.6125787,
+            50.5947762
+          ],
+          [
+            13.6125592,
+            50.5949205
+          ],
+          [
+            13.6125408,
+            50.5951268
+          ],
+          [
+            13.6125002,
+            50.5955219
+          ],
+          [
+            13.6124809,
+            50.5957467
+          ],
+          [
+            13.6124546,
+            50.5959981
+          ],
+          [
+            13.6124041,
+            50.5965485
+          ],
+          [
+            13.6123592,
+            50.5970118
+          ],
+          [
+            13.6123553,
+            50.5970857
+          ],
+          [
+            13.6123654,
+            50.597152
+          ],
+          [
+            13.6123883,
+            50.597218
+          ],
+          [
+            13.6124232,
+            50.5972851
+          ],
+          [
+            13.6124763,
+            50.5973515
+          ],
+          [
+            13.6125637,
+            50.5974328
+          ],
+          [
+            13.612686,
+            50.5975166
+          ],
+          [
+            13.6130515,
+            50.5977344
+          ],
+          [
+            13.613333,
+            50.5979065
+          ],
+          [
+            13.6136917,
+            50.5981219
+          ],
+          [
+            13.6139685,
+            50.5982806
+          ],
+          [
+            13.614131,
+            50.5983552
+          ],
+          [
+            13.6143571,
+            50.5984488
+          ],
+          [
+            13.6144525,
+            50.5984844
+          ],
+          [
+            13.6145308,
+            50.5985296
+          ],
+          [
+            13.6145905,
+            50.5985806
+          ],
+          [
+            13.6146267,
+            50.5986341
+          ],
+          [
+            13.614633,
+            50.5986882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250550346",
+      "properties": {
+        "@id": "way/250550346",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6136637,
+            50.6012196
+          ],
+          [
+            13.6136492,
+            50.6011648
+          ],
+          [
+            13.6136579,
+            50.601121
+          ],
+          [
+            13.613684,
+            50.6010657
+          ],
+          [
+            13.6137361,
+            50.6009973
+          ],
+          [
+            13.6138197,
+            50.6008851
+          ],
+          [
+            13.6139475,
+            50.6007211
+          ],
+          [
+            13.6142422,
+            50.6003553
+          ],
+          [
+            13.6143714,
+            50.6001834
+          ],
+          [
+            13.6144004,
+            50.6001221
+          ],
+          [
+            13.6144164,
+            50.6000632
+          ],
+          [
+            13.6144331,
+            50.5999323
+          ],
+          [
+            13.6145136,
+            50.599361
+          ],
+          [
+            13.6145462,
+            50.5991346
+          ],
+          [
+            13.6145821,
+            50.5989003
+          ],
+          [
+            13.6145863,
+            50.5988431
+          ],
+          [
+            13.6145892,
+            50.5987864
+          ],
+          [
+            13.614578,
+            50.5986684
+          ],
+          [
+            13.6145422,
+            50.5985974
+          ],
+          [
+            13.6144966,
+            50.598555
+          ],
+          [
+            13.6144269,
+            50.5985134
+          ],
+          [
+            13.6143364,
+            50.598475
+          ],
+          [
+            13.6141058,
+            50.5983791
+          ],
+          [
+            13.6139353,
+            50.5982975
+          ],
+          [
+            13.6136684,
+            50.5981467
+          ],
+          [
+            13.6133008,
+            50.5979269
+          ],
+          [
+            13.6130115,
+            50.5977494
+          ],
+          [
+            13.612652,
+            50.5975337
+          ],
+          [
+            13.6125172,
+            50.5974445
+          ],
+          [
+            13.6124358,
+            50.5973688
+          ],
+          [
+            13.6123786,
+            50.5972943
+          ],
+          [
+            13.6123427,
+            50.5972217
+          ],
+          [
+            13.6123204,
+            50.5971534
+          ],
+          [
+            13.6123117,
+            50.5970844
+          ],
+          [
+            13.6123165,
+            50.59701
+          ],
+          [
+            13.6123582,
+            50.5965463
+          ],
+          [
+            13.612413,
+            50.5959952
+          ],
+          [
+            13.6124391,
+            50.5957419
+          ],
+          [
+            13.6124562,
+            50.5955426
+          ],
+          [
+            13.6124667,
+            50.5954507
+          ],
+          [
+            13.6124904,
+            50.5951989
+          ],
+          [
+            13.6124974,
+            50.5951311
+          ],
+          [
+            13.6125191,
+            50.5949175
+          ],
+          [
+            13.6125286,
+            50.5947774
+          ],
+          [
+            13.6125181,
+            50.5946901
+          ],
+          [
+            13.6124876,
+            50.5946053
+          ],
+          [
+            13.6124465,
+            50.5945222
+          ],
+          [
+            13.6123844,
+            50.594444
+          ],
+          [
+            13.6122985,
+            50.5943646
+          ],
+          [
+            13.6121972,
+            50.5942937
+          ],
+          [
+            13.6120845,
+            50.5942348
+          ],
+          [
+            13.6119356,
+            50.5941785
+          ],
+          [
+            13.6113507,
+            50.5940216
+          ],
+          [
+            13.6104038,
+            50.5937638
+          ],
+          [
+            13.6100561,
+            50.5936723
+          ],
+          [
+            13.6097782,
+            50.5935983
+          ],
+          [
+            13.6091236,
+            50.5934243
+          ],
+          [
+            13.6087934,
+            50.5933358
+          ],
+          [
+            13.6082618,
+            50.5931917
+          ],
+          [
+            13.6080013,
+            50.593122
+          ],
+          [
+            13.60775,
+            50.5930449
+          ],
+          [
+            13.607601,
+            50.5929942
+          ],
+          [
+            13.607445,
+            50.5929334
+          ],
+          [
+            13.6073123,
+            50.5928657
+          ],
+          [
+            13.6071937,
+            50.5927982
+          ],
+          [
+            13.607058,
+            50.5927141
+          ],
+          [
+            13.6069224,
+            50.5926151
+          ],
+          [
+            13.6068103,
+            50.5925147
+          ],
+          [
+            13.6067072,
+            50.592406
+          ],
+          [
+            13.6065811,
+            50.5922333
+          ],
+          [
+            13.6064898,
+            50.5920533
+          ],
+          [
+            13.6063885,
+            50.5917725
+          ],
+          [
+            13.6061948,
+            50.5912388
+          ],
+          [
+            13.6060746,
+            50.5908848
+          ],
+          [
+            13.6059662,
+            50.5906446
+          ],
+          [
+            13.6057455,
+            50.5902505
+          ],
+          [
+            13.6055826,
+            50.5900178
+          ],
+          [
+            13.6054475,
+            50.5898432
+          ],
+          [
+            13.6053042,
+            50.5896751
+          ],
+          [
+            13.6050145,
+            50.5893861
+          ],
+          [
+            13.6046972,
+            50.5891096
+          ],
+          [
+            13.6042204,
+            50.5887668
+          ],
+          [
+            13.6039369,
+            50.5885881
+          ],
+          [
+            13.6036469,
+            50.588419
+          ],
+          [
+            13.603169,
+            50.5881527
+          ],
+          [
+            13.6026671,
+            50.5878624
+          ],
+          [
+            13.6022682,
+            50.5876103
+          ],
+          [
+            13.601909,
+            50.5873445
+          ],
+          [
+            13.6016997,
+            50.5871641
+          ],
+          [
+            13.6015467,
+            50.5870193
+          ],
+          [
+            13.6013093,
+            50.5867714
+          ],
+          [
+            13.6010374,
+            50.5864347
+          ],
+          [
+            13.6007394,
+            50.5859469
+          ],
+          [
+            13.6005659,
+            50.5855538
+          ],
+          [
+            13.6004503,
+            50.58506
+          ],
+          [
+            13.6004138,
+            50.5845629
+          ],
+          [
+            13.6004254,
+            50.5842925
+          ],
+          [
+            13.6004785,
+            50.583999
+          ],
+          [
+            13.6006105,
+            50.5832932
+          ],
+          [
+            13.6014416,
+            50.5785928
+          ],
+          [
+            13.6016214,
+            50.5778798
+          ],
+          [
+            13.601803,
+            50.5773153
+          ],
+          [
+            13.6018304,
+            50.5772426
+          ],
+          [
+            13.6018741,
+            50.5770916
+          ],
+          [
+            13.6020433,
+            50.5765474
+          ],
+          [
+            13.6022126,
+            50.5760182
+          ],
+          [
+            13.602672,
+            50.5745837
+          ],
+          [
+            13.6030625,
+            50.5733598
+          ],
+          [
+            13.6031826,
+            50.5729852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24853788",
+      "properties": {
+        "@id": "way/24853788",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6043112,
+            50.5706442
+          ],
+          [
+            13.6041912,
+            50.5710184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188812805",
+      "properties": {
+        "@id": "way/188812805",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6033798,
+            50.5723607
+          ],
+          [
+            13.6034399,
+            50.5721998
+          ],
+          [
+            13.6035117,
+            50.5720779
+          ],
+          [
+            13.6036057,
+            50.5719518
+          ],
+          [
+            13.6037403,
+            50.5717992
+          ],
+          [
+            13.6038486,
+            50.571669
+          ],
+          [
+            13.6039414,
+            50.5715421
+          ],
+          [
+            13.6040041,
+            50.5713919
+          ],
+          [
+            13.6040393,
+            50.5712941
+          ],
+          [
+            13.6041347,
+            50.5710058
+          ],
+          [
+            13.6042326,
+            50.5707102
+          ],
+          [
+            13.6042561,
+            50.5706347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59316002",
+      "properties": {
+        "@id": "way/59316002",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6044191,
+            50.5703086
+          ],
+          [
+            13.6043112,
+            50.5706442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188812561",
+      "properties": {
+        "@id": "way/188812561",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6042561,
+            50.5706347
+          ],
+          [
+            13.6043658,
+            50.5702988
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24853796",
+      "properties": {
+        "@id": "way/24853796",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6034364,
+            50.5723697
+          ],
+          [
+            13.6032387,
+            50.5729975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24853797",
+      "properties": {
+        "@id": "way/24853797",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6041912,
+            50.5710184
+          ],
+          [
+            13.6041033,
+            50.571304
+          ],
+          [
+            13.6040375,
+            50.5714812
+          ],
+          [
+            13.6039635,
+            50.5716177
+          ],
+          [
+            13.6038421,
+            50.571765
+          ],
+          [
+            13.6036921,
+            50.571933
+          ],
+          [
+            13.6035916,
+            50.5720509
+          ],
+          [
+            13.6035159,
+            50.572175
+          ],
+          [
+            13.6034364,
+            50.5723697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188812806",
+      "properties": {
+        "@id": "way/188812806",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6031826,
+            50.5729852
+          ],
+          [
+            13.6033798,
+            50.5723607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59323299",
+      "properties": {
+        "@id": "way/59323299",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6147319,
+            50.6015674
+          ],
+          [
+            13.6145945,
+            50.6015165
+          ],
+          [
+            13.6143684,
+            50.6014712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59323368",
+      "properties": {
+        "@id": "way/59323368",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.614633,
+            50.5986882
+          ],
+          [
+            13.6146362,
+            50.5987873
+          ],
+          [
+            13.6146291,
+            50.5988468
+          ],
+          [
+            13.6146232,
+            50.5989048
+          ],
+          [
+            13.614589,
+            50.5991346
+          ],
+          [
+            13.6145514,
+            50.5993641
+          ],
+          [
+            13.6144762,
+            50.599935
+          ],
+          [
+            13.61446,
+            50.6000641
+          ],
+          [
+            13.6144433,
+            50.6001295
+          ],
+          [
+            13.614411,
+            50.6001948
+          ],
+          [
+            13.6142801,
+            50.6003667
+          ],
+          [
+            13.6139828,
+            50.6007348
+          ],
+          [
+            13.6138687,
+            50.6008975
+          ],
+          [
+            13.6137882,
+            50.6010062
+          ],
+          [
+            13.6137334,
+            50.601121
+          ],
+          [
+            13.6137388,
+            50.6011831
+          ],
+          [
+            13.6137588,
+            50.6012343
+          ],
+          [
+            13.613782,
+            50.6012749
+          ],
+          [
+            13.6138204,
+            50.6013084
+          ],
+          [
+            13.6138863,
+            50.6013491
+          ],
+          [
+            13.6139468,
+            50.6013721
+          ],
+          [
+            13.6141173,
+            50.6014164
+          ],
+          [
+            13.6143684,
+            50.6014712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59323389",
+      "properties": {
+        "@id": "way/59323389",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6143684,
+            50.6014712
+          ],
+          [
+            13.6144896,
+            50.6014632
+          ],
+          [
+            13.6145795,
+            50.6014423
+          ],
+          [
+            13.6146598,
+            50.6013885
+          ],
+          [
+            13.614783,
+            50.601283
+          ],
+          [
+            13.6148681,
+            50.601231
+          ],
+          [
+            13.6149807,
+            50.6011952
+          ],
+          [
+            13.6150968,
+            50.6011837
+          ],
+          [
+            13.615238,
+            50.6011953
+          ],
+          [
+            13.615338,
+            50.6012329
+          ],
+          [
+            13.6154126,
+            50.6012845
+          ],
+          [
+            13.6154481,
+            50.6013456
+          ],
+          [
+            13.6154511,
+            50.6014113
+          ],
+          [
+            13.6154283,
+            50.6014742
+          ],
+          [
+            13.6153978,
+            50.6015277
+          ],
+          [
+            13.6153237,
+            50.6015811
+          ],
+          [
+            13.6151936,
+            50.6016226
+          ],
+          [
+            13.6150464,
+            50.6016333
+          ],
+          [
+            13.6148932,
+            50.6016132
+          ],
+          [
+            13.6147319,
+            50.6015674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173448758",
+      "properties": {
+        "@id": "way/173448758",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6147319,
+            50.6015674
+          ],
+          [
+            13.6148311,
+            50.6016207
+          ],
+          [
+            13.614908,
+            50.6016883
+          ],
+          [
+            13.6150077,
+            50.6018013
+          ],
+          [
+            13.61521,
+            50.6020342
+          ],
+          [
+            13.6154792,
+            50.6023526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188812564",
+      "properties": {
+        "@id": "way/188812564",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6141173,
+            50.6014164
+          ],
+          [
+            13.6138871,
+            50.6013681
+          ],
+          [
+            13.6138057,
+            50.601339
+          ],
+          [
+            13.6137348,
+            50.6012943
+          ],
+          [
+            13.6136637,
+            50.6012196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59323393",
+      "properties": {
+        "@id": "way/59323393",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6154792,
+            50.6023526
+          ],
+          [
+            13.6155947,
+            50.6024807
+          ],
+          [
+            13.6156629,
+            50.6025422
+          ],
+          [
+            13.6157344,
+            50.6025825
+          ],
+          [
+            13.6158597,
+            50.6026328
+          ],
+          [
+            13.6160597,
+            50.6027023
+          ],
+          [
+            13.6166517,
+            50.6028897
+          ],
+          [
+            13.6168818,
+            50.6029562
+          ],
+          [
+            13.6171341,
+            50.6030085
+          ],
+          [
+            13.6175244,
+            50.6030805
+          ],
+          [
+            13.6181817,
+            50.6031975
+          ],
+          [
+            13.618721,
+            50.6032965
+          ],
+          [
+            13.6196301,
+            50.6034642
+          ],
+          [
+            13.620507,
+            50.6036407
+          ],
+          [
+            13.6209058,
+            50.6037299
+          ],
+          [
+            13.6218345,
+            50.6039556
+          ],
+          [
+            13.6220948,
+            50.6040168
+          ],
+          [
+            13.6221918,
+            50.6040284
+          ],
+          [
+            13.6222889,
+            50.6040289
+          ],
+          [
+            13.6223948,
+            50.6040252
+          ],
+          [
+            13.6224882,
+            50.6040144
+          ],
+          [
+            13.622619,
+            50.6039949
+          ],
+          [
+            13.6227144,
+            50.603981
+          ],
+          [
+            13.6228099,
+            50.6039689
+          ],
+          [
+            13.6229161,
+            50.6039594
+          ],
+          [
+            13.6230117,
+            50.603959
+          ],
+          [
+            13.623103,
+            50.6039648
+          ],
+          [
+            13.6232154,
+            50.603983
+          ],
+          [
+            13.6240073,
+            50.6041626
+          ],
+          [
+            13.6252303,
+            50.6044751
+          ],
+          [
+            13.6272111,
+            50.605127
+          ],
+          [
+            13.6276532,
+            50.6052725
+          ],
+          [
+            13.6277493,
+            50.605305
+          ],
+          [
+            13.6278605,
+            50.6053527
+          ],
+          [
+            13.6279549,
+            50.6054038
+          ],
+          [
+            13.6280536,
+            50.6054805
+          ],
+          [
+            13.628155,
+            50.6055731
+          ],
+          [
+            13.6282161,
+            50.6056498
+          ],
+          [
+            13.628255,
+            50.6057203
+          ],
+          [
+            13.6282828,
+            50.6058093
+          ],
+          [
+            13.6282981,
+            50.6058869
+          ],
+          [
+            13.628299,
+            50.6059868
+          ],
+          [
+            13.6282874,
+            50.606043
+          ],
+          [
+            13.6282643,
+            50.6060987
+          ],
+          [
+            13.628219,
+            50.6061635
+          ],
+          [
+            13.6281747,
+            50.606221
+          ],
+          [
+            13.6280802,
+            50.6063103
+          ],
+          [
+            13.6279771,
+            50.6064045
+          ],
+          [
+            13.6278674,
+            50.6065099
+          ],
+          [
+            13.627387,
+            50.6069495
+          ],
+          [
+            13.6271478,
+            50.6071717
+          ],
+          [
+            13.6271062,
+            50.6072246
+          ],
+          [
+            13.6270857,
+            50.6072773
+          ],
+          [
+            13.6270802,
+            50.6073305
+          ],
+          [
+            13.6271102,
+            50.6073988
+          ],
+          [
+            13.6272179,
+            50.6074671
+          ],
+          [
+            13.6274602,
+            50.6075343
+          ],
+          [
+            13.6280834,
+            50.6076969
+          ],
+          [
+            13.6281603,
+            50.6077311
+          ],
+          [
+            13.6282139,
+            50.6077653
+          ],
+          [
+            13.6282555,
+            50.6078116
+          ],
+          [
+            13.6282667,
+            50.6078625
+          ],
+          [
+            13.6282655,
+            50.6079073
+          ],
+          [
+            13.6282285,
+            50.6079585
+          ],
+          [
+            13.6281613,
+            50.6080092
+          ],
+          [
+            13.6278128,
+            50.6081933
+          ],
+          [
+            13.6277559,
+            50.6082199
+          ],
+          [
+            13.6277024,
+            50.6082355
+          ],
+          [
+            13.627634,
+            50.6082465
+          ],
+          [
+            13.6275532,
+            50.6082472
+          ],
+          [
+            13.627472,
+            50.6082284
+          ],
+          [
+            13.6270218,
+            50.6080733
+          ],
+          [
+            13.6267646,
+            50.6079805
+          ],
+          [
+            13.6266423,
+            50.6079277
+          ],
+          [
+            13.6265863,
+            50.6079009
+          ],
+          [
+            13.6265507,
+            50.6078728
+          ],
+          [
+            13.6265195,
+            50.6078364
+          ],
+          [
+            13.626507,
+            50.6077916
+          ],
+          [
+            13.6265083,
+            50.6077475
+          ],
+          [
+            13.6265966,
+            50.6076329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186905676",
+      "properties": {
+        "@id": "way/186905676",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6271178,
+            50.6071596
+          ],
+          [
+            13.6273604,
+            50.6069385
+          ],
+          [
+            13.6277144,
+            50.6065983
+          ],
+          [
+            13.6278307,
+            50.6064908
+          ],
+          [
+            13.6279403,
+            50.6063915
+          ],
+          [
+            13.6280359,
+            50.6063036
+          ],
+          [
+            13.6281349,
+            50.6062072
+          ],
+          [
+            13.6281872,
+            50.606147
+          ],
+          [
+            13.6282181,
+            50.6060944
+          ],
+          [
+            13.6282422,
+            50.6060363
+          ],
+          [
+            13.6282509,
+            50.6059818
+          ],
+          [
+            13.628248,
+            50.6058834
+          ],
+          [
+            13.628223,
+            50.6057908
+          ],
+          [
+            13.6281783,
+            50.6056911
+          ],
+          [
+            13.628105,
+            50.6055845
+          ],
+          [
+            13.6280136,
+            50.6055002
+          ],
+          [
+            13.6279383,
+            50.6054408
+          ],
+          [
+            13.627841,
+            50.6053879
+          ],
+          [
+            13.6277493,
+            50.6053405
+          ],
+          [
+            13.6276424,
+            50.6052988
+          ],
+          [
+            13.6271881,
+            50.6051512
+          ],
+          [
+            13.6263449,
+            50.6048637
+          ],
+          [
+            13.6256098,
+            50.6046313
+          ],
+          [
+            13.6252139,
+            50.6045004
+          ],
+          [
+            13.6239851,
+            50.6041888
+          ],
+          [
+            13.6232057,
+            50.6040083
+          ],
+          [
+            13.6231053,
+            50.6039929
+          ],
+          [
+            13.6230142,
+            50.6039859
+          ],
+          [
+            13.62293,
+            50.6039891
+          ],
+          [
+            13.6228219,
+            50.6039955
+          ],
+          [
+            13.6227187,
+            50.6040102
+          ],
+          [
+            13.6226013,
+            50.6040269
+          ],
+          [
+            13.6224632,
+            50.6040452
+          ],
+          [
+            13.6223191,
+            50.6040625
+          ],
+          [
+            13.6222457,
+            50.6040607
+          ],
+          [
+            13.6221529,
+            50.6040518
+          ],
+          [
+            13.6220632,
+            50.6040396
+          ],
+          [
+            13.6218288,
+            50.6039829
+          ],
+          [
+            13.6208844,
+            50.6037551
+          ],
+          [
+            13.6204902,
+            50.6036659
+          ],
+          [
+            13.6196194,
+            50.6034952
+          ],
+          [
+            13.6187103,
+            50.6033207
+          ],
+          [
+            13.6181787,
+            50.6032257
+          ],
+          [
+            13.6175217,
+            50.6031083
+          ],
+          [
+            13.6171276,
+            50.6030366
+          ],
+          [
+            13.6168663,
+            50.6029823
+          ],
+          [
+            13.6166387,
+            50.6029154
+          ],
+          [
+            13.6160429,
+            50.6027275
+          ],
+          [
+            13.6158467,
+            50.6026583
+          ],
+          [
+            13.6157159,
+            50.6026079
+          ],
+          [
+            13.6156411,
+            50.6025703
+          ],
+          [
+            13.6155555,
+            50.6025021
+          ],
+          [
+            13.6154325,
+            50.6023618
+          ],
+          [
+            13.6151596,
+            50.6020396
+          ],
+          [
+            13.6148518,
+            50.601693
+          ],
+          [
+            13.6147408,
+            50.6016113
+          ],
+          [
+            13.614615,
+            50.6015559
+          ],
+          [
+            13.6144745,
+            50.6015202
+          ],
+          [
+            13.6141253,
+            50.6014477
+          ],
+          [
+            13.6139083,
+            50.6014007
+          ],
+          [
+            13.6138168,
+            50.601368
+          ],
+          [
+            13.6137479,
+            50.6013264
+          ],
+          [
+            13.6137341,
+            50.6013131
+          ],
+          [
+            13.6137029,
+            50.6012767
+          ],
+          [
+            13.6136637,
+            50.6012196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198861733",
+      "properties": {
+        "@id": "way/198861733",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6265966,
+            50.6076329
+          ],
+          [
+            13.6267188,
+            50.6075101
+          ],
+          [
+            13.6268995,
+            50.6073479
+          ],
+          [
+            13.6271178,
+            50.6071596
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418118272",
+      "properties": {
+        "@id": "node/418118272",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6407625,
+          50.4878817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2569791339",
+      "properties": {
+        "@id": "node/2569791339",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.640439,
+          50.4878068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418118259",
+      "properties": {
+        "@id": "node/418118259",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6354909,
+          50.4922449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2569754722",
+      "properties": {
+        "@id": "node/2569754722",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6354534,
+          50.4950448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2569754723",
+      "properties": {
+        "@id": "node/2569754723",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6358597,
+          50.4960585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418118247",
+      "properties": {
+        "@id": "node/418118247",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6390275,
+          50.5011635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270050046",
+      "properties": {
+        "@id": "node/270050046",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6458082,
+          50.513668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270050049",
+      "properties": {
+        "@id": "node/270050049",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6522158,
+          50.5121903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270050069",
+      "properties": {
+        "@id": "node/270050069",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915427,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "2",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6583256,
+          50.5091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/270049854",
+      "properties": {
+        "@id": "node/270049854",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 915428,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "1",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916332,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "4",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916333,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "3",
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 916334,
+            "reltags": {
+              "complete": "no stops",
+              "network": "MHD DPmML",
+              "operator": "cz:DPmML",
+              "ref": "7",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6095552,
+          50.5935042
+        ]
+      }
+    }
+  ]
+}

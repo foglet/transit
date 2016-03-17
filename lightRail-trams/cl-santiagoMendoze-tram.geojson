@@ -1,0 +1,3980 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-31T09:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/301583939",
+      "properties": {
+        "@id": "way/301583939",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2383425,
+            "reltags": {
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "J02",
+            "rel": 3519864,
+            "reltags": {
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.7519942,
+            -33.4366401
+          ],
+          [
+            -70.7532891,
+            -33.4364381
+          ],
+          [
+            -70.7538487,
+            -33.4363832
+          ],
+          [
+            -70.7541663,
+            -33.4363446
+          ],
+          [
+            -70.7547874,
+            -33.4362704
+          ],
+          [
+            -70.7550225,
+            -33.4362284
+          ],
+          [
+            -70.7551465,
+            -33.4362065
+          ],
+          [
+            -70.755648,
+            -33.4361295
+          ],
+          [
+            -70.7558659,
+            -33.4360784
+          ],
+          [
+            -70.7564679,
+            -33.4359374
+          ],
+          [
+            -70.7567828,
+            -33.4358668
+          ],
+          [
+            -70.7570042,
+            -33.435818
+          ],
+          [
+            -70.7581759,
+            -33.4355336
+          ],
+          [
+            -70.7584421,
+            -33.4354813
+          ],
+          [
+            -70.7586959,
+            -33.4354002
+          ],
+          [
+            -70.7588323,
+            -33.4353537
+          ],
+          [
+            -70.7593156,
+            -33.4351946
+          ],
+          [
+            -70.7598907,
+            -33.4350052
+          ],
+          [
+            -70.7603938,
+            -33.4348396
+          ],
+          [
+            -70.7607681,
+            -33.4347551
+          ],
+          [
+            -70.7611343,
+            -33.4346725
+          ],
+          [
+            -70.761566,
+            -33.4345751
+          ],
+          [
+            -70.7621016,
+            -33.4344543
+          ],
+          [
+            -70.7627112,
+            -33.4343167
+          ],
+          [
+            -70.7638257,
+            -33.4338472
+          ],
+          [
+            -70.7639299,
+            -33.433807
+          ],
+          [
+            -70.7642987,
+            -33.4336619
+          ],
+          [
+            -70.7648461,
+            -33.4334361
+          ],
+          [
+            -70.7649514,
+            -33.4333927
+          ],
+          [
+            -70.7651479,
+            -33.4333337
+          ],
+          [
+            -70.7664789,
+            -33.4329375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/140435777",
+      "properties": {
+        "@id": "way/140435777",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2383425,
+            "reltags": {
+              "route": "tram",
+              "type": "route"
+            }
+          },
+          {
+            "role": "J02",
+            "rel": 3519864,
+            "reltags": {
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.7457938,
+            -33.4364345
+          ],
+          [
+            -70.7461301,
+            -33.4364365
+          ],
+          [
+            -70.7462644,
+            -33.4364415
+          ],
+          [
+            -70.746614,
+            -33.4364543
+          ],
+          [
+            -70.7468676,
+            -33.4364652
+          ],
+          [
+            -70.7474992,
+            -33.4364868
+          ],
+          [
+            -70.74796,
+            -33.436498
+          ],
+          [
+            -70.7493269,
+            -33.4365399
+          ],
+          [
+            -70.750414,
+            -33.4365899
+          ],
+          [
+            -70.7519942,
+            -33.4366401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254881706",
+      "properties": {
+        "@id": "way/254881706",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8392703,
+            -32.9219438
+          ],
+          [
+            -68.8378476,
+            -32.9231303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254884566",
+      "properties": {
+        "@id": "way/254884566",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8378697,
+            -32.9230347
+          ],
+          [
+            -68.8392289,
+            -32.9219088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161862222",
+      "properties": {
+        "@id": "way/161862222",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8531,
+            -32.9026412
+          ],
+          [
+            -68.8531082,
+            -32.9031241
+          ],
+          [
+            -68.8530412,
+            -32.9044965
+          ],
+          [
+            -68.8530294,
+            -32.9046806
+          ],
+          [
+            -68.8530238,
+            -32.9050266
+          ],
+          [
+            -68.8529929,
+            -32.9053177
+          ],
+          [
+            -68.8528738,
+            -32.9059081
+          ],
+          [
+            -68.8527378,
+            -32.9064101
+          ],
+          [
+            -68.8526584,
+            -32.9066909
+          ],
+          [
+            -68.8525762,
+            -32.9069861
+          ],
+          [
+            -68.8524203,
+            -32.9076645
+          ],
+          [
+            -68.8522307,
+            -32.9082037
+          ],
+          [
+            -68.8520697,
+            -32.9086178
+          ],
+          [
+            -68.8518646,
+            -32.9091214
+          ],
+          [
+            -68.8515685,
+            -32.9097266
+          ],
+          [
+            -68.8512297,
+            -32.9103385
+          ],
+          [
+            -68.8509697,
+            -32.9108461
+          ],
+          [
+            -68.8506051,
+            -32.9114442
+          ],
+          [
+            -68.8503745,
+            -32.9118728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254793046",
+      "properties": {
+        "@id": "way/254793046",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8503112,
+            -32.9118488
+          ],
+          [
+            -68.8506026,
+            -32.9113698
+          ],
+          [
+            -68.8508965,
+            -32.9108336
+          ],
+          [
+            -68.8511662,
+            -32.9103146
+          ],
+          [
+            -68.8514831,
+            -32.9097032
+          ],
+          [
+            -68.8517716,
+            -32.9090931
+          ],
+          [
+            -68.8519699,
+            -32.9085802
+          ],
+          [
+            -68.8521109,
+            -32.908205
+          ],
+          [
+            -68.8523372,
+            -32.9076507
+          ],
+          [
+            -68.8525082,
+            -32.9069739
+          ],
+          [
+            -68.8525907,
+            -32.9066777
+          ],
+          [
+            -68.8526701,
+            -32.9063969
+          ],
+          [
+            -68.8528055,
+            -32.9058967
+          ],
+          [
+            -68.8529239,
+            -32.9053102
+          ],
+          [
+            -68.8529544,
+            -32.9050228
+          ],
+          [
+            -68.8529648,
+            -32.9046772
+          ],
+          [
+            -68.8529715,
+            -32.904499
+          ],
+          [
+            -68.8530386,
+            -32.9031234
+          ],
+          [
+            -68.8530305,
+            -32.902642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123318977",
+      "properties": {
+        "@id": "way/123318977",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8462692,
+            -32.9161944
+          ],
+          [
+            -68.8459878,
+            -32.9164201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254790232",
+      "properties": {
+        "@id": "way/254790232",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8459506,
+            -32.9163878
+          ],
+          [
+            -68.8462321,
+            -32.9161621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/88506191",
+      "properties": {
+        "@id": "way/88506191",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8414359,
+            -32.920153
+          ],
+          [
+            -68.841153,
+            -32.9203854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123318980",
+      "properties": {
+        "@id": "way/123318980",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8434341,
+            -32.9185181
+          ],
+          [
+            -68.8432621,
+            -32.9186609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123318989",
+      "properties": {
+        "@id": "way/123318989",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8432621,
+            -32.9186609
+          ],
+          [
+            -68.8414359,
+            -32.920153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201310475",
+      "properties": {
+        "@id": "way/201310475",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.83939,
+            -32.9218441
+          ],
+          [
+            -68.8392703,
+            -32.9219438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201310476",
+      "properties": {
+        "@id": "way/201310476",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.841153,
+            -32.9203854
+          ],
+          [
+            -68.8397812,
+            -32.9215036
+          ],
+          [
+            -68.83939,
+            -32.9218441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254881688",
+      "properties": {
+        "@id": "way/254881688",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8399031,
+            -32.9213039
+          ],
+          [
+            -68.8394302,
+            -32.9217051
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254881689",
+      "properties": {
+        "@id": "way/254881689",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8395086,
+            -32.9217773
+          ],
+          [
+            -68.8399865,
+            -32.9213867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254884561",
+      "properties": {
+        "@id": "way/254884561",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8413948,
+            -32.9201176
+          ],
+          [
+            -68.8432553,
+            -32.9186049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254884562",
+      "properties": {
+        "@id": "way/254884562",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.841112,
+            -32.92035
+          ],
+          [
+            -68.8413948,
+            -32.9201176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254884563",
+      "properties": {
+        "@id": "way/254884563",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8392289,
+            -32.9219088
+          ],
+          [
+            -68.8393481,
+            -32.9218094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254884568",
+      "properties": {
+        "@id": "way/254884568",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8432553,
+            -32.9186049
+          ],
+          [
+            -68.8434217,
+            -32.918465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254884569",
+      "properties": {
+        "@id": "way/254884569",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8393481,
+            -32.9218094
+          ],
+          [
+            -68.8397383,
+            -32.9214892
+          ],
+          [
+            -68.841112,
+            -32.92035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123253758",
+      "properties": {
+        "@id": "way/123253758",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8503745,
+            -32.9118728
+          ],
+          [
+            -68.8497487,
+            -32.912647
+          ],
+          [
+            -68.8491232,
+            -32.9134465
+          ],
+          [
+            -68.8485685,
+            -32.9140572
+          ],
+          [
+            -68.8479631,
+            -32.9147035
+          ],
+          [
+            -68.847499,
+            -32.9151736
+          ],
+          [
+            -68.8465646,
+            -32.9159532
+          ],
+          [
+            -68.8462692,
+            -32.9161944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123318987",
+      "properties": {
+        "@id": "way/123318987",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8459878,
+            -32.9164201
+          ],
+          [
+            -68.8434341,
+            -32.9185181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254790225",
+      "properties": {
+        "@id": "way/254790225",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8434217,
+            -32.918465
+          ],
+          [
+            -68.8459506,
+            -32.9163878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254790233",
+      "properties": {
+        "@id": "way/254790233",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8462321,
+            -32.9161621
+          ],
+          [
+            -68.846527,
+            -32.9159212
+          ],
+          [
+            -68.8474594,
+            -32.9151433
+          ],
+          [
+            -68.8479586,
+            -32.9146356
+          ],
+          [
+            -68.8485261,
+            -32.9140297
+          ],
+          [
+            -68.8490795,
+            -32.9134205
+          ],
+          [
+            -68.8497039,
+            -32.9126224
+          ],
+          [
+            -68.8503112,
+            -32.9118488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254883183",
+      "properties": {
+        "@id": "way/254883183",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8337236,
+            -32.9264794
+          ],
+          [
+            -68.8335482,
+            -32.9266241
+          ],
+          [
+            -68.8335087,
+            -32.9266548
+          ],
+          [
+            -68.8334051,
+            -32.9267462
+          ],
+          [
+            -68.8332269,
+            -32.9269039
+          ],
+          [
+            -68.8327969,
+            -32.9272553
+          ],
+          [
+            -68.8295463,
+            -32.929901
+          ],
+          [
+            -68.8276395,
+            -32.9315091
+          ],
+          [
+            -68.8268335,
+            -32.9321586
+          ],
+          [
+            -68.825959,
+            -32.9329097
+          ],
+          [
+            -68.8256573,
+            -32.9331322
+          ],
+          [
+            -68.8255876,
+            -32.9331851
+          ],
+          [
+            -68.8250568,
+            -32.9336262
+          ],
+          [
+            -68.8244403,
+            -32.934105
+          ],
+          [
+            -68.8227987,
+            -32.9354414
+          ],
+          [
+            -68.8165696,
+            -32.9405395
+          ],
+          [
+            -68.815136,
+            -32.9417556
+          ],
+          [
+            -68.8149582,
+            -32.9419015
+          ],
+          [
+            -68.8148403,
+            -32.9419991
+          ],
+          [
+            -68.8143824,
+            -32.942366
+          ],
+          [
+            -68.8139464,
+            -32.942691
+          ],
+          [
+            -68.8130415,
+            -32.9434401
+          ],
+          [
+            -68.8112877,
+            -32.9448939
+          ],
+          [
+            -68.8112248,
+            -32.944943
+          ],
+          [
+            -68.8108468,
+            -32.9452379
+          ],
+          [
+            -68.8083309,
+            -32.9472782
+          ],
+          [
+            -68.8082039,
+            -32.9473813
+          ],
+          [
+            -68.806466,
+            -32.9487834
+          ],
+          [
+            -68.8056203,
+            -32.9494941
+          ],
+          [
+            -68.8049357,
+            -32.9500411
+          ],
+          [
+            -68.8045949,
+            -32.9503249
+          ],
+          [
+            -68.8040023,
+            -32.9508082
+          ],
+          [
+            -68.8029564,
+            -32.951534
+          ],
+          [
+            -68.8023365,
+            -32.9519148
+          ],
+          [
+            -68.8017163,
+            -32.9522604
+          ],
+          [
+            -68.8013824,
+            -32.9524328
+          ],
+          [
+            -68.8012222,
+            -32.9525155
+          ],
+          [
+            -68.800245,
+            -32.9530278
+          ],
+          [
+            -68.7990175,
+            -32.9535221
+          ],
+          [
+            -68.7976297,
+            -32.9540421
+          ],
+          [
+            -68.7953308,
+            -32.9549169
+          ],
+          [
+            -68.7949492,
+            -32.9550603
+          ],
+          [
+            -68.7900475,
+            -32.9569014
+          ],
+          [
+            -68.7894755,
+            -32.9571179
+          ],
+          [
+            -68.7893096,
+            -32.9571829
+          ],
+          [
+            -68.789195,
+            -32.9572278
+          ],
+          [
+            -68.7849904,
+            -32.9588249
+          ],
+          [
+            -68.7837356,
+            -32.9592923
+          ],
+          [
+            -68.7826507,
+            -32.9597052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254883184",
+      "properties": {
+        "@id": "way/254883184",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.7826286,
+            -32.9596643
+          ],
+          [
+            -68.7837137,
+            -32.9592513
+          ],
+          [
+            -68.7849686,
+            -32.9587839
+          ],
+          [
+            -68.7891808,
+            -32.9571834
+          ],
+          [
+            -68.789292,
+            -32.9571406
+          ],
+          [
+            -68.7894531,
+            -32.9570771
+          ],
+          [
+            -68.7900255,
+            -32.9568605
+          ],
+          [
+            -68.7949273,
+            -32.9550193
+          ],
+          [
+            -68.7953088,
+            -32.9548759
+          ],
+          [
+            -68.7976077,
+            -32.9540011
+          ],
+          [
+            -68.798995,
+            -32.9534813
+          ],
+          [
+            -68.8002192,
+            -32.9529884
+          ],
+          [
+            -68.8011939,
+            -32.9524774
+          ],
+          [
+            -68.8013543,
+            -32.9523945
+          ],
+          [
+            -68.8016874,
+            -32.9522226
+          ],
+          [
+            -68.8023059,
+            -32.9518779
+          ],
+          [
+            -68.8029235,
+            -32.9514985
+          ],
+          [
+            -68.8039665,
+            -32.9507747
+          ],
+          [
+            -68.8045574,
+            -32.9502929
+          ],
+          [
+            -68.8048984,
+            -32.9500089
+          ],
+          [
+            -68.8055829,
+            -32.949462
+          ],
+          [
+            -68.8058123,
+            -32.9492656
+          ],
+          [
+            -68.8064285,
+            -32.9487513
+          ],
+          [
+            -68.8081668,
+            -32.9473489
+          ],
+          [
+            -68.8082937,
+            -32.9472459
+          ],
+          [
+            -68.8108167,
+            -32.9452007
+          ],
+          [
+            -68.8111615,
+            -32.9449311
+          ],
+          [
+            -68.8111883,
+            -32.9449101
+          ],
+          [
+            -68.8112507,
+            -32.9448615
+          ],
+          [
+            -68.8130042,
+            -32.9434079
+          ],
+          [
+            -68.8148005,
+            -32.9419181
+          ],
+          [
+            -68.8149153,
+            -32.9418202
+          ],
+          [
+            -68.8150674,
+            -32.9416871
+          ],
+          [
+            -68.8227701,
+            -32.9354179
+          ],
+          [
+            -68.8255487,
+            -32.9331277
+          ],
+          [
+            -68.8256139,
+            -32.9330713
+          ],
+          [
+            -68.8258682,
+            -32.9328482
+          ],
+          [
+            -68.8264132,
+            -32.9324054
+          ],
+          [
+            -68.8267999,
+            -32.9321169
+          ],
+          [
+            -68.82761,
+            -32.9314506
+          ],
+          [
+            -68.8295261,
+            -32.9298501
+          ],
+          [
+            -68.8327598,
+            -32.9272229
+          ],
+          [
+            -68.8331888,
+            -32.9268723
+          ],
+          [
+            -68.8333676,
+            -32.9267089
+          ],
+          [
+            -68.8334565,
+            -32.9266347
+          ],
+          [
+            -68.833504,
+            -32.9265937
+          ],
+          [
+            -68.8336865,
+            -32.926447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254882778",
+      "properties": {
+        "@id": "way/254882778",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8152908,
+            -32.9415541
+          ],
+          [
+            -68.8149332,
+            -32.9418541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254882774",
+      "properties": {
+        "@id": "way/254882774",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8014005,
+            -32.9524589
+          ],
+          [
+            -68.8011275,
+            -32.9526036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254882779",
+      "properties": {
+        "@id": "way/254882779",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8010485,
+            -32.9525172
+          ],
+          [
+            -68.8013383,
+            -32.9523665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254882775",
+      "properties": {
+        "@id": "way/254882775",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.7954489,
+            -32.9547922
+          ],
+          [
+            -68.7950058,
+            -32.954959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254882780",
+      "properties": {
+        "@id": "way/254882780",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.7950561,
+            -32.9550615
+          ],
+          [
+            -68.7955136,
+            -32.9548826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254883181",
+      "properties": {
+        "@id": "way/254883181",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.7896323,
+            -32.9570954
+          ],
+          [
+            -68.7893578,
+            -32.9571983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254883182",
+      "properties": {
+        "@id": "way/254883182",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.7895809,
+            -32.9569988
+          ],
+          [
+            -68.7893088,
+            -32.9571057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254882781",
+      "properties": {
+        "@id": "way/254882781",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8084495,
+            -32.947231
+          ],
+          [
+            -68.8083587,
+            -32.9473026
+          ],
+          [
+            -68.8080447,
+            -32.9475497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254882783",
+      "properties": {
+        "@id": "way/254882783",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8082803,
+            -32.9472214
+          ],
+          [
+            -68.8082714,
+            -32.9472282
+          ],
+          [
+            -68.8080218,
+            -32.9474191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254882776",
+      "properties": {
+        "@id": "way/254882776",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8256316,
+            -32.9330966
+          ],
+          [
+            -68.8260796,
+            -32.9327362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254881691",
+      "properties": {
+        "@id": "way/254881691",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8333544,
+            -32.9266943
+          ],
+          [
+            -68.8330559,
+            -32.9269239
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254881693",
+      "properties": {
+        "@id": "way/254881693",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.833438,
+            -32.9267766
+          ],
+          [
+            -68.8331436,
+            -32.9270099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254881697",
+      "properties": {
+        "@id": "way/254881697",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.833784,
+            -32.9264307
+          ],
+          [
+            -68.8337236,
+            -32.9264794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254881714",
+      "properties": {
+        "@id": "way/254881714",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8378476,
+            -32.9231303
+          ],
+          [
+            -68.837635,
+            -32.923305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254881723",
+      "properties": {
+        "@id": "way/254881723",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.837635,
+            -32.923305
+          ],
+          [
+            -68.8367112,
+            -32.9240556
+          ],
+          [
+            -68.8349151,
+            -32.9255173
+          ],
+          [
+            -68.833784,
+            -32.9264307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254884564",
+      "properties": {
+        "@id": "way/254884564",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8336865,
+            -32.926447
+          ],
+          [
+            -68.8337469,
+            -32.9263983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254884567",
+      "properties": {
+        "@id": "way/254884567",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.837622,
+            -32.9232451
+          ],
+          [
+            -68.8378697,
+            -32.9230347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254884570",
+      "properties": {
+        "@id": "way/254884570",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8337469,
+            -32.9263983
+          ],
+          [
+            -68.8348303,
+            -32.925522
+          ],
+          [
+            -68.8366896,
+            -32.9240059
+          ],
+          [
+            -68.837622,
+            -32.9232451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161862223",
+      "properties": {
+        "@id": "way/161862223",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8530993,
+            -32.9024949
+          ],
+          [
+            -68.8531,
+            -32.9026412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254800695",
+      "properties": {
+        "@id": "way/254800695",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8530305,
+            -32.902642
+          ],
+          [
+            -68.8530298,
+            -32.9024929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223783281",
+      "properties": {
+        "@id": "way/223783281",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8492409,
+            -32.8866202
+          ],
+          [
+            -68.8495037,
+            -32.8876652
+          ],
+          [
+            -68.8497832,
+            -32.888706
+          ],
+          [
+            -68.8500995,
+            -32.8898747
+          ],
+          [
+            -68.8502381,
+            -32.8904059
+          ],
+          [
+            -68.8503676,
+            -32.8909419
+          ],
+          [
+            -68.8506388,
+            -32.8919269
+          ],
+          [
+            -68.8509573,
+            -32.8930518
+          ],
+          [
+            -68.8517236,
+            -32.8958255
+          ],
+          [
+            -68.8518561,
+            -32.8963318
+          ],
+          [
+            -68.8518787,
+            -32.89642
+          ],
+          [
+            -68.851966,
+            -32.8967604
+          ],
+          [
+            -68.852278,
+            -32.8979856
+          ],
+          [
+            -68.8526215,
+            -32.8993904
+          ],
+          [
+            -68.8526512,
+            -32.8995336
+          ],
+          [
+            -68.8528294,
+            -32.9002227
+          ],
+          [
+            -68.8529022,
+            -32.9006602
+          ],
+          [
+            -68.8530189,
+            -32.901204
+          ],
+          [
+            -68.8530731,
+            -32.9017999
+          ],
+          [
+            -68.8530989,
+            -32.9023959
+          ],
+          [
+            -68.8530993,
+            -32.9024949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254793045",
+      "properties": {
+        "@id": "way/254793045",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8519126,
+            -32.9088577
+          ],
+          [
+            -68.85215,
+            -32.908261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254797486",
+      "properties": {
+        "@id": "way/254797486",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8530298,
+            -32.9024929
+          ],
+          [
+            -68.8530293,
+            -32.9023968
+          ],
+          [
+            -68.8530036,
+            -32.9018032
+          ],
+          [
+            -68.8529499,
+            -32.9012114
+          ],
+          [
+            -68.8528335,
+            -32.9006694
+          ],
+          [
+            -68.8527278,
+            -32.9002306
+          ],
+          [
+            -68.8525502,
+            -32.8995377
+          ],
+          [
+            -68.8525219,
+            -32.8993842
+          ],
+          [
+            -68.8521852,
+            -32.8979974
+          ],
+          [
+            -68.8520011,
+            -32.8973835
+          ],
+          [
+            -68.851831,
+            -32.8967715
+          ],
+          [
+            -68.8517576,
+            -32.8964326
+          ],
+          [
+            -68.8517367,
+            -32.8963362
+          ],
+          [
+            -68.8516251,
+            -32.8958441
+          ],
+          [
+            -68.8514949,
+            -32.8953523
+          ],
+          [
+            -68.8508894,
+            -32.8930643
+          ],
+          [
+            -68.850571,
+            -32.89194
+          ],
+          [
+            -68.8502997,
+            -32.8909546
+          ],
+          [
+            -68.8501701,
+            -32.890418
+          ],
+          [
+            -68.8500316,
+            -32.8898871
+          ],
+          [
+            -68.8497154,
+            -32.8887189
+          ],
+          [
+            -68.8494359,
+            -32.887678
+          ],
+          [
+            -68.8491728,
+            -32.8866319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254797273",
+      "properties": {
+        "@id": "way/254797273",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8519473,
+            -32.8969836
+          ],
+          [
+            -68.8518229,
+            -32.896431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/98605569",
+      "properties": {
+        "@id": "way/98605569",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8481665,
+            -32.8828295
+          ],
+          [
+            -68.8485779,
+            -32.884218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223622290",
+      "properties": {
+        "@id": "way/223622290",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8486711,
+            -32.8844072
+          ],
+          [
+            -68.848962,
+            -32.8855157
+          ],
+          [
+            -68.8489707,
+            -32.8855501
+          ],
+          [
+            -68.8492409,
+            -32.8866202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254799612",
+      "properties": {
+        "@id": "way/254799612",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8485779,
+            -32.884218
+          ],
+          [
+            -68.8486711,
+            -32.8844072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254799613",
+      "properties": {
+        "@id": "way/254799613",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.8491728,
+            -32.8866319
+          ],
+          [
+            -68.8488978,
+            -32.8855636
+          ],
+          [
+            -68.8488884,
+            -32.8855273
+          ],
+          [
+            -68.8485903,
+            -32.884423
+          ],
+          [
+            -68.8485779,
+            -32.884218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704938116",
+      "properties": {
+        "@id": "node/1704938116",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8465646,
+          -32.9159532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2605998664",
+      "properties": {
+        "@id": "node/2605998664",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.846527,
+          -32.9159212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/675019223",
+      "properties": {
+        "@id": "node/675019223",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8397812,
+          -32.9215036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606746549",
+      "properties": {
+        "@id": "node/2606746549",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8397383,
+          -32.9214892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704938079",
+      "properties": {
+        "@id": "node/1704938079",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.815136,
+          -32.9417556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606730846",
+      "properties": {
+        "@id": "node/2606730846",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8150674,
+          -32.9416871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704938085",
+      "properties": {
+        "@id": "node/1704938085",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8012222,
+          -32.9525155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606729751",
+      "properties": {
+        "@id": "node/2606729751",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8011939,
+          -32.9524774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704938113",
+      "properties": {
+        "@id": "node/1704938113",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7953308,
+          -32.9549169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606729667",
+      "properties": {
+        "@id": "node/2606729667",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7953088,
+          -32.9548759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1027974272",
+      "properties": {
+        "@id": "node/1027974272",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7894755,
+          -32.9571179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606729731",
+      "properties": {
+        "@id": "node/2606729731",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7894531,
+          -32.9570771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704938108",
+      "properties": {
+        "@id": "node/1704938108",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8082039,
+          -32.9473813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606729719",
+      "properties": {
+        "@id": "node/2606729719",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8081668,
+          -32.9473489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704938100",
+      "properties": {
+        "@id": "node/1704938100",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.825959,
+          -32.9329097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2460932190",
+      "properties": {
+        "@id": "node/2460932190",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8332269,
+          -32.9269039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606729770",
+      "properties": {
+        "@id": "node/2606729770",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8331888,
+          -32.9268723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606729704",
+      "properties": {
+        "@id": "node/2606729704",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8258682,
+          -32.9328482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132417089",
+      "properties": {
+        "@id": "node/1132417089",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8530412,
+          -32.9044965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606008887",
+      "properties": {
+        "@id": "node/2606008887",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8529715,
+          -32.904499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704938076",
+      "properties": {
+        "@id": "node/1704938076",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8520697,
+          -32.9086178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606008677",
+      "properties": {
+        "@id": "node/2606008677",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8519699,
+          -32.9085802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132417122",
+      "properties": {
+        "@id": "node/1132417122",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.851966,
+          -32.8967604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606023805",
+      "properties": {
+        "@id": "node/2606023805",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.851831,
+          -32.8967715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1704900397",
+      "properties": {
+        "@id": "node/1704900397",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8502381,
+          -32.8904059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606023803",
+      "properties": {
+        "@id": "node/2606023803",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8501701,
+          -32.890418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1132417153",
+      "properties": {
+        "@id": "node/1132417153",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8485779,
+          -32.884218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/675014220",
+      "properties": {
+        "@id": "node/675014220",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2119332,
+            "reltags": {
+              "from": "Mendoza",
+              "name": "Metrotranvía: Mendoza => Gutiérrez",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Gutiérrez",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7826507,
+          -32.9597052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2606729686",
+      "properties": {
+        "@id": "node/2606729686",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3413331,
+            "reltags": {
+              "from": "Gutiérrez",
+              "name": "Metrotranvía: Gutiérrez => Mendoza",
+              "network": "Metrotranvía Urbano",
+              "operator": "EPTM",
+              "public_transport:version": "2",
+              "ref": "Metrotranvía",
+              "route": "tram",
+              "to": "Mendoza",
+              "type": "route",
+              "wikipedia": "es:Metrotranvía de Mendoza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7826286,
+          -32.9596643
+        ]
+      }
+    }
+  ]
+}
