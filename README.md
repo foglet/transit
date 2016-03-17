@@ -12,5 +12,5 @@ Most files are labeled by two-letter country code, city/location, and how each w
 	uk-LHR-monorai	 	(Ukraine, LHR (IATA airport code), search: route=monorail)
 	ua2-donezVuhlehirsk-trolleybus	(Ukraine/two cities, Donez/Vulehirsk, search: route=trolleybus)
 	ru-smolensk-trolleywire (Russia, Smolensk, search: trolley_wire=yes)
-	au-australiaEast-ferry	(Australia, the east side of, route=ferry)
+	au-australiaEast-ferry	(Australia, the east side of, search: route=ferry)
 
