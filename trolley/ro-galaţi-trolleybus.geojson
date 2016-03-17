@@ -1,0 +1,3992 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T07:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/10930811",
+      "properties": {
+        "@id": "way/10930811",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0095165,
+            45.415261
+          ],
+          [
+            28.0098593,
+            45.4149166
+          ],
+          [
+            28.0101604,
+            45.4146141
+          ],
+          [
+            28.0107554,
+            45.4140163
+          ],
+          [
+            28.0113085,
+            45.4134947
+          ],
+          [
+            28.011587,
+            45.4132259
+          ],
+          [
+            28.0117308,
+            45.4130921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43647584",
+      "properties": {
+        "@id": "way/43647584",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0118517,
+            45.4131644
+          ],
+          [
+            28.0113034,
+            45.4136976
+          ],
+          [
+            28.0108927,
+            45.4140946
+          ],
+          [
+            28.0096507,
+            45.4153291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45269245",
+      "properties": {
+        "@id": "way/45269245",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0096507,
+            45.4153291
+          ],
+          [
+            28.0099175,
+            45.4154656
+          ],
+          [
+            28.0120151,
+            45.4165387
+          ],
+          [
+            28.0124168,
+            45.4167442
+          ],
+          [
+            28.01303,
+            45.4170579
+          ],
+          [
+            28.0131058,
+            45.4170967
+          ],
+          [
+            28.0131952,
+            45.4171424
+          ],
+          [
+            28.0132823,
+            45.417187
+          ],
+          [
+            28.01548,
+            45.4183113
+          ],
+          [
+            28.0156357,
+            45.4183909
+          ],
+          [
+            28.015768,
+            45.4184586
+          ],
+          [
+            28.0170418,
+            45.4191103
+          ],
+          [
+            28.0172984,
+            45.4192415
+          ],
+          [
+            28.0174432,
+            45.4193156
+          ],
+          [
+            28.0175811,
+            45.4193861
+          ],
+          [
+            28.0188561,
+            45.4200384
+          ],
+          [
+            28.0200062,
+            45.4206267
+          ],
+          [
+            28.0201473,
+            45.4206989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43647582",
+      "properties": {
+        "@id": "way/43647582",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0095165,
+            45.415261
+          ],
+          [
+            28.0096507,
+            45.4153291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13435863",
+      "properties": {
+        "@id": "way/13435863",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0120777,
+            45.4127998
+          ],
+          [
+            28.0122152,
+            45.41289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48978249",
+      "properties": {
+        "@id": "way/48978249",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0122152,
+            45.41289
+          ],
+          [
+            28.0126932,
+            45.4131713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58946919",
+      "properties": {
+        "@id": "way/58946919",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0117308,
+            45.4130921
+          ],
+          [
+            28.0119012,
+            45.4129397
+          ],
+          [
+            28.0120777,
+            45.4127998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43647586",
+      "properties": {
+        "@id": "way/43647586",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0126932,
+            45.4131713
+          ],
+          [
+            28.0128228,
+            45.4132513
+          ],
+          [
+            28.0128896,
+            45.4132925
+          ],
+          [
+            28.012951,
+            45.4133304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43647588",
+      "properties": {
+        "@id": "way/43647588",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0121794,
+            45.4133401
+          ],
+          [
+            28.0118517,
+            45.4131644
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43647587",
+      "properties": {
+        "@id": "way/43647587",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0124597,
+            45.4134828
+          ],
+          [
+            28.012367,
+            45.4134382
+          ],
+          [
+            28.012287,
+            45.4133998
+          ],
+          [
+            28.0122622,
+            45.4133879
+          ],
+          [
+            28.0121794,
+            45.4133401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45269238",
+      "properties": {
+        "@id": "way/45269238",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.012951,
+            45.4133304
+          ],
+          [
+            28.0124597,
+            45.4134828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11260307",
+      "properties": {
+        "@id": "way/11260307",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0231953,
+            45.4274191
+          ],
+          [
+            28.022796,
+            45.4273877
+          ],
+          [
+            28.0226931,
+            45.4273785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45784750",
+      "properties": {
+        "@id": "way/45784750",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0201473,
+            45.4206989
+          ],
+          [
+            28.0202519,
+            45.4207505
+          ],
+          [
+            28.0205747,
+            45.4209097
+          ],
+          [
+            28.0206381,
+            45.420939
+          ],
+          [
+            28.0208291,
+            45.4210445
+          ],
+          [
+            28.0210199,
+            45.4211561
+          ],
+          [
+            28.0211811,
+            45.4212626
+          ],
+          [
+            28.0213151,
+            45.4213658
+          ],
+          [
+            28.0214849,
+            45.4215255
+          ],
+          [
+            28.0216412,
+            45.4217212
+          ],
+          [
+            28.0217831,
+            45.4219439
+          ],
+          [
+            28.0219205,
+            45.4222478
+          ],
+          [
+            28.022212,
+            45.4231798
+          ],
+          [
+            28.0224223,
+            45.4239201
+          ],
+          [
+            28.0226237,
+            45.4245534
+          ],
+          [
+            28.0226565,
+            45.4246633
+          ],
+          [
+            28.0227131,
+            45.4248663
+          ],
+          [
+            28.0228233,
+            45.425215
+          ],
+          [
+            28.0228788,
+            45.4253705
+          ],
+          [
+            28.0229621,
+            45.4256059
+          ],
+          [
+            28.0230234,
+            45.4257567
+          ],
+          [
+            28.023159,
+            45.4259949
+          ],
+          [
+            28.0233293,
+            45.4262245
+          ],
+          [
+            28.0234727,
+            45.4263861
+          ],
+          [
+            28.0236671,
+            45.4265884
+          ],
+          [
+            28.0239321,
+            45.4268695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191125490",
+      "properties": {
+        "@id": "way/191125490",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0220491,
+            45.4273337
+          ],
+          [
+            28.0208881,
+            45.4272271
+          ],
+          [
+            28.0201146,
+            45.4271573
+          ],
+          [
+            28.0192931,
+            45.4270886
+          ],
+          [
+            28.0189585,
+            45.4270599
+          ],
+          [
+            28.0187929,
+            45.427045
+          ],
+          [
+            28.0185207,
+            45.4270187
+          ],
+          [
+            28.0172907,
+            45.4269109
+          ],
+          [
+            28.0134083,
+            45.4265664
+          ],
+          [
+            28.0126195,
+            45.4265005
+          ],
+          [
+            28.0121906,
+            45.4264676
+          ],
+          [
+            28.0118699,
+            45.4264447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43647571",
+      "properties": {
+        "@id": "way/43647571",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0118699,
+            45.4264447
+          ],
+          [
+            28.0120044,
+            45.4263161
+          ],
+          [
+            28.0121745,
+            45.4262955
+          ],
+          [
+            28.0123416,
+            45.42631
+          ],
+          [
+            28.0124945,
+            45.4263377
+          ],
+          [
+            28.0126195,
+            45.4265005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191125485",
+      "properties": {
+        "@id": "way/191125485",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0220491,
+            45.4273337
+          ],
+          [
+            28.0222552,
+            45.4272918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191125487",
+      "properties": {
+        "@id": "way/191125487",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0222592,
+            45.4274072
+          ],
+          [
+            28.0220491,
+            45.4273337
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191125491",
+      "properties": {
+        "@id": "way/191125491",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0226931,
+            45.4273785
+          ],
+          [
+            28.0224989,
+            45.4274195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191125492",
+      "properties": {
+        "@id": "way/191125492",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0225278,
+            45.4273073
+          ],
+          [
+            28.0226931,
+            45.4273785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/12496592",
+      "properties": {
+        "@id": "way/12496592",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0373257,
+            45.4286553
+          ],
+          [
+            28.0371739,
+            45.4286435
+          ],
+          [
+            28.0367701,
+            45.428612
+          ],
+          [
+            28.0360763,
+            45.4285559
+          ],
+          [
+            28.0359153,
+            45.4285451
+          ],
+          [
+            28.0339778,
+            45.428383
+          ],
+          [
+            28.0334664,
+            45.4283387
+          ],
+          [
+            28.0315514,
+            45.4281759
+          ],
+          [
+            28.031436,
+            45.4281687
+          ],
+          [
+            28.0311512,
+            45.4281446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45784769",
+      "properties": {
+        "@id": "way/45784769",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.031191,
+            45.4279526
+          ],
+          [
+            28.0315818,
+            45.4279867
+          ],
+          [
+            28.0353226,
+            45.4283355
+          ],
+          [
+            28.0369332,
+            45.4284554
+          ],
+          [
+            28.0372122,
+            45.4284761
+          ],
+          [
+            28.0373982,
+            45.4284899
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45784770",
+      "properties": {
+        "@id": "way/45784770",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0311512,
+            45.4281446
+          ],
+          [
+            28.0300094,
+            45.4280462
+          ],
+          [
+            28.0292666,
+            45.427976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58884249",
+      "properties": {
+        "@id": "way/58884249",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0293027,
+            45.4277837
+          ],
+          [
+            28.0309719,
+            45.4279325
+          ],
+          [
+            28.031191,
+            45.4279526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10929768",
+      "properties": {
+        "@id": "way/10929768",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0245499,
+            45.4278112
+          ],
+          [
+            28.0243368,
+            45.4278027
+          ],
+          [
+            28.024107,
+            45.4277226
+          ],
+          [
+            28.023967,
+            45.427607
+          ],
+          [
+            28.0239484,
+            45.4275821
+          ],
+          [
+            28.02389,
+            45.427396
+          ],
+          [
+            28.0239359,
+            45.4272435
+          ],
+          [
+            28.0240636,
+            45.4271109
+          ],
+          [
+            28.0242317,
+            45.4270292
+          ],
+          [
+            28.0243257,
+            45.4270055
+          ],
+          [
+            28.0244845,
+            45.4269918
+          ],
+          [
+            28.0247067,
+            45.4270249
+          ],
+          [
+            28.0248572,
+            45.4270906
+          ],
+          [
+            28.0249924,
+            45.4272084
+          ],
+          [
+            28.0250568,
+            45.4273471
+          ],
+          [
+            28.0250489,
+            45.4274904
+          ],
+          [
+            28.0249693,
+            45.4276253
+          ],
+          [
+            28.0248402,
+            45.4277255
+          ],
+          [
+            28.0247199,
+            45.4277772
+          ],
+          [
+            28.0245499,
+            45.4278112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10935957",
+      "properties": {
+        "@id": "way/10935957",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0239359,
+            45.4272435
+          ],
+          [
+            28.02397,
+            45.4271026
+          ],
+          [
+            28.0239761,
+            45.4269892
+          ],
+          [
+            28.0239321,
+            45.4268695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10936328",
+      "properties": {
+        "@id": "way/10936328",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0249924,
+            45.4272084
+          ],
+          [
+            28.0252059,
+            45.4273436
+          ],
+          [
+            28.0252943,
+            45.4273843
+          ],
+          [
+            28.0253985,
+            45.4274175
+          ],
+          [
+            28.0255201,
+            45.4274447
+          ],
+          [
+            28.0270421,
+            45.4275815
+          ],
+          [
+            28.0283518,
+            45.4277031
+          ],
+          [
+            28.0289093,
+            45.4277505
+          ],
+          [
+            28.0289923,
+            45.4277571
+          ],
+          [
+            28.0293027,
+            45.4277837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11260140",
+      "properties": {
+        "@id": "way/11260140",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0231953,
+            45.4274191
+          ],
+          [
+            28.0234772,
+            45.4273789
+          ],
+          [
+            28.0237332,
+            45.4273113
+          ],
+          [
+            28.0239359,
+            45.4272435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11260201",
+      "properties": {
+        "@id": "way/11260201",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.023967,
+            45.427607
+          ],
+          [
+            28.0238363,
+            45.4275396
+          ],
+          [
+            28.0236526,
+            45.4274839
+          ],
+          [
+            28.023494,
+            45.4274535
+          ],
+          [
+            28.0231953,
+            45.4274191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/12496660",
+      "properties": {
+        "@id": "way/12496660",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0239321,
+            45.4268695
+          ],
+          [
+            28.0240636,
+            45.4269373
+          ],
+          [
+            28.0241682,
+            45.4269764
+          ],
+          [
+            28.0243257,
+            45.4270055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58884246",
+      "properties": {
+        "@id": "way/58884246",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0292666,
+            45.427976
+          ],
+          [
+            28.0290205,
+            45.4279523
+          ],
+          [
+            28.0289539,
+            45.4279464
+          ],
+          [
+            28.0277376,
+            45.4278402
+          ],
+          [
+            28.0270469,
+            45.4277801
+          ],
+          [
+            28.0262599,
+            45.4277152
+          ],
+          [
+            28.0256553,
+            45.4276642
+          ],
+          [
+            28.0254736,
+            45.4276479
+          ],
+          [
+            28.025337,
+            45.4276395
+          ],
+          [
+            28.0252308,
+            45.4276425
+          ],
+          [
+            28.0251104,
+            45.4276585
+          ],
+          [
+            28.0248402,
+            45.4277255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10936668",
+      "properties": {
+        "@id": "way/10936668",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0509679,
+            45.4330672
+          ],
+          [
+            28.0499739,
+            45.4327988
+          ],
+          [
+            28.0495248,
+            45.4326596
+          ],
+          [
+            28.0492296,
+            45.4325516
+          ],
+          [
+            28.0489739,
+            45.4324132
+          ],
+          [
+            28.0487551,
+            45.432269
+          ],
+          [
+            28.0484228,
+            45.4320502
+          ],
+          [
+            28.0480622,
+            45.4318211
+          ],
+          [
+            28.0476416,
+            45.4315632
+          ],
+          [
+            28.0475174,
+            45.4314894
+          ],
+          [
+            28.0470557,
+            45.4312328
+          ],
+          [
+            28.0470247,
+            45.4312164
+          ],
+          [
+            28.0469109,
+            45.4311565
+          ],
+          [
+            28.046435,
+            45.4309013
+          ],
+          [
+            28.0460962,
+            45.4307399
+          ],
+          [
+            28.045641,
+            45.4305559
+          ],
+          [
+            28.0455539,
+            45.4305214
+          ],
+          [
+            28.0454111,
+            45.4304648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/45784778",
+      "properties": {
+        "@id": "way/45784778",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0380903,
+            45.4285535
+          ],
+          [
+            28.0386958,
+            45.4286186
+          ],
+          [
+            28.0391058,
+            45.4286734
+          ],
+          [
+            28.0402922,
+            45.4288355
+          ],
+          [
+            28.0407485,
+            45.4289145
+          ],
+          [
+            28.0408933,
+            45.4289395
+          ],
+          [
+            28.0414756,
+            45.4290607
+          ],
+          [
+            28.0419267,
+            45.4291697
+          ],
+          [
+            28.0423923,
+            45.4292973
+          ],
+          [
+            28.0427346,
+            45.4294003
+          ],
+          [
+            28.0430547,
+            45.4295029
+          ],
+          [
+            28.0437114,
+            45.429721
+          ],
+          [
+            28.0443557,
+            45.429939
+          ],
+          [
+            28.0449753,
+            45.4301344
+          ],
+          [
+            28.0453162,
+            45.4302591
+          ],
+          [
+            28.0455226,
+            45.4303263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292353167",
+      "properties": {
+        "@id": "way/292353167",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0454111,
+            45.4304648
+          ],
+          [
+            28.0451629,
+            45.4303863
+          ],
+          [
+            28.0449282,
+            45.4303064
+          ],
+          [
+            28.044146,
+            45.4300402
+          ],
+          [
+            28.0440947,
+            45.4300233
+          ],
+          [
+            28.042542,
+            45.4295292
+          ],
+          [
+            28.0418858,
+            45.4293443
+          ],
+          [
+            28.0416294,
+            45.4292851
+          ],
+          [
+            28.0408673,
+            45.4291246
+          ],
+          [
+            28.0406838,
+            45.4290913
+          ],
+          [
+            28.040194,
+            45.4290024
+          ],
+          [
+            28.0390819,
+            45.4288478
+          ],
+          [
+            28.0379889,
+            45.4287148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292353169",
+      "properties": {
+        "@id": "way/292353169",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0455226,
+            45.4303263
+          ],
+          [
+            28.0456628,
+            45.4303789
+          ],
+          [
+            28.0457444,
+            45.4304095
+          ],
+          [
+            28.0464232,
+            45.4307044
+          ],
+          [
+            28.0470201,
+            45.4310095
+          ],
+          [
+            28.0471559,
+            45.4310936
+          ],
+          [
+            28.0472445,
+            45.4311485
+          ],
+          [
+            28.0483174,
+            45.431799
+          ],
+          [
+            28.048652,
+            45.4320112
+          ],
+          [
+            28.048891,
+            45.4321509
+          ],
+          [
+            28.0491283,
+            45.4322899
+          ],
+          [
+            28.049378,
+            45.4324244
+          ],
+          [
+            28.0496278,
+            45.4325391
+          ],
+          [
+            28.0501885,
+            45.4327507
+          ],
+          [
+            28.0505552,
+            45.432898
+          ],
+          [
+            28.0509679,
+            45.4330672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/12496614",
+      "properties": {
+        "@id": "way/12496614",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0373982,
+            45.4284899
+          ],
+          [
+            28.0379401,
+            45.4285354
+          ],
+          [
+            28.0380903,
+            45.4285535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48961035",
+      "properties": {
+        "@id": "way/48961035",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0379889,
+            45.4287148
+          ],
+          [
+            28.0378947,
+            45.4287043
+          ],
+          [
+            28.0373257,
+            45.4286553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10941481",
+      "properties": {
+        "@id": "way/10941481",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.051064,
+            45.4517324
+          ],
+          [
+            28.0504801,
+            45.4526748
+          ],
+          [
+            28.0503422,
+            45.452908
+          ],
+          [
+            28.0501753,
+            45.4531839
+          ],
+          [
+            28.0500194,
+            45.4534293
+          ],
+          [
+            28.049851,
+            45.4536996
+          ],
+          [
+            28.0497798,
+            45.4538126
+          ],
+          [
+            28.0495108,
+            45.4542377
+          ],
+          [
+            28.0494427,
+            45.4543402
+          ],
+          [
+            28.0490908,
+            45.4549045
+          ],
+          [
+            28.0483946,
+            45.4560313
+          ],
+          [
+            28.0480193,
+            45.4566521
+          ],
+          [
+            28.0479465,
+            45.4567623
+          ],
+          [
+            28.0478646,
+            45.4568863
+          ],
+          [
+            28.0476608,
+            45.4572174
+          ],
+          [
+            28.0474162,
+            45.4576207
+          ],
+          [
+            28.0468689,
+            45.458578
+          ],
+          [
+            28.046103,
+            45.4598964
+          ],
+          [
+            28.0455798,
+            45.4608694
+          ],
+          [
+            28.0453669,
+            45.4612871
+          ],
+          [
+            28.0452089,
+            45.4615802
+          ],
+          [
+            28.0449872,
+            45.4620155
+          ],
+          [
+            28.0444743,
+            45.4629547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/12494348",
+      "properties": {
+        "@id": "way/12494348",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0444743,
+            45.4629547
+          ],
+          [
+            28.0445584,
+            45.4631636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43647577",
+      "properties": {
+        "@id": "way/43647577",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0445584,
+            45.4631636
+          ],
+          [
+            28.0443189,
+            45.4632391
+          ],
+          [
+            28.0442204,
+            45.4630656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43647578",
+      "properties": {
+        "@id": "way/43647578",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0442204,
+            45.4630656
+          ],
+          [
+            28.0444743,
+            45.4629547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10942030",
+      "properties": {
+        "@id": "way/10942030",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0553089,
+            45.4336359
+          ],
+          [
+            28.0553126,
+            45.4339191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11068565",
+      "properties": {
+        "@id": "way/11068565",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0509679,
+            45.4330672
+          ],
+          [
+            28.0510611,
+            45.4330968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13466667",
+      "properties": {
+        "@id": "way/13466667",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0548461,
+            45.4349786
+          ],
+          [
+            28.0546058,
+            45.4349244
+          ],
+          [
+            28.0544147,
+            45.4348677
+          ],
+          [
+            28.0541572,
+            45.4347412
+          ],
+          [
+            28.0539814,
+            45.4346438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13466675",
+      "properties": {
+        "@id": "way/13466675",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0555305,
+            45.434928
+          ],
+          [
+            28.0550842,
+            45.4349641
+          ],
+          [
+            28.0548461,
+            45.4349786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43647573",
+      "properties": {
+        "@id": "way/43647573",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.054032,
+            45.4337286
+          ],
+          [
+            28.0541952,
+            45.4337168
+          ],
+          [
+            28.0543408,
+            45.4336979
+          ],
+          [
+            28.0547563,
+            45.4336456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43647580",
+      "properties": {
+        "@id": "way/43647580",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0539814,
+            45.4346438
+          ],
+          [
+            28.0541219,
+            45.4344052
+          ],
+          [
+            28.054032,
+            45.4337286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/51106289",
+      "properties": {
+        "@id": "way/51106289",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0553126,
+            45.4339191
+          ],
+          [
+            28.0553504,
+            45.4341144
+          ],
+          [
+            28.0553947,
+            45.4342901
+          ],
+          [
+            28.0555305,
+            45.434928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/73354753",
+      "properties": {
+        "@id": "way/73354753",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0528862,
+            45.4336594
+          ],
+          [
+            28.0530553,
+            45.4336903
+          ],
+          [
+            28.0535538,
+            45.4337181
+          ],
+          [
+            28.0536632,
+            45.4337223
+          ],
+          [
+            28.054032,
+            45.4337286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/115535058",
+      "properties": {
+        "@id": "way/115535058",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0547563,
+            45.4336456
+          ],
+          [
+            28.0550447,
+            45.4336226
+          ],
+          [
+            28.0553089,
+            45.4336359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132195009",
+      "properties": {
+        "@id": "way/132195009",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0510611,
+            45.4330968
+          ],
+          [
+            28.0519253,
+            45.4333756
+          ],
+          [
+            28.0522094,
+            45.4334653
+          ],
+          [
+            28.0527463,
+            45.43363
+          ],
+          [
+            28.0528862,
+            45.4336594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48961059",
+      "properties": {
+        "@id": "way/48961059",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0563974,
+            45.4404447
+          ],
+          [
+            28.0563769,
+            45.4406223
+          ],
+          [
+            28.0563693,
+            45.44066
+          ],
+          [
+            28.0563319,
+            45.4408463
+          ],
+          [
+            28.0563263,
+            45.4408796
+          ],
+          [
+            28.0562679,
+            45.4411714
+          ],
+          [
+            28.0562361,
+            45.4413336
+          ],
+          [
+            28.0562138,
+            45.4414474
+          ],
+          [
+            28.0560623,
+            45.4419784
+          ],
+          [
+            28.0559885,
+            45.4422515
+          ],
+          [
+            28.0559278,
+            45.4424761
+          ],
+          [
+            28.055905,
+            45.4425602
+          ],
+          [
+            28.0558529,
+            45.4427109
+          ],
+          [
+            28.0557546,
+            45.4429987
+          ],
+          [
+            28.0556735,
+            45.443241
+          ],
+          [
+            28.0555637,
+            45.4435566
+          ],
+          [
+            28.0554582,
+            45.4438515
+          ],
+          [
+            28.0554328,
+            45.4439225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/75536416",
+      "properties": {
+        "@id": "way/75536416",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0545864,
+            45.4459428
+          ],
+          [
+            28.0540938,
+            45.4467407
+          ],
+          [
+            28.0535445,
+            45.4476379
+          ],
+          [
+            28.0532273,
+            45.4481728
+          ],
+          [
+            28.0528321,
+            45.4488121
+          ],
+          [
+            28.0526916,
+            45.4490515
+          ],
+          [
+            28.0522313,
+            45.4498357
+          ],
+          [
+            28.0522007,
+            45.4498863
+          ],
+          [
+            28.0521552,
+            45.4499619
+          ],
+          [
+            28.0520996,
+            45.4500539
+          ],
+          [
+            28.051917,
+            45.4503565
+          ],
+          [
+            28.0513901,
+            45.4511965
+          ],
+          [
+            28.0513644,
+            45.4512387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265116773",
+      "properties": {
+        "@id": "way/265116773",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0555305,
+            45.434928
+          ],
+          [
+            28.0556715,
+            45.4355044
+          ],
+          [
+            28.0557236,
+            45.4357174
+          ],
+          [
+            28.0557841,
+            45.4359644
+          ],
+          [
+            28.0558813,
+            45.4363618
+          ],
+          [
+            28.0558994,
+            45.4364358
+          ],
+          [
+            28.0559577,
+            45.4366743
+          ],
+          [
+            28.0560836,
+            45.4371886
+          ],
+          [
+            28.0561199,
+            45.4373372
+          ],
+          [
+            28.0562768,
+            45.4379784
+          ],
+          [
+            28.0563817,
+            45.4385495
+          ],
+          [
+            28.0564112,
+            45.4387253
+          ],
+          [
+            28.0564459,
+            45.4389654
+          ],
+          [
+            28.0564627,
+            45.439171
+          ],
+          [
+            28.0564688,
+            45.439393
+          ],
+          [
+            28.0564658,
+            45.4394538
+          ],
+          [
+            28.0564541,
+            45.4396949
+          ],
+          [
+            28.0564387,
+            45.439898
+          ],
+          [
+            28.0563974,
+            45.4404447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10941972",
+      "properties": {
+        "@id": "way/10941972",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0554328,
+            45.4439225
+          ],
+          [
+            28.0553855,
+            45.444043
+          ],
+          [
+            28.0553365,
+            45.4441679
+          ],
+          [
+            28.054879,
+            45.4452772
+          ],
+          [
+            28.0545864,
+            45.4459428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10941634",
+      "properties": {
+        "@id": "way/10941634",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.0513644,
+            45.4512387
+          ],
+          [
+            28.0513472,
+            45.4513591
+          ],
+          [
+            28.0513255,
+            45.4514442
+          ],
+          [
+            28.0512984,
+            45.4515273
+          ],
+          [
+            28.0512476,
+            45.4515909
+          ],
+          [
+            28.0512185,
+            45.451636
+          ],
+          [
+            28.051064,
+            45.4517324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10941884",
+      "properties": {
+        "@id": "way/10941884",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.051064,
+            45.4517324
+          ],
+          [
+            28.0510468,
+            45.4515999
+          ],
+          [
+            28.0510501,
+            45.4515487
+          ],
+          [
+            28.0510726,
+            45.4515036
+          ],
+          [
+            28.0511412,
+            45.4514012
+          ],
+          [
+            28.0512528,
+            45.4513169
+          ],
+          [
+            28.0513644,
+            45.4512387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2365376979",
+      "properties": {
+        "@id": "node/2365376979",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 309380,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "102",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396133,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "104",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396134,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "101",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 396135,
+            "reltags": {
+              "operator": "Transurb",
+              "ref": "103",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0472,
+          45.4314333
+        ]
+      }
+    }
+  ]
+}
