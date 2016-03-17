@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/239596979",
+      "properties": {
+        "@id": "way/239596979",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Eminönü - Üsküdar (Turyol)",
+        "route": "ferry",
+        "source": "GPS",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4473141,
+            "reltags": {
+              "from": "Eminönü",
+              "name": "Eminönü - Üsküdar (Turyol)",
+              "route": "ferry",
+              "to": "Üsküdar",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.9704378,
+            41.0188274
+          ],
+          [
+            28.9722194,
+            41.0202384
+          ],
+          [
+            28.9744056,
+            41.0195125
+          ],
+          [
+            28.9905769,
+            41.0204435
+          ],
+          [
+            29.0143907,
+            41.0287739
+          ],
+          [
+            29.0158728,
+            41.0281389
+          ]
+        ]
+      }
+    }
+  ]
+}

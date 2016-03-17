@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T10:06:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/238946707",
+      "properties": {
+        "@id": "way/238946707",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.987471,
+            46.9431111
+          ],
+          [
+            31.9827256,
+            46.9315542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/348382104",
+      "properties": {
+        "@id": "way/348382104",
+        "ferry": "track",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.0697194,
+            46.9961558
+          ],
+          [
+            32.0707547,
+            46.9970083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363296117",
+      "properties": {
+        "@id": "way/363296117",
+        "disused": "yes",
+        "ferry": "service",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.9377109,
+            47.0019532
+          ],
+          [
+            31.9250892,
+            47.0135343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363297406",
+      "properties": {
+        "@id": "way/363297406",
+        "ferry": "unclassified",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.8573629,
+            47.0572154
+          ],
+          [
+            31.874511,
+            47.0497103
+          ]
+        ]
+      }
+    }
+  ]
+}

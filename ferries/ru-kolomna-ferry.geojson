@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T01:11:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/36585178",
+      "properties": {
+        "@id": "way/36585178",
+        "capacity:weight": "240",
+        "contact:phone": "8(263)2-49-59",
+        "fee": "no",
+        "ferry": "tertiary",
+        "foot": "yes",
+        "goods": "yes",
+        "goods:lanes": "|designated|",
+        "hgv": "yes",
+        "hgv:lanes": "||designated",
+        "lanes": "3",
+        "maxweight": "240",
+        "motorcar:lanes": "designated||",
+        "opening_hours": "24/7",
+        "operator": "ГУП МО \"Луховицкое ДЭУ\" управление автомобильных дорок \"Мосавтодор\"",
+        "psv": "yes",
+        "route": "ferry",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.3097748,
+            54.9397698
+          ],
+          [
+            39.3125352,
+            54.9414265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38547886",
+      "properties": {
+        "@id": "way/38547886",
+        "name": "паром Дединово",
+        "route": "ferry",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.1154084,
+            55.0523059
+          ],
+          [
+            39.1151098,
+            55.0514209
+          ],
+          [
+            39.1145828,
+            55.0506109
+          ],
+          [
+            39.113961,
+            55.0499742
+          ],
+          [
+            39.1134463,
+            55.0496015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38547888",
+      "properties": {
+        "@id": "way/38547888",
+        "name": "паром Пощупово",
+        "route": "ferry",
+        "surface": "dirt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.738261,
+            54.8159569
+          ],
+          [
+            39.7364708,
+            54.816832
+          ],
+          [
+            39.7363728,
+            54.8168968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71760479",
+      "properties": {
+        "@id": "way/71760479",
+        "fee": "yes",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.6558022,
+            54.8719503
+          ],
+          [
+            39.6569181,
+            54.8762372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/115970090",
+      "properties": {
+        "@id": "way/115970090",
+        "fee": "yes",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.6527971,
+            54.8758842
+          ],
+          [
+            39.6526687,
+            54.8711899
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/128599450",
+      "properties": {
+        "@id": "way/128599450",
+        "ferry": "tertiary",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.2472416,
+            55.0100075
+          ],
+          [
+            39.2462863,
+            55.0108995
+          ],
+          [
+            39.2454287,
+            55.0123835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/310330506",
+      "properties": {
+        "@id": "way/310330506",
+        "name": "Паром Новосёлки",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.7782752,
+            54.8349319
+          ],
+          [
+            39.7830989,
+            54.8337616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289278185",
+      "properties": {
+        "@id": "way/289278185",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3840268,
+            "reltags": {
+              "from": "Бачманово",
+              "name": "Теплоход Бачманово - Притыка",
+              "ref": "Бачманово - Притыка",
+              "route": "ferry",
+              "to": "Притыка",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3840269,
+            "reltags": {
+              "from": "Притыка",
+              "name": "Теплоход Притыка - Бачманово",
+              "ref": "Бачманово - Притыка",
+              "route": "ferry",
+              "to": "Бачманово",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.7305846,
+            54.9110916
+          ],
+          [
+            38.7329029,
+            54.9116916
+          ],
+          [
+            38.7473225,
+            54.9174145
+          ],
+          [
+            38.7599154,
+            54.9279497
+          ],
+          [
+            38.7713551,
+            54.9600146
+          ],
+          [
+            38.7720417,
+            54.9702634
+          ],
+          [
+            38.769997,
+            54.9743701
+          ],
+          [
+            38.7686085,
+            54.9771602
+          ],
+          [
+            38.7613987,
+            54.9870107
+          ],
+          [
+            38.7562489,
+            55.0009942
+          ],
+          [
+            38.758044,
+            55.008054
+          ],
+          [
+            38.7586521,
+            55.0104451
+          ],
+          [
+            38.7617421,
+            55.0149729
+          ],
+          [
+            38.7583187,
+            55.0247273
+          ],
+          [
+            38.7559056,
+            55.0348496
+          ],
+          [
+            38.7530657,
+            55.0415314
+          ],
+          [
+            38.753159,
+            55.0442926
+          ],
+          [
+            38.7536742,
+            55.0462762
+          ],
+          [
+            38.7555445,
+            55.0484385
+          ],
+          [
+            38.7600254,
+            55.05216
+          ],
+          [
+            38.7751316,
+            55.0610089
+          ],
+          [
+            38.7878346,
+            55.0647446
+          ],
+          [
+            38.8033339,
+            55.0669634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289278188",
+      "properties": {
+        "@id": "way/289278188",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3840268,
+            "reltags": {
+              "from": "Бачманово",
+              "name": "Теплоход Бачманово - Притыка",
+              "ref": "Бачманово - Притыка",
+              "route": "ferry",
+              "to": "Притыка",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3840269,
+            "reltags": {
+              "from": "Притыка",
+              "name": "Теплоход Притыка - Бачманово",
+              "ref": "Бачманово - Притыка",
+              "route": "ferry",
+              "to": "Бачманово",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.7297341,
+            54.909881
+          ],
+          [
+            38.7305846,
+            54.9110916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289278187",
+      "properties": {
+        "@id": "way/289278187",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3840268,
+            "reltags": {
+              "from": "Бачманово",
+              "name": "Теплоход Бачманово - Притыка",
+              "ref": "Бачманово - Притыка",
+              "route": "ferry",
+              "to": "Притыка",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3840269,
+            "reltags": {
+              "from": "Притыка",
+              "name": "Теплоход Притыка - Бачманово",
+              "ref": "Бачманово - Притыка",
+              "route": "ferry",
+              "to": "Бачманово",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.806466,
+            55.0696958
+          ],
+          [
+            38.8033339,
+            55.0669634
+          ]
+        ]
+      }
+    }
+  ]
+}

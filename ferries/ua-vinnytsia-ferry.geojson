@@ -1,0 +1,346 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T10:06:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/155987393",
+      "properties": {
+        "@id": "way/155987393",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2091589,
+            "reltags": {
+              "name": "Водне таксі: Жовтнева площа - Сабарів",
+              "public_transport:version": "2",
+              "route": "ferry",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2091590,
+            "reltags": {
+              "name": "Водне таксі: Сабарів - Жовтнева площа",
+              "public_transport:version": "2",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.4814192,
+            49.2348714
+          ],
+          [
+            28.4817356,
+            49.2339921
+          ],
+          [
+            28.4816176,
+            49.2331587
+          ],
+          [
+            28.4818458,
+            49.2318766
+          ],
+          [
+            28.4816933,
+            49.2314182
+          ],
+          [
+            28.4812263,
+            49.2309985
+          ],
+          [
+            28.4798881,
+            49.2304153
+          ],
+          [
+            28.475506,
+            49.2293038
+          ],
+          [
+            28.4727413,
+            49.2285221
+          ],
+          [
+            28.4716069,
+            49.2282014
+          ],
+          [
+            28.4708689,
+            49.2280413
+          ],
+          [
+            28.4692455,
+            49.2276907
+          ],
+          [
+            28.4673523,
+            49.2270893
+          ],
+          [
+            28.4661569,
+            49.2265021
+          ],
+          [
+            28.4651447,
+            49.2255898
+          ],
+          [
+            28.4645127,
+            49.2242443
+          ],
+          [
+            28.4638037,
+            49.2224446
+          ],
+          [
+            28.4631047,
+            49.2210252
+          ],
+          [
+            28.4621334,
+            49.2197593
+          ],
+          [
+            28.4602204,
+            49.2168599
+          ],
+          [
+            28.4591803,
+            49.2157636
+          ],
+          [
+            28.4582789,
+            49.215346
+          ],
+          [
+            28.4555781,
+            49.214672
+          ],
+          [
+            28.4542647,
+            49.2141033
+          ],
+          [
+            28.4516394,
+            49.2120884
+          ],
+          [
+            28.4484009,
+            49.2097874
+          ],
+          [
+            28.4469944,
+            49.2090358
+          ],
+          [
+            28.4465744,
+            49.208363
+          ],
+          [
+            28.446557,
+            49.2071929
+          ],
+          [
+            28.4478186,
+            49.2046617
+          ],
+          [
+            28.449581,
+            49.2027522
+          ],
+          [
+            28.4535175,
+            49.2010307
+          ],
+          [
+            28.4551344,
+            49.1999617
+          ],
+          [
+            28.4586874,
+            49.1973567
+          ],
+          [
+            28.4627954,
+            49.1949633
+          ],
+          [
+            28.4634008,
+            49.1941683
+          ],
+          [
+            28.463388,
+            49.1935455
+          ],
+          [
+            28.4630436,
+            49.1928165
+          ],
+          [
+            28.4618136,
+            49.1915826
+          ],
+          [
+            28.4606749,
+            49.191024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443448591",
+      "properties": {
+        "@id": "node/443448591",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2091589,
+            "reltags": {
+              "name": "Водне таксі: Жовтнева площа - Сабарів",
+              "public_transport:version": "2",
+              "route": "ferry",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 2091590,
+            "reltags": {
+              "name": "Водне таксі: Сабарів - Жовтнева площа",
+              "public_transport:version": "2",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4609092,
+          49.1908271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1683125637",
+      "properties": {
+        "@id": "node/1683125637",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2091589,
+            "reltags": {
+              "name": "Водне таксі: Жовтнева площа - Сабарів",
+              "public_transport:version": "2",
+              "route": "ferry",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2091590,
+            "reltags": {
+              "name": "Водне таксі: Сабарів - Жовтнева площа",
+              "public_transport:version": "2",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4606749,
+          49.191024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571633249",
+      "properties": {
+        "@id": "node/571633249",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2091589,
+            "reltags": {
+              "name": "Водне таксі: Жовтнева площа - Сабарів",
+              "public_transport:version": "2",
+              "route": "ferry",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2091590,
+            "reltags": {
+              "name": "Водне таксі: Сабарів - Жовтнева площа",
+              "public_transport:version": "2",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4814192,
+          49.2348714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1683125633",
+      "properties": {
+        "@id": "node/1683125633",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 2091589,
+            "reltags": {
+              "name": "Водне таксі: Жовтнева площа - Сабарів",
+              "public_transport:version": "2",
+              "route": "ferry",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 2091590,
+            "reltags": {
+              "name": "Водне таксі: Сабарів - Жовтнева площа",
+              "public_transport:version": "2",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.482096,
+          49.2353782
+        ]
+      }
+    }
+  ]
+}

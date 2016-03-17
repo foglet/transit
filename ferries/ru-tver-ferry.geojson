@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T09:08:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/367421853",
+      "properties": {
+        "@id": "way/367421853",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.0675768,
+            56.8002274
+          ],
+          [
+            36.0649942,
+            56.7994749
+          ]
+        ]
+      }
+    }
+  ]
+}

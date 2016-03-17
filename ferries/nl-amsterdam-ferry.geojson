@@ -1,0 +1,3242 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-11T21:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/6594230",
+      "properties": {
+        "@id": "way/6594230",
+        "bicycle": "yes",
+        "foot": "yes",
+        "hgv": "yes",
+        "motorcar": "yes",
+        "name": "Ilpendam-Pumerland",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.94863,
+            52.46352
+          ],
+          [
+            4.94933,
+            52.46357
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/6609473",
+      "properties": {
+        "@id": "way/6609473",
+        "alt_name": "Buitenhuizen",
+        "bicycle": "yes",
+        "foot": "yes",
+        "hgv": "yes",
+        "motorcar": "yes",
+        "name": "Buitenhuizerpont",
+        "note": "Spaarndam-Buitenhuizen",
+        "opening_hours": "24/7",
+        "operator": "GVB",
+        "route": "ferry",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4448045,
+            "reltags": {
+              "name": "Buitenhuizerpont",
+              "ref": "910",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7245814,
+            52.4314598
+          ],
+          [
+            4.7252058,
+            52.4347068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/7038643",
+      "properties": {
+        "@id": "way/7038643",
+        "bicycle": "yes",
+        "ferry:type": "motor ferry",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Nigtevecht - Nederhorst den Berg",
+        "opening_hours": "Mo-Fr 07:00-08:30,12:00-13:30,15:30-17:30; Sa-Su 12:00-17:30; Dec 25-Jan 1 off",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.0295802,
+            52.2717039
+          ],
+          [
+            5.0294925,
+            52.2722364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/7070814",
+      "properties": {
+        "@id": "way/7070814",
+        "bicycle": "yes",
+        "ferry:name": "De Aa",
+        "ferry:type": "motor ferry",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Nieuwer ter Aa - Breukelen",
+        "opening_hours": "Mo-Sa 06:10-22:50; Su 09:30-18:10",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9973663,
+            52.1894521
+          ],
+          [
+            4.9959597,
+            52.1896086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/7427910",
+      "properties": {
+        "@id": "way/7427910",
+        "hgv": "yes",
+        "motorcar": "yes",
+        "name": "Rijnsaterwoude-Oude Wetering",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.649,
+            52.2081
+          ],
+          [
+            4.6489,
+            52.2081
+          ],
+          [
+            4.6481,
+            52.2079
+          ],
+          [
+            4.64804,
+            52.2079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24222964",
+      "properties": {
+        "@id": "way/24222964",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motorcar": "no",
+        "name": "Aalsmeer - Rijsenhout",
+        "operator": "R.G.Janmaat 0297-344427",
+        "ref": "NH40",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7176334,
+            52.2572763
+          ],
+          [
+            4.717297,
+            52.2576449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27921704",
+      "properties": {
+        "@id": "way/27921704",
+        "bicycle": "no",
+        "foot": "yes",
+        "layer": "2",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Pampus-Muiden",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.0704474,
+            52.3316242
+          ],
+          [
+            5.0701396,
+            52.3317868
+          ],
+          [
+            5.070339,
+            52.3327953
+          ],
+          [
+            5.0702818,
+            52.3330595
+          ],
+          [
+            5.0698641,
+            52.3339317
+          ],
+          [
+            5.0698241,
+            52.3340757
+          ],
+          [
+            5.0695829,
+            52.3345678
+          ],
+          [
+            5.0693605,
+            52.3354317
+          ],
+          [
+            5.0692799,
+            52.3372208
+          ],
+          [
+            5.0692879,
+            52.3419929
+          ],
+          [
+            5.068945,
+            52.3634952
+          ],
+          [
+            5.0686768,
+            52.3638936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33292789",
+      "properties": {
+        "@id": "way/33292789",
+        "bicycle": "yes",
+        "description": "Self-operated ferry, only available for cyclists and pedestrians",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Molletjesveer",
+        "note": "15 APR - 15 OCT",
+        "opening_hours": "Apr 15-Oct 15: 9:00-19:00",
+        "operator": "Recreatieschap Alkmaarder- en Uitgeestemeer",
+        "route": "ferry",
+        "seasonal": "summer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.775737,
+            52.5144473
+          ],
+          [
+            4.7764156,
+            52.514381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34889295",
+      "properties": {
+        "@id": "way/34889295",
+        "access": "private",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.6517896,
+            52.222492
+          ],
+          [
+            4.6519194,
+            52.2223771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38196067",
+      "properties": {
+        "@id": "way/38196067",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motorcar": "no",
+        "name": "NDSM-werfveer",
+        "opening_hours": "Mo-Fr 07:00-24:00; Sa,Su,PH 09:30-24:00",
+        "operator": "GVB",
+        "route": "ferry",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1903646,
+            "reltags": {
+              "name": "NDSM-werfveer",
+              "operator": "GVB",
+              "ref": "906",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8992761,
+            52.3807952
+          ],
+          [
+            4.8995526,
+            52.3810054
+          ],
+          [
+            4.8997091,
+            52.3811708
+          ],
+          [
+            4.8997861,
+            52.3813404
+          ],
+          [
+            4.8997861,
+            52.3815328
+          ],
+          [
+            4.8997231,
+            52.381758
+          ],
+          [
+            4.8908458,
+            52.3969997
+          ],
+          [
+            4.8906573,
+            52.398386
+          ],
+          [
+            4.8907081,
+            52.3994269
+          ],
+          [
+            4.8910568,
+            52.4008474
+          ],
+          [
+            4.8912499,
+            52.4011518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39438884",
+      "properties": {
+        "@id": "way/39438884",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "opening_hours": "Apr 15-Jun 30: Sa-Su 09:30-17:00; Jul-Aug: 09:30-17:00; Sep: 09:30-17:00",
+        "route": "ferry",
+        "seasonal": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.0223524,
+            52.4150577
+          ],
+          [
+            5.0223998,
+            52.4141325
+          ],
+          [
+            5.0221667,
+            52.4138008
+          ],
+          [
+            5.0221641,
+            52.4137562
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44139163",
+      "properties": {
+        "@id": "way/44139163",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motorcar": "no",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9669917,
+            52.4928588
+          ],
+          [
+            4.9671014,
+            52.4928743
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54513446",
+      "properties": {
+        "@id": "way/54513446",
+        "bicycle": "yes",
+        "ferry:name": "Jan Coevert",
+        "ferry:type": "cable ferry, hand power",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Ouderkerk aan de Amstel (Jan Coevertveer)",
+        "opening_hours": "Apr 1-Sep 21 Su 12:30-17:00, Apr 27 Mo-Sa 08:00-20:00, Apr 26 Sa 08:00-20:00 || \"op afspraak\"",
+        "route": "ferry",
+        "seasonal": "yes",
+        "tourism": "attraction",
+        "website": "http://www.pontje.nl/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9008671,
+            52.2970705
+          ],
+          [
+            4.9013441,
+            52.2972287
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/60098782",
+      "properties": {
+        "@id": "way/60098782",
+        "duration": "2",
+        "foot": "yes",
+        "hgv": "no",
+        "motorcar": "no",
+        "name": "Het pontje",
+        "note": "handveer met kabel",
+        "route": "ferry",
+        "type": "rope cable"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8183441,
+            52.3391379
+          ],
+          [
+            4.8184564,
+            52.3392444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68584812",
+      "properties": {
+        "@id": "way/68584812",
+        "bicycle": "yes",
+        "fee": "yes",
+        "ferry:name": "Fuut",
+        "ferry:type": "motor ferry",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Amstelveen Nesserlaan - De Ronde Hoep",
+        "opening_hours": "Apr: Sa-Su 12:00-18:00; May-Aug 12:00-18:00; Sep: Sa-Su 12:00-18:00",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8811686,
+            52.2701843
+          ],
+          [
+            4.8810774,
+            52.2702001
+          ],
+          [
+            4.8812605,
+            52.2715662
+          ],
+          [
+            4.8811878,
+            52.2715824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/68584862",
+      "properties": {
+        "@id": "way/68584862",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motorcar": "no",
+        "name": "Pont de Smient",
+        "opening_hours": "May-Aug: Mo-Su 12:00-18:00; Apr,Sep: Sa,Su 12:00-18:00",
+        "route": "ferry",
+        "seasonal": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8958349,
+            52.3240037
+          ],
+          [
+            4.8948009,
+            52.3234582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/92421159",
+      "properties": {
+        "@id": "way/92421159",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motorcar": "no",
+        "name": "Volendam-Marken",
+        "route": "ferry",
+        "seasonal": "April-October",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.1009132,
+            52.4580071
+          ],
+          [
+            5.1002427,
+            52.4582987
+          ],
+          [
+            5.0985058,
+            52.4588753
+          ],
+          [
+            5.084827,
+            52.4631099
+          ],
+          [
+            5.0851423,
+            52.4657078
+          ],
+          [
+            5.0862096,
+            52.4865202
+          ],
+          [
+            5.0789232,
+            52.4910603
+          ],
+          [
+            5.0762975,
+            52.4928531
+          ],
+          [
+            5.0761869,
+            52.4930516
+          ],
+          [
+            5.0761774,
+            52.4932991
+          ],
+          [
+            5.0767061,
+            52.493811
+          ],
+          [
+            5.0767634,
+            52.4939235
+          ],
+          [
+            5.0766331,
+            52.4940385
+          ],
+          [
+            5.0763969,
+            52.4941182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132620795",
+      "properties": {
+        "@id": "way/132620795",
+        "alt_name": "Oeverloos",
+        "bicycle": "yes",
+        "fee": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Veerpont Nieuwe Meer",
+        "opening_hours": "Apr 15-Oct 15 12:00-18:00",
+        "route": "ferry",
+        "seasonal": "yes",
+        "website": "http://www.rederij-oeverloos.nl"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8147926,
+            52.3345058
+          ],
+          [
+            4.8211996,
+            52.329371
+          ],
+          [
+            4.8212944,
+            52.3293048
+          ],
+          [
+            4.8213085,
+            52.3292939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146104607",
+      "properties": {
+        "@id": "way/146104607",
+        "bicycle": "yes",
+        "duration": "5",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Cocobo",
+        "opening_hours": "Tu-Fr 10:00-16:00; Sa-Su 12:00-16:00",
+        "operator": "Stichting de Vrije Geer",
+        "phone": "+31-20-6100788",
+        "route": "ferry",
+        "website": "http://www.stichtingdevrijegeer.nl"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7806631,
+            52.3456584
+          ],
+          [
+            4.7811523,
+            52.3459235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147325530",
+      "properties": {
+        "@id": "way/147325530",
+        "bicycle": "yes",
+        "ferry:name": "Koet",
+        "ferry:type": "chain ferry, self operation",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Abcoude - Ouderkerk aan de Amstel",
+        "note": "Vaarschema: hele jaar, dagelijks, alleen overdag, niet bij ijsgang",
+        "opening_hours": "06:00-22:00",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9355466,
+            52.280542
+          ],
+          [
+            4.9353653,
+            52.2802494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150219714",
+      "properties": {
+        "@id": "way/150219714",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motorcar": "no",
+        "name": "Buiksloterwegveer",
+        "opening_hours": "24/7",
+        "operator": "GVB",
+        "route": "ferry",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1903643,
+            "reltags": {
+              "name": "Buiksloterwegveer",
+              "operator": "GVB",
+              "ref": "901",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9032333,
+            52.3821754
+          ],
+          [
+            4.902057,
+            52.3818698
+          ],
+          [
+            4.900909,
+            52.381562
+          ],
+          [
+            4.9003553,
+            52.381253
+          ],
+          [
+            4.8996012,
+            52.3806396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150221390",
+      "properties": {
+        "@id": "way/150221390",
+        "bicycle": "yes",
+        "foot": "yes",
+        "hgv": "yes",
+        "motor_vehicle": "yes",
+        "motorcar": "yes",
+        "name": "Hempont",
+        "note": "Amsterdam-Zaandam",
+        "opening_hours": "24/7",
+        "operator": "GVB",
+        "route": "ferry",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4447998,
+            "reltags": {
+              "name": "Hempont",
+              "ref": "909",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8268928,
+            52.4180553
+          ],
+          [
+            4.8268506,
+            52.4184304
+          ],
+          [
+            4.8265903,
+            52.4212628
+          ],
+          [
+            4.8265975,
+            52.4214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159809150",
+      "properties": {
+        "@id": "way/159809150",
+        "access:conditional": "sunrise-sunset",
+        "alt_name": "Pontje Oostknollendam",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Voetveer Oostknollendam - Starnmeerdijk",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7926651,
+            52.5195109
+          ],
+          [
+            4.7921823,
+            52.5197829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167693681",
+      "properties": {
+        "@id": "way/167693681",
+        "motor_vehicle": "no",
+        "route": "ferry",
+        "website": "http://www.amsterdamsebos.nl/attracties/veerpont-nieuwe/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8179115,
+            52.3255972
+          ],
+          [
+            4.8180066,
+            52.3256172
+          ],
+          [
+            4.8187129,
+            52.3256898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169258855",
+      "properties": {
+        "@id": "way/169258855",
+        "bicycle": "no",
+        "foot": "yes",
+        "hgv": "no",
+        "motor_vehicle": "no",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "note": "The ferry is a small wooden platform attached to cables, with another cable above water to manually move it across the water.",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8422919,
+            52.3025568
+          ],
+          [
+            4.8424644,
+            52.3026107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171048782",
+      "properties": {
+        "@id": "way/171048782",
+        "bicycle": "no",
+        "foot": "yes",
+        "layer": "2",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "name": "Veerdienst Amsterdam",
+        "route": "ferry",
+        "website": "http://www.veerdienstamsterdam.nl"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.0035365,
+            52.3530399
+          ],
+          [
+            5.0053014,
+            52.3540949
+          ],
+          [
+            5.0056555,
+            52.3542489
+          ],
+          [
+            5.0067131,
+            52.354992
+          ],
+          [
+            5.0683011,
+            52.3631004
+          ],
+          [
+            5.0687365,
+            52.3634017
+          ],
+          [
+            5.0686614,
+            52.3637654
+          ],
+          [
+            5.0686768,
+            52.3638936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183533873",
+      "properties": {
+        "@id": "way/183533873",
+        "fee": "yes",
+        "ferry:type": "cable ferry, motor power",
+        "maxweight": "12",
+        "motor_vehicle": "yes",
+        "name": "Nessersluis-Amsteldijk",
+        "opening_hours": "Mo-Fr 06:00-20:00; Apr-Oct: Sa-Su 09:00-20:00; Nov-Mar: Sa-Su 09:00-18:00",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8678594,
+            52.2516207
+          ],
+          [
+            4.8681268,
+            52.2511408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264626838",
+      "properties": {
+        "@id": "way/264626838",
+        "bicycle": "yes",
+        "fee": "no",
+        "foot": "yes",
+        "mofa": "yes",
+        "moped": "yes",
+        "motor_vehicle": "no",
+        "name": "Oostveer",
+        "opening_hours": "Mo-Su 06:20-22:20",
+        "operator": "GVB",
+        "route": "ferry",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3957631,
+            "reltags": {
+              "name": "Oostveer",
+              "ref": "915",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9306263,
+            52.3850688
+          ],
+          [
+            4.9308032,
+            52.3848661
+          ],
+          [
+            4.9315,
+            52.3845241
+          ],
+          [
+            4.9325943,
+            52.3835449
+          ],
+          [
+            4.9374012,
+            52.3778267
+          ],
+          [
+            4.9374909,
+            52.3776762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268728569",
+      "properties": {
+        "@id": "way/268728569",
+        "foot": "yes",
+        "route": "ferry",
+        "vehicle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9534239,
+            52.3843862
+          ],
+          [
+            4.9537575,
+            52.3844186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268738749",
+      "properties": {
+        "@id": "way/268738749",
+        "foot": "yes",
+        "route": "ferry",
+        "vehicle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9609135,
+            52.3832603
+          ],
+          [
+            4.9607589,
+            52.383324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291738771",
+      "properties": {
+        "@id": "way/291738771",
+        "bicycle": "yes",
+        "foot": "yes",
+        "mofa": "yes",
+        "moped": "yes",
+        "motorcar": "no",
+        "name": "IJpleinveer",
+        "opening_hours": "Mo-Sa 06:30-24:00;Su,PH 09:00-24:00",
+        "operator": "GVB",
+        "route": "ferry",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1903644,
+            "reltags": {
+              "name": "IJpleinveer",
+              "operator": "GVB",
+              "ref": "902",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9026612,
+            52.3794813
+          ],
+          [
+            4.9025732,
+            52.3795291
+          ],
+          [
+            4.902482,
+            52.3796322
+          ],
+          [
+            4.9024649,
+            52.3797211
+          ],
+          [
+            4.9026604,
+            52.3800135
+          ],
+          [
+            4.9049872,
+            52.3806454
+          ],
+          [
+            4.9061703,
+            52.3808311
+          ],
+          [
+            4.907488,
+            52.3811412
+          ],
+          [
+            4.9079968,
+            52.3813309
+          ],
+          [
+            4.9083229,
+            52.3815247
+          ],
+          [
+            4.9084774,
+            52.3817584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294690067",
+      "properties": {
+        "@id": "way/294690067",
+        "bicycle": "no",
+        "foot": "yes",
+        "name": "Voetveer Zaandijk",
+        "opening_hours": "May-Sep 10:00-17:00",
+        "route": "ferry",
+        "seasonal": "yes",
+        "vehicle": "no",
+        "website": "http://www.voetveerzaandijk.nl/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8104787,
+            52.4771828
+          ],
+          [
+            4.811823,
+            52.4774565
+          ],
+          [
+            4.8136015,
+            52.4778292
+          ],
+          [
+            4.8136001,
+            52.4778431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328249426",
+      "properties": {
+        "@id": "way/328249426",
+        "bicycle": "no",
+        "description": "Voetveer (zelfbediening)",
+        "dog": "no",
+        "foot": "yes",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8728551,
+            52.2725658
+          ],
+          [
+            4.8729357,
+            52.2727921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328249427",
+      "properties": {
+        "@id": "way/328249427",
+        "access:dogs": "no",
+        "bicycle": "no",
+        "description": "Voetveer (zelfbediening)",
+        "foot": "yes",
+        "name": "Maria Johanna Petronella",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8539352,
+            52.2608044
+          ],
+          [
+            4.8538205,
+            52.2608185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336961170",
+      "properties": {
+        "@id": "way/336961170",
+        "bicycle": "yes",
+        "foot": "yes",
+        "moped": "yes",
+        "motorcar": "no",
+        "name": "Distelwegveer",
+        "opening_hours": "Mo-Fr 06:30-19:30",
+        "operator": "GVB",
+        "route": "ferry",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1903645,
+            "reltags": {
+              "name": "Distelwegveer",
+              "operator": "GVB",
+              "ref": "900",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8925742,
+            52.3882879
+          ],
+          [
+            4.8930029,
+            52.3884276
+          ],
+          [
+            4.8937805,
+            52.3886712
+          ],
+          [
+            4.8945103,
+            52.3891839
+          ],
+          [
+            4.8947249,
+            52.3905196
+          ],
+          [
+            4.8946514,
+            52.3915438
+          ],
+          [
+            4.8948661,
+            52.3925046
+          ],
+          [
+            4.8965535,
+            52.3957957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336961171",
+      "properties": {
+        "@id": "way/336961171",
+        "bicycle": "yes",
+        "foot": "yes",
+        "moped": "yes",
+        "motorcar": "no",
+        "name": "Houthavenveer",
+        "opening_hours": "Mo-Fr 07:00-24:00; Sa,Su,PH 09:00-24:00",
+        "operator": "GVB",
+        "route": "ferry",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1903642,
+            "reltags": {
+              "name": "Houthavenveer",
+              "operator": "GVB",
+              "ref": "903",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8925495,
+            52.3883448
+          ],
+          [
+            4.8930002,
+            52.3884833
+          ],
+          [
+            4.8936064,
+            52.3887321
+          ],
+          [
+            4.8943065,
+            52.3893149
+          ],
+          [
+            4.8939632,
+            52.3904149
+          ],
+          [
+            4.8926435,
+            52.3919666
+          ],
+          [
+            4.8919933,
+            52.392971
+          ],
+          [
+            4.8915121,
+            52.3942536
+          ],
+          [
+            4.8910857,
+            52.3950048
+          ],
+          [
+            4.8901361,
+            52.3992359
+          ],
+          [
+            4.8905912,
+            52.4005959
+          ],
+          [
+            4.8907492,
+            52.4007068
+          ],
+          [
+            4.8915452,
+            52.4009096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/356986176",
+      "properties": {
+        "@id": "way/356986176",
+        "foot": "yes",
+        "route": "ferry",
+        "vehicle": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8996406,
+            52.3113638
+          ],
+          [
+            4.8996672,
+            52.3115184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377000297",
+      "properties": {
+        "@id": "way/377000297",
+        "bicycle": "yes",
+        "duration": "0:10",
+        "foot": "yes",
+        "motor_vehicle": "yes",
+        "opening_hours": "Mo-Fr 07:00-19:00, Sa-Su 09:00-19:00",
+        "payment:coins": "yes",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9485292,
+            52.4216541
+          ],
+          [
+            4.9476544,
+            52.4220168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/380431944",
+      "properties": {
+        "@id": "way/380431944",
+        "access:conditional": "Th-Su 08:00-22:30",
+        "bicycle": "yes",
+        "fee": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Zaanboot",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8983862,
+            52.3814154
+          ],
+          [
+            4.8981443,
+            52.3818859
+          ],
+          [
+            4.8973691,
+            52.382644
+          ],
+          [
+            4.8969534,
+            52.3830696
+          ],
+          [
+            4.8961514,
+            52.3839651
+          ],
+          [
+            4.89569,
+            52.3847362
+          ],
+          [
+            4.8953816,
+            52.3854025
+          ],
+          [
+            4.8949658,
+            52.3861605
+          ],
+          [
+            4.8946628,
+            52.3868448
+          ],
+          [
+            4.8944374,
+            52.3875045
+          ],
+          [
+            4.8943221,
+            52.3881969
+          ],
+          [
+            4.8942738,
+            52.3888877
+          ],
+          [
+            4.8941504,
+            52.3895883
+          ],
+          [
+            4.8939493,
+            52.390266
+          ],
+          [
+            4.8936596,
+            52.3909568
+          ],
+          [
+            4.8933592,
+            52.3916164
+          ],
+          [
+            4.8929354,
+            52.3923039
+          ],
+          [
+            4.892399,
+            52.3930372
+          ],
+          [
+            4.891939,
+            52.3936597
+          ],
+          [
+            4.8913274,
+            52.3942064
+          ],
+          [
+            4.8905161,
+            52.3949489
+          ],
+          [
+            4.8896685,
+            52.3957476
+          ],
+          [
+            4.8887458,
+            52.3964367
+          ],
+          [
+            4.8877292,
+            52.3971093
+          ],
+          [
+            4.886718,
+            52.3977902
+          ],
+          [
+            4.8858919,
+            52.3984399
+          ],
+          [
+            4.8848995,
+            52.3991666
+          ],
+          [
+            4.8840385,
+            52.3998179
+          ],
+          [
+            4.8834967,
+            52.4002221
+          ],
+          [
+            4.883081,
+            52.4005625
+          ],
+          [
+            4.8823326,
+            52.4011729
+          ],
+          [
+            4.8816084,
+            52.4016377
+          ],
+          [
+            4.8812061,
+            52.4019192
+          ],
+          [
+            4.880211,
+            52.4026016
+          ],
+          [
+            4.8796585,
+            52.4029321
+          ],
+          [
+            4.8779982,
+            52.4039729
+          ],
+          [
+            4.8769468,
+            52.4046602
+          ],
+          [
+            4.8759356,
+            52.4053556
+          ],
+          [
+            4.8751148,
+            52.4060003
+          ],
+          [
+            4.8744899,
+            52.4065632
+          ],
+          [
+            4.8739239,
+            52.4070263
+          ],
+          [
+            4.8724085,
+            52.40808
+          ],
+          [
+            4.8714938,
+            52.408782
+          ],
+          [
+            4.8704987,
+            52.4094463
+          ],
+          [
+            4.8693347,
+            52.4100942
+          ],
+          [
+            4.8682403,
+            52.4106799
+          ],
+          [
+            4.8679292,
+            52.4108141
+          ],
+          [
+            4.8666524,
+            52.4114457
+          ],
+          [
+            4.8652711,
+            52.4121541
+          ],
+          [
+            4.8644048,
+            52.4125647
+          ],
+          [
+            4.8625004,
+            52.4133746
+          ],
+          [
+            4.8607569,
+            52.4140388
+          ],
+          [
+            4.8588311,
+            52.4146294
+          ],
+          [
+            4.8567256,
+            52.4151938
+          ],
+          [
+            4.8548507,
+            52.4155488
+          ],
+          [
+            4.8528847,
+            52.4158073
+          ],
+          [
+            4.8510071,
+            52.4160134
+          ],
+          [
+            4.8490384,
+            52.4163619
+          ],
+          [
+            4.8471421,
+            52.4166956
+          ],
+          [
+            4.8451948,
+            52.4172126
+          ],
+          [
+            4.8441836,
+            52.4175937
+          ],
+          [
+            4.8432824,
+            52.4180109
+          ],
+          [
+            4.841952,
+            52.4186669
+          ],
+          [
+            4.8415094,
+            52.4190267
+          ],
+          [
+            4.8407477,
+            52.4197089
+          ],
+          [
+            4.8403212,
+            52.4203697
+          ],
+          [
+            4.8399859,
+            52.4210322
+          ],
+          [
+            4.8396185,
+            52.4215688
+          ],
+          [
+            4.8393449,
+            52.4217863
+          ],
+          [
+            4.8391638,
+            52.4218256
+          ],
+          [
+            4.8390323,
+            52.4218031
+          ],
+          [
+            4.8390793,
+            52.4218877
+          ],
+          [
+            4.8389935,
+            52.4221478
+          ],
+          [
+            4.8386408,
+            52.4226663
+          ],
+          [
+            4.8384101,
+            52.422991
+          ],
+          [
+            4.8381406,
+            52.4234228
+          ],
+          [
+            4.8378951,
+            52.4237475
+          ],
+          [
+            4.8376041,
+            52.4241082
+          ],
+          [
+            4.8373708,
+            52.4244099
+          ],
+          [
+            4.8370194,
+            52.424809
+          ],
+          [
+            4.8367404,
+            52.4251083
+          ],
+          [
+            4.8364628,
+            52.4254175
+          ],
+          [
+            4.8361101,
+            52.4258607
+          ],
+          [
+            4.8358473,
+            52.4261788
+          ],
+          [
+            4.8356233,
+            52.4264871
+          ],
+          [
+            4.8354409,
+            52.4268445
+          ],
+          [
+            4.8351874,
+            52.427219
+          ],
+          [
+            4.8349326,
+            52.4275486
+          ],
+          [
+            4.8346161,
+            52.4278168
+          ],
+          [
+            4.834242,
+            52.4282372
+          ],
+          [
+            4.833963,
+            52.4285741
+          ],
+          [
+            4.8336868,
+            52.4288848
+          ],
+          [
+            4.8333367,
+            52.4292781
+          ],
+          [
+            4.8331007,
+            52.4296134
+          ],
+          [
+            4.8328606,
+            52.4299405
+          ],
+          [
+            4.8326206,
+            52.4302806
+          ],
+          [
+            4.8323658,
+            52.4306413
+          ],
+          [
+            4.8321324,
+            52.4309765
+          ],
+          [
+            4.831942,
+            52.4313273
+          ],
+          [
+            4.8317609,
+            52.4316486
+          ],
+          [
+            4.8315665,
+            52.4319242
+          ],
+          [
+            4.8312513,
+            52.4323265
+          ],
+          [
+            4.8309469,
+            52.4326716
+          ],
+          [
+            4.8307082,
+            52.4330093
+          ],
+          [
+            4.8304399,
+            52.4333715
+          ],
+          [
+            4.8301677,
+            52.4337034
+          ],
+          [
+            4.829925,
+            52.4340338
+          ],
+          [
+            4.829709,
+            52.4343396
+          ],
+          [
+            4.8293443,
+            52.4347418
+          ],
+          [
+            4.8291015,
+            52.4350787
+          ],
+          [
+            4.8288507,
+            52.4354115
+          ],
+          [
+            4.8285731,
+            52.4357647
+          ],
+          [
+            4.8283076,
+            52.4361081
+          ],
+          [
+            4.8280219,
+            52.4364302
+          ],
+          [
+            4.8277443,
+            52.4367711
+          ],
+          [
+            4.8273782,
+            52.4371358
+          ],
+          [
+            4.8269893,
+            52.4374636
+          ],
+          [
+            4.8266661,
+            52.4377808
+          ],
+          [
+            4.8263053,
+            52.4380678
+          ],
+          [
+            4.8262544,
+            52.4381038
+          ],
+          [
+            4.8262034,
+            52.4381258
+          ],
+          [
+            4.8261471,
+            52.4381242
+          ],
+          [
+            4.8260494,
+            52.4380937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/6609473",
+      "properties": {
+        "@id": "way/6609473",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4448045,
+            "reltags": {
+              "name": "Buitenhuizerpont",
+              "ref": "910",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.7245814,
+            52.4314598
+          ],
+          [
+            4.7252058,
+            52.4347068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26725874",
+      "properties": {
+        "@id": "way/26725874",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 37348,
+            "reltags": {
+              "foot": "yes",
+              "motorcar": "no",
+              "name": "Fast Flying Ferry, Velsen-Amsterdam",
+              "note": "Velsen-Zuid (Pontplein) - Amsterdam (de Ruyterkade/CS)",
+              "operator": "Connexxion",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8980363,
+            52.3815815
+          ],
+          [
+            4.8979594,
+            52.3815235
+          ],
+          [
+            4.8990833,
+            52.3809691
+          ],
+          [
+            4.8990201,
+            52.3809196
+          ],
+          [
+            4.8991117,
+            52.3808745
+          ],
+          [
+            4.8991746,
+            52.3809219
+          ],
+          [
+            4.8991925,
+            52.3809131
+          ],
+          [
+            4.8992711,
+            52.3809725
+          ],
+          [
+            4.8980363,
+            52.3815815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26726075",
+      "properties": {
+        "@id": "way/26726075",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1903643,
+            "reltags": {
+              "name": "Buiksloterwegveer",
+              "operator": "GVB",
+              "ref": "901",
+              "route": "ferry",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1903646,
+            "reltags": {
+              "name": "NDSM-werfveer",
+              "operator": "GVB",
+              "ref": "906",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8991117,
+            52.3808745
+          ],
+          [
+            4.8989988,
+            52.3807873
+          ],
+          [
+            4.8991578,
+            52.3807106
+          ],
+          [
+            4.8994803,
+            52.3805549
+          ],
+          [
+            4.8996494,
+            52.3804734
+          ],
+          [
+            4.8997633,
+            52.3805614
+          ],
+          [
+            4.8996012,
+            52.3806396
+          ],
+          [
+            4.8992761,
+            52.3807952
+          ],
+          [
+            4.8991117,
+            52.3808745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38196067",
+      "properties": {
+        "@id": "way/38196067",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1903646,
+            "reltags": {
+              "name": "NDSM-werfveer",
+              "operator": "GVB",
+              "ref": "906",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8992761,
+            52.3807952
+          ],
+          [
+            4.8995526,
+            52.3810054
+          ],
+          [
+            4.8997091,
+            52.3811708
+          ],
+          [
+            4.8997861,
+            52.3813404
+          ],
+          [
+            4.8997861,
+            52.3815328
+          ],
+          [
+            4.8997231,
+            52.381758
+          ],
+          [
+            4.8908458,
+            52.3969997
+          ],
+          [
+            4.8906573,
+            52.398386
+          ],
+          [
+            4.8907081,
+            52.3994269
+          ],
+          [
+            4.8910568,
+            52.4008474
+          ],
+          [
+            4.8912499,
+            52.4011518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150219714",
+      "properties": {
+        "@id": "way/150219714",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1903643,
+            "reltags": {
+              "name": "Buiksloterwegveer",
+              "operator": "GVB",
+              "ref": "901",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9032333,
+            52.3821754
+          ],
+          [
+            4.902057,
+            52.3818698
+          ],
+          [
+            4.900909,
+            52.381562
+          ],
+          [
+            4.9003553,
+            52.381253
+          ],
+          [
+            4.8996012,
+            52.3806396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336961170",
+      "properties": {
+        "@id": "way/336961170",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1903645,
+            "reltags": {
+              "name": "Distelwegveer",
+              "operator": "GVB",
+              "ref": "900",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8925742,
+            52.3882879
+          ],
+          [
+            4.8930029,
+            52.3884276
+          ],
+          [
+            4.8937805,
+            52.3886712
+          ],
+          [
+            4.8945103,
+            52.3891839
+          ],
+          [
+            4.8947249,
+            52.3905196
+          ],
+          [
+            4.8946514,
+            52.3915438
+          ],
+          [
+            4.8948661,
+            52.3925046
+          ],
+          [
+            4.8965535,
+            52.3957957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/336961171",
+      "properties": {
+        "@id": "way/336961171",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1903642,
+            "reltags": {
+              "name": "Houthavenveer",
+              "operator": "GVB",
+              "ref": "903",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8925495,
+            52.3883448
+          ],
+          [
+            4.8930002,
+            52.3884833
+          ],
+          [
+            4.8936064,
+            52.3887321
+          ],
+          [
+            4.8943065,
+            52.3893149
+          ],
+          [
+            4.8939632,
+            52.3904149
+          ],
+          [
+            4.8926435,
+            52.3919666
+          ],
+          [
+            4.8919933,
+            52.392971
+          ],
+          [
+            4.8915121,
+            52.3942536
+          ],
+          [
+            4.8910857,
+            52.3950048
+          ],
+          [
+            4.8901361,
+            52.3992359
+          ],
+          [
+            4.8905912,
+            52.4005959
+          ],
+          [
+            4.8907492,
+            52.4007068
+          ],
+          [
+            4.8915452,
+            52.4009096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291738771",
+      "properties": {
+        "@id": "way/291738771",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1903644,
+            "reltags": {
+              "name": "IJpleinveer",
+              "operator": "GVB",
+              "ref": "902",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9026612,
+            52.3794813
+          ],
+          [
+            4.9025732,
+            52.3795291
+          ],
+          [
+            4.902482,
+            52.3796322
+          ],
+          [
+            4.9024649,
+            52.3797211
+          ],
+          [
+            4.9026604,
+            52.3800135
+          ],
+          [
+            4.9049872,
+            52.3806454
+          ],
+          [
+            4.9061703,
+            52.3808311
+          ],
+          [
+            4.907488,
+            52.3811412
+          ],
+          [
+            4.9079968,
+            52.3813309
+          ],
+          [
+            4.9083229,
+            52.3815247
+          ],
+          [
+            4.9084774,
+            52.3817584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294911777",
+      "properties": {
+        "@id": "way/294911777",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1903643,
+            "reltags": {
+              "name": "Buiksloterwegveer",
+              "operator": "GVB",
+              "ref": "901",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9031801,
+            52.3822189
+          ],
+          [
+            4.9031055,
+            52.3821793
+          ],
+          [
+            4.9031904,
+            52.382108
+          ],
+          [
+            4.9032704,
+            52.3821485
+          ],
+          [
+            4.9031801,
+            52.3822189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150221390",
+      "properties": {
+        "@id": "way/150221390",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4447998,
+            "reltags": {
+              "name": "Hempont",
+              "ref": "909",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8268928,
+            52.4180553
+          ],
+          [
+            4.8268506,
+            52.4184304
+          ],
+          [
+            4.8265903,
+            52.4212628
+          ],
+          [
+            4.8265975,
+            52.4214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228599145",
+      "properties": {
+        "@id": "way/228599145",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4447998,
+            "reltags": {
+              "name": "Hempont",
+              "ref": "909",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8267854,
+            52.4179434
+          ],
+          [
+            4.8269019,
+            52.4179481
+          ],
+          [
+            4.8270536,
+            52.4179517
+          ],
+          [
+            4.8271007,
+            52.4179528
+          ],
+          [
+            4.8270899,
+            52.4180049
+          ],
+          [
+            4.8270823,
+            52.4180975
+          ],
+          [
+            4.8266917,
+            52.418083
+          ],
+          [
+            4.826697,
+            52.4179921
+          ],
+          [
+            4.8267,
+            52.4179347
+          ],
+          [
+            4.826726,
+            52.4179373
+          ],
+          [
+            4.8267854,
+            52.4179434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163602088",
+      "properties": {
+        "@id": "way/163602088",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4447998,
+            "reltags": {
+              "name": "Hempont",
+              "ref": "909",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8263241,
+            52.4212519
+          ],
+          [
+            4.8263187,
+            52.4213991
+          ],
+          [
+            4.826391,
+            52.4213993
+          ],
+          [
+            4.8265975,
+            52.4214
+          ],
+          [
+            4.8268229,
+            52.4214008
+          ],
+          [
+            4.8268015,
+            52.4212405
+          ],
+          [
+            4.8263241,
+            52.4212519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40426664",
+      "properties": {
+        "@id": "way/40426664",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1903645,
+            "reltags": {
+              "name": "Distelwegveer",
+              "operator": "GVB",
+              "ref": "900",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8965749,
+            52.3959547
+          ],
+          [
+            4.8964032,
+            52.3959075
+          ],
+          [
+            4.8965835,
+            52.3956352
+          ],
+          [
+            4.8967498,
+            52.3956743
+          ],
+          [
+            4.8965749,
+            52.3959547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28319730",
+      "properties": {
+        "@id": "way/28319730",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1903642,
+            "reltags": {
+              "name": "Houthavenveer",
+              "operator": "GVB",
+              "ref": "903",
+              "route": "ferry",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1903646,
+            "reltags": {
+              "name": "NDSM-werfveer",
+              "operator": "GVB",
+              "ref": "906",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8914871,
+            52.4009372
+          ],
+          [
+            4.8915452,
+            52.4009096
+          ],
+          [
+            4.8916857,
+            52.4008427
+          ],
+          [
+            4.8917587,
+            52.4008079
+          ],
+          [
+            4.8918483,
+            52.4008779
+          ],
+          [
+            4.8917843,
+            52.4009084
+          ],
+          [
+            4.8918491,
+            52.400959
+          ],
+          [
+            4.8918392,
+            52.4009637
+          ],
+          [
+            4.8918195,
+            52.4009731
+          ],
+          [
+            4.8917581,
+            52.4009252
+          ],
+          [
+            4.8917019,
+            52.4009519
+          ],
+          [
+            4.8917626,
+            52.4009994
+          ],
+          [
+            4.8917392,
+            52.4010105
+          ],
+          [
+            4.8917253,
+            52.4010172
+          ],
+          [
+            4.891664,
+            52.4009692
+          ],
+          [
+            4.8915795,
+            52.4010095
+          ],
+          [
+            4.8914871,
+            52.4009372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264626838",
+      "properties": {
+        "@id": "way/264626838",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3957631,
+            "reltags": {
+              "name": "Oostveer",
+              "ref": "915",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.9306263,
+            52.3850688
+          ],
+          [
+            4.9308032,
+            52.3848661
+          ],
+          [
+            4.9315,
+            52.3845241
+          ],
+          [
+            4.9325943,
+            52.3835449
+          ],
+          [
+            4.9374012,
+            52.3778267
+          ],
+          [
+            4.9374909,
+            52.3776762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26724473",
+      "properties": {
+        "@id": "way/26724473",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 37348,
+            "reltags": {
+              "foot": "yes",
+              "motorcar": "no",
+              "name": "Fast Flying Ferry, Velsen-Amsterdam",
+              "note": "Velsen-Zuid (Pontplein) - Amsterdam (de Ruyterkade/CS)",
+              "operator": "Connexxion",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.6320417,
+            52.4629933
+          ],
+          [
+            4.6319807,
+            52.4625118
+          ],
+          [
+            4.6324623,
+            52.4624808
+          ],
+          [
+            4.6329772,
+            52.4627737
+          ],
+          [
+            4.6334407,
+            52.4627528
+          ],
+          [
+            4.6334704,
+            52.4629429
+          ],
+          [
+            4.6320417,
+            52.4629933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/421422009",
+      "properties": {
+        "@id": "node/421422009",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4448045,
+            "reltags": {
+              "name": "Buitenhuizerpont",
+              "ref": "910",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7245814,
+          52.4314598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1918622977",
+      "properties": {
+        "@id": "node/1918622977",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4448045,
+            "reltags": {
+              "name": "Buitenhuizerpont",
+              "ref": "910",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7252058,
+          52.4347068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1972308932",
+      "properties": {
+        "@id": "node/1972308932",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1903643,
+            "reltags": {
+              "name": "Buiksloterwegveer",
+              "operator": "GVB",
+              "ref": "901",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8996012,
+          52.3806396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1974941810",
+      "properties": {
+        "@id": "node/1974941810",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1903646,
+            "reltags": {
+              "name": "NDSM-werfveer",
+              "operator": "GVB",
+              "ref": "906",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8992761,
+          52.3807952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2952279664",
+      "properties": {
+        "@id": "node/2952279664",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1903644,
+            "reltags": {
+              "name": "IJpleinveer",
+              "operator": "GVB",
+              "ref": "902",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9026612,
+          52.3794813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/46434756",
+      "properties": {
+        "@id": "node/46434756",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1903644,
+            "reltags": {
+              "name": "IJpleinveer",
+              "operator": "GVB",
+              "ref": "902",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9084774,
+          52.3817584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1496686505",
+      "properties": {
+        "@id": "node/1496686505",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1903643,
+            "reltags": {
+              "name": "Buiksloterwegveer",
+              "operator": "GVB",
+              "ref": "901",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9032333,
+          52.3821754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/46492092",
+      "properties": {
+        "@id": "node/46492092",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1903645,
+            "reltags": {
+              "name": "Distelwegveer",
+              "operator": "GVB",
+              "ref": "900",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8965535,
+          52.3957957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/949635592",
+      "properties": {
+        "@id": "node/949635592",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1903646,
+            "reltags": {
+              "name": "NDSM-werfveer",
+              "operator": "GVB",
+              "ref": "906",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8916857,
+          52.4008427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/949635622",
+      "properties": {
+        "@id": "node/949635622",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1903642,
+            "reltags": {
+              "name": "Houthavenveer",
+              "operator": "GVB",
+              "ref": "903",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8915452,
+          52.4009096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2722313096",
+      "properties": {
+        "@id": "node/2722313096",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3957631,
+            "reltags": {
+              "name": "Oostveer",
+              "ref": "915",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9374909,
+          52.3776762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2722313098",
+      "properties": {
+        "@id": "node/2722313098",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3957631,
+            "reltags": {
+              "name": "Oostveer",
+              "ref": "915",
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9308032,
+          52.3848661
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1056 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T09:32:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/35851660",
+      "properties": {
+        "@id": "way/35851660",
+        "boat": "yes",
+        "name": "Нижний подходной канал",
+        "name:en": "Lower navigation canal",
+        "route": "ferry",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.69672,
+            48.81552
+          ],
+          [
+            44.69433,
+            48.80822
+          ],
+          [
+            44.69081,
+            48.80457
+          ],
+          [
+            44.6876137,
+            48.8020601
+          ],
+          [
+            44.67936,
+            48.79721
+          ],
+          [
+            44.6597526,
+            48.7849148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52719916",
+      "properties": {
+        "@id": "way/52719916",
+        "ferry": "primary",
+        "motor_vehicle": "yes",
+        "motorcar": "yes",
+        "note": "в 2007 не работал",
+        "old_ref": "Р226",
+        "ref": "18Р-2",
+        "route": "ferry",
+        "schedule": "Потемкино-Бережновка:6,9,15,18;Бережновка-Потемкино:8,11,17,20",
+        "source:schedule": "http://forums.drom.ru/travel/t1152182089-p68.html#post1173521918",
+        "website": "http://www.vrp.ru/schedule/ferry/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.9605884,
+            50.2950257
+          ],
+          [
+            45.9595382,
+            50.2945354
+          ],
+          [
+            45.9540791,
+            50.2924939
+          ],
+          [
+            45.9493618,
+            50.2889453
+          ],
+          [
+            45.9469651,
+            50.2859799
+          ],
+          [
+            45.9464896,
+            50.284254
+          ],
+          [
+            45.9469409,
+            50.2832974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57387824",
+      "properties": {
+        "@id": "way/57387824",
+        "ferry": "tertiary",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.4463088,
+            49.485789
+          ],
+          [
+            43.4463984,
+            49.4856347
+          ],
+          [
+            43.4466243,
+            49.4849642
+          ],
+          [
+            43.4470453,
+            49.4838191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71394257",
+      "properties": {
+        "@id": "way/71394257",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6452918,
+            49.420772
+          ],
+          [
+            43.645512,
+            49.4209341
+          ],
+          [
+            43.6472505,
+            49.4222139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119593156",
+      "properties": {
+        "@id": "way/119593156",
+        "boat": "yes",
+        "route": "ferry",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.6821691,
+            48.8632143
+          ],
+          [
+            44.7016765,
+            48.8437293
+          ],
+          [
+            44.7029166,
+            48.8384826
+          ],
+          [
+            44.7009679,
+            48.8317193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119593158",
+      "properties": {
+        "@id": "way/119593158",
+        "boat": "yes",
+        "name": "Нижний подходной канал",
+        "route": "ferry",
+        "waterway": "river"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.6597526,
+            48.7849148
+          ],
+          [
+            44.6539507,
+            48.7780651
+          ],
+          [
+            44.6452754,
+            48.7678214
+          ],
+          [
+            44.6417453,
+            48.761699
+          ],
+          [
+            44.6284558,
+            48.757316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119593163",
+      "properties": {
+        "@id": "way/119593163",
+        "boat": "yes",
+        "route": "ferry",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.7009679,
+            48.8317193
+          ],
+          [
+            44.6991688,
+            48.8272005
+          ],
+          [
+            44.6980762,
+            48.8228886
+          ],
+          [
+            44.6979644,
+            48.8224476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119593164",
+      "properties": {
+        "@id": "way/119593164",
+        "boat": "yes",
+        "layer": "-1",
+        "lock": "yes",
+        "name": "Шлюз №31",
+        "name:en": "Lock #31",
+        "name:ru": "Шлюз №31",
+        "route": "ferry",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.6992001,
+            48.8222826
+          ],
+          [
+            44.6985007,
+            48.8195464
+          ],
+          [
+            44.697743,
+            48.8167832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119593166",
+      "properties": {
+        "@id": "way/119593166",
+        "boat": "yes",
+        "route": "ferry",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.7009679,
+            48.8317193
+          ],
+          [
+            44.7006251,
+            48.8271124
+          ],
+          [
+            44.6992001,
+            48.8222826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/119593168",
+      "properties": {
+        "@id": "way/119593168",
+        "boat": "yes",
+        "layer": "-1",
+        "lock": "yes",
+        "name": "Шлюз №30",
+        "name:en": "Lock #30",
+        "name:ru": "Шлюз №30",
+        "route": "ferry",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.6965073,
+            48.8169252
+          ],
+          [
+            44.6972592,
+            48.8196922
+          ],
+          [
+            44.6979644,
+            48.8224476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/121027789",
+      "properties": {
+        "@id": "way/121027789",
+        "admin_level": "8",
+        "boat": "yes",
+        "boundary": "administrative",
+        "name": "Нижний подходной канал",
+        "route": "ferry",
+        "waterway": "river"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.6284558,
+            48.757316
+          ],
+          [
+            44.6219223,
+            48.7533471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133848483",
+      "properties": {
+        "@id": "way/133848483",
+        "name": "Паром",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.7739536,
+            48.7561983
+          ],
+          [
+            44.7771414,
+            48.7595466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169828058",
+      "properties": {
+        "@id": "way/169828058",
+        "ferry": "tertiary",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.0343399,
+            48.6419127
+          ],
+          [
+            44.036829,
+            48.6428205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199511030",
+      "properties": {
+        "@id": "way/199511030",
+        "ferry": "tertiary",
+        "name": "понтон или паром",
+        "note": "Понтонный мост, был в 2009г",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.713038,
+            49.2676023
+          ],
+          [
+            43.7153991,
+            49.266589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/210551633",
+      "properties": {
+        "@id": "way/210551633",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.0420899,
+            47.246862
+          ],
+          [
+            47.0450256,
+            47.2472795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/210767838",
+      "properties": {
+        "@id": "way/210767838",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.0366323,
+            47.2906875
+          ],
+          [
+            47.039853,
+            47.2914316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/211997710",
+      "properties": {
+        "@id": "way/211997710",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.9587378,
+            47.3401559
+          ],
+          [
+            46.9600558,
+            47.3416297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/213123464",
+      "properties": {
+        "@id": "way/213123464",
+        "ferry": "unclassified",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.1997799,
+            47.3663059
+          ],
+          [
+            47.1968605,
+            47.3645618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/215297263",
+      "properties": {
+        "@id": "way/215297263",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.0423433,
+            47.17798
+          ],
+          [
+            47.0436553,
+            47.1794362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/215297264",
+      "properties": {
+        "@id": "way/215297264",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.0415268,
+            47.1782978
+          ],
+          [
+            47.0428349,
+            47.179794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/215590283",
+      "properties": {
+        "@id": "way/215590283",
+        "ferry": "unclassified",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.9088885,
+            47.5580784
+          ],
+          [
+            46.9115433,
+            47.5585065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/215590284",
+      "properties": {
+        "@id": "way/215590284",
+        "ferry": "unclassified",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.8652224,
+            47.6389086
+          ],
+          [
+            46.8675116,
+            47.6391221
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230056205",
+      "properties": {
+        "@id": "way/230056205",
+        "ferry": "unclassified",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.6693208,
+            46.5675464
+          ],
+          [
+            48.671075,
+            46.5675575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239084518",
+      "properties": {
+        "@id": "way/239084518",
+        "ferry": "unclassified",
+        "name": "ПАРОМ",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.4280483,
+            47.1711093
+          ],
+          [
+            47.4292571,
+            47.1734246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251137997",
+      "properties": {
+        "@id": "way/251137997",
+        "ferry": "tertiary",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.6392404,
+            46.8345629
+          ],
+          [
+            47.6421954,
+            46.8292482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260283817",
+      "properties": {
+        "@id": "way/260283817",
+        "ferry": "tertiary",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.9283254,
+            49.0971035
+          ],
+          [
+            43.9310264,
+            49.0973391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292072038",
+      "properties": {
+        "@id": "way/292072038",
+        "name": "Камышин-Ст.Николаевка",
+        "route": "ferry",
+        "website": "http://www.vrp.ru/schedule/ferry/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.3912051,
+            50.0967146
+          ],
+          [
+            45.3935304,
+            50.0942314
+          ],
+          [
+            45.3975893,
+            50.0921178
+          ],
+          [
+            45.4044947,
+            50.0903592
+          ],
+          [
+            45.4113474,
+            50.0886344
+          ],
+          [
+            45.4158281,
+            50.0874507
+          ],
+          [
+            45.4218469,
+            50.0860959
+          ],
+          [
+            45.4552443,
+            50.0771025
+          ],
+          [
+            45.4853616,
+            50.069543
+          ],
+          [
+            45.4902818,
+            50.0737535
+          ],
+          [
+            45.4991168,
+            50.0796986
+          ],
+          [
+            45.5001791,
+            50.0809185
+          ],
+          [
+            45.5011483,
+            50.081636
+          ],
+          [
+            45.5016253,
+            50.0814091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/296081813",
+      "properties": {
+        "@id": "way/296081813",
+        "ferry": "unclassified",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.8962888,
+            48.4193198
+          ],
+          [
+            45.8978625,
+            48.4202285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/350669918",
+      "properties": {
+        "@id": "way/350669918",
+        "bridge": "pontoon",
+        "ferry": "unclassified",
+        "name": "моста НЕТ",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.3683969,
+            47.3157872
+          ],
+          [
+            47.3675458,
+            47.3165086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362593645",
+      "properties": {
+        "@id": "way/362593645",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.9034191,
+            47.5925255
+          ],
+          [
+            41.9029826,
+            47.5917985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362915429",
+      "properties": {
+        "@id": "way/362915429",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.9767113,
+            47.5966546
+          ],
+          [
+            41.9761732,
+            47.5959433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370302301",
+      "properties": {
+        "@id": "way/370302301",
+        "ferry": "trunk",
+        "name": "Паром",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.3450247,
+            46.5249517
+          ],
+          [
+            48.3414204,
+            46.5214663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/372584173",
+      "properties": {
+        "@id": "way/372584173",
+        "ferry": "unclassified",
+        "name": "ПАРОМ",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.34227,
+            47.1431603
+          ],
+          [
+            47.3439531,
+            47.1431382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374196896",
+      "properties": {
+        "@id": "way/374196896",
+        "ferry": "unclassified",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.7046828,
+            47.6016378
+          ],
+          [
+            46.6947583,
+            47.5934396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374197408",
+      "properties": {
+        "@id": "way/374197408",
+        "ferry": "unclassified",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.7303864,
+            47.765789
+          ],
+          [
+            46.7328442,
+            47.7660655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/375152710",
+      "properties": {
+        "@id": "way/375152710",
+        "ferry": "unclassified",
+        "name": "ПАРОМ",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.3721484,
+            47.9607298
+          ],
+          [
+            46.3688451,
+            47.9597424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/375156331",
+      "properties": {
+        "@id": "way/375156331",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.2182068,
+            46.6251964
+          ],
+          [
+            48.2157668,
+            46.6245058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396333409",
+      "properties": {
+        "@id": "way/396333409",
+        "ferry": "unclassified",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.5004798,
+            47.7889925
+          ],
+          [
+            46.5029629,
+            47.7903389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396333966",
+      "properties": {
+        "@id": "way/396333966",
+        "ferry": "unclassified",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.5395411,
+            47.8926865
+          ],
+          [
+            46.5410669,
+            47.8931452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396334464",
+      "properties": {
+        "@id": "way/396334464",
+        "ferry": "track",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.4146475,
+            47.7657061
+          ],
+          [
+            46.4305649,
+            47.7719171
+          ]
+        ]
+      }
+    }
+  ]
+}

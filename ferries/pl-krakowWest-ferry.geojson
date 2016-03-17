@@ -1,0 +1,642 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-03T08:30:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24599292",
+      "properties": {
+        "@id": "way/24599292",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "P1",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3934973,
+            50.1357645
+          ],
+          [
+            14.39202,
+            50.134612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25133308",
+      "properties": {
+        "@id": "way/25133308",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4242268,
+            49.7573577
+          ],
+          [
+            14.4247163,
+            49.7572305
+          ],
+          [
+            14.4244397,
+            49.7563556
+          ],
+          [
+            14.4222408,
+            49.7549162
+          ],
+          [
+            14.419707,
+            49.7533733
+          ],
+          [
+            14.4191668,
+            49.7530873
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25318219",
+      "properties": {
+        "@id": "way/25318219",
+        "motor_vehicle": "no",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3889603,
+            49.9419351
+          ],
+          [
+            14.3889504,
+            49.9416438
+          ],
+          [
+            14.3889394,
+            49.9413236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25862098",
+      "properties": {
+        "@id": "way/25862098",
+        "bicycle": "yes",
+        "description": "all year",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "P3",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4108463,
+            50.048515
+          ],
+          [
+            14.4146446,
+            50.051373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26325462",
+      "properties": {
+        "@id": "way/26325462",
+        "bicycle": "no",
+        "description": "only in summer season",
+        "fee": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "P5",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4117834,
+            50.0682992
+          ],
+          [
+            14.414608,
+            50.0673687
+          ],
+          [
+            14.4131338,
+            50.0646007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30002054",
+      "properties": {
+        "@id": "way/30002054",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motor_vehicle": "yes",
+        "name": "Přívoz v Darové",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "route": "ferry",
+        "website": "http://www.obecbrasy.estranky.cz/clanky/pro-turisty/privoz-v-darove-.html"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5194885,
+            49.8414626
+          ],
+          [
+            13.5201319,
+            49.8412231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34175666",
+      "properties": {
+        "@id": "way/34175666",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Přívoz Klecánky - Roztoky",
+        "route": "ferry",
+        "service_times": "Sa,Su 09:00-18:00"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4026796,
+            50.1662534
+          ],
+          [
+            14.4043916,
+            50.1664031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34259192",
+      "properties": {
+        "@id": "way/34259192",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Přívoz Libčice - Dol",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3632794,
+            50.2033293
+          ],
+          [
+            14.3634091,
+            50.2034123
+          ],
+          [
+            14.3649505,
+            50.2038406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37892499",
+      "properties": {
+        "@id": "way/37892499",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motorcar": "no",
+        "name": "přívoz Oseček",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.157806,
+            50.1027515
+          ],
+          [
+            15.1568384,
+            50.1027428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52155957",
+      "properties": {
+        "@id": "way/52155957",
+        "fee": "no",
+        "ferry": "yes",
+        "opening_hours": "Mo-Su 05:00-22:20",
+        "route": "ferry",
+        "toll": "no",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.105905,
+            50.4115689
+          ],
+          [
+            18.1064377,
+            50.4117643
+          ],
+          [
+            18.1070348,
+            50.4119323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/70655463",
+      "properties": {
+        "@id": "way/70655463",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.7297681,
+            49.881732
+          ],
+          [
+            14.7303545,
+            49.8812197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/81295378",
+      "properties": {
+        "@id": "way/81295378",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Přívoz P6",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4013384,
+            50.0022527
+          ],
+          [
+            14.4028558,
+            50.0023517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101290059",
+      "properties": {
+        "@id": "way/101290059",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "P2",
+        "operator": "DPP",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3954311,
+            50.1227443
+          ],
+          [
+            14.397731,
+            50.1224148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101290060",
+      "properties": {
+        "@id": "way/101290060",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "motorcar": "no",
+        "name": "P2",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3953665,
+            50.1226803
+          ],
+          [
+            14.3954311,
+            50.1227443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/112782405",
+      "properties": {
+        "@id": "way/112782405",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.060309,
+            50.5389182
+          ],
+          [
+            14.0622272,
+            50.5392099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/115670209",
+      "properties": {
+        "@id": "way/115670209",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.1882699,
+            49.7205695
+          ],
+          [
+            15.1880595,
+            49.7208117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172417750",
+      "properties": {
+        "@id": "way/172417750",
+        "ferry": "yes",
+        "opening_hours": "Mo-Sa 5:30-9:30, 13:00-17:00; Su 9:30-12:30, 13:30-17:00",
+        "ref": "421",
+        "route": "ferry",
+        "toll": "no",
+        "vehicle": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.2601226,
+            50.1679096
+          ],
+          [
+            18.2593975,
+            50.1679728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172984696",
+      "properties": {
+        "@id": "way/172984696",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3989432,
+            50.3196881
+          ],
+          [
+            14.3987281,
+            50.3190541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250857285",
+      "properties": {
+        "@id": "way/250857285",
+        "fee": "yes",
+        "ferry": "secondary",
+        "motor_vehicle": "no",
+        "name": "Přívoz Nezabudice - Luh",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.8326855,
+            50.0119294
+          ],
+          [
+            13.8331469,
+            50.0119329
+          ],
+          [
+            13.8335611,
+            50.0119418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/274248315",
+      "properties": {
+        "@id": "way/274248315",
+        "bicycle": "yes",
+        "duration": "00:05",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "Přívoz Úholičky - Husinec",
+        "route": "ferry",
+        "website": "http://www.privoz-uholicky.cz/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3527741,
+            50.1698822
+          ],
+          [
+            14.3536708,
+            50.1705267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/364530846",
+      "properties": {
+        "@id": "way/364530846",
+        "bicycle": "yes",
+        "foot": "yes",
+        "motor_vehicle": "no",
+        "name": "P7",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "operator": "DPP",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4463278,
+            50.0981015
+          ],
+          [
+            14.4466729,
+            50.0974556
+          ],
+          [
+            14.4475622,
+            50.0968852
+          ],
+          [
+            14.4479316,
+            50.0972316
+          ],
+          [
+            14.4486628,
+            50.0973386
+          ],
+          [
+            14.4491011,
+            50.0973348
+          ],
+          [
+            14.4498108,
+            50.0971838
+          ],
+          [
+            14.4500058,
+            50.0969824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/371661159",
+      "properties": {
+        "@id": "way/371661159",
+        "name": "Přívoz Nučničky - Nučnice",
+        "phone": "+420 601 352 503",
+        "route": "ferry",
+        "website": "http://www.obec-travcice.cz/privoz-ferry-nucnicky/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2231329,
+            50.5059137
+          ],
+          [
+            14.2260564,
+            50.5065707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39828004",
+      "properties": {
+        "@id": "way/39828004",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 223631,
+            "reltags": {
+              "route": "ferry",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5284166,
+            49.8213998
+          ],
+          [
+            13.5290144,
+            49.8216661
+          ]
+        ]
+      }
+    }
+  ]
+}

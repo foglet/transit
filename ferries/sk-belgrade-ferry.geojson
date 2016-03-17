@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T09:44:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/41712511",
+      "properties": {
+        "@id": "way/41712511",
+        "bicycle": "yes",
+        "foot": "yes",
+        "name": "Плави превоз",
+        "name:sr": "Плави превоз",
+        "name:sr-Latn": "Plavi prevoz",
+        "note": "only in spring/summer/autumn",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.4005058,
+            44.7959463
+          ],
+          [
+            20.4060452,
+            44.7940026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/115407393",
+      "properties": {
+        "@id": "way/115407393",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.7136326,
+            45.2277393
+          ],
+          [
+            19.7147093,
+            45.230985
+          ],
+          [
+            19.7118011,
+            45.2350996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/116238475",
+      "properties": {
+        "@id": "way/116238475",
+        "bicycle": "yes",
+        "foot": "yes",
+        "hgv": "yes",
+        "motorcar": "yes",
+        "operator": "Дунав Транс",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.3383151,
+            44.8267781
+          ],
+          [
+            21.3381636,
+            44.826428
+          ],
+          [
+            21.3381646,
+            44.8263362
+          ],
+          [
+            21.3382128,
+            44.8262962
+          ],
+          [
+            21.3392454,
+            44.8259524
+          ],
+          [
+            21.340416,
+            44.8255136
+          ],
+          [
+            21.3408285,
+            44.8252252
+          ],
+          [
+            21.3411422,
+            44.8249615
+          ],
+          [
+            21.3412468,
+            44.824739
+          ],
+          [
+            21.3413223,
+            44.8245103
+          ],
+          [
+            21.3411625,
+            44.8240694
+          ],
+          [
+            21.3404346,
+            44.822887
+          ],
+          [
+            21.3394929,
+            44.8218266
+          ],
+          [
+            21.3374225,
+            44.8201221
+          ],
+          [
+            21.332447,
+            44.817439
+          ],
+          [
+            21.3304602,
+            44.8162069
+          ],
+          [
+            21.3298618,
+            44.8155887
+          ],
+          [
+            21.3296998,
+            44.8150957
+          ],
+          [
+            21.3296573,
+            44.8149006
+          ],
+          [
+            21.3297532,
+            44.8146945
+          ],
+          [
+            21.329971,
+            44.8145173
+          ],
+          [
+            21.3308381,
+            44.8143359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167614420",
+      "properties": {
+        "@id": "way/167614420",
+        "bicycle": "yes",
+        "foot": "yes",
+        "name": "Жути превоз",
+        "name:sr": "Жути превоз",
+        "name:sr-Latn": "Žuti prevoz",
+        "note": "only in spring/summer/autumn",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.4061626,
+            44.794022
+          ],
+          [
+            20.4009262,
+            44.7959986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194536628",
+      "properties": {
+        "@id": "way/194536628",
+        "motor_vehicle": "permissive",
+        "name": "Скела Винча",
+        "name:sr": "Скела Винча",
+        "name:sr-Latn": "Skela Vinča",
+        "oneway": "no",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.619588,
+            44.769219
+          ],
+          [
+            20.630667,
+            44.7716299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287169027",
+      "properties": {
+        "@id": "way/287169027",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.910167,
+            44.6894254
+          ],
+          [
+            19.9105332,
+            44.6898057
+          ],
+          [
+            19.9109566,
+            44.6919675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/380313370",
+      "properties": {
+        "@id": "way/380313370",
+        "name": "Ритопек - Иваново",
+        "name:hu": "Ritopek - Sándoregyháza",
+        "name:sr": "Ритопек - Иваново",
+        "name:sr-Latn": "Ritopek - Ivanovo",
+        "route": "ferry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20.6599233,
+            44.7446105
+          ],
+          [
+            20.659773,
+            44.744439
+          ],
+          [
+            20.6593653,
+            44.7389522
+          ],
+          [
+            20.6590542,
+            44.7387312
+          ]
+        ]
+      }
+    }
+  ]
+}
