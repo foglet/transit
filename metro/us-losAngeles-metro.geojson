@@ -1,0 +1,1504 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T10:06:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/39610780",
+      "properties": {
+        "@id": "way/39610780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.2915906,
+            34.0645501
+          ],
+          [
+            -118.2917454,
+            34.0763388
+          ],
+          [
+            -118.2917024,
+            34.0908334
+          ],
+          [
+            -118.2917024,
+            34.0980353
+          ],
+          [
+            -118.2917024,
+            34.098133
+          ],
+          [
+            -118.2917245,
+            34.1009164
+          ],
+          [
+            -118.2917846,
+            34.1012646
+          ],
+          [
+            -118.2918533,
+            34.1013996
+          ],
+          [
+            -118.2918871,
+            34.1014376
+          ],
+          [
+            -118.2919735,
+            34.1015347
+          ],
+          [
+            -118.2921365,
+            34.1016413
+          ],
+          [
+            -118.2923339,
+            34.1017266
+          ],
+          [
+            -118.2926601,
+            34.1018047
+          ],
+          [
+            -118.2929262,
+            34.1018332
+          ],
+          [
+            -118.2932695,
+            34.1018332
+          ],
+          [
+            -118.293635,
+            34.1018384
+          ],
+          [
+            -118.3092033,
+            34.1016867
+          ],
+          [
+            -118.3255283,
+            34.1016156
+          ],
+          [
+            -118.3362495,
+            34.101616
+          ],
+          [
+            -118.338568,
+            34.1016712
+          ],
+          [
+            -118.3392014,
+            34.1016863
+          ],
+          [
+            -118.3433653,
+            34.1016891
+          ],
+          [
+            -118.3451076,
+            34.1017602
+          ],
+          [
+            -118.3462063,
+            34.1018455
+          ],
+          [
+            -118.3466783,
+            34.1019308
+          ],
+          [
+            -118.3471219,
+            34.1020873
+          ],
+          [
+            -118.3474852,
+            34.1023004
+          ],
+          [
+            -118.3478691,
+            34.1025706
+          ],
+          [
+            -118.3482319,
+            34.1029542
+          ],
+          [
+            -118.3485838,
+            34.1033735
+          ],
+          [
+            -118.3582827,
+            34.1228658
+          ],
+          [
+            -118.3643337,
+            34.1327559
+          ],
+          [
+            -118.3645311,
+            34.1333882
+          ],
+          [
+            -118.3645912,
+            34.1340347
+          ],
+          [
+            -118.3644882,
+            34.1346457
+          ],
+          [
+            -118.3642736,
+            34.1351928
+          ],
+          [
+            -118.3622207,
+            34.1390245
+          ],
+          [
+            -118.3609863,
+            34.1410039
+          ],
+          [
+            -118.3609177,
+            34.1411673
+          ],
+          [
+            -118.3608747,
+            34.1413378
+          ],
+          [
+            -118.360849,
+            34.1415012
+          ],
+          [
+            -118.360849,
+            34.1417995
+          ],
+          [
+            -118.3608747,
+            34.142034
+          ],
+          [
+            -118.3609606,
+            34.1422329
+          ],
+          [
+            -118.3615271,
+            34.1433552
+          ],
+          [
+            -118.3760067,
+            34.1673693
+          ],
+          [
+            -118.3764959,
+            34.1682002
+          ],
+          [
+            -118.3769161,
+            34.1688669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24848970",
+      "properties": {
+        "@id": "way/24848970",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.2905756,
+            34.062655
+          ],
+          [
+            -118.291206,
+            34.0630671
+          ],
+          [
+            -118.2917896,
+            34.0633231
+          ],
+          [
+            -118.2926909,
+            34.0635222
+          ],
+          [
+            -118.2934548,
+            34.0634938
+          ],
+          [
+            -118.2937127,
+            34.063432
+          ],
+          [
+            -118.294056,
+            34.0633089
+          ],
+          [
+            -118.2954117,
+            34.0626761
+          ],
+          [
+            -118.2964245,
+            34.062221
+          ],
+          [
+            -118.2971777,
+            34.0619301
+          ],
+          [
+            -118.297656,
+            34.0617896
+          ],
+          [
+            -118.2983723,
+            34.06168
+          ],
+          [
+            -118.3009017,
+            34.0616353
+          ],
+          [
+            -118.3059088,
+            34.0616166
+          ],
+          [
+            -118.3088699,
+            34.0616024
+          ],
+          [
+            -118.3110672,
+            34.0616166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323125179",
+      "properties": {
+        "@id": "way/323125179",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.2520564,
+            34.0484976
+          ],
+          [
+            -118.252437,
+            34.0480604
+          ],
+          [
+            -118.2530033,
+            34.0474576
+          ],
+          [
+            -118.2533489,
+            34.0471388
+          ],
+          [
+            -118.2534941,
+            34.0470007
+          ],
+          [
+            -118.2537309,
+            34.0467931
+          ],
+          [
+            -118.2539383,
+            34.0466548
+          ],
+          [
+            -118.254121,
+            34.046544
+          ],
+          [
+            -118.2542444,
+            34.0464947
+          ],
+          [
+            -118.2543245,
+            34.0464627
+          ],
+          [
+            -118.2546678,
+            34.0464201
+          ],
+          [
+            -118.2549278,
+            34.0464658
+          ],
+          [
+            -118.2552196,
+            34.046544
+          ],
+          [
+            -118.2555342,
+            34.0466866
+          ],
+          [
+            -118.2584876,
+            34.0486199
+          ],
+          [
+            -118.2586794,
+            34.048747
+          ],
+          [
+            -118.2587948,
+            34.0488235
+          ],
+          [
+            -118.2596484,
+            34.0493961
+          ],
+          [
+            -118.2597919,
+            34.0494923
+          ],
+          [
+            -118.2616459,
+            34.0503599
+          ],
+          [
+            -118.2636372,
+            34.0512062
+          ],
+          [
+            -118.2664867,
+            34.0525004
+          ],
+          [
+            -118.2700401,
+            34.0540862
+          ],
+          [
+            -118.2721687,
+            34.0551102
+          ],
+          [
+            -118.2759007,
+            34.0567711
+          ],
+          [
+            -118.2763487,
+            34.0570018
+          ],
+          [
+            -118.2768808,
+            34.0573075
+          ],
+          [
+            -118.2777048,
+            34.0578764
+          ],
+          [
+            -118.2782799,
+            34.0584168
+          ],
+          [
+            -118.2786387,
+            34.0588901
+          ],
+          [
+            -118.2788361,
+            34.059139
+          ],
+          [
+            -118.2791451,
+            34.0594448
+          ],
+          [
+            -118.2796258,
+            34.0597861
+          ],
+          [
+            -118.280424,
+            34.0601629
+          ],
+          [
+            -118.2816428,
+            34.0607247
+          ],
+          [
+            -118.2830504,
+            34.0613504
+          ],
+          [
+            -118.2836856,
+            34.0616277
+          ],
+          [
+            -118.2840461,
+            34.0617557
+          ],
+          [
+            -118.2845181,
+            34.0618766
+          ],
+          [
+            -118.2850245,
+            34.061905
+          ],
+          [
+            -118.2886294,
+            34.0618908
+          ],
+          [
+            -118.2890981,
+            34.0619527
+          ],
+          [
+            -118.2894243,
+            34.0620167
+          ],
+          [
+            -118.2897333,
+            34.0621234
+          ],
+          [
+            -118.2900874,
+            34.0623046
+          ],
+          [
+            -118.2904455,
+            34.0625429
+          ],
+          [
+            -118.2905756,
+            34.062655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28916339",
+      "properties": {
+        "@id": "way/28916339",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.2905756,
+            34.062655
+          ],
+          [
+            -118.291067,
+            34.0632347
+          ],
+          [
+            -118.2912987,
+            34.0635973
+          ],
+          [
+            -118.2914413,
+            34.0638725
+          ],
+          [
+            -118.2915305,
+            34.0641164
+          ],
+          [
+            -118.2915786,
+            34.0643347
+          ],
+          [
+            -118.2915906,
+            34.0645501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27286490",
+      "properties": {
+        "@id": "way/27286490",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.2304965,
+            34.0518124
+          ],
+          [
+            -118.2306013,
+            34.0520683
+          ],
+          [
+            -118.2306805,
+            34.0522138
+          ],
+          [
+            -118.2310496,
+            34.0527685
+          ],
+          [
+            -118.2314358,
+            34.0531667
+          ],
+          [
+            -118.2329784,
+            34.0545485
+          ],
+          [
+            -118.2343774,
+            34.0556138
+          ],
+          [
+            -118.2344351,
+            34.0556578
+          ],
+          [
+            -118.2350759,
+            34.0561728
+          ],
+          [
+            -118.2365233,
+            34.057336
+          ],
+          [
+            -118.2370039,
+            34.0575209
+          ],
+          [
+            -118.2376133,
+            34.0576417
+          ],
+          [
+            -118.2388321,
+            34.0577413
+          ],
+          [
+            -118.2400423,
+            34.0577626
+          ],
+          [
+            -118.2409527,
+            34.0577015
+          ],
+          [
+            -118.2419483,
+            34.0575593
+          ],
+          [
+            -118.2428238,
+            34.0573602
+          ],
+          [
+            -118.2434019,
+            34.0572241
+          ],
+          [
+            -118.2437421,
+            34.0570757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/39550605",
+      "properties": {
+        "@id": "way/39550605",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.2437421,
+            34.0570757
+          ],
+          [
+            -118.2442829,
+            34.0567344
+          ],
+          [
+            -118.2449094,
+            34.0562366
+          ],
+          [
+            -118.2455997,
+            34.0555306
+          ],
+          [
+            -118.2460654,
+            34.0550545
+          ],
+          [
+            -118.2491056,
+            34.0516702
+          ],
+          [
+            -118.2491734,
+            34.0516001
+          ],
+          [
+            -118.249745,
+            34.0509824
+          ],
+          [
+            -118.2500354,
+            34.0506695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323125178",
+      "properties": {
+        "@id": "way/323125178",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.2520564,
+            34.0484976
+          ],
+          [
+            -118.2516938,
+            34.0488239
+          ],
+          [
+            -118.2514889,
+            34.0490463
+          ],
+          [
+            -118.2510992,
+            34.0494692
+          ],
+          [
+            -118.250104,
+            34.050549
+          ],
+          [
+            -118.2500354,
+            34.0506695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323125180",
+      "properties": {
+        "@id": "way/323125180",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.2500354,
+            34.0506695
+          ],
+          [
+            -118.2501563,
+            34.0505872
+          ],
+          [
+            -118.2511643,
+            34.0495119
+          ],
+          [
+            -118.2515587,
+            34.0490913
+          ],
+          [
+            -118.2517588,
+            34.0488787
+          ],
+          [
+            -118.2518681,
+            34.0487482
+          ],
+          [
+            -118.2520564,
+            34.0484976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/18660420",
+      "properties": {
+        "@id": "node/18660420",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3088699,
+          34.0616024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/18660419",
+      "properties": {
+        "@id": "node/18660419",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3009017,
+          34.0616353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268550669",
+      "properties": {
+        "@id": "node/268550669",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2905756,
+          34.062655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/18660356",
+      "properties": {
+        "@id": "node/18660356",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2917454,
+          34.0763388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/18660357",
+      "properties": {
+        "@id": "node/18660357",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2917024,
+          34.0908334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/18882056",
+      "properties": {
+        "@id": "node/18882056",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3392014,
+          34.1016863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/16298122",
+      "properties": {
+        "@id": "node/16298122",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3622207,
+          34.1390245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/18882099",
+      "properties": {
+        "@id": "node/18882099",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3255283,
+          34.1016156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/18660417",
+      "properties": {
+        "@id": "node/18660417",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3092033,
+          34.1016867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/472420232",
+      "properties": {
+        "@id": "node/472420232",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2917024,
+          34.098133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/280643537",
+      "properties": {
+        "@id": "node/280643537",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3764959,
+          34.1682002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268372325",
+      "properties": {
+        "@id": "node/268372325",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2587137,
+          34.0487072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1376441753",
+      "properties": {
+        "@id": "node/1376441753",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2586794,
+          34.048747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/18882133",
+      "properties": {
+        "@id": "node/18882133",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2759007,
+          34.0567711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268371846",
+      "properties": {
+        "@id": "node/268371846",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2511307,
+          34.0494927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268371843",
+      "properties": {
+        "@id": "node/268371843",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2460654,
+          34.0550545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2195135247",
+      "properties": {
+        "@id": "node/2195135247",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2810818,
+            "reltags": {
+              "colour": "red",
+              "name": "Metro Red Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "public_transport:version": "2",
+              "ref": "802",
+              "route": "subway",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2810819,
+            "reltags": {
+              "colour": "purple",
+              "name": "Metro Purple Line",
+              "network": "Metro Rail",
+              "operator": "Los Angeles County Metropolitan Transportation Authority",
+              "ref": "805",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2350759,
+          34.0561728
+        ]
+      }
+    }
+  ]
+}

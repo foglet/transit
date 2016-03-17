@@ -1,0 +1,7456 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-19T01:31:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/11103456",
+      "properties": {
+        "@id": "way/11103456",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "service": "siding",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.317504,
+            25.680512
+          ],
+          [
+            -80.3173412,
+            25.6807478
+          ],
+          [
+            -80.317221,
+            25.6809798
+          ],
+          [
+            -80.316818,
+            25.681851
+          ],
+          [
+            -80.316738,
+            25.68199
+          ],
+          [
+            -80.316647,
+            25.682124
+          ],
+          [
+            -80.316214,
+            25.682671
+          ],
+          [
+            -80.316084,
+            25.68284
+          ],
+          [
+            -80.315942,
+            25.683
+          ],
+          [
+            -80.315789,
+            25.683152
+          ],
+          [
+            -80.315309,
+            25.683583
+          ],
+          [
+            -80.3147577,
+            25.6840584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11103460",
+      "properties": {
+        "@id": "way/11103460",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3116763,
+            25.6867115
+          ],
+          [
+            -80.312054,
+            25.6863325
+          ],
+          [
+            -80.3124402,
+            25.685938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11103463",
+      "properties": {
+        "@id": "way/11103463",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3072732,
+            25.690285
+          ],
+          [
+            -80.3077539,
+            25.6898982
+          ],
+          [
+            -80.3088954,
+            25.6889623
+          ],
+          [
+            -80.3091443,
+            25.688769
+          ],
+          [
+            -80.3099168,
+            25.6881425
+          ],
+          [
+            -80.311436,
+            25.6869049
+          ],
+          [
+            -80.3116763,
+            25.6867115
+          ],
+          [
+            -80.3125261,
+            25.6860154
+          ],
+          [
+            -80.3132385,
+            25.6854353
+          ],
+          [
+            -80.3142341,
+            25.6846308
+          ],
+          [
+            -80.3145345,
+            25.6843833
+          ],
+          [
+            -80.3148263,
+            25.6841435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11104758",
+      "properties": {
+        "@id": "way/11104758",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2410958,
+            25.8312348
+          ],
+          [
+            -80.2411301,
+            25.8319688
+          ],
+          [
+            -80.241173,
+            25.8328417
+          ],
+          [
+            -80.2412073,
+            25.8333902
+          ],
+          [
+            -80.2412331,
+            25.8338692
+          ],
+          [
+            -80.2412417,
+            25.834325
+          ],
+          [
+            -80.241276,
+            25.8349198
+          ],
+          [
+            -80.2412932,
+            25.8353293
+          ],
+          [
+            -80.2413103,
+            25.8356846
+          ],
+          [
+            -80.2413962,
+            25.8374459
+          ],
+          [
+            -80.2414477,
+            25.8386201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11105109",
+      "properties": {
+        "@id": "way/11105109",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Seaboard Coast Line Railroad",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2335568,
+            25.8124373
+          ],
+          [
+            -80.2341005,
+            25.8124373
+          ],
+          [
+            -80.2353365,
+            25.8124373
+          ],
+          [
+            -80.2363493,
+            25.8124373
+          ],
+          [
+            -80.2370274,
+            25.8124528
+          ],
+          [
+            -80.237318,
+            25.812474
+          ],
+          [
+            -80.2375509,
+            25.8124991
+          ],
+          [
+            -80.237779,
+            25.812535
+          ],
+          [
+            -80.238119,
+            25.812608
+          ],
+          [
+            -80.2383663,
+            25.8126846
+          ],
+          [
+            -80.2386667,
+            25.8128082
+          ],
+          [
+            -80.2388727,
+            25.8129164
+          ],
+          [
+            -80.239074,
+            25.813027
+          ],
+          [
+            -80.2392676,
+            25.8131636
+          ],
+          [
+            -80.2394478,
+            25.8133104
+          ],
+          [
+            -80.2395966,
+            25.8134385
+          ],
+          [
+            -80.2397562,
+            25.8136003
+          ],
+          [
+            -80.239922,
+            25.8138108
+          ],
+          [
+            -80.2400016,
+            25.8139239
+          ],
+          [
+            -80.2401205,
+            25.8141102
+          ],
+          [
+            -80.2402144,
+            25.8143131
+          ],
+          [
+            -80.2402819,
+            25.814484
+          ],
+          [
+            -80.2403516,
+            25.8146832
+          ],
+          [
+            -80.2404093,
+            25.8149271
+          ],
+          [
+            -80.2404509,
+            25.8152193
+          ],
+          [
+            -80.2404737,
+            25.8154788
+          ],
+          [
+            -80.2404951,
+            25.8161996
+          ],
+          [
+            -80.2405381,
+            25.8173042
+          ],
+          [
+            -80.2405743,
+            25.8183183
+          ],
+          [
+            -80.2406011,
+            25.8190028
+          ],
+          [
+            -80.2406239,
+            25.8195714
+          ],
+          [
+            -80.240648,
+            25.8202667
+          ],
+          [
+            -80.2406722,
+            25.8208933
+          ],
+          [
+            -80.2406883,
+            25.8216116
+          ],
+          [
+            -80.2407218,
+            25.8225025
+          ],
+          [
+            -80.2407513,
+            25.8230988
+          ],
+          [
+            -80.2407768,
+            25.8238726
+          ],
+          [
+            -80.2408023,
+            25.8246138
+          ],
+          [
+            -80.2408505,
+            25.8253381
+          ],
+          [
+            -80.2408814,
+            25.8260986
+          ],
+          [
+            -80.2409241,
+            25.8275266
+          ],
+          [
+            -80.2409989,
+            25.8284434
+          ],
+          [
+            -80.2410099,
+            25.8293498
+          ],
+          [
+            -80.2410418,
+            25.830038
+          ],
+          [
+            -80.2410614,
+            25.8304391
+          ],
+          [
+            -80.2410958,
+            25.8312348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11105264",
+      "properties": {
+        "@id": "way/11105264",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2723271,
+            25.8419069
+          ],
+          [
+            -80.2725242,
+            25.8417898
+          ],
+          [
+            -80.2726905,
+            25.8417053
+          ],
+          [
+            -80.2728018,
+            25.8416498
+          ],
+          [
+            -80.273009,
+            25.841557
+          ],
+          [
+            -80.2732644,
+            25.8414947
+          ],
+          [
+            -80.2734275,
+            25.841456
+          ],
+          [
+            -80.273582,
+            25.8414251
+          ],
+          [
+            -80.2738378,
+            25.8413972
+          ],
+          [
+            -80.2740867,
+            25.8413817
+          ],
+          [
+            -80.2779148,
+            25.8412504
+          ],
+          [
+            -80.2784641,
+            25.841235
+          ],
+          [
+            -80.279743,
+            25.8411886
+          ],
+          [
+            -80.2806442,
+            25.8411732
+          ],
+          [
+            -80.2810132,
+            25.84115
+          ],
+          [
+            -80.2814081,
+            25.8411191
+          ],
+          [
+            -80.2819488,
+            25.8410418
+          ],
+          [
+            -80.2828243,
+            25.8409028
+          ],
+          [
+            -80.2834079,
+            25.840841
+          ],
+          [
+            -80.283779,
+            25.840807
+          ],
+          [
+            -80.2871825,
+            25.8407035
+          ],
+          [
+            -80.2879484,
+            25.8406788
+          ],
+          [
+            -80.2884719,
+            25.8406633
+          ],
+          [
+            -80.2886951,
+            25.8406479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11106013",
+      "properties": {
+        "@id": "way/11106013",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "railway": "subway",
+        "service": "siding",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.317633,
+            25.6802063
+          ],
+          [
+            -80.317504,
+            25.680512
+          ],
+          [
+            -80.316852,
+            25.681891
+          ],
+          [
+            -80.316764,
+            25.682042
+          ],
+          [
+            -80.3166717,
+            25.6821788
+          ],
+          [
+            -80.3165859,
+            25.6822794
+          ],
+          [
+            -80.316285,
+            25.68276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11106837",
+      "properties": {
+        "@id": "way/11106837",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2613344,
+            25.7274997
+          ],
+          [
+            -80.261755,
+            25.7271517
+          ],
+          [
+            -80.2631969,
+            25.7259764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11109184",
+      "properties": {
+        "@id": "way/11109184",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3125261,
+            25.6860154
+          ],
+          [
+            -80.312054,
+            25.6863325
+          ],
+          [
+            -80.311539,
+            25.6866728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11109188",
+      "properties": {
+        "@id": "way/11109188",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "railway": "subway",
+        "service": "siding",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.316214,
+            25.682671
+          ],
+          [
+            -80.3165859,
+            25.6822794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11109203",
+      "properties": {
+        "@id": "way/11109203",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2041836,
+            25.7540947
+          ],
+          [
+            -80.2019863,
+            25.7556099
+          ],
+          [
+            -80.2017329,
+            25.7557843
+          ],
+          [
+            -80.200081,
+            25.756921
+          ],
+          [
+            -80.200008,
+            25.756971
+          ],
+          [
+            -80.1993256,
+            25.757442
+          ],
+          [
+            -80.1992569,
+            25.7574884
+          ],
+          [
+            -80.1987333,
+            25.7578517
+          ],
+          [
+            -80.1982956,
+            25.7581532
+          ],
+          [
+            -80.1977377,
+            25.7585474
+          ],
+          [
+            -80.197463,
+            25.7587407
+          ],
+          [
+            -80.1971455,
+            25.7589803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11110055",
+      "properties": {
+        "@id": "way/11110055",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Seaboard Coast Line Railroad; Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1961762,
+            25.7787704
+          ],
+          [
+            -80.1962048,
+            25.7797982
+          ],
+          [
+            -80.1962305,
+            25.7804629
+          ],
+          [
+            -80.1962733,
+            25.7814257
+          ],
+          [
+            -80.1962819,
+            25.7818199
+          ],
+          [
+            -80.1962991,
+            25.7821831
+          ],
+          [
+            -80.1963163,
+            25.7823454
+          ],
+          [
+            -80.196342,
+            25.7825309
+          ],
+          [
+            -80.1963935,
+            25.7827473
+          ],
+          [
+            -80.1964707,
+            25.7829637
+          ],
+          [
+            -80.1965566,
+            25.7831569
+          ],
+          [
+            -80.1966853,
+            25.7833811
+          ],
+          [
+            -80.1968055,
+            25.7835588
+          ],
+          [
+            -80.1969342,
+            25.7837288
+          ],
+          [
+            -80.197093,
+            25.783914
+          ],
+          [
+            -80.197247,
+            25.784053
+          ],
+          [
+            -80.197427,
+            25.784195
+          ],
+          [
+            -80.1975865,
+            25.7843085
+          ],
+          [
+            -80.1977754,
+            25.7844321
+          ],
+          [
+            -80.1979385,
+            25.7845171
+          ],
+          [
+            -80.1980844,
+            25.784579
+          ],
+          [
+            -80.198256,
+            25.7846408
+          ],
+          [
+            -80.198462,
+            25.7846949
+          ],
+          [
+            -80.198668,
+            25.7847335
+          ],
+          [
+            -80.198874,
+            25.7847645
+          ],
+          [
+            -80.1991916,
+            25.7847954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11110422",
+      "properties": {
+        "@id": "way/11110422",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2414477,
+            25.8386201
+          ],
+          [
+            -80.2414648,
+            25.8391454
+          ],
+          [
+            -80.2414734,
+            25.8395471
+          ],
+          [
+            -80.2414906,
+            25.8400338
+          ],
+          [
+            -80.2415163,
+            25.8408372
+          ],
+          [
+            -80.2415249,
+            25.8411771
+          ],
+          [
+            -80.2415421,
+            25.8415479
+          ],
+          [
+            -80.2415507,
+            25.8418105
+          ],
+          [
+            -80.2415678,
+            25.8420963
+          ],
+          [
+            -80.241585,
+            25.8423513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11110997",
+      "properties": {
+        "@id": "way/11110997",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "2",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "116306052:116306065:116320281:116323617:116305959:116320252:116320259:116320492:116320494; 116306049:116306064",
+        "tiger:upload_uuid": "bulk_upload.pl-bcfe2a6c-15d8-4c58-8cb2-f0d6e1120159"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3048313,
+            25.8396591
+          ],
+          [
+            -80.305153,
+            25.839649
+          ],
+          [
+            -80.305492,
+            25.83963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11111284",
+      "properties": {
+        "@id": "way/11111284",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "1",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "116319674:116274504:116319865:116319866:116319670:116301940:116303377:116301946:116274507:116301964:116301965",
+        "tiger:upload_uuid": "bulk_upload.pl-bcfe2a6c-15d8-4c58-8cb2-f0d6e1120159"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.257306,
+            25.730786
+          ],
+          [
+            -80.2569828,
+            25.7311183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11111311",
+      "properties": {
+        "@id": "way/11111311",
+        "electrified": "yes",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1994028,
+            25.7575116
+          ],
+          [
+            -80.1998148,
+            25.7571637
+          ],
+          [
+            -80.2002783,
+            25.7568467
+          ],
+          [
+            -80.2010851,
+            25.7562979
+          ],
+          [
+            -80.2015057,
+            25.7560119
+          ],
+          [
+            -80.2019863,
+            25.7556099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11112490",
+      "properties": {
+        "@id": "way/11112490",
+        "electrified": "yes",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "116303553",
+        "tiger:upload_uuid": "bulk_upload.pl-bcfe2a6c-15d8-4c58-8cb2-f0d6e1120159"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1993256,
+            25.757442
+          ],
+          [
+            -80.1998148,
+            25.7571637
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11114290",
+      "properties": {
+        "@id": "way/11114290",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "1",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "116301535",
+        "tiger:upload_uuid": "bulk_upload.pl-bcfe2a6c-15d8-4c58-8cb2-f0d6e1120159"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2589311,
+            25.7294714
+          ],
+          [
+            -80.259328,
+            25.729201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11114293",
+      "properties": {
+        "@id": "way/11114293",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2592487,
+            25.7291389
+          ],
+          [
+            -80.258399,
+            25.7298348
+          ],
+          [
+            -80.256854,
+            25.7310796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11114734",
+      "properties": {
+        "@id": "way/11114734",
+        "electrified": "yes",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "116302574",
+        "tiger:upload_uuid": "bulk_upload.pl-bcfe2a6c-15d8-4c58-8cb2-f0d6e1120159"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2020807,
+            25.7556795
+          ],
+          [
+            -80.2015057,
+            25.7560119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11158579",
+      "properties": {
+        "@id": "way/11158579",
+        "electrified": "yes",
+        "railway": "subway",
+        "service": "yard",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.313363,
+            25.839163
+          ],
+          [
+            -80.313301,
+            25.839285
+          ],
+          [
+            -80.313264,
+            25.839343
+          ],
+          [
+            -80.313187,
+            25.839438
+          ],
+          [
+            -80.313108,
+            25.839513
+          ],
+          [
+            -80.31302,
+            25.839579
+          ],
+          [
+            -80.312924,
+            25.839636
+          ],
+          [
+            -80.312822,
+            25.839682
+          ],
+          [
+            -80.312726,
+            25.839713
+          ],
+          [
+            -80.312594,
+            25.839743
+          ],
+          [
+            -80.312459,
+            25.839761
+          ],
+          [
+            -80.312323,
+            25.839767
+          ],
+          [
+            -80.31152,
+            25.839767
+          ],
+          [
+            -80.3101862,
+            25.8397661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11158654",
+      "properties": {
+        "@id": "way/11158654",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2631969,
+            25.7259764
+          ],
+          [
+            -80.2649479,
+            25.7245382
+          ],
+          [
+            -80.2653427,
+            25.7242134
+          ],
+          [
+            -80.265789,
+            25.72385
+          ],
+          [
+            -80.2660723,
+            25.723618
+          ],
+          [
+            -80.2663469,
+            25.7233938
+          ],
+          [
+            -80.2667246,
+            25.7230845
+          ],
+          [
+            -80.2711191,
+            25.7195197
+          ],
+          [
+            -80.2739429,
+            25.7172308
+          ],
+          [
+            -80.2745695,
+            25.7167205
+          ],
+          [
+            -80.274827,
+            25.7165349
+          ],
+          [
+            -80.2751446,
+            25.7162951
+          ],
+          [
+            -80.2756252,
+            25.7159394
+          ],
+          [
+            -80.2765093,
+            25.715228
+          ],
+          [
+            -80.2772903,
+            25.7145939
+          ],
+          [
+            -80.2786379,
+            25.7134958
+          ],
+          [
+            -80.2796163,
+            25.7126993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11158688",
+      "properties": {
+        "@id": "way/11158688",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1958558,
+            25.7732136
+          ],
+          [
+            -80.1959271,
+            25.7736406
+          ],
+          [
+            -80.1960217,
+            25.7746431
+          ],
+          [
+            -80.1960474,
+            25.7751764
+          ],
+          [
+            -80.1961075,
+            25.7768846
+          ],
+          [
+            -80.1961504,
+            25.7781212
+          ],
+          [
+            -80.1961762,
+            25.7787704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11158705",
+      "properties": {
+        "@id": "way/11158705",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2042179,
+            25.7541334
+          ],
+          [
+            -80.2050505,
+            25.7535381
+          ],
+          [
+            -80.2056341,
+            25.7531361
+          ],
+          [
+            -80.2060804,
+            25.7528346
+          ],
+          [
+            -80.208312,
+            25.751304
+          ],
+          [
+            -80.2089472,
+            25.750902
+          ],
+          [
+            -80.2092819,
+            25.7507165
+          ],
+          [
+            -80.2095394,
+            25.750585
+          ],
+          [
+            -80.2098742,
+            25.7504381
+          ],
+          [
+            -80.2103119,
+            25.7502681
+          ],
+          [
+            -80.2111101,
+            25.7499743
+          ],
+          [
+            -80.2117796,
+            25.7497269
+          ],
+          [
+            -80.212698,
+            25.7493945
+          ],
+          [
+            -80.2134876,
+            25.7491085
+          ],
+          [
+            -80.2138824,
+            25.7489384
+          ],
+          [
+            -80.2145004,
+            25.7486833
+          ],
+          [
+            -80.2160797,
+            25.7481034
+          ],
+          [
+            -80.2198648,
+            25.7467196
+          ],
+          [
+            -80.2218819,
+            25.7459852
+          ],
+          [
+            -80.2258777,
+            25.7445248
+          ],
+          [
+            -80.2273369,
+            25.7439913
+          ],
+          [
+            -80.2293453,
+            25.7432569
+          ],
+          [
+            -80.2307873,
+            25.7427466
+          ],
+          [
+            -80.2338857,
+            25.7416178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11158758",
+      "properties": {
+        "@id": "way/11158758",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3130925,
+            25.6854275
+          ],
+          [
+            -80.3125604,
+            25.6858452
+          ],
+          [
+            -80.3124402,
+            25.685938
+          ],
+          [
+            -80.3120025,
+            25.6863093
+          ],
+          [
+            -80.311539,
+            25.6866728
+          ],
+          [
+            -80.310818,
+            25.6872762
+          ],
+          [
+            -80.3103717,
+            25.6876784
+          ],
+          [
+            -80.3099426,
+            25.6880496
+          ],
+          [
+            -80.3090757,
+            25.688769
+          ],
+          [
+            -80.3087581,
+            25.6890242
+          ],
+          [
+            -80.3083547,
+            25.6893491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11158767",
+      "properties": {
+        "@id": "way/11158767",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3083547,
+            25.6893491
+          ],
+          [
+            -80.3079084,
+            25.6897126
+          ],
+          [
+            -80.3074792,
+            25.6900529
+          ],
+          [
+            -80.3070672,
+            25.6903391
+          ],
+          [
+            -80.3065952,
+            25.6906717
+          ],
+          [
+            -80.30596,
+            25.6911667
+          ],
+          [
+            -80.3056858,
+            25.691403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/11158793",
+      "properties": {
+        "@id": "way/11158793",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.259328,
+            25.729201
+          ],
+          [
+            -80.2598409,
+            25.7287987
+          ],
+          [
+            -80.2602701,
+            25.7284275
+          ],
+          [
+            -80.2609224,
+            25.7278476
+          ],
+          [
+            -80.2613344,
+            25.7274997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38910197",
+      "properties": {
+        "@id": "way/38910197",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2796163,
+            25.7126993
+          ],
+          [
+            -80.2798567,
+            25.7125059
+          ],
+          [
+            -80.2802858,
+            25.7121657
+          ],
+          [
+            -80.2809467,
+            25.7116475
+          ],
+          [
+            -80.2822857,
+            25.7105726
+          ],
+          [
+            -80.2854185,
+            25.7080361
+          ],
+          [
+            -80.2860193,
+            25.7075411
+          ],
+          [
+            -80.2867574,
+            25.7069456
+          ],
+          [
+            -80.2871008,
+            25.7066827
+          ],
+          [
+            -80.2877273,
+            25.706211
+          ],
+          [
+            -80.2880449,
+            25.7059635
+          ],
+          [
+            -80.2883282,
+            25.7057315
+          ],
+          [
+            -80.2886371,
+            25.705484
+          ],
+          [
+            -80.2893238,
+            25.7049194
+          ],
+          [
+            -80.2897873,
+            25.7045482
+          ],
+          [
+            -80.2903023,
+            25.7041306
+          ],
+          [
+            -80.2906799,
+            25.703798
+          ],
+          [
+            -80.291255,
+            25.7032953
+          ],
+          [
+            -80.291976,
+            25.7027076
+          ],
+          [
+            -80.2933664,
+            25.7015707
+          ],
+          [
+            -80.2969885,
+            25.6986318
+          ],
+          [
+            -80.2972803,
+            25.6983998
+          ],
+          [
+            -80.2996085,
+            25.6964648
+          ],
+          [
+            -80.3011278,
+            25.695235
+          ],
+          [
+            -80.3021749,
+            25.6943843
+          ],
+          [
+            -80.3028787,
+            25.6938119
+          ],
+          [
+            -80.3032907,
+            25.6934639
+          ],
+          [
+            -80.3036512,
+            25.6931854
+          ],
+          [
+            -80.3039945,
+            25.6928993
+          ],
+          [
+            -80.3045203,
+            25.6924867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38917324",
+      "properties": {
+        "@id": "way/38917324",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "service": "siding",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tunnel": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3148263,
+            25.6841435
+          ],
+          [
+            -80.3153928,
+            25.6836407
+          ],
+          [
+            -80.315696,
+            25.683373
+          ],
+          [
+            -80.315802,
+            25.683284
+          ],
+          [
+            -80.316038,
+            25.683042
+          ],
+          [
+            -80.316285,
+            25.68276
+          ],
+          [
+            -80.316535,
+            25.68244
+          ],
+          [
+            -80.316686,
+            25.682249
+          ],
+          [
+            -80.316822,
+            25.682051
+          ],
+          [
+            -80.316978,
+            25.681775
+          ],
+          [
+            -80.317217,
+            25.681252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38917326",
+      "properties": {
+        "@id": "way/38917326",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3147577,
+            25.6840584
+          ],
+          [
+            -80.3143714,
+            25.6843833
+          ],
+          [
+            -80.3131784,
+            25.6853579
+          ],
+          [
+            -80.3130925,
+            25.6854275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38921752",
+      "properties": {
+        "@id": "way/38921752",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.256854,
+            25.7310796
+          ],
+          [
+            -80.2561159,
+            25.7316904
+          ],
+          [
+            -80.2552748,
+            25.7323709
+          ],
+          [
+            -80.2543306,
+            25.7331363
+          ],
+          [
+            -80.2537126,
+            25.7336389
+          ],
+          [
+            -80.2530346,
+            25.7341878
+          ],
+          [
+            -80.2526398,
+            25.7344816
+          ],
+          [
+            -80.2522278,
+            25.7347523
+          ],
+          [
+            -80.2518244,
+            25.7349765
+          ],
+          [
+            -80.2515068,
+            25.7351311
+          ],
+          [
+            -80.2511034,
+            25.7353089
+          ],
+          [
+            -80.250805,
+            25.735427
+          ],
+          [
+            -80.2490949,
+            25.7360512
+          ],
+          [
+            -80.2479362,
+            25.7364764
+          ],
+          [
+            -80.2459965,
+            25.7371877
+          ],
+          [
+            -80.2444429,
+            25.7377521
+          ],
+          [
+            -80.243885,
+            25.7379532
+          ],
+          [
+            -80.2419023,
+            25.7386799
+          ],
+          [
+            -80.2413015,
+            25.7388964
+          ],
+          [
+            -80.2403745,
+            25.7392057
+          ],
+          [
+            -80.237825,
+            25.740142
+          ],
+          [
+            -80.2358942,
+            25.740837
+          ],
+          [
+            -80.2331047,
+            25.7418575
+          ],
+          [
+            -80.2304783,
+            25.7428162
+          ],
+          [
+            -80.2293196,
+            25.7432259
+          ],
+          [
+            -80.2272167,
+            25.7439913
+          ],
+          [
+            -80.2258949,
+            25.7444707
+          ],
+          [
+            -80.2218475,
+            25.7459542
+          ],
+          [
+            -80.221324,
+            25.7461475
+          ],
+          [
+            -80.2201052,
+            25.7465882
+          ],
+          [
+            -80.2197189,
+            25.7467273
+          ],
+          [
+            -80.215908,
+            25.7481189
+          ],
+          [
+            -80.2142944,
+            25.7487065
+          ],
+          [
+            -80.2122259,
+            25.7494641
+          ],
+          [
+            -80.2111273,
+            25.7498661
+          ],
+          [
+            -80.2101488,
+            25.7502294
+          ],
+          [
+            -80.209857,
+            25.7503531
+          ],
+          [
+            -80.2095308,
+            25.7505077
+          ],
+          [
+            -80.2092133,
+            25.7506701
+          ],
+          [
+            -80.2088442,
+            25.7508943
+          ],
+          [
+            -80.2085438,
+            25.7510953
+          ],
+          [
+            -80.2079687,
+            25.7514895
+          ],
+          [
+            -80.2060633,
+            25.752796
+          ],
+          [
+            -80.2051449,
+            25.7534222
+          ],
+          [
+            -80.2041836,
+            25.7540947
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38921753",
+      "properties": {
+        "@id": "way/38921753",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1972227,
+            25.7590576
+          ],
+          [
+            -80.1973772,
+            25.7589416
+          ],
+          [
+            -80.1976175,
+            25.7587638
+          ],
+          [
+            -80.1984501,
+            25.7581764
+          ],
+          [
+            -80.1989651,
+            25.757813
+          ],
+          [
+            -80.199326,
+            25.757562
+          ],
+          [
+            -80.1994028,
+            25.7575116
+          ],
+          [
+            -80.2001238,
+            25.7570168
+          ],
+          [
+            -80.2003861,
+            25.7568375
+          ],
+          [
+            -80.200517,
+            25.756748
+          ],
+          [
+            -80.2020807,
+            25.7556795
+          ],
+          [
+            -80.2027931,
+            25.7551847
+          ],
+          [
+            -80.2034883,
+            25.7546745
+          ],
+          [
+            -80.2042179,
+            25.7541334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38921982",
+      "properties": {
+        "@id": "way/38921982",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1957839,
+            25.7719612
+          ],
+          [
+            -80.1957563,
+            25.7716015
+          ],
+          [
+            -80.1957603,
+            25.7712646
+          ],
+          [
+            -80.1956964,
+            25.7697187
+          ],
+          [
+            -80.1956728,
+            25.7691578
+          ],
+          [
+            -80.1956699,
+            25.7688385
+          ],
+          [
+            -80.1956503,
+            25.7684001
+          ],
+          [
+            -80.1955959,
+            25.7673672
+          ],
+          [
+            -80.1955717,
+            25.7668278
+          ],
+          [
+            -80.1955725,
+            25.7661807
+          ],
+          [
+            -80.1955352,
+            25.7654935
+          ],
+          [
+            -80.1955138,
+            25.7651572
+          ],
+          [
+            -80.1955611,
+            25.764359
+          ],
+          [
+            -80.1955399,
+            25.7634325
+          ],
+          [
+            -80.1955354,
+            25.7632227
+          ],
+          [
+            -80.1955268,
+            25.7625038
+          ],
+          [
+            -80.1955268,
+            25.7622642
+          ],
+          [
+            -80.1955354,
+            25.7620942
+          ],
+          [
+            -80.1955525,
+            25.7619473
+          ],
+          [
+            -80.1955955,
+            25.7616999
+          ],
+          [
+            -80.1956727,
+            25.7613444
+          ],
+          [
+            -80.1957328,
+            25.7611511
+          ],
+          [
+            -80.1958015,
+            25.7609733
+          ],
+          [
+            -80.1958787,
+            25.7607801
+          ],
+          [
+            -80.1960761,
+            25.7603781
+          ],
+          [
+            -80.1961877,
+            25.7601926
+          ],
+          [
+            -80.1963079,
+            25.7600302
+          ],
+          [
+            -80.1964366,
+            25.7598447
+          ],
+          [
+            -80.1965997,
+            25.7596592
+          ],
+          [
+            -80.1967799,
+            25.7594582
+          ],
+          [
+            -80.1970374,
+            25.7592108
+          ],
+          [
+            -80.1972227,
+            25.7590576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38921986",
+      "properties": {
+        "@id": "way/38921986",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1971455,
+            25.7589803
+          ],
+          [
+            -80.1969173,
+            25.7591722
+          ],
+          [
+            -80.196737,
+            25.7593423
+          ],
+          [
+            -80.1965825,
+            25.7595123
+          ],
+          [
+            -80.1964194,
+            25.7597056
+          ],
+          [
+            -80.1962564,
+            25.7599143
+          ],
+          [
+            -80.1961619,
+            25.7600457
+          ],
+          [
+            -80.1960246,
+            25.7602544
+          ],
+          [
+            -80.195913,
+            25.7604631
+          ],
+          [
+            -80.1957843,
+            25.7607105
+          ],
+          [
+            -80.1956985,
+            25.7609269
+          ],
+          [
+            -80.1956126,
+            25.761182
+          ],
+          [
+            -80.1955354,
+            25.7614448
+          ],
+          [
+            -80.1954166,
+            25.7618848
+          ],
+          [
+            -80.1954018,
+            25.7620439
+          ],
+          [
+            -80.1953718,
+            25.7622483
+          ],
+          [
+            -80.1953606,
+            25.7625831
+          ],
+          [
+            -80.1953681,
+            25.7628878
+          ],
+          [
+            -80.1953629,
+            25.7632354
+          ],
+          [
+            -80.1953802,
+            25.7643571
+          ],
+          [
+            -80.1953958,
+            25.7651401
+          ],
+          [
+            -80.195399,
+            25.7655152
+          ],
+          [
+            -80.1954577,
+            25.7661088
+          ],
+          [
+            -80.1954937,
+            25.7670616
+          ],
+          [
+            -80.1955307,
+            25.7674771
+          ],
+          [
+            -80.1955548,
+            25.7683378
+          ],
+          [
+            -80.1955808,
+            25.7687759
+          ],
+          [
+            -80.1955886,
+            25.769203
+          ],
+          [
+            -80.1956699,
+            25.7707027
+          ],
+          [
+            -80.1956876,
+            25.7714556
+          ],
+          [
+            -80.1956986,
+            25.7718191
+          ],
+          [
+            -80.1957195,
+            25.7721674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38923027",
+      "properties": {
+        "@id": "way/38923027",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1958611,
+            25.772524
+          ],
+          [
+            -80.1957839,
+            25.7719612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38923030",
+      "properties": {
+        "@id": "way/38923030",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1957195,
+            25.7721674
+          ],
+          [
+            -80.1957571,
+            25.7723633
+          ],
+          [
+            -80.1957678,
+            25.7724708
+          ],
+          [
+            -80.1957812,
+            25.7726208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38923098",
+      "properties": {
+        "@id": "way/38923098",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "3",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1959682,
+            25.7731684
+          ],
+          [
+            -80.1959395,
+            25.773059
+          ],
+          [
+            -80.1958611,
+            25.772524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38923107",
+      "properties": {
+        "@id": "way/38923107",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "3",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1957812,
+            25.7726208
+          ],
+          [
+            -80.1957978,
+            25.7728776
+          ],
+          [
+            -80.1958558,
+            25.7732136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38923447",
+      "properties": {
+        "@id": "way/38923447",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1962878,
+            25.7787704
+          ],
+          [
+            -80.1962534,
+            25.7774024
+          ],
+          [
+            -80.1962363,
+            25.7768768
+          ],
+          [
+            -80.1961762,
+            25.7752846
+          ],
+          [
+            -80.1961379,
+            25.7748951
+          ],
+          [
+            -80.1960205,
+            25.7736039
+          ],
+          [
+            -80.1959682,
+            25.7731684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38926594",
+      "properties": {
+        "@id": "way/38926594",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1992002,
+            25.7847413
+          ],
+          [
+            -80.198874,
+            25.7847104
+          ],
+          [
+            -80.1986594,
+            25.7846717
+          ],
+          [
+            -80.1984363,
+            25.7846176
+          ],
+          [
+            -80.1982217,
+            25.7845481
+          ],
+          [
+            -80.1980844,
+            25.7844862
+          ],
+          [
+            -80.1979041,
+            25.7843935
+          ],
+          [
+            -80.1977153,
+            25.7842776
+          ],
+          [
+            -80.197558,
+            25.78417
+          ],
+          [
+            -80.197349,
+            25.784007
+          ],
+          [
+            -80.1972261,
+            25.7838757
+          ],
+          [
+            -80.1970201,
+            25.7836516
+          ],
+          [
+            -80.1968913,
+            25.7834815
+          ],
+          [
+            -80.1967626,
+            25.7832883
+          ],
+          [
+            -80.1966596,
+            25.7831028
+          ],
+          [
+            -80.1965652,
+            25.7828787
+          ],
+          [
+            -80.1965051,
+            25.7826932
+          ],
+          [
+            -80.1964536,
+            25.7824845
+          ],
+          [
+            -80.1964192,
+            25.7822527
+          ],
+          [
+            -80.1964021,
+            25.7820826
+          ],
+          [
+            -80.1963935,
+            25.7818121
+          ],
+          [
+            -80.1963763,
+            25.7813871
+          ],
+          [
+            -80.196342,
+            25.7804596
+          ],
+          [
+            -80.1963163,
+            25.7797408
+          ],
+          [
+            -80.1962878,
+            25.7787704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38927254",
+      "properties": {
+        "@id": "way/38927254",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Seaboard Coast Line Railroad",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1991916,
+            25.7847954
+          ],
+          [
+            -80.1996207,
+            25.7847876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38927279",
+      "properties": {
+        "@id": "way/38927279",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1996207,
+            25.7847413
+          ],
+          [
+            -80.1992002,
+            25.7847413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38927280",
+      "properties": {
+        "@id": "way/38927280",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Seaboard Coast Line Railroad",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1996207,
+            25.7847876
+          ],
+          [
+            -80.1998439,
+            25.7847799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38927282",
+      "properties": {
+        "@id": "way/38927282",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1998439,
+            25.7847335
+          ],
+          [
+            -80.1996207,
+            25.7847413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38927284",
+      "properties": {
+        "@id": "way/38927284",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Seaboard Coast Line Railroad",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.1998439,
+            25.7847799
+          ],
+          [
+            -80.200752,
+            25.784759
+          ],
+          [
+            -80.2011571,
+            25.784749
+          ],
+          [
+            -80.2016721,
+            25.7847413
+          ],
+          [
+            -80.2026076,
+            25.7847799
+          ],
+          [
+            -80.2029664,
+            25.7847974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38927289",
+      "properties": {
+        "@id": "way/38927289",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2029664,
+            25.784751
+          ],
+          [
+            -80.2025819,
+            25.7847258
+          ],
+          [
+            -80.2017923,
+            25.7846949
+          ],
+          [
+            -80.201286,
+            25.784693
+          ],
+          [
+            -80.1998439,
+            25.7847335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38927385",
+      "properties": {
+        "@id": "way/38927385",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2293455,
+            25.8123987
+          ],
+          [
+            -80.2280581,
+            25.8124296
+          ],
+          [
+            -80.2262041,
+            25.8124759
+          ],
+          [
+            -80.2237665,
+            25.8125377
+          ],
+          [
+            -80.2217409,
+            25.8125996
+          ],
+          [
+            -80.2199471,
+            25.8126536
+          ],
+          [
+            -80.2193291,
+            25.8126768
+          ],
+          [
+            -80.218754,
+            25.8126923
+          ],
+          [
+            -80.2185309,
+            25.8126923
+          ],
+          [
+            -80.2183077,
+            25.8126768
+          ],
+          [
+            -80.2181103,
+            25.8126459
+          ],
+          [
+            -80.2178871,
+            25.8125996
+          ],
+          [
+            -80.2176726,
+            25.8125455
+          ],
+          [
+            -80.2175009,
+            25.8124837
+          ],
+          [
+            -80.2172949,
+            25.8123987
+          ],
+          [
+            -80.2171232,
+            25.8123137
+          ],
+          [
+            -80.2169172,
+            25.8122055
+          ],
+          [
+            -80.2166855,
+            25.8120432
+          ],
+          [
+            -80.2165053,
+            25.8119042
+          ],
+          [
+            -80.2163851,
+            25.8117805
+          ],
+          [
+            -80.2162478,
+            25.8116414
+          ],
+          [
+            -80.2161448,
+            25.8115255
+          ],
+          [
+            -80.2160504,
+            25.8113942
+          ],
+          [
+            -80.2159559,
+            25.8112397
+          ],
+          [
+            -80.2158529,
+            25.8110542
+          ],
+          [
+            -80.2157757,
+            25.810892
+          ],
+          [
+            -80.2156622,
+            25.8105823
+          ],
+          [
+            -80.215604,
+            25.810302
+          ],
+          [
+            -80.2155697,
+            25.8099956
+          ],
+          [
+            -80.2155354,
+            25.809277
+          ],
+          [
+            -80.2154925,
+            25.808203
+          ],
+          [
+            -80.2154581,
+            25.8073067
+          ],
+          [
+            -80.2154066,
+            25.8060781
+          ],
+          [
+            -80.2153895,
+            25.8055372
+          ],
+          [
+            -80.2153551,
+            25.8048108
+          ],
+          [
+            -80.2153294,
+            25.8041154
+          ],
+          [
+            -80.215295,
+            25.8033349
+          ],
+          [
+            -80.2152607,
+            25.8023381
+          ],
+          [
+            -80.2152607,
+            25.8019826
+          ],
+          [
+            -80.2152693,
+            25.8015499
+          ],
+          [
+            -80.2153036,
+            25.8009858
+          ],
+          [
+            -80.2153294,
+            25.8005685
+          ],
+          [
+            -80.2153551,
+            25.8001744
+          ],
+          [
+            -80.2153723,
+            25.7998576
+          ],
+          [
+            -80.2153723,
+            25.7994558
+          ],
+          [
+            -80.2153551,
+            25.799023
+          ],
+          [
+            -80.215338,
+            25.7986057
+          ],
+          [
+            -80.2153122,
+            25.798088
+          ],
+          [
+            -80.215295,
+            25.7977325
+          ],
+          [
+            -80.2152693,
+            25.7971143
+          ],
+          [
+            -80.215235,
+            25.7961715
+          ],
+          [
+            -80.215192,
+            25.7953524
+          ],
+          [
+            -80.2151749,
+            25.7948037
+          ],
+          [
+            -80.2151406,
+            25.7939382
+          ],
+          [
+            -80.2151234,
+            25.7930958
+          ],
+          [
+            -80.2150891,
+            25.7917512
+          ],
+          [
+            -80.2150633,
+            25.7903215
+          ],
+          [
+            -80.215029,
+            25.789085
+          ],
+          [
+            -80.215033,
+            25.788525
+          ],
+          [
+            -80.21501,
+            25.788239
+          ],
+          [
+            -80.2149775,
+            25.7880648
+          ],
+          [
+            -80.2149431,
+            25.7879025
+          ],
+          [
+            -80.2149002,
+            25.7877325
+          ],
+          [
+            -80.214856,
+            25.787599
+          ],
+          [
+            -80.2148058,
+            25.7874929
+          ],
+          [
+            -80.2147371,
+            25.7873461
+          ],
+          [
+            -80.2146513,
+            25.7871915
+          ],
+          [
+            -80.2145054,
+            25.7869674
+          ],
+          [
+            -80.2143681,
+            25.7867974
+          ],
+          [
+            -80.214236,
+            25.786643
+          ],
+          [
+            -80.2140591,
+            25.786496
+          ],
+          [
+            -80.2138096,
+            25.7863011
+          ],
+          [
+            -80.2136036,
+            25.7861388
+          ],
+          [
+            -80.2132088,
+            25.7858451
+          ],
+          [
+            -80.2128918,
+            25.7856072
+          ],
+          [
+            -80.211891,
+            25.784839
+          ],
+          [
+            -80.211739,
+            25.784736
+          ],
+          [
+            -80.211581,
+            25.78464
+          ],
+          [
+            -80.211336,
+            25.784509
+          ],
+          [
+            -80.211252,
+            25.784469
+          ],
+          [
+            -80.210986,
+            25.784369
+          ],
+          [
+            -80.2108576,
+            25.784332
+          ],
+          [
+            -80.2107031,
+            25.7842856
+          ],
+          [
+            -80.2104799,
+            25.7842393
+          ],
+          [
+            -80.2103254,
+            25.7842161
+          ],
+          [
+            -80.2101452,
+            25.7842006
+          ],
+          [
+            -80.2099993,
+            25.7841929
+          ],
+          [
+            -80.209784,
+            25.784203
+          ],
+          [
+            -80.209521,
+            25.784221
+          ],
+          [
+            -80.2092611,
+            25.7842393
+          ],
+          [
+            -80.208636,
+            25.784341
+          ],
+          [
+            -80.208485,
+            25.784363
+          ],
+          [
+            -80.2080681,
+            25.784417
+          ],
+          [
+            -80.2066691,
+            25.784618
+          ],
+          [
+            -80.205991,
+            25.7847184
+          ],
+          [
+            -80.2056477,
+            25.7847493
+          ],
+          [
+            -80.2053044,
+            25.7847725
+          ],
+          [
+            -80.2041594,
+            25.7847974
+          ],
+          [
+            -80.203586,
+            25.784783
+          ],
+          [
+            -80.2029664,
+            25.784751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38931079",
+      "properties": {
+        "@id": "way/38931079",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "railway": "subway",
+        "service": "crossover",
+        "source": "Yahoo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2312853,
+            25.8123678
+          ],
+          [
+            -80.2318518,
+            25.8124064
+          ],
+          [
+            -80.2333109,
+            25.8123832
+          ],
+          [
+            -80.2347185,
+            25.8123832
+          ],
+          [
+            -80.2353365,
+            25.8124373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38931116",
+      "properties": {
+        "@id": "way/38931116",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "railway": "subway",
+        "service": "crossover",
+        "source": "Yahoo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2347185,
+            25.8123832
+          ],
+          [
+            -80.2353623,
+            25.8123369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38931268",
+      "properties": {
+        "@id": "way/38931268",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "2",
+        "railway": "subway",
+        "service": "crossover",
+        "source": "Yahoo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2318518,
+            25.8124064
+          ],
+          [
+            -80.2312853,
+            25.8124682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38933282",
+      "properties": {
+        "@id": "way/38933282",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "railway": "subway",
+        "service": "crossover",
+        "source": "Yahoo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2469494,
+            25.8458505
+          ],
+          [
+            -80.2473133,
+            25.84586
+          ],
+          [
+            -80.247636,
+            25.8458737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38933764",
+      "properties": {
+        "@id": "way/38933764",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2469494,
+            25.8458969
+          ],
+          [
+            -80.247636,
+            25.8458737
+          ],
+          [
+            -80.2483742,
+            25.8458505
+          ],
+          [
+            -80.249562,
+            25.8458136
+          ],
+          [
+            -80.2504375,
+            25.8457905
+          ],
+          [
+            -80.2515533,
+            25.8457518
+          ],
+          [
+            -80.2525918,
+            25.8457209
+          ],
+          [
+            -80.2545745,
+            25.8456514
+          ],
+          [
+            -80.2560251,
+            25.8456051
+          ],
+          [
+            -80.2573726,
+            25.8455587
+          ],
+          [
+            -80.259218,
+            25.8455124
+          ],
+          [
+            -80.2601793,
+            25.8454815
+          ],
+          [
+            -80.2620676,
+            25.845412
+          ],
+          [
+            -80.2636726,
+            25.8453579
+          ],
+          [
+            -80.2645137,
+            25.845327
+          ],
+          [
+            -80.2655008,
+            25.8452961
+          ],
+          [
+            -80.2659042,
+            25.8452729
+          ],
+          [
+            -80.2663248,
+            25.8452343
+          ],
+          [
+            -80.2667367,
+            25.8451802
+          ],
+          [
+            -80.2679899,
+            25.8449562
+          ],
+          [
+            -80.2683246,
+            25.8448944
+          ],
+          [
+            -80.2686594,
+            25.8448172
+          ],
+          [
+            -80.2688739,
+            25.8447554
+          ],
+          [
+            -80.2690628,
+            25.8446859
+          ],
+          [
+            -80.2692173,
+            25.8446163
+          ],
+          [
+            -80.2694919,
+            25.8444773
+          ],
+          [
+            -80.2696378,
+            25.8443769
+          ],
+          [
+            -80.269861,
+            25.8442069
+          ],
+          [
+            -80.2699897,
+            25.8440911
+          ],
+          [
+            -80.2701442,
+            25.8439443
+          ],
+          [
+            -80.2717987,
+            25.8423245
+          ],
+          [
+            -80.2719543,
+            25.8421894
+          ],
+          [
+            -80.272117,
+            25.8420503
+          ],
+          [
+            -80.2723271,
+            25.8419069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38933783",
+      "properties": {
+        "@id": "way/38933783",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2722761,
+            25.8418767
+          ],
+          [
+            -80.2720186,
+            25.8420735
+          ],
+          [
+            -80.2718108,
+            25.8422557
+          ],
+          [
+            -80.2712858,
+            25.8427547
+          ],
+          [
+            -80.2709939,
+            25.8430405
+          ],
+          [
+            -80.2700498,
+            25.8439752
+          ],
+          [
+            -80.269861,
+            25.8441374
+          ],
+          [
+            -80.269699,
+            25.844268
+          ],
+          [
+            -80.269599,
+            25.84434
+          ],
+          [
+            -80.269444,
+            25.84444
+          ],
+          [
+            -80.26928,
+            25.844529
+          ],
+          [
+            -80.2690885,
+            25.8446163
+          ],
+          [
+            -80.2688568,
+            25.844709
+          ],
+          [
+            -80.268638,
+            25.844774
+          ],
+          [
+            -80.268481,
+            25.844813
+          ],
+          [
+            -80.2682989,
+            25.8448558
+          ],
+          [
+            -80.2678783,
+            25.844933
+          ],
+          [
+            -80.2667196,
+            25.8451339
+          ],
+          [
+            -80.2663248,
+            25.845188
+          ],
+          [
+            -80.2660072,
+            25.8452189
+          ],
+          [
+            -80.2656724,
+            25.845242
+          ],
+          [
+            -80.2642648,
+            25.8452961
+          ],
+          [
+            -80.2623336,
+            25.8453579
+          ],
+          [
+            -80.2608917,
+            25.845412
+          ],
+          [
+            -80.2601793,
+            25.8454351
+          ],
+          [
+            -80.2592266,
+            25.845466
+          ],
+          [
+            -80.258605,
+            25.845475
+          ],
+          [
+            -80.2580764,
+            25.8454969
+          ],
+          [
+            -80.2559993,
+            25.8455587
+          ],
+          [
+            -80.2536132,
+            25.8456437
+          ],
+          [
+            -80.2526863,
+            25.8456669
+          ],
+          [
+            -80.2513473,
+            25.8457132
+          ],
+          [
+            -80.2505662,
+            25.8457364
+          ],
+          [
+            -80.2495706,
+            25.845775
+          ],
+          [
+            -80.2483776,
+            25.8458136
+          ],
+          [
+            -80.2476652,
+            25.8458291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38933898",
+      "properties": {
+        "@id": "way/38933898",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3174389,
+            25.8425173
+          ],
+          [
+            -80.3165462,
+            25.8425128
+          ],
+          [
+            -80.3147609,
+            25.8425206
+          ],
+          [
+            -80.314409,
+            25.8425128
+          ],
+          [
+            -80.3142432,
+            25.8425033
+          ],
+          [
+            -80.314246,
+            25.8425051
+          ],
+          [
+            -80.3140743,
+            25.8424897
+          ],
+          [
+            -80.3138941,
+            25.8424665
+          ],
+          [
+            -80.3136881,
+            25.8424279
+          ],
+          [
+            -80.3135593,
+            25.842397
+          ],
+          [
+            -80.3134118,
+            25.8423547
+          ],
+          [
+            -80.3132675,
+            25.8423043
+          ],
+          [
+            -80.3131302,
+            25.8422502
+          ],
+          [
+            -80.3129585,
+            25.842173
+          ],
+          [
+            -80.3126924,
+            25.8420416
+          ],
+          [
+            -80.312083,
+            25.841694
+          ],
+          [
+            -80.3114393,
+            25.8413232
+          ],
+          [
+            -80.3108382,
+            25.8409836
+          ],
+          [
+            -80.3101089,
+            25.8405894
+          ],
+          [
+            -80.3093107,
+            25.840234
+          ],
+          [
+            -80.3083408,
+            25.8398092
+          ],
+          [
+            -80.3079374,
+            25.8396547
+          ],
+          [
+            -80.3077142,
+            25.8395929
+          ],
+          [
+            -80.3074138,
+            25.8395311
+          ],
+          [
+            -80.3071306,
+            25.8395002
+          ],
+          [
+            -80.306937,
+            25.83949
+          ],
+          [
+            -80.306691,
+            25.839486
+          ],
+          [
+            -80.306325,
+            25.839502
+          ],
+          [
+            -80.3060243,
+            25.8395278
+          ],
+          [
+            -80.3054836,
+            25.8395896
+          ],
+          [
+            -80.3048313,
+            25.8396591
+          ],
+          [
+            -80.3046768,
+            25.8396745
+          ],
+          [
+            -80.3044193,
+            25.8397054
+          ],
+          [
+            -80.3041875,
+            25.8397363
+          ],
+          [
+            -80.303767,
+            25.8397672
+          ],
+          [
+            -80.3035438,
+            25.8397672
+          ],
+          [
+            -80.3031232,
+            25.8397672
+          ],
+          [
+            -80.3022324,
+            25.839785
+          ],
+          [
+            -80.3007719,
+            25.8397862
+          ],
+          [
+            -80.3003589,
+            25.8397862
+          ],
+          [
+            -80.2991545,
+            25.8397874
+          ],
+          [
+            -80.2981997,
+            25.8397862
+          ],
+          [
+            -80.2973039,
+            25.8397672
+          ],
+          [
+            -80.2942054,
+            25.8397595
+          ],
+          [
+            -80.292026,
+            25.839763
+          ],
+          [
+            -80.2916992,
+            25.839775
+          ],
+          [
+            -80.2914932,
+            25.8398059
+          ],
+          [
+            -80.291272,
+            25.839841
+          ],
+          [
+            -80.291096,
+            25.839885
+          ],
+          [
+            -80.2908893,
+            25.8399443
+          ],
+          [
+            -80.2904722,
+            25.8400855
+          ],
+          [
+            -80.2900189,
+            25.8402533
+          ],
+          [
+            -80.2896796,
+            25.8403801
+          ],
+          [
+            -80.2893989,
+            25.8404779
+          ],
+          [
+            -80.2891757,
+            25.840532
+          ],
+          [
+            -80.288911,
+            25.840574
+          ],
+          [
+            -80.288622,
+            25.840606
+          ],
+          [
+            -80.2879398,
+            25.8406402
+          ],
+          [
+            -80.2858112,
+            25.840702
+          ],
+          [
+            -80.2842147,
+            25.840756
+          ],
+          [
+            -80.283674,
+            25.8407715
+          ],
+          [
+            -80.2832963,
+            25.8407946
+          ],
+          [
+            -80.28285,
+            25.8408487
+          ],
+          [
+            -80.2815797,
+            25.8410187
+          ],
+          [
+            -80.2811849,
+            25.8410496
+          ],
+          [
+            -80.2805068,
+            25.8410727
+          ],
+          [
+            -80.2797258,
+            25.8410959
+          ],
+          [
+            -80.2784727,
+            25.8411345
+          ],
+          [
+            -80.2779748,
+            25.8411577
+          ],
+          [
+            -80.2747734,
+            25.8412504
+          ],
+          [
+            -80.2740867,
+            25.8412813
+          ],
+          [
+            -80.2738378,
+            25.8412968
+          ],
+          [
+            -80.2736919,
+            25.8413122
+          ],
+          [
+            -80.273358,
+            25.841367
+          ],
+          [
+            -80.273156,
+            25.841421
+          ],
+          [
+            -80.272972,
+            25.841484
+          ],
+          [
+            -80.2728352,
+            25.841541
+          ],
+          [
+            -80.2726979,
+            25.8416028
+          ],
+          [
+            -80.2725576,
+            25.841689
+          ],
+          [
+            -80.2723928,
+            25.8417947
+          ],
+          [
+            -80.2722761,
+            25.8418767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38934228",
+      "properties": {
+        "@id": "way/38934228",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "2",
+        "railway": "subway",
+        "service": "crossover",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2990741,
+            25.83989
+          ],
+          [
+            -80.2994523,
+            25.8398622
+          ],
+          [
+            -80.2997057,
+            25.8398321
+          ],
+          [
+            -80.3000142,
+            25.8398055
+          ],
+          [
+            -80.3003589,
+            25.8397862
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38934235",
+      "properties": {
+        "@id": "way/38934235",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "2",
+        "railway": "subway",
+        "service": "crossover",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2991545,
+            25.8397874
+          ],
+          [
+            -80.2997057,
+            25.8398321
+          ],
+          [
+            -80.3004273,
+            25.8398876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38934298",
+      "properties": {
+        "@id": "way/38934298",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2886951,
+            25.8406479
+          ],
+          [
+            -80.2890041,
+            25.840617
+          ],
+          [
+            -80.2893045,
+            25.8405552
+          ],
+          [
+            -80.2896392,
+            25.8404548
+          ],
+          [
+            -80.2900619,
+            25.8402859
+          ],
+          [
+            -80.290746,
+            25.840046
+          ],
+          [
+            -80.2910297,
+            25.8399681
+          ],
+          [
+            -80.2912786,
+            25.8399217
+          ],
+          [
+            -80.291546,
+            25.839887
+          ],
+          [
+            -80.2918966,
+            25.8398754
+          ],
+          [
+            -80.295223,
+            25.839871
+          ],
+          [
+            -80.2972438,
+            25.8398754
+          ],
+          [
+            -80.2976968,
+            25.8398804
+          ],
+          [
+            -80.2984049,
+            25.839884
+          ],
+          [
+            -80.2990741,
+            25.83989
+          ],
+          [
+            -80.3004273,
+            25.8398876
+          ],
+          [
+            -80.3008309,
+            25.8398888
+          ],
+          [
+            -80.3022082,
+            25.8398828
+          ],
+          [
+            -80.303122,
+            25.839865
+          ],
+          [
+            -80.303293,
+            25.839857
+          ],
+          [
+            -80.303417,
+            25.839851
+          ],
+          [
+            -80.30372,
+            25.839824
+          ],
+          [
+            -80.303971,
+            25.839797
+          ],
+          [
+            -80.304209,
+            25.839772
+          ],
+          [
+            -80.3045824,
+            25.8397286
+          ],
+          [
+            -80.304914,
+            25.839694
+          ],
+          [
+            -80.305492,
+            25.83963
+          ],
+          [
+            -80.306062,
+            25.839571
+          ],
+          [
+            -80.30644,
+            25.839536
+          ],
+          [
+            -80.306648,
+            25.839527
+          ],
+          [
+            -80.306926,
+            25.83953
+          ],
+          [
+            -80.3071247,
+            25.8395448
+          ],
+          [
+            -80.3075002,
+            25.8396088
+          ],
+          [
+            -80.3077591,
+            25.8396607
+          ],
+          [
+            -80.3080166,
+            25.8397331
+          ],
+          [
+            -80.3083062,
+            25.8398429
+          ],
+          [
+            -80.3092678,
+            25.8402485
+          ],
+          [
+            -80.3101556,
+            25.840648
+          ],
+          [
+            -80.3108557,
+            25.8410258
+          ],
+          [
+            -80.3119972,
+            25.841694
+          ],
+          [
+            -80.312701,
+            25.8420957
+          ],
+          [
+            -80.3129757,
+            25.8422347
+          ],
+          [
+            -80.3132417,
+            25.8423429
+          ],
+          [
+            -80.3134992,
+            25.8424279
+          ],
+          [
+            -80.3136881,
+            25.8424742
+          ],
+          [
+            -80.3139456,
+            25.8425206
+          ],
+          [
+            -80.3140657,
+            25.842536
+          ],
+          [
+            -80.3144005,
+            25.8425592
+          ],
+          [
+            -80.3147609,
+            25.8425592
+          ],
+          [
+            -80.3149021,
+            25.8425604
+          ],
+          [
+            -80.3165462,
+            25.8425592
+          ],
+          [
+            -80.3174389,
+            25.8425592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38934367",
+      "properties": {
+        "@id": "way/38934367",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "2",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "116306052:116306065:116320281:116323617:116305959:116320252:116320259:116320492:116320494; 116306049:116306064",
+        "tiger:upload_uuid": "bulk_upload.pl-bcfe2a6c-15d8-4c58-8cb2-f0d6e1120159"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.304914,
+            25.839694
+          ],
+          [
+            -80.305153,
+            25.839649
+          ],
+          [
+            -80.3054836,
+            25.8395896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38934514",
+      "properties": {
+        "@id": "way/38934514",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3174389,
+            25.8425592
+          ],
+          [
+            -80.3178852,
+            25.8425592
+          ],
+          [
+            -80.3181341,
+            25.8425669
+          ],
+          [
+            -80.3184517,
+            25.8426055
+          ],
+          [
+            -80.3187092,
+            25.8426519
+          ],
+          [
+            -80.3189924,
+            25.8427214
+          ],
+          [
+            -80.3196962,
+            25.84293
+          ],
+          [
+            -80.3197662,
+            25.8429507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38934515",
+      "properties": {
+        "@id": "way/38934515",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "2",
+        "railway": "subway",
+        "service": "yard",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3074138,
+            25.8395311
+          ],
+          [
+            -80.3078,
+            25.839562
+          ],
+          [
+            -80.308649,
+            25.839644
+          ],
+          [
+            -80.309241,
+            25.839696
+          ],
+          [
+            -80.309749,
+            25.839722
+          ],
+          [
+            -80.310167,
+            25.83973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38934608",
+      "properties": {
+        "@id": "way/38934608",
+        "electrified": "yes",
+        "railway": "subway",
+        "service": "yard",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.310167,
+            25.83973
+          ],
+          [
+            -80.311516,
+            25.839727
+          ],
+          [
+            -80.312322,
+            25.839725
+          ],
+          [
+            -80.312465,
+            25.839712
+          ],
+          [
+            -80.312607,
+            25.839688
+          ],
+          [
+            -80.312714,
+            25.839659
+          ],
+          [
+            -80.312784,
+            25.839634
+          ],
+          [
+            -80.312918,
+            25.839569
+          ],
+          [
+            -80.313039,
+            25.839486
+          ],
+          [
+            -80.313094,
+            25.839439
+          ],
+          [
+            -80.313192,
+            25.839334
+          ],
+          [
+            -80.313266,
+            25.839223
+          ],
+          [
+            -80.313318,
+            25.839109
+          ],
+          [
+            -80.313355,
+            25.83899
+          ],
+          [
+            -80.313368,
+            25.838911
+          ],
+          [
+            -80.313378,
+            25.838846
+          ],
+          [
+            -80.313381,
+            25.838807
+          ],
+          [
+            -80.313368,
+            25.838081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38934615",
+      "properties": {
+        "@id": "way/38934615",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "2",
+        "railway": "subway",
+        "service": "yard",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3101862,
+            25.8397661
+          ],
+          [
+            -80.309845,
+            25.839767
+          ],
+          [
+            -80.309411,
+            25.83975
+          ],
+          [
+            -80.309027,
+            25.83972
+          ],
+          [
+            -80.308474,
+            25.839666
+          ],
+          [
+            -80.307891,
+            25.83961
+          ],
+          [
+            -80.3077142,
+            25.8395929
+          ],
+          [
+            -80.3071247,
+            25.8395448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38935101",
+      "properties": {
+        "@id": "way/38935101",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "service": "siding",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tunnel": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3275057,
+            25.8432507
+          ],
+          [
+            -80.3254898,
+            25.843293
+          ],
+          [
+            -80.3243239,
+            25.8433162
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113569564",
+      "properties": {
+        "@id": "way/113569564",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2585602,
+            25.7961144
+          ],
+          [
+            -80.2586072,
+            25.7974205
+          ],
+          [
+            -80.2586458,
+            25.7985936
+          ],
+          [
+            -80.2586644,
+            25.7995255
+          ],
+          [
+            -80.2587071,
+            25.800631
+          ],
+          [
+            -80.2587158,
+            25.8008982
+          ],
+          [
+            -80.2587753,
+            25.8020302
+          ],
+          [
+            -80.2587721,
+            25.8025112
+          ],
+          [
+            -80.2587239,
+            25.802999
+          ],
+          [
+            -80.2586659,
+            25.8033658
+          ],
+          [
+            -80.2584406,
+            25.8047913
+          ],
+          [
+            -80.2583869,
+            25.805139
+          ],
+          [
+            -80.258249,
+            25.8061962
+          ],
+          [
+            -80.2580747,
+            25.8071911
+          ],
+          [
+            -80.257895,
+            25.8078503
+          ],
+          [
+            -80.2577206,
+            25.8082632
+          ],
+          [
+            -80.2573183,
+            25.8088645
+          ],
+          [
+            -80.2569696,
+            25.8092025
+          ],
+          [
+            -80.2564976,
+            25.8095599
+          ],
+          [
+            -80.2559168,
+            25.8098546
+          ],
+          [
+            -80.255375,
+            25.8100937
+          ],
+          [
+            -80.2531331,
+            25.8105002
+          ],
+          [
+            -80.2520759,
+            25.8107346
+          ],
+          [
+            -80.2512312,
+            25.8110646
+          ],
+          [
+            -80.2503706,
+            25.8115906
+          ],
+          [
+            -80.2497267,
+            25.8120053
+          ],
+          [
+            -80.2489957,
+            25.8122966
+          ],
+          [
+            -80.2481609,
+            25.8124476
+          ],
+          [
+            -80.2469706,
+            25.8124907
+          ],
+          [
+            -80.2444941,
+            25.8125698
+          ],
+          [
+            -80.2429323,
+            25.8126094
+          ],
+          [
+            -80.2414385,
+            25.8126669
+          ],
+          [
+            -80.2402322,
+            25.8126454
+          ],
+          [
+            -80.2391337,
+            25.8125267
+          ],
+          [
+            -80.2373179,
+            25.8124108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113569565",
+      "properties": {
+        "@id": "way/113569565",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "railway": "subway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2588621,
+            25.8006287
+          ],
+          [
+            -80.2587672,
+            25.8000533
+          ],
+          [
+            -80.2586644,
+            25.7995255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113569568",
+      "properties": {
+        "@id": "way/113569568",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2335568,
+            25.8124373
+          ],
+          [
+            -80.2349852,
+            25.8125325
+          ],
+          [
+            -80.2368928,
+            25.8126424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113569570",
+      "properties": {
+        "@id": "way/113569570",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "railway": "subway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2588168,
+            25.7995428
+          ],
+          [
+            -80.2587672,
+            25.8000533
+          ],
+          [
+            -80.2587071,
+            25.800631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113695481",
+      "properties": {
+        "@id": "way/113695481",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Seaboard Coast Line Railroad",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2293455,
+            25.8124991
+          ],
+          [
+            -80.2306158,
+            25.8124837
+          ],
+          [
+            -80.2312853,
+            25.8124682
+          ],
+          [
+            -80.2318175,
+            25.8124605
+          ],
+          [
+            -80.2324269,
+            25.812445
+          ],
+          [
+            -80.2330277,
+            25.8124373
+          ],
+          [
+            -80.2335568,
+            25.8124373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113695482",
+      "properties": {
+        "@id": "way/113695482",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2373179,
+            25.8124108
+          ],
+          [
+            -80.237311,
+            25.81241
+          ],
+          [
+            -80.237118,
+            25.812389
+          ],
+          [
+            -80.236766,
+            25.812366
+          ],
+          [
+            -80.2363236,
+            25.8123446
+          ],
+          [
+            -80.2353623,
+            25.8123369
+          ],
+          [
+            -80.23346,
+            25.812341
+          ],
+          [
+            -80.233219,
+            25.81234
+          ],
+          [
+            -80.2325899,
+            25.8123446
+          ],
+          [
+            -80.2317402,
+            25.81236
+          ],
+          [
+            -80.2312853,
+            25.8123678
+          ],
+          [
+            -80.2306502,
+            25.8123755
+          ],
+          [
+            -80.2293455,
+            25.8123987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113695483",
+      "properties": {
+        "@id": "way/113695483",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2476652,
+            25.8458291
+          ],
+          [
+            -80.2469494,
+            25.8458505
+          ],
+          [
+            -80.2458594,
+            25.8458891
+          ],
+          [
+            -80.2454559,
+            25.8458969
+          ],
+          [
+            -80.2451727,
+            25.8458891
+          ],
+          [
+            -80.2449495,
+            25.8458737
+          ],
+          [
+            -80.2447006,
+            25.8458351
+          ],
+          [
+            -80.2444689,
+            25.8457887
+          ],
+          [
+            -80.2442801,
+            25.8457424
+          ],
+          [
+            -80.2441084,
+            25.8456883
+          ],
+          [
+            -80.2438595,
+            25.8455956
+          ],
+          [
+            -80.2436278,
+            25.8454875
+          ],
+          [
+            -80.243396,
+            25.8453639
+          ],
+          [
+            -80.24325,
+            25.84526
+          ],
+          [
+            -80.2430441,
+            25.8451244
+          ],
+          [
+            -80.2428209,
+            25.8449467
+          ],
+          [
+            -80.2426579,
+            25.8447845
+          ],
+          [
+            -80.242469,
+            25.844576
+          ],
+          [
+            -80.242306,
+            25.8443597
+          ],
+          [
+            -80.2421601,
+            25.8441434
+          ],
+          [
+            -80.2420227,
+            25.8438807
+          ],
+          [
+            -80.2419283,
+            25.8436645
+          ],
+          [
+            -80.2418596,
+            25.8434713
+          ],
+          [
+            -80.2418081,
+            25.8433014
+          ],
+          [
+            -80.2417566,
+            25.8430851
+          ],
+          [
+            -80.2417051,
+            25.8428225
+          ],
+          [
+            -80.2416708,
+            25.8426293
+          ],
+          [
+            -80.241653,
+            25.842372
+          ],
+          [
+            -80.2416022,
+            25.8417178
+          ],
+          [
+            -80.2414992,
+            25.8385661
+          ],
+          [
+            -80.2413275,
+            25.8349044
+          ],
+          [
+            -80.2412588,
+            25.8335525
+          ],
+          [
+            -80.2412245,
+            25.8328263
+          ],
+          [
+            -80.2411816,
+            25.8319456
+          ],
+          [
+            -80.2411472,
+            25.831173
+          ],
+          [
+            -80.2411043,
+            25.8302846
+          ],
+          [
+            -80.2410553,
+            25.8293789
+          ],
+          [
+            -80.2410432,
+            25.8284301
+          ],
+          [
+            -80.240967,
+            25.8275188
+          ],
+          [
+            -80.2409283,
+            25.8266757
+          ],
+          [
+            -80.2409149,
+            25.8257872
+          ],
+          [
+            -80.2408894,
+            25.8254021
+          ],
+          [
+            -80.2408747,
+            25.8249663
+          ],
+          [
+            -80.2408532,
+            25.8246114
+          ],
+          [
+            -80.2408237,
+            25.823875
+          ],
+          [
+            -80.2407915,
+            25.8230686
+          ],
+          [
+            -80.2407862,
+            25.8225447
+          ],
+          [
+            -80.2407459,
+            25.8215922
+          ],
+          [
+            -80.2407205,
+            25.8209174
+          ],
+          [
+            -80.2406963,
+            25.8202474
+          ],
+          [
+            -80.2406507,
+            25.819074
+          ],
+          [
+            -80.2406185,
+            25.8183098
+          ],
+          [
+            -80.240585,
+            25.8173006
+          ],
+          [
+            -80.2405394,
+            25.8161561
+          ],
+          [
+            -80.2405273,
+            25.8157167
+          ],
+          [
+            -80.2405059,
+            25.815305
+          ],
+          [
+            -80.240471,
+            25.8149935
+          ],
+          [
+            -80.2404241,
+            25.8147484
+          ],
+          [
+            -80.240357,
+            25.8145082
+          ],
+          [
+            -80.2402779,
+            25.8143078
+          ],
+          [
+            -80.2401854,
+            25.8141255
+          ],
+          [
+            -80.2400848,
+            25.8139408
+          ],
+          [
+            -80.239969,
+            25.8137758
+          ],
+          [
+            -80.2398313,
+            25.8135991
+          ],
+          [
+            -80.239669,
+            25.8134204
+          ],
+          [
+            -80.239551,
+            25.8133178
+          ],
+          [
+            -80.239403,
+            25.813199
+          ],
+          [
+            -80.2392418,
+            25.8130786
+          ],
+          [
+            -80.239074,
+            25.812967
+          ],
+          [
+            -80.2388127,
+            25.8128236
+          ],
+          [
+            -80.2386067,
+            25.8127232
+          ],
+          [
+            -80.2383835,
+            25.8126382
+          ],
+          [
+            -80.238171,
+            25.812576
+          ],
+          [
+            -80.237929,
+            25.812516
+          ],
+          [
+            -80.2376196,
+            25.812445
+          ],
+          [
+            -80.2373179,
+            25.8124108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113695484",
+      "properties": {
+        "@id": "way/113695484",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Seaboard Coast Line Railroad",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2029664,
+            25.7847974
+          ],
+          [
+            -80.2035947,
+            25.7848263
+          ],
+          [
+            -80.2040994,
+            25.7848438
+          ],
+          [
+            -80.2054641,
+            25.7848129
+          ],
+          [
+            -80.2057936,
+            25.7848112
+          ],
+          [
+            -80.2061283,
+            25.784788
+          ],
+          [
+            -80.2065832,
+            25.7847339
+          ],
+          [
+            -80.2080767,
+            25.7845098
+          ],
+          [
+            -80.2085402,
+            25.7844479
+          ],
+          [
+            -80.2088921,
+            25.7844016
+          ],
+          [
+            -80.2095015,
+            25.7843166
+          ],
+          [
+            -80.2097418,
+            25.7842934
+          ],
+          [
+            -80.209965,
+            25.7842856
+          ],
+          [
+            -80.2102053,
+            25.7842934
+          ],
+          [
+            -80.2104542,
+            25.7843243
+          ],
+          [
+            -80.210611,
+            25.78435
+          ],
+          [
+            -80.210772,
+            25.784384
+          ],
+          [
+            -80.210946,
+            25.784432
+          ],
+          [
+            -80.21119,
+            25.784517
+          ],
+          [
+            -80.211405,
+            25.784611
+          ],
+          [
+            -80.21161,
+            25.784719
+          ],
+          [
+            -80.211879,
+            25.7849039
+          ],
+          [
+            -80.2122566,
+            25.7851821
+          ],
+          [
+            -80.2130634,
+            25.7857927
+          ],
+          [
+            -80.213535,
+            25.7861465
+          ],
+          [
+            -80.2137839,
+            25.786332
+          ],
+          [
+            -80.213999,
+            25.7865037
+          ],
+          [
+            -80.2141449,
+            25.7866351
+          ],
+          [
+            -80.2142393,
+            25.7867356
+          ],
+          [
+            -80.2143423,
+            25.7868515
+          ],
+          [
+            -80.2144196,
+            25.7869519
+          ],
+          [
+            -80.214514,
+            25.7870756
+          ],
+          [
+            -80.2146084,
+            25.7872302
+          ],
+          [
+            -80.2146856,
+            25.7873615
+          ],
+          [
+            -80.2147371,
+            25.7874775
+          ],
+          [
+            -80.2148058,
+            25.7876398
+          ],
+          [
+            -80.2148659,
+            25.7878252
+          ],
+          [
+            -80.2149174,
+            25.7880416
+          ],
+          [
+            -80.2149517,
+            25.7882658
+          ],
+          [
+            -80.2149775,
+            25.7885594
+          ],
+          [
+            -80.2149861,
+            25.7891159
+          ],
+          [
+            -80.2150118,
+            25.7903215
+          ],
+          [
+            -80.2150376,
+            25.7917512
+          ],
+          [
+            -80.2150719,
+            25.7930726
+          ],
+          [
+            -80.2150891,
+            25.7939614
+          ],
+          [
+            -80.215132,
+            25.7948578
+          ],
+          [
+            -80.2151491,
+            25.7953446
+          ],
+          [
+            -80.2151835,
+            25.7961792
+          ],
+          [
+            -80.2152264,
+            25.7970757
+          ],
+          [
+            -80.2152521,
+            25.7977093
+          ],
+          [
+            -80.2152607,
+            25.7980957
+          ],
+          [
+            -80.2152865,
+            25.7985284
+          ],
+          [
+            -80.2153036,
+            25.7989998
+          ],
+          [
+            -80.2153122,
+            25.7992703
+          ],
+          [
+            -80.2153122,
+            25.7996026
+          ],
+          [
+            -80.2153036,
+            25.8000121
+          ],
+          [
+            -80.215295,
+            25.8002826
+          ],
+          [
+            -80.2152607,
+            25.8008544
+          ],
+          [
+            -80.2152178,
+            25.8015422
+          ],
+          [
+            -80.2152092,
+            25.801944
+          ],
+          [
+            -80.2152178,
+            25.8023304
+          ],
+          [
+            -80.2152521,
+            25.8033349
+          ],
+          [
+            -80.2152865,
+            25.8041076
+          ],
+          [
+            -80.2153122,
+            25.8048263
+          ],
+          [
+            -80.2153294,
+            25.8051817
+          ],
+          [
+            -80.2153294,
+            25.8056453
+          ],
+          [
+            -80.2153208,
+            25.8060472
+          ],
+          [
+            -80.2153208,
+            25.8065262
+          ],
+          [
+            -80.2153465,
+            25.8072835
+          ],
+          [
+            -80.2153809,
+            25.8082107
+          ],
+          [
+            -80.2154238,
+            25.8092693
+          ],
+          [
+            -80.2154495,
+            25.8099184
+          ],
+          [
+            -80.2154667,
+            25.8101811
+          ],
+          [
+            -80.2154925,
+            25.8104052
+          ],
+          [
+            -80.2155268,
+            25.8105752
+          ],
+          [
+            -80.215645,
+            25.810888
+          ],
+          [
+            -80.2157929,
+            25.8111778
+          ],
+          [
+            -80.2158959,
+            25.8113478
+          ],
+          [
+            -80.2159989,
+            25.8114946
+          ],
+          [
+            -80.2161705,
+            25.811711
+          ],
+          [
+            -80.2163679,
+            25.8119042
+          ],
+          [
+            -80.2165224,
+            25.8120355
+          ],
+          [
+            -80.2167713,
+            25.8122132
+          ],
+          [
+            -80.2169602,
+            25.8123291
+          ],
+          [
+            -80.2170803,
+            25.8123909
+          ],
+          [
+            -80.2172606,
+            25.8124682
+          ],
+          [
+            -80.217458,
+            25.8125455
+          ],
+          [
+            -80.2176897,
+            25.8126227
+          ],
+          [
+            -80.2179558,
+            25.8126768
+          ],
+          [
+            -80.218179,
+            25.8127155
+          ],
+          [
+            -80.218385,
+            25.8127309
+          ],
+          [
+            -80.2185824,
+            25.8127386
+          ],
+          [
+            -80.2195179,
+            25.8127155
+          ],
+          [
+            -80.2214234,
+            25.8126459
+          ],
+          [
+            -80.2239039,
+            25.8125764
+          ],
+          [
+            -80.2244017,
+            25.8125609
+          ],
+          [
+            -80.2262127,
+            25.8125146
+          ],
+          [
+            -80.226865,
+            25.8125068
+          ],
+          [
+            -80.2277491,
+            25.8125146
+          ],
+          [
+            -80.2280924,
+            25.8125223
+          ],
+          [
+            -80.22841,
+            25.8125146
+          ],
+          [
+            -80.2289421,
+            25.8125068
+          ],
+          [
+            -80.2293455,
+            25.8124991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174286546",
+      "properties": {
+        "@id": "way/174286546",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "3",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2368928,
+            25.8126424
+          ],
+          [
+            -80.2380957,
+            25.8126932
+          ],
+          [
+            -80.2399939,
+            25.8127355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174286548",
+      "properties": {
+        "@id": "way/174286548",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2399939,
+            25.8127355
+          ],
+          [
+            -80.241084,
+            25.812727
+          ],
+          [
+            -80.2429352,
+            25.8126593
+          ],
+          [
+            -80.2457544,
+            25.8125832
+          ],
+          [
+            -80.2479909,
+            25.8125071
+          ],
+          [
+            -80.2486842,
+            25.8124152
+          ],
+          [
+            -80.2493817,
+            25.8122195
+          ],
+          [
+            -80.2498825,
+            25.8119765
+          ],
+          [
+            -80.2503179,
+            25.8116817
+          ],
+          [
+            -80.2512445,
+            25.8111064
+          ],
+          [
+            -80.2521131,
+            25.8107728
+          ],
+          [
+            -80.253149,
+            25.8105481
+          ],
+          [
+            -80.2553959,
+            25.8101468
+          ],
+          [
+            -80.2559733,
+            25.8098938
+          ],
+          [
+            -80.2565324,
+            25.8096033
+          ],
+          [
+            -80.2570179,
+            25.8092194
+          ],
+          [
+            -80.2573532,
+            25.8088934
+          ],
+          [
+            -80.2577448,
+            25.8083067
+          ],
+          [
+            -80.2579486,
+            25.8078624
+          ],
+          [
+            -80.2581444,
+            25.807208
+          ],
+          [
+            -80.2583054,
+            25.806189
+          ],
+          [
+            -80.2584416,
+            25.8051726
+          ],
+          [
+            -80.2584926,
+            25.8048048
+          ],
+          [
+            -80.2587174,
+            25.8033745
+          ],
+          [
+            -80.2587668,
+            25.8030062
+          ],
+          [
+            -80.2588151,
+            25.8026947
+          ],
+          [
+            -80.2588526,
+            25.8023228
+          ],
+          [
+            -80.2588713,
+            25.8019003
+          ],
+          [
+            -80.258874,
+            25.8012218
+          ],
+          [
+            -80.2588714,
+            25.8009006
+          ],
+          [
+            -80.2588621,
+            25.8006287
+          ],
+          [
+            -80.2588168,
+            25.7995428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174286978",
+      "properties": {
+        "@id": "way/174286978",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2860451,
+            25.7074561
+          ],
+          [
+            -80.2856073,
+            25.7078118
+          ],
+          [
+            -80.2852039,
+            25.7081443
+          ],
+          [
+            -80.2829723,
+            25.7099462
+          ],
+          [
+            -80.2822685,
+            25.7105185
+          ],
+          [
+            -80.2802515,
+            25.712127
+          ],
+          [
+            -80.2796593,
+            25.7125987
+          ],
+          [
+            -80.2792043,
+            25.7129622
+          ],
+          [
+            -80.2788267,
+            25.7132483
+          ],
+          [
+            -80.2783804,
+            25.7135808
+          ],
+          [
+            -80.2778396,
+            25.7140062
+          ],
+          [
+            -80.2772131,
+            25.7145165
+          ],
+          [
+            -80.2764921,
+            25.7151043
+          ],
+          [
+            -80.2762174,
+            25.7153285
+          ],
+          [
+            -80.2748699,
+            25.7164189
+          ],
+          [
+            -80.2742519,
+            25.7169215
+          ],
+          [
+            -80.2736425,
+            25.7174164
+          ],
+          [
+            -80.2711792,
+            25.7194115
+          ],
+          [
+            -80.2695913,
+            25.7207028
+          ],
+          [
+            -80.2666387,
+            25.7230999
+          ],
+          [
+            -80.2663212,
+            25.7233551
+          ],
+          [
+            -80.2658577,
+            25.723734
+          ],
+          [
+            -80.265583,
+            25.7239582
+          ],
+          [
+            -80.2632141,
+            25.7259068
+          ],
+          [
+            -80.2617378,
+            25.727113
+          ],
+          [
+            -80.2612057,
+            25.7275538
+          ],
+          [
+            -80.2603473,
+            25.7282497
+          ],
+          [
+            -80.2592487,
+            25.7291389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174286979",
+      "properties": {
+        "@id": "way/174286979",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.241585,
+            25.8423513
+          ],
+          [
+            -80.2416279,
+            25.8427298
+          ],
+          [
+            -80.2416622,
+            25.842977
+          ],
+          [
+            -80.2417051,
+            25.843201
+          ],
+          [
+            -80.2417566,
+            25.843425
+          ],
+          [
+            -80.2418253,
+            25.843649
+          ],
+          [
+            -80.2418854,
+            25.8437958
+          ],
+          [
+            -80.241997,
+            25.8440352
+          ],
+          [
+            -80.2420828,
+            25.8441975
+          ],
+          [
+            -80.2421858,
+            25.8443597
+          ],
+          [
+            -80.2423145,
+            25.8445296
+          ],
+          [
+            -80.2424433,
+            25.8446841
+          ],
+          [
+            -80.2425549,
+            25.8448077
+          ],
+          [
+            -80.2426665,
+            25.8449158
+          ],
+          [
+            -80.2428209,
+            25.8450549
+          ],
+          [
+            -80.2429754,
+            25.8451862
+          ],
+          [
+            -80.2431557,
+            25.8453098
+          ],
+          [
+            -80.2433445,
+            25.8454257
+          ],
+          [
+            -80.2435419,
+            25.8455338
+          ],
+          [
+            -80.2437994,
+            25.8456497
+          ],
+          [
+            -80.2439968,
+            25.8457269
+          ],
+          [
+            -80.2441857,
+            25.8457887
+          ],
+          [
+            -80.2443745,
+            25.8458351
+          ],
+          [
+            -80.2445891,
+            25.8458814
+          ],
+          [
+            -80.2448122,
+            25.84592
+          ],
+          [
+            -80.2450268,
+            25.8459355
+          ],
+          [
+            -80.2453959,
+            25.8459432
+          ],
+          [
+            -80.2469494,
+            25.8458969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174286980",
+      "properties": {
+        "@id": "way/174286980",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2338857,
+            25.7416178
+          ],
+          [
+            -80.2358513,
+            25.7408988
+          ],
+          [
+            -80.2362718,
+            25.7407597
+          ],
+          [
+            -80.237113,
+            25.7404968
+          ],
+          [
+            -80.2375507,
+            25.7403422
+          ],
+          [
+            -80.238203,
+            25.7401102
+          ],
+          [
+            -80.2393532,
+            25.739685
+          ],
+          [
+            -80.2401514,
+            25.7393989
+          ],
+          [
+            -80.2408466,
+            25.7391283
+          ],
+          [
+            -80.2414818,
+            25.7388809
+          ],
+          [
+            -80.2419023,
+            25.7387263
+          ],
+          [
+            -80.2439108,
+            25.7379918
+          ],
+          [
+            -80.2444429,
+            25.7377985
+          ],
+          [
+            -80.246048,
+            25.7372109
+          ],
+          [
+            -80.2481851,
+            25.73643
+          ],
+          [
+            -80.249155,
+            25.7360744
+          ],
+          [
+            -80.2506056,
+            25.7355486
+          ],
+          [
+            -80.2510776,
+            25.7353708
+          ],
+          [
+            -80.2514467,
+            25.7352239
+          ],
+          [
+            -80.2516527,
+            25.7351311
+          ],
+          [
+            -80.2518158,
+            25.7350538
+          ],
+          [
+            -80.2519874,
+            25.7349687
+          ],
+          [
+            -80.2523393,
+            25.7347754
+          ],
+          [
+            -80.2526741,
+            25.7345744
+          ],
+          [
+            -80.2529487,
+            25.7343811
+          ],
+          [
+            -80.2533264,
+            25.7340873
+          ],
+          [
+            -80.2538414,
+            25.7336621
+          ],
+          [
+            -80.2543049,
+            25.7332832
+          ],
+          [
+            -80.2553263,
+            25.7324559
+          ],
+          [
+            -80.2553966,
+            25.7323993
+          ],
+          [
+            -80.2558927,
+            25.7319997
+          ],
+          [
+            -80.2569828,
+            25.7311183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174286981",
+      "properties": {
+        "@id": "way/174286981",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2569828,
+            25.7311183
+          ],
+          [
+            -80.2584333,
+            25.729943
+          ],
+          [
+            -80.2591543,
+            25.7293554
+          ],
+          [
+            -80.259328,
+            25.729201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174286982",
+      "properties": {
+        "@id": "way/174286982",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "railway": "subway",
+        "service": "crossover",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2476652,
+            25.8458291
+          ],
+          [
+            -80.2473133,
+            25.84586
+          ],
+          [
+            -80.2469494,
+            25.8458969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174286983",
+      "properties": {
+        "@id": "way/174286983",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "1",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tiger:source": "tiger_import_dch_v0.6_20070809",
+        "tiger:tlid": "116313545:116319617:116319618:116319620:116319852:116319858:116303327:116303328:116301115:116301539:116303376:116319668:116014440:116014442:116014459:116301948:116319628:116319627:116303323:116301533:116301540:116301541",
+        "tiger:upload_uuid": "bulk_upload.pl-bcfe2a6c-15d8-4c58-8cb2-f0d6e1120159"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.256854,
+            25.7310796
+          ],
+          [
+            -80.257306,
+            25.730786
+          ],
+          [
+            -80.2579784,
+            25.7302446
+          ],
+          [
+            -80.2586908,
+            25.7296724
+          ],
+          [
+            -80.2589311,
+            25.7294714
+          ],
+          [
+            -80.2592487,
+            25.7291389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190854595",
+      "properties": {
+        "@id": "way/190854595",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3045203,
+            25.6924867
+          ],
+          [
+            -80.305762,
+            25.691459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190854596",
+      "properties": {
+        "@id": "way/190854596",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3056858,
+            25.691403
+          ],
+          [
+            -80.3044369,
+            25.6924268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190854597",
+      "properties": {
+        "@id": "way/190854597",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3044369,
+            25.6924268
+          ],
+          [
+            -80.3038915,
+            25.6928528
+          ],
+          [
+            -80.3036168,
+            25.6930694
+          ],
+          [
+            -80.303428,
+            25.6932318
+          ],
+          [
+            -80.3032478,
+            25.6933788
+          ],
+          [
+            -80.3028358,
+            25.69375
+          ],
+          [
+            -80.3025268,
+            25.6940207
+          ],
+          [
+            -80.3022264,
+            25.6942682
+          ],
+          [
+            -80.3020032,
+            25.6944461
+          ],
+          [
+            -80.3011278,
+            25.6951654
+          ],
+          [
+            -80.2995313,
+            25.6964648
+          ],
+          [
+            -80.2972545,
+            25.6983534
+          ],
+          [
+            -80.2970142,
+            25.6985467
+          ],
+          [
+            -80.2933492,
+            25.7015166
+          ],
+          [
+            -80.2918472,
+            25.7027385
+          ],
+          [
+            -80.2911949,
+            25.7032644
+          ],
+          [
+            -80.2900448,
+            25.7042157
+          ],
+          [
+            -80.2885942,
+            25.7053912
+          ],
+          [
+            -80.2877617,
+            25.706064
+          ],
+          [
+            -80.2868004,
+            25.7068451
+          ],
+          [
+            -80.2860451,
+            25.7074561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190854598",
+      "properties": {
+        "@id": "way/190854598",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.305762,
+            25.691459
+          ],
+          [
+            -80.3065437,
+            25.6908419
+          ],
+          [
+            -80.3072732,
+            25.690285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234077460",
+      "properties": {
+        "@id": "way/234077460",
+        "bridge": "yes",
+        "electrified": "yes",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metrorail",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2588168,
+            25.7995428
+          ],
+          [
+            -80.2587928,
+            25.7985497
+          ],
+          [
+            -80.2587453,
+            25.7973364
+          ],
+          [
+            -80.2587078,
+            25.7961119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239811193",
+      "properties": {
+        "@id": "way/239811193",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tunnel": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3202318,
+            25.8430387
+          ],
+          [
+            -80.3197887,
+            25.8429129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239811194",
+      "properties": {
+        "@id": "way/239811194",
+        "electrified": "yes",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tunnel": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3197887,
+            25.8429129
+          ],
+          [
+            -80.3197048,
+            25.8428836
+          ],
+          [
+            -80.3189237,
+            25.8426519
+          ],
+          [
+            -80.3184946,
+            25.8425669
+          ],
+          [
+            -80.3182972,
+            25.842536
+          ],
+          [
+            -80.3180826,
+            25.8425206
+          ],
+          [
+            -80.3174389,
+            25.8425173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239811195",
+      "properties": {
+        "@id": "way/239811195",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "service": "crossover",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tunnel": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3197662,
+            25.8429507
+          ],
+          [
+            -80.3202318,
+            25.8430387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239811196",
+      "properties": {
+        "@id": "way/239811196",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial",
+        "tunnel": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3202181,
+            25.8430762
+          ],
+          [
+            -80.3203228,
+            25.8431154
+          ],
+          [
+            -80.3208463,
+            25.8432621
+          ],
+          [
+            -80.3212068,
+            25.8433703
+          ],
+          [
+            -80.3214643,
+            25.8434244
+          ],
+          [
+            -80.3216875,
+            25.8434553
+          ],
+          [
+            -80.3219364,
+            25.8434707
+          ],
+          [
+            -80.3227604,
+            25.8434553
+          ],
+          [
+            -80.3243221,
+            25.8434049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239811197",
+      "properties": {
+        "@id": "way/239811197",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial",
+        "tunnel": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3197662,
+            25.8429507
+          ],
+          [
+            -80.3202181,
+            25.8430762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239811198",
+      "properties": {
+        "@id": "way/239811198",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "oneway": "yes",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "service": "crossover",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial",
+        "tunnel": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3202181,
+            25.8430762
+          ],
+          [
+            -80.3197887,
+            25.8429129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360584210",
+      "properties": {
+        "@id": "way/360584210",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:reviewed": "aerial",
+        "tunnel": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3243239,
+            25.8433162
+          ],
+          [
+            -80.3232753,
+            25.8433471
+          ],
+          [
+            -80.3225372,
+            25.8433703
+          ],
+          [
+            -80.3219278,
+            25.8433703
+          ],
+          [
+            -80.3217218,
+            25.8433703
+          ],
+          [
+            -80.3215072,
+            25.8433548
+          ],
+          [
+            -80.3213356,
+            25.8433317
+          ],
+          [
+            -80.3211811,
+            25.8433008
+          ],
+          [
+            -80.3209837,
+            25.8432544
+          ],
+          [
+            -80.3206575,
+            25.8431617
+          ],
+          [
+            -80.3203314,
+            25.843069
+          ],
+          [
+            -80.3202318,
+            25.8430387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360584213",
+      "properties": {
+        "@id": "way/360584213",
+        "electrified": "yes",
+        "gauge": "1435",
+        "name": "Metrorail",
+        "operator": "Miami-Dade Transit",
+        "railway": "subway",
+        "service": "siding",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Miami-Dade, FL",
+        "tiger:name_base": "Florida East Coast Railway",
+        "tiger:reviewed": "aerial",
+        "tunnel": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3243221,
+            25.8434049
+          ],
+          [
+            -80.325011,
+            25.8433608
+          ],
+          [
+            -80.327511,
+            25.8433191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/387594623",
+      "properties": {
+        "@id": "way/387594623",
+        "railway": "subway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3100593,
+            25.8393362
+          ],
+          [
+            -80.3100097,
+            25.839195
+          ],
+          [
+            -80.3097335,
+            25.8383259
+          ],
+          [
+            -80.3095886,
+            25.8378685
+          ],
+          [
+            -80.3095242,
+            25.83751
+          ],
+          [
+            -80.3095081,
+            25.8371841
+          ],
+          [
+            -80.3095095,
+            25.8370151
+          ],
+          [
+            -80.3095216,
+            25.8368328
+          ],
+          [
+            -80.3095846,
+            25.8365009
+          ],
+          [
+            -80.3097013,
+            25.8359275
+          ],
+          [
+            -80.3098568,
+            25.8351948
+          ],
+          [
+            -80.3099199,
+            25.8348339
+          ],
+          [
+            -80.3099534,
+            25.8345563
+          ],
+          [
+            -80.3099655,
+            25.8343028
+          ],
+          [
+            -80.3099695,
+            25.8340638
+          ],
+          [
+            -80.3099601,
+            25.8333118
+          ],
+          [
+            -80.3099534,
+            25.8327107
+          ],
+          [
+            -80.3099534,
+            25.8325924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/387594627",
+      "properties": {
+        "@id": "way/387594627",
+        "railway": "subway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.3099305,
+            25.8387464
+          ],
+          [
+            -80.3097335,
+            25.8383259
+          ]
+        ]
+      }
+    }
+  ]
+}

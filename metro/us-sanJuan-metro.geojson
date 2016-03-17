@@ -1,0 +1,2114 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-27T21:05:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/55788548",
+      "properties": {
+        "@id": "way/55788548",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.0951806,
+            18.3908498
+          ],
+          [
+            -66.1008581,
+            18.3911328
+          ],
+          [
+            -66.1018775,
+            18.3911772
+          ],
+          [
+            -66.1028608,
+            18.3912242
+          ],
+          [
+            -66.1038492,
+            18.3912644
+          ],
+          [
+            -66.1068786,
+            18.3914066
+          ],
+          [
+            -66.1074077,
+            18.3913527
+          ],
+          [
+            -66.1089313,
+            18.3910577
+          ],
+          [
+            -66.110374,
+            18.3907784
+          ],
+          [
+            -66.1122642,
+            18.3904941
+          ],
+          [
+            -66.1131055,
+            18.3904613
+          ],
+          [
+            -66.1136444,
+            18.3905472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303564608",
+      "properties": {
+        "@id": "way/303564608",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.1144223,
+            18.3907205
+          ],
+          [
+            -66.1153236,
+            18.3909579
+          ],
+          [
+            -66.116762,
+            18.3912518
+          ],
+          [
+            -66.1190552,
+            18.3918309
+          ],
+          [
+            -66.1278361,
+            18.3940102
+          ],
+          [
+            -66.1286387,
+            18.394209
+          ],
+          [
+            -66.1288823,
+            18.3942693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303564607",
+      "properties": {
+        "@id": "way/303564607",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.1136444,
+            18.3905472
+          ],
+          [
+            -66.1144223,
+            18.3907205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57958165",
+      "properties": {
+        "@id": "way/57958165",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.1421447,
+            18.3953403
+          ],
+          [
+            -66.1428086,
+            18.395205
+          ],
+          [
+            -66.1433724,
+            18.3951123
+          ],
+          [
+            -66.1437979,
+            18.3950689
+          ],
+          [
+            -66.1440884,
+            18.3950416
+          ],
+          [
+            -66.1443701,
+            18.3950283
+          ],
+          [
+            -66.1447975,
+            18.3950566
+          ],
+          [
+            -66.1454219,
+            18.3951112
+          ],
+          [
+            -66.1462664,
+            18.3952011
+          ],
+          [
+            -66.1465194,
+            18.3952046
+          ],
+          [
+            -66.1466774,
+            18.3951885
+          ],
+          [
+            -66.1468419,
+            18.3951551
+          ],
+          [
+            -66.1470056,
+            18.3951062
+          ],
+          [
+            -66.1471513,
+            18.3950487
+          ],
+          [
+            -66.1472961,
+            18.3949749
+          ],
+          [
+            -66.1474091,
+            18.3949019
+          ],
+          [
+            -66.1477828,
+            18.3946722
+          ],
+          [
+            -66.1479399,
+            18.3945604
+          ],
+          [
+            -66.1481053,
+            18.3944578
+          ],
+          [
+            -66.1482575,
+            18.3943942
+          ],
+          [
+            -66.1484457,
+            18.3943398
+          ],
+          [
+            -66.1486307,
+            18.3943072
+          ],
+          [
+            -66.1488173,
+            18.3942963
+          ],
+          [
+            -66.1494786,
+            18.3943118
+          ],
+          [
+            -66.1517685,
+            18.3943709
+          ],
+          [
+            -66.1520631,
+            18.3943973
+          ],
+          [
+            -66.1522792,
+            18.3944547
+          ],
+          [
+            -66.1524396,
+            18.3945231
+          ],
+          [
+            -66.1526208,
+            18.3946229
+          ],
+          [
+            -66.1527731,
+            18.3947425
+          ],
+          [
+            -66.1529073,
+            18.3948839
+          ],
+          [
+            -66.1536684,
+            18.39578
+          ],
+          [
+            -66.153783,
+            18.3959245
+          ],
+          [
+            -66.1538566,
+            18.3960487
+          ],
+          [
+            -66.1539254,
+            18.3961885
+          ],
+          [
+            -66.1539614,
+            18.3963221
+          ],
+          [
+            -66.1539892,
+            18.3964495
+          ],
+          [
+            -66.1540039,
+            18.3965722
+          ],
+          [
+            -66.1540072,
+            18.3966949
+          ],
+          [
+            -66.153999,
+            18.3968315
+          ],
+          [
+            -66.1538848,
+            18.3982172
+          ],
+          [
+            -66.1537618,
+            18.4002657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315769229",
+      "properties": {
+        "@id": "way/315769229",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.13874,
+            18.3961698
+          ],
+          [
+            -66.139475,
+            18.3959884
+          ],
+          [
+            -66.141164,
+            18.3955553
+          ],
+          [
+            -66.1421447,
+            18.3953403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/60963473",
+      "properties": {
+        "@id": "way/60963473",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.1288823,
+            18.3942693
+          ],
+          [
+            -66.1297155,
+            18.394476
+          ],
+          [
+            -66.1335217,
+            18.3953968
+          ],
+          [
+            -66.1354084,
+            18.3958569
+          ],
+          [
+            -66.137348,
+            18.3963171
+          ],
+          [
+            -66.1374662,
+            18.3963287
+          ],
+          [
+            -66.137553,
+            18.3963306
+          ],
+          [
+            -66.1376414,
+            18.3963325
+          ],
+          [
+            -66.1378899,
+            18.3963287
+          ],
+          [
+            -66.1380937,
+            18.3963093
+          ],
+          [
+            -66.1384604,
+            18.3962359
+          ],
+          [
+            -66.1385664,
+            18.3962127
+          ],
+          [
+            -66.13874,
+            18.3961698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55788484",
+      "properties": {
+        "@id": "way/55788484",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.0530599,
+            18.3969243
+          ],
+          [
+            -66.0534528,
+            18.3965765
+          ],
+          [
+            -66.0540477,
+            18.3961279
+          ],
+          [
+            -66.054858,
+            18.3955684
+          ],
+          [
+            -66.0552174,
+            18.3953292
+          ],
+          [
+            -66.0560381,
+            18.394698
+          ],
+          [
+            -66.0564351,
+            18.3944333
+          ],
+          [
+            -66.0567905,
+            18.3941925
+          ],
+          [
+            -66.0613873,
+            18.3916967
+          ],
+          [
+            -66.0631491,
+            18.3904803
+          ],
+          [
+            -66.0634193,
+            18.3903164
+          ],
+          [
+            -66.0638254,
+            18.3902006
+          ],
+          [
+            -66.0641202,
+            18.3902075
+          ],
+          [
+            -66.0645955,
+            18.390322
+          ],
+          [
+            -66.0649584,
+            18.3905475
+          ],
+          [
+            -66.0653121,
+            18.3908191
+          ],
+          [
+            -66.065755,
+            18.3910107
+          ],
+          [
+            -66.0661179,
+            18.3910583
+          ],
+          [
+            -66.0668407,
+            18.3909614
+          ],
+          [
+            -66.0689642,
+            18.3906134
+          ],
+          [
+            -66.0699908,
+            18.3905225
+          ],
+          [
+            -66.0706453,
+            18.3904665
+          ],
+          [
+            -66.0711442,
+            18.3904818
+          ],
+          [
+            -66.0721634,
+            18.3906854
+          ],
+          [
+            -66.0740331,
+            18.3912431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157671512",
+      "properties": {
+        "@id": "way/157671512",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.0617999,
+            18.4381039
+          ],
+          [
+            -66.06109,
+            18.4371661
+          ],
+          [
+            -66.0602946,
+            18.4361483
+          ],
+          [
+            -66.0598706,
+            18.4356057
+          ],
+          [
+            -66.0597079,
+            18.435394
+          ],
+          [
+            -66.0596269,
+            18.4352761
+          ],
+          [
+            -66.0595449,
+            18.4351386
+          ],
+          [
+            -66.0594809,
+            18.4349888
+          ],
+          [
+            -66.0594346,
+            18.4348408
+          ],
+          [
+            -66.0594149,
+            18.4346985
+          ],
+          [
+            -66.0594129,
+            18.4345244
+          ],
+          [
+            -66.0594248,
+            18.4343597
+          ],
+          [
+            -66.0594563,
+            18.4342137
+          ],
+          [
+            -66.0594907,
+            18.4340685
+          ],
+          [
+            -66.0595508,
+            18.4339359
+          ],
+          [
+            -66.0596449,
+            18.4337688
+          ],
+          [
+            -66.0602155,
+            18.4328653
+          ],
+          [
+            -66.0604402,
+            18.4324213
+          ],
+          [
+            -66.06054,
+            18.4321271
+          ],
+          [
+            -66.0605984,
+            18.4316319
+          ],
+          [
+            -66.0603592,
+            18.4302059
+          ],
+          [
+            -66.060211,
+            18.4293324
+          ],
+          [
+            -66.0598571,
+            18.4271371
+          ],
+          [
+            -66.0596173,
+            18.4258973
+          ],
+          [
+            -66.0589848,
+            18.4235735
+          ],
+          [
+            -66.0589014,
+            18.4232389
+          ],
+          [
+            -66.0585637,
+            18.4218837
+          ],
+          [
+            -66.0583148,
+            18.4215224
+          ],
+          [
+            -66.0578974,
+            18.4211788
+          ],
+          [
+            -66.0574688,
+            18.4208638
+          ],
+          [
+            -66.0571949,
+            18.4204046
+          ],
+          [
+            -66.0565244,
+            18.417187
+          ],
+          [
+            -66.0564959,
+            18.4170453
+          ],
+          [
+            -66.0564755,
+            18.4169088
+          ],
+          [
+            -66.0564551,
+            18.4167413
+          ],
+          [
+            -66.0564127,
+            18.4158629
+          ],
+          [
+            -66.056386,
+            18.4152674
+          ],
+          [
+            -66.0563676,
+            18.4141959
+          ],
+          [
+            -66.056354,
+            18.4140673
+          ],
+          [
+            -66.0563269,
+            18.4139514
+          ],
+          [
+            -66.0562767,
+            18.4137863
+          ],
+          [
+            -66.0562008,
+            18.4136269
+          ],
+          [
+            -66.0558796,
+            18.4130461
+          ],
+          [
+            -66.0558118,
+            18.4129095
+          ],
+          [
+            -66.055767,
+            18.412791
+          ],
+          [
+            -66.0557289,
+            18.4126596
+          ],
+          [
+            -66.0556909,
+            18.4124986
+          ],
+          [
+            -66.0554178,
+            18.4108715
+          ],
+          [
+            -66.0551085,
+            18.4087877
+          ],
+          [
+            -66.0550746,
+            18.4086401
+          ],
+          [
+            -66.0550402,
+            18.408536
+          ],
+          [
+            -66.054998,
+            18.4084395
+          ],
+          [
+            -66.0549385,
+            18.4083267
+          ],
+          [
+            -66.0548698,
+            18.4082227
+          ],
+          [
+            -66.0547444,
+            18.4080573
+          ],
+          [
+            -66.0546176,
+            18.407937
+          ],
+          [
+            -66.0544934,
+            18.4078555
+          ],
+          [
+            -66.0543402,
+            18.407769
+          ],
+          [
+            -66.0541975,
+            18.4077114
+          ],
+          [
+            -66.0540271,
+            18.4076663
+          ],
+          [
+            -66.0538448,
+            18.4076349
+          ],
+          [
+            -66.0536652,
+            18.4076211
+          ],
+          [
+            -66.0532716,
+            18.4076036
+          ],
+          [
+            -66.0530378,
+            18.4075911
+          ],
+          [
+            -66.0527498,
+            18.4075535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/57957846",
+      "properties": {
+        "@id": "way/57957846",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.0740331,
+            18.3912431
+          ],
+          [
+            -66.0743633,
+            18.3913379
+          ],
+          [
+            -66.0752485,
+            18.3916054
+          ],
+          [
+            -66.0759503,
+            18.3919292
+          ],
+          [
+            -66.0766487,
+            18.3924221
+          ],
+          [
+            -66.0771119,
+            18.3927442
+          ],
+          [
+            -66.0775021,
+            18.3929458
+          ],
+          [
+            -66.077934,
+            18.393024
+          ],
+          [
+            -66.0784688,
+            18.3929878
+          ],
+          [
+            -66.0789312,
+            18.3927897
+          ],
+          [
+            -66.0794591,
+            18.3923405
+          ],
+          [
+            -66.0802664,
+            18.3916025
+          ],
+          [
+            -66.080866,
+            18.3910848
+          ],
+          [
+            -66.0811296,
+            18.3909446
+          ],
+          [
+            -66.0814828,
+            18.3908569
+          ],
+          [
+            -66.0827582,
+            18.3907633
+          ],
+          [
+            -66.0842757,
+            18.3907147
+          ],
+          [
+            -66.0870814,
+            18.390505
+          ],
+          [
+            -66.0887756,
+            18.390505
+          ],
+          [
+            -66.091723,
+            18.3906573
+          ],
+          [
+            -66.0929541,
+            18.3907081
+          ],
+          [
+            -66.0939158,
+            18.3907587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55788546",
+      "properties": {
+        "@id": "way/55788546",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.0939158,
+            18.3907587
+          ],
+          [
+            -66.0951806,
+            18.3908498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55846715",
+      "properties": {
+        "@id": "way/55846715",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.0530599,
+            18.3969243
+          ],
+          [
+            -66.0528132,
+            18.3973824
+          ],
+          [
+            -66.0523236,
+            18.398873
+          ],
+          [
+            -66.0522476,
+            18.3991542
+          ],
+          [
+            -66.0521693,
+            18.399511
+          ],
+          [
+            -66.0517898,
+            18.4050163
+          ],
+          [
+            -66.0517264,
+            18.4057719
+          ],
+          [
+            -66.0516766,
+            18.4062342
+          ],
+          [
+            -66.0516981,
+            18.4065498
+          ],
+          [
+            -66.0517517,
+            18.4068756
+          ],
+          [
+            -66.0518805,
+            18.407181
+          ],
+          [
+            -66.0520951,
+            18.4073846
+          ],
+          [
+            -66.0524519,
+            18.4074968
+          ],
+          [
+            -66.0527498,
+            18.4075535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/360999456",
+      "properties": {
+        "@id": "node/360999456",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1190552,
+          18.3918309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/719147936",
+      "properties": {
+        "@id": "node/719147936",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1537618,
+          18.4002657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/719147934",
+      "properties": {
+        "@id": "node/719147934",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1494786,
+          18.3943118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/361089501",
+      "properties": {
+        "@id": "node/361089501",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1278361,
+          18.3940102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2076301913",
+      "properties": {
+        "@id": "node/2076301913",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1018775,
+          18.3911772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/700775087",
+      "properties": {
+        "@id": "node/700775087",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0939158,
+          18.3907587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2068818394",
+      "properties": {
+        "@id": "node/2068818394",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0827582,
+          18.3907633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2068818371",
+      "properties": {
+        "@id": "node/2068818371",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0743633,
+          18.3913379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2053863942",
+      "properties": {
+        "@id": "node/2053863942",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0631491,
+          18.3904803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3087828784",
+      "properties": {
+        "@id": "node/3087828784",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0602946,
+          18.4361483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/701382227",
+      "properties": {
+        "@id": "node/701382227",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0522476,
+          18.3991542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/701382231",
+      "properties": {
+        "@id": "node/701382231",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0517898,
+          18.4050163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1699374169",
+      "properties": {
+        "@id": "node/1699374169",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0554178,
+          18.4108715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2149629649",
+      "properties": {
+        "@id": "node/2149629649",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.056386,
+          18.4152674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3065620207",
+      "properties": {
+        "@id": "node/3065620207",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0589014,
+          18.4232389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2149629650",
+      "properties": {
+        "@id": "node/2149629650",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2623662,
+            "reltags": {
+              "from": "Sagrado Corazón",
+              "name": "Tren Urbano: Sagrado Corazón => Bayamón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Bayamón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 4751619,
+            "reltags": {
+              "from": "Bayamón",
+              "name": "Tren Urbano: Bayamón => Sagrado Corazón",
+              "network": "ATI",
+              "opening_hours": "Mo-Su 05:30-23:20",
+              "public_transport:version": "2",
+              "ref": "Tren Urbano",
+              "route": "subway",
+              "to": "Sagrado Corazón",
+              "type": "route",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.060211,
+          18.4293324
+        ]
+      }
+    }
+  ]
+}
