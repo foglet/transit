@@ -1,0 +1,2710 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T08:15:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/43960833",
+      "properties": {
+        "@id": "way/43960833",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8265736,
+            55.8663097
+          ],
+          [
+            12.8265065,
+            55.866197
+          ],
+          [
+            12.8264639,
+            55.8661254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/240322808",
+      "properties": {
+        "@id": "way/240322808",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8264661,
+            55.8657341
+          ],
+          [
+            12.8265412,
+            55.8657256
+          ],
+          [
+            12.8265772,
+            55.865729
+          ],
+          [
+            12.8266403,
+            55.8657518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/240322809",
+      "properties": {
+        "@id": "way/240322809",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8264639,
+            55.8661254
+          ],
+          [
+            12.826367,
+            55.8659759
+          ],
+          [
+            12.8263369,
+            55.8659169
+          ],
+          [
+            12.8263294,
+            55.8658664
+          ],
+          [
+            12.8263443,
+            55.8658228
+          ],
+          [
+            12.8264661,
+            55.8657341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287163417",
+      "properties": {
+        "@id": "way/287163417",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8263053,
+            55.8657859
+          ],
+          [
+            12.8264648,
+            55.865669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309501184",
+      "properties": {
+        "@id": "way/309501184",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8266403,
+            55.8657518
+          ],
+          [
+            12.826741,
+            55.8657981
+          ],
+          [
+            12.8267545,
+            55.8658706
+          ],
+          [
+            12.826744,
+            55.8659009
+          ],
+          [
+            12.8266283,
+            55.8660316
+          ],
+          [
+            12.8265787,
+            55.8660653
+          ],
+          [
+            12.8264639,
+            55.8661254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/20587213",
+      "properties": {
+        "@id": "way/20587213",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8296053,
+            55.8707251
+          ],
+          [
+            12.8296231,
+            55.8706569
+          ],
+          [
+            12.8296172,
+            55.870619
+          ],
+          [
+            12.8295525,
+            55.8705313
+          ],
+          [
+            12.8294584,
+            55.8704014
+          ],
+          [
+            12.8293884,
+            55.8703055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220681918",
+      "properties": {
+        "@id": "way/220681918",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8302681,
+            55.8722551
+          ],
+          [
+            12.8299741,
+            55.8717822
+          ],
+          [
+            12.8298291,
+            55.8715489
+          ],
+          [
+            12.8297091,
+            55.871322
+          ],
+          [
+            12.8295764,
+            55.8710948
+          ],
+          [
+            12.8295009,
+            55.8709645
+          ],
+          [
+            12.8295037,
+            55.8708923
+          ],
+          [
+            12.8295472,
+            55.8708244
+          ],
+          [
+            12.8296053,
+            55.8707251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/235719460",
+      "properties": {
+        "@id": "way/235719460",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8293884,
+            55.8703055
+          ],
+          [
+            12.8293193,
+            55.8702098
+          ],
+          [
+            12.8288282,
+            55.8695298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309419271",
+      "properties": {
+        "@id": "way/309419271",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8295909,
+            55.8703965
+          ],
+          [
+            12.8297549,
+            55.8706644
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/338607600",
+      "properties": {
+        "@id": "way/338607600",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8288282,
+            55.8695298
+          ],
+          [
+            12.8282406,
+            55.8687119
+          ],
+          [
+            12.8279848,
+            55.8683401
+          ],
+          [
+            12.8277203,
+            55.8679651
+          ],
+          [
+            12.8276747,
+            55.8679004
+          ],
+          [
+            12.827517,
+            55.8676769
+          ],
+          [
+            12.8270154,
+            55.8669594
+          ],
+          [
+            12.8265736,
+            55.8663097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/20587208",
+      "properties": {
+        "@id": "way/20587208",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8322167,
+            55.8756387
+          ],
+          [
+            12.8321819,
+            55.8755593
+          ],
+          [
+            12.8319284,
+            55.8751641
+          ],
+          [
+            12.8315784,
+            55.8746184
+          ],
+          [
+            12.8315208,
+            55.8745283
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220681917",
+      "properties": {
+        "@id": "way/220681917",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8315208,
+            55.8745283
+          ],
+          [
+            12.8313547,
+            55.8742543
+          ],
+          [
+            12.8311891,
+            55.8739707
+          ],
+          [
+            12.8308928,
+            55.8734459
+          ],
+          [
+            12.8308011,
+            55.8732811
+          ],
+          [
+            12.8303406,
+            55.8723946
+          ],
+          [
+            12.8302681,
+            55.8722551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93038059",
+      "properties": {
+        "@id": "way/93038059",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.852586,
+            55.8787096
+          ],
+          [
+            12.8524306,
+            55.8787094
+          ],
+          [
+            12.8521675,
+            55.8787094
+          ],
+          [
+            12.8518831,
+            55.8787294
+          ],
+          [
+            12.8514717,
+            55.8787973
+          ],
+          [
+            12.8504915,
+            55.8789951
+          ],
+          [
+            12.8499099,
+            55.8791143
+          ],
+          [
+            12.8496078,
+            55.8791681
+          ],
+          [
+            12.8494549,
+            55.879184
+          ],
+          [
+            12.8489643,
+            55.879198
+          ],
+          [
+            12.8483457,
+            55.879202
+          ],
+          [
+            12.8472791,
+            55.879206
+          ],
+          [
+            12.8464628,
+            55.8792072
+          ],
+          [
+            12.845953,
+            55.879208
+          ],
+          [
+            12.8448936,
+            55.87921
+          ],
+          [
+            12.8440652,
+            55.879214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355832448",
+      "properties": {
+        "@id": "way/355832448",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8392226,
+            55.8792356
+          ],
+          [
+            12.8388035,
+            55.8792403
+          ],
+          [
+            12.8386295,
+            55.8792423
+          ],
+          [
+            12.8384667,
+            55.8792434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/20587206",
+      "properties": {
+        "@id": "way/20587206",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8322652,
+            55.8758706
+          ],
+          [
+            12.8322042,
+            55.8758552
+          ],
+          [
+            12.832154,
+            55.8758304
+          ],
+          [
+            12.832119,
+            55.8757984
+          ],
+          [
+            12.8321024,
+            55.8757627
+          ],
+          [
+            12.8321049,
+            55.8757259
+          ],
+          [
+            12.8321262,
+            55.8756911
+          ],
+          [
+            12.8321646,
+            55.8756611
+          ],
+          [
+            12.8322167,
+            55.8756387
+          ],
+          [
+            12.832288,
+            55.8756246
+          ],
+          [
+            12.8323637,
+            55.8756245
+          ],
+          [
+            12.8324351,
+            55.8756385
+          ],
+          [
+            12.8324942,
+            55.875665
+          ],
+          [
+            12.8325344,
+            55.8757009
+          ],
+          [
+            12.8325509,
+            55.8757411
+          ],
+          [
+            12.8325435,
+            55.8757821
+          ],
+          [
+            12.832513,
+            55.8758196
+          ],
+          [
+            12.8324625,
+            55.8758496
+          ],
+          [
+            12.8323975,
+            55.8758689
+          ],
+          [
+            12.8323316,
+            55.8758753
+          ],
+          [
+            12.8322652,
+            55.8758706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/20587209",
+      "properties": {
+        "@id": "way/20587209",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8338586,
+            55.8786134
+          ],
+          [
+            12.8339064,
+            55.8785215
+          ],
+          [
+            12.8339651,
+            55.8784085
+          ],
+          [
+            12.8339812,
+            55.8783262
+          ],
+          [
+            12.833998,
+            55.87824
+          ],
+          [
+            12.8339569,
+            55.878083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44025159",
+      "properties": {
+        "@id": "way/44025159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8384667,
+            55.8792434
+          ],
+          [
+            12.8382789,
+            55.8792394
+          ],
+          [
+            12.8381138,
+            55.8792333
+          ],
+          [
+            12.837981,
+            55.8792284
+          ],
+          [
+            12.8377078,
+            55.8792183
+          ],
+          [
+            12.8372029,
+            55.8791762
+          ],
+          [
+            12.8366568,
+            55.879097
+          ],
+          [
+            12.8361327,
+            55.8790109
+          ],
+          [
+            12.8354411,
+            55.8789033
+          ],
+          [
+            12.8348727,
+            55.8788073
+          ],
+          [
+            12.8341105,
+            55.8786603
+          ],
+          [
+            12.8340239,
+            55.8786442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309419262",
+      "properties": {
+        "@id": "way/309419262",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8339569,
+            55.878083
+          ],
+          [
+            12.8338499,
+            55.8778752
+          ],
+          [
+            12.833747,
+            55.877732
+          ],
+          [
+            12.8332983,
+            55.877097
+          ],
+          [
+            12.833195,
+            55.8769571
+          ],
+          [
+            12.8331007,
+            55.8768292
+          ],
+          [
+            12.8328373,
+            55.8764643
+          ],
+          [
+            12.8326191,
+            55.876178
+          ],
+          [
+            12.8324625,
+            55.8759594
+          ],
+          [
+            12.8323975,
+            55.8758689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309419264",
+      "properties": {
+        "@id": "way/309419264",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8340239,
+            55.8786442
+          ],
+          [
+            12.8338586,
+            55.8786134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309419266",
+      "properties": {
+        "@id": "way/309419266",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8342028,
+            55.8782897
+          ],
+          [
+            12.8342057,
+            55.8783708
+          ],
+          [
+            12.8341673,
+            55.8784942
+          ],
+          [
+            12.8341006,
+            55.8784919
+          ],
+          [
+            12.8341232,
+            55.8782869
+          ],
+          [
+            12.8342028,
+            55.8782897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309419270",
+      "properties": {
+        "@id": "way/309419270",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8338234,
+            55.8783036
+          ],
+          [
+            12.8337902,
+            55.8784191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309419273",
+      "properties": {
+        "@id": "way/309419273",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8339569,
+            55.878083
+          ],
+          [
+            12.8340659,
+            55.8782099
+          ],
+          [
+            12.8340955,
+            55.8782909
+          ],
+          [
+            12.8340762,
+            55.8784312
+          ],
+          [
+            12.8340652,
+            55.8784846
+          ],
+          [
+            12.8340546,
+            55.8785366
+          ],
+          [
+            12.8340239,
+            55.8786442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/20587224",
+      "properties": {
+        "@id": "way/20587224",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8440652,
+            55.879214
+          ],
+          [
+            12.8422376,
+            55.8792222
+          ],
+          [
+            12.8418293,
+            55.879224
+          ],
+          [
+            12.8408506,
+            55.8792284
+          ],
+          [
+            12.8408249,
+            55.8792285
+          ],
+          [
+            12.8404324,
+            55.8792302
+          ],
+          [
+            12.8397294,
+            55.8792333
+          ],
+          [
+            12.8392226,
+            55.8792356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287163410",
+      "properties": {
+        "@id": "way/287163410",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8410029,
+            55.8792575
+          ],
+          [
+            12.8408125,
+            55.8792582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287163419",
+      "properties": {
+        "@id": "way/287163419",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8402539,
+            55.8791974
+          ],
+          [
+            12.8404702,
+            55.8791972
+          ],
+          [
+            12.8404701,
+            55.8791718
+          ],
+          [
+            12.8402538,
+            55.8791721
+          ],
+          [
+            12.8402539,
+            55.8791974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/20587202",
+      "properties": {
+        "@id": "way/20587202",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8542409,
+            55.8786457
+          ],
+          [
+            12.8543662,
+            55.8786399
+          ],
+          [
+            12.854644,
+            55.8786081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/20587216",
+      "properties": {
+        "@id": "way/20587216",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8538289,
+            55.8788148
+          ],
+          [
+            12.8538314,
+            55.8787667
+          ],
+          [
+            12.8538586,
+            55.878721
+          ],
+          [
+            12.8538864,
+            55.8786961
+          ],
+          [
+            12.8539603,
+            55.8786575
+          ],
+          [
+            12.8540531,
+            55.8786353
+          ],
+          [
+            12.8541538,
+            55.8786321
+          ],
+          [
+            12.8542409,
+            55.8786457
+          ],
+          [
+            12.8543252,
+            55.8786781
+          ],
+          [
+            12.8543845,
+            55.8787248
+          ],
+          [
+            12.8544116,
+            55.87878
+          ],
+          [
+            12.8544069,
+            55.8788285
+          ],
+          [
+            12.8543771,
+            55.8788741
+          ],
+          [
+            12.8543248,
+            55.8789128
+          ],
+          [
+            12.8542829,
+            55.8789319
+          ],
+          [
+            12.854205,
+            55.8789526
+          ],
+          [
+            12.8541197,
+            55.8789597
+          ],
+          [
+            12.8540344,
+            55.8789526
+          ],
+          [
+            12.8539565,
+            55.8789318
+          ],
+          [
+            12.853897,
+            55.878902
+          ],
+          [
+            12.8538514,
+            55.8788612
+          ],
+          [
+            12.8538289,
+            55.8788148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/20587217",
+      "properties": {
+        "@id": "way/20587217",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.853897,
+            55.878902
+          ],
+          [
+            12.8537208,
+            55.8788492
+          ],
+          [
+            12.8535396,
+            55.8788064
+          ],
+          [
+            12.8532599,
+            55.8787448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93038054",
+      "properties": {
+        "@id": "way/93038054",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8549965,
+            55.8789846
+          ],
+          [
+            12.854681,
+            55.8789368
+          ],
+          [
+            12.8544553,
+            55.8789232
+          ],
+          [
+            12.8543248,
+            55.8789128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93038060",
+      "properties": {
+        "@id": "way/93038060",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8532599,
+            55.8787448
+          ],
+          [
+            12.8531242,
+            55.8787379
+          ],
+          [
+            12.8529558,
+            55.8787337
+          ],
+          [
+            12.8527673,
+            55.8787248
+          ],
+          [
+            12.852586,
+            55.8787096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134584680",
+      "properties": {
+        "@id": "way/134584680",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8532599,
+            55.8787448
+          ],
+          [
+            12.8535429,
+            55.8787487
+          ],
+          [
+            12.8538586,
+            55.878721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134585469",
+      "properties": {
+        "@id": "way/134585469",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8552046,
+            55.8785777
+          ],
+          [
+            12.855357,
+            55.8786015
+          ],
+          [
+            12.8556018,
+            55.8786396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227759645",
+      "properties": {
+        "@id": "way/227759645",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.854644,
+            55.8786081
+          ],
+          [
+            12.8548552,
+            55.8785878
+          ],
+          [
+            12.8550187,
+            55.8785778
+          ],
+          [
+            12.8552046,
+            55.8785777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/240322810",
+      "properties": {
+        "@id": "way/240322810",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8562071,
+            55.8788518
+          ],
+          [
+            12.8562285,
+            55.8788782
+          ],
+          [
+            12.8562372,
+            55.8789251
+          ],
+          [
+            12.8562236,
+            55.8789681
+          ],
+          [
+            12.856198,
+            55.8790073
+          ],
+          [
+            12.8561217,
+            55.8790549
+          ],
+          [
+            12.8560018,
+            55.8790855
+          ],
+          [
+            12.8559365,
+            55.879095
+          ],
+          [
+            12.8558803,
+            55.8791033
+          ],
+          [
+            12.8558406,
+            55.8791063
+          ],
+          [
+            12.8557098,
+            55.8790965
+          ],
+          [
+            12.8553742,
+            55.8790448
+          ],
+          [
+            12.8551593,
+            55.8790117
+          ],
+          [
+            12.8549965,
+            55.8789846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287163407",
+      "properties": {
+        "@id": "way/287163407",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8555024,
+            55.8785731
+          ],
+          [
+            12.8556826,
+            55.8786025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287163412",
+      "properties": {
+        "@id": "way/287163412",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8562111,
+            55.8787664
+          ],
+          [
+            12.8562881,
+            55.8788479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559072202",
+      "properties": {
+        "@id": "node/559072202",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8264661,
+          55.8657341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/221035954",
+      "properties": {
+        "@id": "node/221035954",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8296172,
+          55.870619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475866",
+      "properties": {
+        "@id": "node/3147475866",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8293193,
+          55.8702098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475867",
+      "properties": {
+        "@id": "node/3147475867",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8276747,
+          55.8679004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475868",
+      "properties": {
+        "@id": "node/3147475868",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8277203,
+          55.8679651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475871",
+      "properties": {
+        "@id": "node/3147475871",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8276275,
+          55.86791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475872",
+      "properties": {
+        "@id": "node/3147475872",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8277701,
+          55.8679525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475873",
+      "properties": {
+        "@id": "node/3147475873",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8292726,
+          55.8702152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475864",
+      "properties": {
+        "@id": "node/3147475864",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8313547,
+          55.8742543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475865",
+      "properties": {
+        "@id": "node/3147475865",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8319284,
+          55.8751641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475877",
+      "properties": {
+        "@id": "node/3147475877",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.831238,
+          55.8742638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475869",
+      "properties": {
+        "@id": "node/3147475869",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8339812,
+          55.8783262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475870",
+      "properties": {
+        "@id": "node/3147475870",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8340652,
+          55.8784846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147475878",
+      "properties": {
+        "@id": "node/3147475878",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8320343,
+          55.8751405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2908074696",
+      "properties": {
+        "@id": "node/2908074696",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8408506,
+          55.8792284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2908074697",
+      "properties": {
+        "@id": "node/2908074697",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8404324,
+          55.8792302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/221036066",
+      "properties": {
+        "@id": "node/221036066",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241636,
+            "reltags": {
+              "from": "Landskrona Skeppsbron",
+              "name": "Buss 3: Skeppsbron => Stationen",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona station",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8556018,
+          55.8786396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2480641227",
+      "properties": {
+        "@id": "node/2480641227",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3241637,
+            "reltags": {
+              "from": "Landskrona station",
+              "name": "Buss 3: Stationen => Skeppsbron",
+              "network": "Skånetrafiken",
+              "public_transport:version": "2",
+              "ref": "3",
+              "route": "trolleybus",
+              "to": "Landskrona Skeppsbron",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8562071,
+          55.8788518
+        ]
+      }
+    }
+  ]
+}
