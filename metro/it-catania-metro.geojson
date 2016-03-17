@@ -1,0 +1,576 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-16T08:30:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30323563",
+      "properties": {
+        "@id": "way/30323563",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 392582,
+            "reltags": {
+              "colour": "red",
+              "from": "Porto",
+              "name": "Metropolitana (Porto → Borgo)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Borgo",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2176290,
+            "reltags": {
+              "colour": "red",
+              "from": "Borgo",
+              "name": "Metropolitana (Borgo → Porto)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Porto",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.1047971,
+            37.512293
+          ],
+          [
+            15.1047773,
+            37.5119966
+          ],
+          [
+            15.1046505,
+            37.5113984
+          ],
+          [
+            15.1046161,
+            37.511202
+          ],
+          [
+            15.1046074,
+            37.5104796
+          ],
+          [
+            15.1046238,
+            37.509829
+          ],
+          [
+            15.1046046,
+            37.5095824
+          ],
+          [
+            15.1045451,
+            37.509389
+          ],
+          [
+            15.1044684,
+            37.5091945
+          ],
+          [
+            15.1039396,
+            37.5080799
+          ],
+          [
+            15.1037395,
+            37.5076251
+          ],
+          [
+            15.1034588,
+            37.5072083
+          ],
+          [
+            15.103243,
+            37.5069705
+          ],
+          [
+            15.1030048,
+            37.506753
+          ],
+          [
+            15.1028193,
+            37.5066111
+          ],
+          [
+            15.1026199,
+            37.5064938
+          ],
+          [
+            15.1021402,
+            37.5063145
+          ],
+          [
+            15.1016792,
+            37.5062543
+          ],
+          [
+            15.1010124,
+            37.5062073
+          ],
+          [
+            15.100666,
+            37.5061842
+          ],
+          [
+            15.1000062,
+            37.5060188
+          ],
+          [
+            15.0994553,
+            37.5058008
+          ],
+          [
+            15.0984519,
+            37.5052788
+          ],
+          [
+            15.0978452,
+            37.5048786
+          ],
+          [
+            15.0974651,
+            37.5045308
+          ],
+          [
+            15.097177,
+            37.5041769
+          ],
+          [
+            15.0969367,
+            37.5038543
+          ],
+          [
+            15.0963711,
+            37.5030978
+          ],
+          [
+            15.0957486,
+            37.5023504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134655151",
+      "properties": {
+        "@id": "way/134655151",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 392582,
+            "reltags": {
+              "colour": "red",
+              "from": "Porto",
+              "name": "Metropolitana (Porto → Borgo)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Borgo",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2176290,
+            "reltags": {
+              "colour": "red",
+              "from": "Borgo",
+              "name": "Metropolitana (Borgo → Porto)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Porto",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.0829351,
+            37.5217213
+          ],
+          [
+            15.0830484,
+            37.5217232
+          ],
+          [
+            15.0855801,
+            37.5218041
+          ],
+          [
+            15.0866901,
+            37.5218259
+          ],
+          [
+            15.0877511,
+            37.5218642
+          ],
+          [
+            15.0885179,
+            37.5219123
+          ],
+          [
+            15.0889642,
+            37.521749
+          ],
+          [
+            15.0891374,
+            37.5215676
+          ],
+          [
+            15.0894082,
+            37.5212839
+          ],
+          [
+            15.0908244,
+            37.5201198
+          ],
+          [
+            15.0951278,
+            37.5165171
+          ],
+          [
+            15.0953302,
+            37.5164143
+          ],
+          [
+            15.0967001,
+            37.5161329
+          ],
+          [
+            15.0971758,
+            37.5160351
+          ],
+          [
+            15.0982852,
+            37.5156117
+          ],
+          [
+            15.1014704,
+            37.5145071
+          ],
+          [
+            15.1031778,
+            37.5138996
+          ],
+          [
+            15.1042163,
+            37.5133958
+          ],
+          [
+            15.1043685,
+            37.5132332
+          ],
+          [
+            15.1045911,
+            37.5128468
+          ],
+          [
+            15.1047652,
+            37.5124456
+          ],
+          [
+            15.1047971,
+            37.512293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299170151",
+      "properties": {
+        "@id": "node/299170151",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 392582,
+            "reltags": {
+              "colour": "red",
+              "from": "Porto",
+              "name": "Metropolitana (Porto → Borgo)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Borgo",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2176290,
+            "reltags": {
+              "colour": "red",
+              "from": "Borgo",
+              "name": "Metropolitana (Borgo → Porto)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Porto",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0957486,
+          37.5023504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/307423725",
+      "properties": {
+        "@id": "node/307423725",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 392582,
+            "reltags": {
+              "colour": "red",
+              "from": "Porto",
+              "name": "Metropolitana (Porto → Borgo)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Borgo",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2176290,
+            "reltags": {
+              "colour": "red",
+              "from": "Borgo",
+              "name": "Metropolitana (Borgo → Porto)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Porto",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0830484,
+          37.5217232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299170087",
+      "properties": {
+        "@id": "node/299170087",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 392582,
+            "reltags": {
+              "colour": "red",
+              "from": "Porto",
+              "name": "Metropolitana (Porto → Borgo)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Borgo",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2176290,
+            "reltags": {
+              "colour": "red",
+              "from": "Borgo",
+              "name": "Metropolitana (Borgo → Porto)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Porto",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0908244,
+          37.5201198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/307425268",
+      "properties": {
+        "@id": "node/307425268",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 392582,
+            "reltags": {
+              "colour": "red",
+              "from": "Porto",
+              "name": "Metropolitana (Porto → Borgo)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Borgo",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2176290,
+            "reltags": {
+              "colour": "red",
+              "from": "Borgo",
+              "name": "Metropolitana (Borgo → Porto)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Porto",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0967001,
+          37.5161329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299170099",
+      "properties": {
+        "@id": "node/299170099",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 392582,
+            "reltags": {
+              "colour": "red",
+              "from": "Porto",
+              "name": "Metropolitana (Porto → Borgo)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Borgo",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2176290,
+            "reltags": {
+              "colour": "red",
+              "from": "Borgo",
+              "name": "Metropolitana (Borgo → Porto)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Porto",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.100666,
+          37.5061842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/307425339",
+      "properties": {
+        "@id": "node/307425339",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 392582,
+            "reltags": {
+              "colour": "red",
+              "from": "Porto",
+              "name": "Metropolitana (Porto → Borgo)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Borgo",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2176290,
+            "reltags": {
+              "colour": "red",
+              "from": "Borgo",
+              "name": "Metropolitana (Borgo → Porto)",
+              "network": "Catania",
+              "operator": "Ferrovia Circumetnea",
+              "ref": "Metropolitana",
+              "route": "subway",
+              "to": "Porto",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1014704,
+          37.5145071
+        ]
+      }
+    }
+  ]
+}

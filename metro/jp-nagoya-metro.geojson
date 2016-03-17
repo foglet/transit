@@ -1,0 +1,7222 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-18T06:02:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/32077487",
+      "properties": {
+        "@id": "way/32077487",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.963362,
+            35.164001
+          ],
+          [
+            136.9612996,
+            35.1647293
+          ],
+          [
+            136.960754,
+            35.164907
+          ],
+          [
+            136.9604674,
+            35.1650043
+          ],
+          [
+            136.960321,
+            35.165054
+          ],
+          [
+            136.9598642,
+            35.1652117
+          ],
+          [
+            136.959756,
+            35.16525
+          ],
+          [
+            136.959315,
+            35.165404
+          ],
+          [
+            136.9591362,
+            35.165466
+          ],
+          [
+            136.958783,
+            35.165589
+          ],
+          [
+            136.958253,
+            35.165775
+          ],
+          [
+            136.957642,
+            35.165979
+          ],
+          [
+            136.957137,
+            35.166159
+          ],
+          [
+            136.956617,
+            35.166287
+          ],
+          [
+            136.956025,
+            35.166427
+          ],
+          [
+            136.95552,
+            35.166555
+          ],
+          [
+            136.954981,
+            35.166664
+          ],
+          [
+            136.954544,
+            35.166702
+          ],
+          [
+            136.954329,
+            35.166694
+          ],
+          [
+            136.95393,
+            35.166668
+          ],
+          [
+            136.953538,
+            35.166634
+          ],
+          [
+            136.952919,
+            35.1666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077488",
+      "properties": {
+        "@id": "way/32077488",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9196651,
+            35.1707344
+          ],
+          [
+            136.920514,
+            35.1707781
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077492",
+      "properties": {
+        "@id": "way/32077492",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8668415,
+            35.1768349
+          ],
+          [
+            136.867548,
+            35.177251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077494",
+      "properties": {
+        "@id": "way/32077494",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.883521,
+            35.171913
+          ],
+          [
+            136.882649,
+            35.173557
+          ],
+          [
+            136.882302,
+            35.174098
+          ],
+          [
+            136.882093,
+            35.174424
+          ],
+          [
+            136.88129,
+            35.175599
+          ],
+          [
+            136.880612,
+            35.176359
+          ],
+          [
+            136.879506,
+            35.17752
+          ],
+          [
+            136.879105,
+            35.177526
+          ],
+          [
+            136.878232,
+            35.17754
+          ],
+          [
+            136.87779,
+            35.177547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077495",
+      "properties": {
+        "@id": "way/32077495",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.929583,
+            35.1707
+          ],
+          [
+            136.930357,
+            35.170618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077496",
+      "properties": {
+        "@id": "way/32077496",
+        "KSJ2:LIN": "1号線東山線",
+        "bridge": "viaduct",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "名古屋市営地下鉄東山線",
+        "name:en": "Nagoya Subway Higashiyama Line",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.0010119,
+            35.1698431
+          ],
+          [
+            137.0016261,
+            35.1701639
+          ],
+          [
+            137.0019625,
+            35.1703624
+          ],
+          [
+            137.0022376,
+            35.1705244
+          ],
+          [
+            137.0027127,
+            35.1708299
+          ],
+          [
+            137.0036797,
+            35.1714878
+          ],
+          [
+            137.0051914,
+            35.1724951
+          ],
+          [
+            137.0062278,
+            35.1731889
+          ],
+          [
+            137.0071538,
+            35.1738225
+          ],
+          [
+            137.0074835,
+            35.1740466
+          ],
+          [
+            137.0076882,
+            35.1741705
+          ],
+          [
+            137.0079161,
+            35.1742965
+          ],
+          [
+            137.0081696,
+            35.1744169
+          ],
+          [
+            137.008478,
+            35.1745486
+          ],
+          [
+            137.0090198,
+            35.174742
+          ],
+          [
+            137.0094475,
+            35.1748482
+          ],
+          [
+            137.0096605,
+            35.1748872
+          ],
+          [
+            137.0100496,
+            35.1749681
+          ],
+          [
+            137.0108091,
+            35.1750513
+          ],
+          [
+            137.0118354,
+            35.1752115
+          ],
+          [
+            137.0127389,
+            35.1753416
+          ],
+          [
+            137.0136267,
+            35.1754487
+          ],
+          [
+            137.0138278,
+            35.1754683
+          ],
+          [
+            137.0139812,
+            35.1754787
+          ],
+          [
+            137.0140352,
+            35.1754824
+          ],
+          [
+            137.0172876,
+            35.175697
+          ],
+          [
+            137.0178551,
+            35.175745
+          ],
+          [
+            137.0181313,
+            35.1757846
+          ],
+          [
+            137.0184094,
+            35.1758475
+          ],
+          [
+            137.018642,
+            35.1759153
+          ],
+          [
+            137.018798,
+            35.1759714
+          ],
+          [
+            137.018993,
+            35.17605
+          ],
+          [
+            137.0191804,
+            35.176137
+          ],
+          [
+            137.0193341,
+            35.1762179
+          ],
+          [
+            137.019416,
+            35.1762696
+          ],
+          [
+            137.0195161,
+            35.1763373
+          ],
+          [
+            137.0195983,
+            35.1763957
+          ],
+          [
+            137.0196827,
+            35.1764587
+          ],
+          [
+            137.0198795,
+            35.1766188
+          ],
+          [
+            137.0199816,
+            35.1767124
+          ],
+          [
+            137.0200655,
+            35.1768037
+          ],
+          [
+            137.0201331,
+            35.1768763
+          ],
+          [
+            137.020205,
+            35.1769632
+          ],
+          [
+            137.0202606,
+            35.1770395
+          ],
+          [
+            137.0203674,
+            35.1771883
+          ],
+          [
+            137.0204263,
+            35.1772873
+          ],
+          [
+            137.0204808,
+            35.1773899
+          ],
+          [
+            137.0205608,
+            35.1775567
+          ],
+          [
+            137.0206189,
+            35.1776996
+          ],
+          [
+            137.0206814,
+            35.1779183
+          ],
+          [
+            137.0207057,
+            35.1780337
+          ],
+          [
+            137.0207286,
+            35.1781676
+          ],
+          [
+            137.0207464,
+            35.1783179
+          ],
+          [
+            137.0207484,
+            35.1785913
+          ],
+          [
+            137.020736,
+            35.1793085
+          ],
+          [
+            137.0207311,
+            35.1797753
+          ],
+          [
+            137.0207205,
+            35.1802121
+          ],
+          [
+            137.0207218,
+            35.1803819
+          ],
+          [
+            137.0207246,
+            35.1805437
+          ],
+          [
+            137.0207358,
+            35.1807029
+          ],
+          [
+            137.0207437,
+            35.1807996
+          ],
+          [
+            137.0207536,
+            35.1808815
+          ],
+          [
+            137.0207679,
+            35.1809822
+          ],
+          [
+            137.0207917,
+            35.1811017
+          ],
+          [
+            137.0208163,
+            35.181226
+          ],
+          [
+            137.020852,
+            35.1813501
+          ],
+          [
+            137.0209209,
+            35.181562
+          ],
+          [
+            137.0210182,
+            35.1818118
+          ],
+          [
+            137.0211142,
+            35.1820336
+          ],
+          [
+            137.0212824,
+            35.182326
+          ],
+          [
+            137.0216405,
+            35.1829457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077497",
+      "properties": {
+        "@id": "way/32077497",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8623698,
+            35.1729597
+          ],
+          [
+            136.8647198,
+            35.1749782
+          ],
+          [
+            136.8668415,
+            35.1768349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077498",
+      "properties": {
+        "@id": "way/32077498",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.938471,
+            35.169751
+          ],
+          [
+            136.937677,
+            35.169819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077499",
+      "properties": {
+        "@id": "way/32077499",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8535706,
+            35.1379206
+          ],
+          [
+            136.853511,
+            35.139131
+          ],
+          [
+            136.853407,
+            35.140258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077500",
+      "properties": {
+        "@id": "way/32077500",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.853407,
+            35.140258
+          ],
+          [
+            136.853402,
+            35.140665
+          ],
+          [
+            136.8533459,
+            35.1415177
+          ],
+          [
+            136.853303,
+            35.14217
+          ],
+          [
+            136.8532832,
+            35.1424328
+          ],
+          [
+            136.853224,
+            35.143221
+          ],
+          [
+            136.853171,
+            35.144026
+          ],
+          [
+            136.853119,
+            35.145011
+          ],
+          [
+            136.853057,
+            35.145943
+          ],
+          [
+            136.853025,
+            35.146532
+          ],
+          [
+            136.853036,
+            35.146897
+          ],
+          [
+            136.8530454,
+            35.1472478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077501",
+      "properties": {
+        "@id": "way/32077501",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.972938,
+            35.160548
+          ],
+          [
+            136.972341,
+            35.160712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077502",
+      "properties": {
+        "@id": "way/32077502",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9090084,
+            35.1700291
+          ],
+          [
+            136.9093034,
+            35.1700471
+          ],
+          [
+            136.9104419,
+            35.1701344
+          ],
+          [
+            136.9191419,
+            35.1707035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077503",
+      "properties": {
+        "@id": "way/32077503",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.946458,
+            35.167729
+          ],
+          [
+            136.945588,
+            35.167918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077504",
+      "properties": {
+        "@id": "way/32077504",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.952919,
+            35.1666
+          ],
+          [
+            136.952088,
+            35.166491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077506",
+      "properties": {
+        "@id": "way/32077506",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.972341,
+            35.160712
+          ],
+          [
+            136.971883,
+            35.160858
+          ],
+          [
+            136.971302,
+            35.161073
+          ],
+          [
+            136.970759,
+            35.161276
+          ],
+          [
+            136.970213,
+            35.161463
+          ],
+          [
+            136.969636,
+            35.16167
+          ],
+          [
+            136.967228,
+            35.162569
+          ],
+          [
+            136.965235,
+            35.163314
+          ],
+          [
+            136.96406,
+            35.163753
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077508",
+      "properties": {
+        "@id": "way/32077508",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8971347,
+            35.1692645
+          ],
+          [
+            136.8966031,
+            35.169258
+          ],
+          [
+            136.8961096,
+            35.1692595
+          ],
+          [
+            136.8955427,
+            35.1692832
+          ],
+          [
+            136.8949697,
+            35.1693297
+          ],
+          [
+            136.8943932,
+            35.1693852
+          ],
+          [
+            136.8934422,
+            35.1694817
+          ],
+          [
+            136.8928419,
+            35.1695341
+          ],
+          [
+            136.8925186,
+            35.1695536
+          ],
+          [
+            136.892104,
+            35.1695851
+          ],
+          [
+            136.8916284,
+            35.1695847
+          ],
+          [
+            136.8912896,
+            35.1695752
+          ],
+          [
+            136.8907231,
+            35.1695357
+          ],
+          [
+            136.8900087,
+            35.1694182
+          ],
+          [
+            136.8895962,
+            35.1693027
+          ],
+          [
+            136.8890621,
+            35.1691946
+          ],
+          [
+            136.887011,
+            35.168761
+          ],
+          [
+            136.886273,
+            35.168631
+          ],
+          [
+            136.885457,
+            35.168497
+          ],
+          [
+            136.88527,
+            35.168502
+          ],
+          [
+            136.885111,
+            35.16853
+          ],
+          [
+            136.884977,
+            35.168612
+          ],
+          [
+            136.884862,
+            35.168732
+          ],
+          [
+            136.884475,
+            35.169894
+          ],
+          [
+            136.884129,
+            35.170807
+          ],
+          [
+            136.883933,
+            35.171193
+          ],
+          [
+            136.883881,
+            35.171304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077510",
+      "properties": {
+        "@id": "way/32077510",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8551774,
+            35.1682073
+          ],
+          [
+            136.8554353,
+            35.1684931
+          ],
+          [
+            136.8562101,
+            35.1690524
+          ],
+          [
+            136.8565158,
+            35.1692178
+          ],
+          [
+            136.8573203,
+            35.1696184
+          ],
+          [
+            136.8580442,
+            35.1699744
+          ],
+          [
+            136.8593387,
+            35.17064
+          ],
+          [
+            136.8601955,
+            35.1711036
+          ],
+          [
+            136.8618878,
+            35.1725268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077511",
+      "properties": {
+        "@id": "way/32077511",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9854147,
+            35.1625251
+          ],
+          [
+            136.985128,
+            35.16239
+          ],
+          [
+            136.984005,
+            35.161972
+          ],
+          [
+            136.983784,
+            35.161898
+          ],
+          [
+            136.983056,
+            35.161651
+          ],
+          [
+            136.982521,
+            35.16147
+          ],
+          [
+            136.981971,
+            35.161308
+          ],
+          [
+            136.981428,
+            35.161188
+          ],
+          [
+            136.97977,
+            35.160862
+          ],
+          [
+            136.978613,
+            35.160677
+          ],
+          [
+            136.976665,
+            35.160591
+          ],
+          [
+            136.975794,
+            35.160561
+          ],
+          [
+            136.97566,
+            35.1605662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077512",
+      "properties": {
+        "@id": "way/32077512",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9855692,
+            35.1625944
+          ],
+          [
+            136.9854147,
+            35.1625251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077513",
+      "properties": {
+        "@id": "way/32077513",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.945588,
+            35.167918
+          ],
+          [
+            136.945283,
+            35.167993
+          ],
+          [
+            136.944515,
+            35.168201
+          ],
+          [
+            136.943489,
+            35.168461
+          ],
+          [
+            136.942242,
+            35.1688
+          ],
+          [
+            136.94113,
+            35.169083
+          ],
+          [
+            136.940294,
+            35.169305
+          ],
+          [
+            136.939596,
+            35.169498
+          ],
+          [
+            136.939163,
+            35.169607
+          ],
+          [
+            136.938835,
+            35.169697
+          ],
+          [
+            136.938471,
+            35.169751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077514",
+      "properties": {
+        "@id": "way/32077514",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9083615,
+            35.1699871
+          ],
+          [
+            136.9085779,
+            35.1699991
+          ],
+          [
+            136.9090084,
+            35.1700291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077515",
+      "properties": {
+        "@id": "way/32077515",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9083615,
+            35.1699871
+          ],
+          [
+            136.9079436,
+            35.1699661
+          ],
+          [
+            136.9067792,
+            35.1699058
+          ],
+          [
+            136.9060051,
+            35.1698482
+          ],
+          [
+            136.9046047,
+            35.1697504
+          ],
+          [
+            136.903375,
+            35.1696694
+          ],
+          [
+            136.9022837,
+            35.1696024
+          ],
+          [
+            136.9013391,
+            35.1695462
+          ],
+          [
+            136.900472,
+            35.1694947
+          ],
+          [
+            136.8996134,
+            35.1694221
+          ],
+          [
+            136.8986398,
+            35.1693546
+          ],
+          [
+            136.8979087,
+            35.1693106
+          ],
+          [
+            136.8971347,
+            35.1692645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077518",
+      "properties": {
+        "@id": "way/32077518",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.920514,
+            35.1707781
+          ],
+          [
+            136.9241729,
+            35.1710617
+          ],
+          [
+            136.9252078,
+            35.1710611
+          ],
+          [
+            136.9283331,
+            35.1708336
+          ],
+          [
+            136.929583,
+            35.1707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077520",
+      "properties": {
+        "@id": "way/32077520",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.96406,
+            35.163753
+          ],
+          [
+            136.963362,
+            35.164001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077521",
+      "properties": {
+        "@id": "way/32077521",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8532681,
+            35.1495943
+          ],
+          [
+            136.8533995,
+            35.1504599
+          ],
+          [
+            136.8535443,
+            35.1512983
+          ],
+          [
+            136.853642,
+            35.1520281
+          ],
+          [
+            136.8537117,
+            35.1525604
+          ],
+          [
+            136.8538051,
+            35.1532525
+          ],
+          [
+            136.8538973,
+            35.1540288
+          ],
+          [
+            136.8539703,
+            35.154647
+          ],
+          [
+            136.8540636,
+            35.1554374
+          ],
+          [
+            136.8542294,
+            35.1565696
+          ],
+          [
+            136.8543136,
+            35.1571944
+          ],
+          [
+            136.8544292,
+            35.1579101
+          ],
+          [
+            136.8544456,
+            35.1585594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077523",
+      "properties": {
+        "@id": "way/32077523",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "undefined",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8979087,
+            35.1693106
+          ],
+          [
+            136.8973861,
+            35.1692788
+          ],
+          [
+            136.8971347,
+            35.1692645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077527",
+      "properties": {
+        "@id": "way/32077527",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.867548,
+            35.177251
+          ],
+          [
+            136.867796,
+            35.177449
+          ],
+          [
+            136.86797,
+            35.177499
+          ],
+          [
+            136.872048,
+            35.177536
+          ],
+          [
+            136.877126,
+            35.177554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077529",
+      "properties": {
+        "@id": "way/32077529",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.952088,
+            35.166491
+          ],
+          [
+            136.951726,
+            35.166488
+          ],
+          [
+            136.951534,
+            35.166536
+          ],
+          [
+            136.95127,
+            35.166604
+          ],
+          [
+            136.950313,
+            35.16683
+          ],
+          [
+            136.949306,
+            35.167072
+          ],
+          [
+            136.948643,
+            35.167223
+          ],
+          [
+            136.946458,
+            35.167729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077530",
+      "properties": {
+        "@id": "way/32077530",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.883881,
+            35.171304
+          ],
+          [
+            136.883521,
+            35.171913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077533",
+      "properties": {
+        "@id": "way/32077533",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8618878,
+            35.1725268
+          ],
+          [
+            136.8623698,
+            35.1729597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077534",
+      "properties": {
+        "@id": "way/32077534",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.87779,
+            35.177547
+          ],
+          [
+            136.877126,
+            35.177554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077537",
+      "properties": {
+        "@id": "way/32077537",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8530454,
+            35.1472478
+          ],
+          [
+            136.8531124,
+            35.1475028
+          ],
+          [
+            136.8532455,
+            35.1489067
+          ],
+          [
+            136.8532681,
+            35.1495943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077540",
+      "properties": {
+        "@id": "way/32077540",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.930357,
+            35.170618
+          ],
+          [
+            136.93097,
+            35.17054
+          ],
+          [
+            136.9325982,
+            35.1704039
+          ],
+          [
+            136.9347052,
+            35.1701312
+          ],
+          [
+            136.936523,
+            35.169896
+          ],
+          [
+            136.936775,
+            35.169877
+          ],
+          [
+            136.937133,
+            35.169853
+          ],
+          [
+            136.937262,
+            35.169847
+          ],
+          [
+            136.937677,
+            35.169819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32077570",
+      "properties": {
+        "@id": "way/32077570",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.0016486,
+            35.1702002
+          ],
+          [
+            137.000932,
+            35.169778
+          ],
+          [
+            137.000777,
+            35.169694
+          ],
+          [
+            136.999595,
+            35.169196
+          ],
+          [
+            136.998665,
+            35.168893
+          ],
+          [
+            136.998122,
+            35.168719
+          ],
+          [
+            136.997542,
+            35.168563
+          ],
+          [
+            136.997037,
+            35.168469
+          ],
+          [
+            136.996432,
+            35.168356
+          ],
+          [
+            136.995551,
+            35.168236
+          ],
+          [
+            136.995279,
+            35.168202
+          ],
+          [
+            136.994647,
+            35.168053
+          ],
+          [
+            136.994217,
+            35.167936
+          ],
+          [
+            136.993844,
+            35.16782
+          ],
+          [
+            136.993101,
+            35.167583
+          ],
+          [
+            136.992826,
+            35.167469
+          ],
+          [
+            136.9926,
+            35.167371
+          ],
+          [
+            136.992155,
+            35.167134
+          ],
+          [
+            136.991776,
+            35.166958
+          ],
+          [
+            136.991688,
+            35.166901
+          ],
+          [
+            136.991531,
+            35.1668
+          ],
+          [
+            136.990815,
+            35.166333
+          ],
+          [
+            136.989895,
+            35.165659
+          ],
+          [
+            136.989505,
+            35.165324
+          ],
+          [
+            136.988766,
+            35.164703
+          ],
+          [
+            136.988382,
+            35.164394
+          ],
+          [
+            136.987803,
+            35.163932
+          ],
+          [
+            136.987486,
+            35.163725
+          ],
+          [
+            136.9855692,
+            35.1625944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32163954",
+      "properties": {
+        "@id": "way/32163954",
+        "KSJ2:LIN": "2号線名城線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営2号線名城線",
+        "name:ja": "名古屋市営2号線名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.904755,
+            35.189924
+          ],
+          [
+            136.904805,
+            35.190343
+          ],
+          [
+            136.904726,
+            35.191109
+          ],
+          [
+            136.904584,
+            35.192402
+          ],
+          [
+            136.904653,
+            35.193806
+          ],
+          [
+            136.904781,
+            35.194666
+          ],
+          [
+            136.904791,
+            35.194731
+          ],
+          [
+            136.904929,
+            35.195174
+          ],
+          [
+            136.905109,
+            35.195519
+          ],
+          [
+            136.905773,
+            35.196266
+          ],
+          [
+            136.9058245,
+            35.1962983
+          ],
+          [
+            136.906589,
+            35.196777
+          ],
+          [
+            136.907065,
+            35.197035
+          ],
+          [
+            136.907563,
+            35.197242
+          ],
+          [
+            136.909624,
+            35.197173
+          ],
+          [
+            136.910689,
+            35.197146
+          ],
+          [
+            136.9146984,
+            35.1971575
+          ],
+          [
+            136.9151844,
+            35.1971128
+          ],
+          [
+            136.916248,
+            35.196598
+          ],
+          [
+            136.9167979,
+            35.1964373
+          ],
+          [
+            136.9179387,
+            35.1963936
+          ],
+          [
+            136.920868,
+            35.196281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32163968",
+      "properties": {
+        "@id": "way/32163968",
+        "KSJ2:LIN": "2号線名城線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.908655,
+            35.169189
+          ],
+          [
+            136.908598,
+            35.169818
+          ],
+          [
+            136.9085879,
+            35.1699036
+          ],
+          [
+            136.9085662,
+            35.1701406
+          ],
+          [
+            136.908198,
+            35.173279
+          ],
+          [
+            136.908158,
+            35.173737
+          ],
+          [
+            136.908074,
+            35.174489
+          ],
+          [
+            136.907824,
+            35.176935
+          ],
+          [
+            136.907728,
+            35.177336
+          ],
+          [
+            136.907574,
+            35.177812
+          ],
+          [
+            136.907256,
+            35.178227
+          ],
+          [
+            136.906675,
+            35.178724
+          ],
+          [
+            136.906191,
+            35.179098
+          ],
+          [
+            136.9055257,
+            35.1799052
+          ],
+          [
+            136.905464,
+            35.1806567
+          ],
+          [
+            136.9053995,
+            35.1812012
+          ],
+          [
+            136.905333,
+            35.1818013
+          ],
+          [
+            136.9048798,
+            35.1844466
+          ],
+          [
+            136.904707,
+            35.1857142
+          ],
+          [
+            136.9045586,
+            35.187339
+          ],
+          [
+            136.904507,
+            35.1881408
+          ],
+          [
+            136.904525,
+            35.1891569
+          ],
+          [
+            136.904755,
+            35.189924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32163981",
+      "properties": {
+        "@id": "way/32163981",
+        "KSJ2:LIN": "2号線名城線",
+        "name": "名古屋市営地下鉄名城線",
+        "name:ja": "名古屋市営地下鉄名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.901691,
+            35.143561
+          ],
+          [
+            136.902176,
+            35.144189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32163988",
+      "properties": {
+        "@id": "way/32163988",
+        "KSJ2:LIN": "2号線名城線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営2号線名城線",
+        "name:ja": "名古屋市営地下鉄名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.902176,
+            35.144189
+          ],
+          [
+            136.902418,
+            35.144599
+          ],
+          [
+            136.902678,
+            35.145078
+          ],
+          [
+            136.902979,
+            35.145665
+          ],
+          [
+            136.903118,
+            35.146011
+          ],
+          [
+            136.9032547,
+            35.1465179
+          ],
+          [
+            136.903418,
+            35.146819
+          ],
+          [
+            136.903672,
+            35.147373
+          ],
+          [
+            136.9040333,
+            35.1480569
+          ],
+          [
+            136.9043003,
+            35.1487097
+          ],
+          [
+            136.9043853,
+            35.1490223
+          ],
+          [
+            136.9045334,
+            35.1496625
+          ],
+          [
+            136.9047547,
+            35.1502521
+          ],
+          [
+            136.9056252,
+            35.1517035
+          ],
+          [
+            136.9058722,
+            35.1522405
+          ],
+          [
+            136.9060391,
+            35.1527344
+          ],
+          [
+            136.9062243,
+            35.1539394
+          ],
+          [
+            136.9064885,
+            35.1555821
+          ],
+          [
+            136.9065709,
+            35.1560202
+          ],
+          [
+            136.9066563,
+            35.1565335
+          ],
+          [
+            136.9067793,
+            35.1572436
+          ],
+          [
+            136.9069127,
+            35.157997
+          ],
+          [
+            136.9070586,
+            35.1588755
+          ],
+          [
+            136.9071063,
+            35.1591487
+          ],
+          [
+            136.9072142,
+            35.1598008
+          ],
+          [
+            136.9072882,
+            35.1601343
+          ],
+          [
+            136.9073473,
+            35.1603453
+          ],
+          [
+            136.9074415,
+            35.1606045
+          ],
+          [
+            136.9075615,
+            35.1608986
+          ],
+          [
+            136.9077592,
+            35.161227
+          ],
+          [
+            136.9080138,
+            35.1615815
+          ],
+          [
+            136.9082928,
+            35.1619975
+          ],
+          [
+            136.9086765,
+            35.1624721
+          ],
+          [
+            136.908854,
+            35.1629042
+          ],
+          [
+            136.9088743,
+            35.1631922
+          ],
+          [
+            136.9088771,
+            35.1636137
+          ],
+          [
+            136.908922,
+            35.163986
+          ],
+          [
+            136.908933,
+            35.164222
+          ],
+          [
+            136.908917,
+            35.164605
+          ],
+          [
+            136.90888,
+            35.165129
+          ],
+          [
+            136.908749,
+            35.167706
+          ],
+          [
+            136.908655,
+            35.169189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32164002",
+      "properties": {
+        "@id": "way/32164002",
+        "KSJ2:LIN": "2号線名城線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営2号線名城線",
+        "name:ja": "名古屋市営2号線名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.936529,
+            35.1925529
+          ],
+          [
+            136.935815,
+            35.192905
+          ],
+          [
+            136.9331096,
+            35.1942642
+          ],
+          [
+            136.9303733,
+            35.195694
+          ],
+          [
+            136.9302231,
+            35.1957784
+          ],
+          [
+            136.9298744,
+            35.1959362
+          ],
+          [
+            136.9297041,
+            35.1959901
+          ],
+          [
+            136.925591,
+            35.196182
+          ],
+          [
+            136.921559,
+            35.196267
+          ],
+          [
+            136.920868,
+            35.196281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32165107",
+      "properties": {
+        "@id": "way/32165107",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "4号線名城線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営4号線名城線",
+        "name:ja": "名古屋市営4号線名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.955045,
+            35.131314
+          ],
+          [
+            136.954321,
+            35.130335
+          ],
+          [
+            136.954059,
+            35.129854
+          ],
+          [
+            136.953939,
+            35.129537
+          ],
+          [
+            136.953835,
+            35.129244
+          ],
+          [
+            136.95374,
+            35.129063
+          ],
+          [
+            136.9535232,
+            35.1288649
+          ],
+          [
+            136.95244,
+            35.127753
+          ],
+          [
+            136.95137,
+            35.126701
+          ],
+          [
+            136.951223,
+            35.126528
+          ],
+          [
+            136.950521,
+            35.125614
+          ],
+          [
+            136.949404,
+            35.124071
+          ],
+          [
+            136.949252,
+            35.123871
+          ],
+          [
+            136.948237,
+            35.122536
+          ],
+          [
+            136.947979,
+            35.122254
+          ],
+          [
+            136.947902,
+            35.1222342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32165116",
+      "properties": {
+        "@id": "way/32165116",
+        "KSJ2:LIN": "4号線名城線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営4号線名城線",
+        "name:ja": "名古屋市営4号線名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.947902,
+            35.1222342
+          ],
+          [
+            136.947584,
+            35.1219432
+          ],
+          [
+            136.947089,
+            35.1215642
+          ],
+          [
+            136.946376,
+            35.1210932
+          ],
+          [
+            136.945275,
+            35.1204312
+          ],
+          [
+            136.944431,
+            35.1200022
+          ],
+          [
+            136.94352,
+            35.1195602
+          ],
+          [
+            136.942015,
+            35.1188782
+          ],
+          [
+            136.94029,
+            35.1182612
+          ],
+          [
+            136.939531,
+            35.1180382
+          ],
+          [
+            136.939266,
+            35.1179692
+          ],
+          [
+            136.939069,
+            35.1179202
+          ],
+          [
+            136.938813,
+            35.1178692
+          ],
+          [
+            136.938535,
+            35.1178312
+          ],
+          [
+            136.938247,
+            35.1178112
+          ],
+          [
+            136.937918,
+            35.1177972
+          ],
+          [
+            136.937659,
+            35.1177922
+          ],
+          [
+            136.936782,
+            35.1177732
+          ],
+          [
+            136.936579,
+            35.1177542
+          ],
+          [
+            136.936103,
+            35.1177102
+          ],
+          [
+            136.935574,
+            35.1176652
+          ],
+          [
+            136.934146,
+            35.1175402
+          ],
+          [
+            136.933534,
+            35.1175032
+          ],
+          [
+            136.931967,
+            35.1173752
+          ],
+          [
+            136.930808,
+            35.1172662
+          ],
+          [
+            136.9295855,
+            35.1171512
+          ],
+          [
+            136.929124,
+            35.1171333
+          ],
+          [
+            136.927396,
+            35.1169912
+          ],
+          [
+            136.926226,
+            35.1168942
+          ],
+          [
+            136.925,
+            35.1167962
+          ],
+          [
+            136.923931,
+            35.1167032
+          ],
+          [
+            136.923489,
+            35.1166802
+          ],
+          [
+            136.921803,
+            35.1165342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32165121",
+      "properties": {
+        "@id": "way/32165121",
+        "KSJ2:LIN": "4号線名城線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄名城線",
+        "name:ja": "名古屋市営地下鉄名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.963632,
+            35.163585
+          ],
+          [
+            136.96395,
+            35.162169
+          ],
+          [
+            136.964071,
+            35.161704
+          ],
+          [
+            136.964187,
+            35.161368
+          ],
+          [
+            136.964407,
+            35.160842
+          ],
+          [
+            136.9647445,
+            35.1601279
+          ],
+          [
+            136.965104,
+            35.159367
+          ],
+          [
+            136.965774,
+            35.157996
+          ],
+          [
+            136.966016,
+            35.1574242
+          ],
+          [
+            136.966239,
+            35.15699
+          ],
+          [
+            136.9663571,
+            35.1566843
+          ],
+          [
+            136.966403,
+            35.156384
+          ],
+          [
+            136.966549,
+            35.155646
+          ],
+          [
+            136.966558,
+            35.155511
+          ],
+          [
+            136.966591,
+            35.155056
+          ],
+          [
+            136.966596,
+            35.154508
+          ],
+          [
+            136.9665942,
+            35.1544439
+          ],
+          [
+            136.96657,
+            35.153927
+          ],
+          [
+            136.966536,
+            35.153602
+          ],
+          [
+            136.96652,
+            35.153453
+          ],
+          [
+            136.966383,
+            35.152711
+          ],
+          [
+            136.9658303,
+            35.1503148
+          ],
+          [
+            136.9657527,
+            35.1499982
+          ],
+          [
+            136.965586,
+            35.149417
+          ],
+          [
+            136.965241,
+            35.14822
+          ],
+          [
+            136.964684,
+            35.146717
+          ],
+          [
+            136.964377,
+            35.145996
+          ],
+          [
+            136.964359,
+            35.145805
+          ],
+          [
+            136.964387,
+            35.145613
+          ],
+          [
+            136.964531,
+            35.145338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32165130",
+      "properties": {
+        "@id": "way/32165130",
+        "KSJ2:LIN": "4号線名城線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営4号線名城線",
+        "name:ja": "名古屋市営4号線名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9068383,
+            35.1276266
+          ],
+          [
+            136.9070046,
+            35.1268391
+          ],
+          [
+            136.9071226,
+            35.1262402
+          ],
+          [
+            136.9072594,
+            35.1254241
+          ],
+          [
+            136.9072786,
+            35.124724
+          ],
+          [
+            136.9072386,
+            35.1235976
+          ],
+          [
+            136.9071785,
+            35.123052
+          ],
+          [
+            136.9071823,
+            35.1227563
+          ],
+          [
+            136.9072056,
+            35.1224793
+          ],
+          [
+            136.9072453,
+            35.1223991
+          ],
+          [
+            136.9076399,
+            35.1221126
+          ],
+          [
+            136.9077567,
+            35.1220152
+          ],
+          [
+            136.9080322,
+            35.1218777
+          ],
+          [
+            136.9091235,
+            35.1213173
+          ],
+          [
+            136.9099443,
+            35.1209882
+          ],
+          [
+            136.9104385,
+            35.1208062
+          ],
+          [
+            136.9109242,
+            35.1206171
+          ],
+          [
+            136.911645,
+            35.120339
+          ],
+          [
+            136.911803,
+            35.120216
+          ],
+          [
+            136.911971,
+            35.120063
+          ],
+          [
+            136.912946,
+            35.118898
+          ],
+          [
+            136.9133774,
+            35.1184176
+          ],
+          [
+            136.913572,
+            35.118201
+          ],
+          [
+            136.913743,
+            35.117995
+          ],
+          [
+            136.913825,
+            35.11789
+          ],
+          [
+            136.913851,
+            35.117857
+          ],
+          [
+            136.91402,
+            35.117684
+          ],
+          [
+            136.914223,
+            35.117504
+          ],
+          [
+            136.91444,
+            35.117396
+          ],
+          [
+            136.914954,
+            35.117126
+          ],
+          [
+            136.915115,
+            35.116995
+          ],
+          [
+            136.915468,
+            35.116804
+          ],
+          [
+            136.916092,
+            35.11657
+          ],
+          [
+            136.916849,
+            35.116409
+          ],
+          [
+            136.91763,
+            35.116293
+          ],
+          [
+            136.918076,
+            35.116263
+          ],
+          [
+            136.918526,
+            35.116289
+          ],
+          [
+            136.92046,
+            35.11639
+          ],
+          [
+            136.921124,
+            35.116432
+          ],
+          [
+            136.921803,
+            35.1165342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32165132",
+      "properties": {
+        "@id": "way/32165132",
+        "KSJ2:LIN": "4号線名城線",
+        "name": "名古屋市営地下鉄名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8995373,
+            35.1405324
+          ],
+          [
+            136.899859,
+            35.141013
+          ],
+          [
+            136.900436,
+            35.14182
+          ],
+          [
+            136.900999,
+            35.142607
+          ],
+          [
+            136.901431,
+            35.143209
+          ],
+          [
+            136.901691,
+            35.143561
+          ],
+          [
+            136.902176,
+            35.144189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32165143",
+      "properties": {
+        "@id": "way/32165143",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "4号線名城線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "name": "名古屋市営4号線名城線",
+        "name:ja": "名古屋市営4号線名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.936529,
+            35.1925529
+          ],
+          [
+            136.935815,
+            35.192905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32165171",
+      "properties": {
+        "@id": "way/32165171",
+        "KSJ2:LIN": "4号線名城線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "名古屋市営地下鉄名城線",
+        "name:ja": "名古屋市営地下鉄名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.962275,
+            35.1844745
+          ],
+          [
+            136.960678,
+            35.186294
+          ],
+          [
+            136.959866,
+            35.187107
+          ],
+          [
+            136.959547,
+            35.187357
+          ],
+          [
+            136.959042,
+            35.187634
+          ],
+          [
+            136.958371,
+            35.187869
+          ],
+          [
+            136.955036,
+            35.188623
+          ],
+          [
+            136.954229,
+            35.188785
+          ],
+          [
+            136.944398,
+            35.190825
+          ],
+          [
+            136.943582,
+            35.191018
+          ],
+          [
+            136.942021,
+            35.191371
+          ],
+          [
+            136.937774,
+            35.192269
+          ],
+          [
+            136.936684,
+            35.1925103
+          ],
+          [
+            136.936529,
+            35.1925529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32165173",
+      "properties": {
+        "@id": "way/32165173",
+        "KSJ2:LIN": "4号線名城線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄名城線",
+        "name:ja": "名古屋市営地下鉄名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.962275,
+            35.1844745
+          ],
+          [
+            136.962636,
+            35.184051
+          ],
+          [
+            136.9643236,
+            35.1821638
+          ],
+          [
+            136.965501,
+            35.180847
+          ],
+          [
+            136.966542,
+            35.179597
+          ],
+          [
+            136.966858,
+            35.179165
+          ],
+          [
+            136.967157,
+            35.178571
+          ],
+          [
+            136.967266,
+            35.178272
+          ],
+          [
+            136.967327,
+            35.177986
+          ],
+          [
+            136.967349,
+            35.177722
+          ],
+          [
+            136.967328,
+            35.177395
+          ],
+          [
+            136.967277,
+            35.177069
+          ],
+          [
+            136.96722,
+            35.176644
+          ],
+          [
+            136.967087,
+            35.17622
+          ],
+          [
+            136.966522,
+            35.174558
+          ],
+          [
+            136.96627,
+            35.173841
+          ],
+          [
+            136.965137,
+            35.170524
+          ],
+          [
+            136.963884,
+            35.166825
+          ],
+          [
+            136.963674,
+            35.166101
+          ],
+          [
+            136.963564,
+            35.165446
+          ],
+          [
+            136.963501,
+            35.164816
+          ],
+          [
+            136.963558,
+            35.163962
+          ],
+          [
+            136.963632,
+            35.163585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32165183",
+      "properties": {
+        "@id": "way/32165183",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "4号線名城線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営4号線名城線",
+        "name:ja": "名古屋市営4号線名城線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.964531,
+            35.145338
+          ],
+          [
+            136.964715,
+            35.144987
+          ],
+          [
+            136.965088,
+            35.144279
+          ],
+          [
+            136.96523,
+            35.143943
+          ],
+          [
+            136.965748,
+            35.14272
+          ],
+          [
+            136.966186,
+            35.14157
+          ],
+          [
+            136.96636,
+            35.14125
+          ],
+          [
+            136.9665656,
+            35.1410122
+          ],
+          [
+            136.967039,
+            35.14014
+          ],
+          [
+            136.967204,
+            35.139796
+          ],
+          [
+            136.967251,
+            35.139447
+          ],
+          [
+            136.967214,
+            35.139067
+          ],
+          [
+            136.967088,
+            35.138722
+          ],
+          [
+            136.966928,
+            35.138503
+          ],
+          [
+            136.966761,
+            35.138326
+          ],
+          [
+            136.966472,
+            35.138115
+          ],
+          [
+            136.966164,
+            35.137941
+          ],
+          [
+            136.965603,
+            35.137692
+          ],
+          [
+            136.965113,
+            35.137474
+          ],
+          [
+            136.964646,
+            35.137172
+          ],
+          [
+            136.964018,
+            35.13658
+          ],
+          [
+            136.963724,
+            35.13628
+          ],
+          [
+            136.963451,
+            35.136003
+          ],
+          [
+            136.963141,
+            35.135687
+          ],
+          [
+            136.962812,
+            35.135477
+          ],
+          [
+            136.962591,
+            35.135382
+          ],
+          [
+            136.962308,
+            35.135296
+          ],
+          [
+            136.961532,
+            35.135175
+          ],
+          [
+            136.960623,
+            35.135108
+          ],
+          [
+            136.959357,
+            35.135096
+          ],
+          [
+            136.959089,
+            35.135085
+          ],
+          [
+            136.958852,
+            35.135062
+          ],
+          [
+            136.958501,
+            35.13497
+          ],
+          [
+            136.958166,
+            35.134844
+          ],
+          [
+            136.957698,
+            35.134609
+          ],
+          [
+            136.957244,
+            35.134253
+          ],
+          [
+            136.956939,
+            35.133926
+          ],
+          [
+            136.955601,
+            35.1321657
+          ],
+          [
+            136.955045,
+            35.131314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32166208",
+      "properties": {
+        "@id": "way/32166208",
+        "KSJ2:LIN": "2号線名港線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市交通局名港線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.881854,
+            35.09286
+          ],
+          [
+            136.881976,
+            35.093547
+          ],
+          [
+            136.882402,
+            35.095772
+          ],
+          [
+            136.88267,
+            35.097207
+          ],
+          [
+            136.882749,
+            35.097556
+          ],
+          [
+            136.8827933,
+            35.0977762
+          ],
+          [
+            136.883139,
+            35.099619
+          ],
+          [
+            136.883264,
+            35.100274
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32166219",
+      "properties": {
+        "@id": "way/32166219",
+        "KSJ2:LIN": "2号線名港線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市交通局名港線",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.886121,
+            35.113813
+          ],
+          [
+            136.8862563,
+            35.1145362
+          ],
+          [
+            136.886357,
+            35.115074
+          ],
+          [
+            136.886461,
+            35.115522
+          ],
+          [
+            136.886646,
+            35.116568
+          ],
+          [
+            136.886711,
+            35.116898
+          ],
+          [
+            136.886874,
+            35.117731
+          ],
+          [
+            136.886966,
+            35.118154
+          ],
+          [
+            136.887032,
+            35.118452
+          ],
+          [
+            136.887289,
+            35.119617
+          ],
+          [
+            136.887524,
+            35.120755
+          ],
+          [
+            136.887735,
+            35.12168
+          ],
+          [
+            136.888074,
+            35.123234
+          ],
+          [
+            136.8882699,
+            35.1237634
+          ],
+          [
+            136.888557,
+            35.12445
+          ],
+          [
+            136.888844,
+            35.124964
+          ],
+          [
+            136.8898154,
+            35.1266977
+          ],
+          [
+            136.8906614,
+            35.1282142
+          ],
+          [
+            136.8915178,
+            35.1297584
+          ],
+          [
+            136.8924639,
+            35.1314823
+          ],
+          [
+            136.8929848,
+            35.1324183
+          ],
+          [
+            136.8933244,
+            35.1330311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32166231",
+      "properties": {
+        "@id": "way/32166231",
+        "KSJ2:LIN": "2号線名港線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市交通局名港線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.883264,
+            35.100274
+          ],
+          [
+            136.8833888,
+            35.1008219
+          ],
+          [
+            136.883547,
+            35.101516
+          ],
+          [
+            136.884169,
+            35.104621
+          ],
+          [
+            136.884307,
+            35.105311
+          ],
+          [
+            136.884436,
+            35.105758
+          ],
+          [
+            136.884568,
+            35.106065
+          ],
+          [
+            136.88465,
+            35.106225
+          ],
+          [
+            136.884936,
+            35.106781
+          ],
+          [
+            136.884979,
+            35.106944
+          ],
+          [
+            136.885196,
+            35.108576
+          ],
+          [
+            136.885472,
+            35.110257
+          ],
+          [
+            136.885535,
+            35.110571
+          ],
+          [
+            136.885758,
+            35.11199
+          ],
+          [
+            136.885965,
+            35.113143
+          ],
+          [
+            136.886121,
+            35.113813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32166233",
+      "properties": {
+        "@id": "way/32166233",
+        "KSJ2:LIN": "2号線名港線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄名港線",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8933244,
+            35.1330311
+          ],
+          [
+            136.893398,
+            35.133267
+          ],
+          [
+            136.893669,
+            35.133815
+          ],
+          [
+            136.89386,
+            35.134121
+          ],
+          [
+            136.894097,
+            35.134323
+          ],
+          [
+            136.894501,
+            35.134513
+          ],
+          [
+            136.895073,
+            35.134726
+          ],
+          [
+            136.895448,
+            35.13498
+          ],
+          [
+            136.895702,
+            35.135257
+          ],
+          [
+            136.896068,
+            35.135776
+          ],
+          [
+            136.896651,
+            35.136554
+          ],
+          [
+            136.897196,
+            35.137306
+          ],
+          [
+            136.897933,
+            35.138322
+          ],
+          [
+            136.898073,
+            35.138515
+          ],
+          [
+            136.898794,
+            35.139513
+          ],
+          [
+            136.899078,
+            35.139957
+          ],
+          [
+            136.8995373,
+            35.1405324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32167743",
+      "properties": {
+        "@id": "way/32167743",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "3号線鶴舞線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1067",
+        "name": "名古屋市営3号線鶴舞線",
+        "name:ja": "名古屋市営3号線鶴舞線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.963498,
+            35.137242
+          ],
+          [
+            136.963027,
+            35.137586
+          ],
+          [
+            136.962868,
+            35.137702
+          ],
+          [
+            136.962118,
+            35.13835
+          ],
+          [
+            136.961594,
+            35.138791
+          ],
+          [
+            136.961204,
+            35.139056
+          ],
+          [
+            136.959838,
+            35.13981
+          ],
+          [
+            136.959388,
+            35.140072
+          ],
+          [
+            136.958988,
+            35.140329
+          ],
+          [
+            136.958249,
+            35.140925
+          ],
+          [
+            136.957399,
+            35.141564
+          ],
+          [
+            136.95698,
+            35.141909
+          ],
+          [
+            136.956608,
+            35.142198
+          ],
+          [
+            136.955809,
+            35.142808
+          ],
+          [
+            136.954844,
+            35.143626
+          ],
+          [
+            136.954235,
+            35.144106
+          ],
+          [
+            136.953779,
+            35.144478
+          ],
+          [
+            136.953264,
+            35.144915
+          ],
+          [
+            136.953099,
+            35.145112
+          ],
+          [
+            136.952943,
+            35.145305
+          ],
+          [
+            136.952841,
+            35.145589
+          ],
+          [
+            136.952726,
+            35.146021
+          ],
+          [
+            136.95256,
+            35.146568
+          ],
+          [
+            136.952399,
+            35.147078
+          ],
+          [
+            136.9523,
+            35.14737
+          ],
+          [
+            136.952176,
+            35.147517
+          ],
+          [
+            136.951804,
+            35.147825
+          ],
+          [
+            136.951321,
+            35.148073
+          ],
+          [
+            136.950783,
+            35.148266
+          ],
+          [
+            136.950328,
+            35.148404
+          ],
+          [
+            136.949863,
+            35.148459
+          ],
+          [
+            136.949147,
+            35.148575
+          ],
+          [
+            136.948678,
+            35.148653
+          ],
+          [
+            136.94784,
+            35.148777
+          ],
+          [
+            136.947693,
+            35.148791
+          ],
+          [
+            136.94602,
+            35.149012
+          ],
+          [
+            136.945588,
+            35.149068
+          ],
+          [
+            136.945096,
+            35.149131
+          ],
+          [
+            136.944103,
+            35.149274
+          ],
+          [
+            136.942985,
+            35.149421
+          ],
+          [
+            136.942806,
+            35.149444
+          ],
+          [
+            136.942075,
+            35.149458
+          ],
+          [
+            136.940442,
+            35.149467
+          ],
+          [
+            136.938488,
+            35.149458
+          ],
+          [
+            136.937021,
+            35.149476
+          ],
+          [
+            136.935779,
+            35.149471
+          ],
+          [
+            136.934543,
+            35.149475
+          ],
+          [
+            136.9336255,
+            35.1495696
+          ],
+          [
+            136.9334215,
+            35.1495723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32167746",
+      "properties": {
+        "@id": "way/32167746",
+        "KSJ2:LIN": "3号線鶴舞線",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1067",
+        "name": "名古屋市営3号線鶴舞線",
+        "name:ja": "名古屋市営3号線鶴舞線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.006831,
+            35.122823
+          ],
+          [
+            137.004699,
+            35.123516
+          ],
+          [
+            137.002459,
+            35.124254
+          ],
+          [
+            137.000566,
+            35.124879
+          ],
+          [
+            136.998059,
+            35.125718
+          ],
+          [
+            136.997502,
+            35.1259
+          ],
+          [
+            136.997038,
+            35.126047
+          ],
+          [
+            136.996721,
+            35.126156
+          ],
+          [
+            136.996327,
+            35.126295
+          ],
+          [
+            136.9962806,
+            35.1263098
+          ],
+          [
+            136.995785,
+            35.126468
+          ],
+          [
+            136.995209,
+            35.126668
+          ],
+          [
+            136.994658,
+            35.126847
+          ],
+          [
+            136.994124,
+            35.127012
+          ],
+          [
+            136.9933226,
+            35.1272656
+          ],
+          [
+            136.992359,
+            35.127574
+          ],
+          [
+            136.991076,
+            35.127915
+          ],
+          [
+            136.990386,
+            35.12808
+          ],
+          [
+            136.989756,
+            35.128231
+          ],
+          [
+            136.9892654,
+            35.1283361
+          ],
+          [
+            136.988934,
+            35.128412
+          ],
+          [
+            136.9884624,
+            35.1285118
+          ],
+          [
+            136.9880207,
+            35.1286087
+          ],
+          [
+            136.9876875,
+            35.1286793
+          ],
+          [
+            136.9873061,
+            35.1287679
+          ],
+          [
+            136.986855,
+            35.12889
+          ],
+          [
+            136.9863433,
+            35.129045
+          ],
+          [
+            136.985748,
+            35.12926
+          ],
+          [
+            136.985265,
+            35.12948
+          ],
+          [
+            136.984819,
+            35.129733
+          ],
+          [
+            136.984507,
+            35.12994
+          ],
+          [
+            136.98424,
+            35.130147
+          ],
+          [
+            136.983913,
+            35.130395
+          ],
+          [
+            136.983418,
+            35.130784
+          ],
+          [
+            136.982967,
+            35.131083
+          ],
+          [
+            136.982549,
+            35.131381
+          ],
+          [
+            136.981974,
+            35.131666
+          ],
+          [
+            136.981302,
+            35.131956
+          ],
+          [
+            136.980663,
+            35.132162
+          ],
+          [
+            136.980204,
+            35.132251
+          ],
+          [
+            136.979579,
+            35.132348
+          ],
+          [
+            136.97818,
+            35.132453
+          ],
+          [
+            136.97796,
+            35.132476
+          ],
+          [
+            136.977615,
+            35.132495
+          ],
+          [
+            136.977366,
+            35.132559
+          ],
+          [
+            136.9772687,
+            35.1325782
+          ],
+          [
+            136.977187,
+            35.132601
+          ],
+          [
+            136.977031,
+            35.132674
+          ],
+          [
+            136.976917,
+            35.13274
+          ],
+          [
+            136.976546,
+            35.132988
+          ],
+          [
+            136.976209,
+            35.133135
+          ],
+          [
+            136.975731,
+            35.133246
+          ],
+          [
+            136.975243,
+            35.133351
+          ],
+          [
+            136.974531,
+            35.133521
+          ],
+          [
+            136.9744318,
+            35.1335434
+          ],
+          [
+            136.974066,
+            35.133627
+          ],
+          [
+            136.97345,
+            35.13377
+          ],
+          [
+            136.973179,
+            35.133816
+          ],
+          [
+            136.972806,
+            35.133853
+          ],
+          [
+            136.971684,
+            35.133972
+          ],
+          [
+            136.970953,
+            35.134055
+          ],
+          [
+            136.97024,
+            35.134165
+          ],
+          [
+            136.969634,
+            35.134305
+          ],
+          [
+            136.969004,
+            35.134489
+          ],
+          [
+            136.968553,
+            35.134631
+          ],
+          [
+            136.967923,
+            35.134847
+          ],
+          [
+            136.967072,
+            35.135192
+          ],
+          [
+            136.966764,
+            35.135357
+          ],
+          [
+            136.966199,
+            35.135618
+          ],
+          [
+            136.966069,
+            35.135678
+          ],
+          [
+            136.965753,
+            35.135824
+          ],
+          [
+            136.96504,
+            35.136206
+          ],
+          [
+            136.964521,
+            35.136505
+          ],
+          [
+            136.9641013,
+            35.1368165
+          ],
+          [
+            136.963498,
+            35.137242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32167763",
+      "properties": {
+        "@id": "way/32167763",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "3号線鶴舞線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1067",
+        "name": "名古屋市営3号線鶴舞線",
+        "name:ja": "名古屋市営3号線鶴舞線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9334215,
+            35.1495723
+          ],
+          [
+            136.9325599,
+            35.1495612
+          ],
+          [
+            136.9320534,
+            35.1495849
+          ],
+          [
+            136.9310973,
+            35.1495761
+          ],
+          [
+            136.9302746,
+            35.1495775
+          ],
+          [
+            136.928713,
+            35.1495767
+          ],
+          [
+            136.9280453,
+            35.1495881
+          ],
+          [
+            136.9267633,
+            35.1495837
+          ],
+          [
+            136.9255438,
+            35.1496691
+          ],
+          [
+            136.9248664,
+            35.1497136
+          ],
+          [
+            136.924442,
+            35.1497456
+          ],
+          [
+            136.9237732,
+            35.1497616
+          ],
+          [
+            136.9231223,
+            35.149813
+          ],
+          [
+            136.922623,
+            35.149869
+          ],
+          [
+            136.922254,
+            35.149976
+          ],
+          [
+            136.9219393,
+            35.1501515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32167770",
+      "properties": {
+        "@id": "way/32167770",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "3号線鶴舞線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1067",
+        "name": "名古屋市営3号線鶴舞線",
+        "name:ja": "名古屋市営3号線鶴舞線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8780767,
+            35.2215219
+          ],
+          [
+            136.8782548,
+            35.221278
+          ],
+          [
+            136.8784745,
+            35.2209482
+          ],
+          [
+            136.8786957,
+            35.220611
+          ],
+          [
+            136.8788127,
+            35.2204759
+          ],
+          [
+            136.8790116,
+            35.2202866
+          ],
+          [
+            136.8796323,
+            35.2198064
+          ],
+          [
+            136.880629,
+            35.219114
+          ],
+          [
+            136.88157,
+            35.218548
+          ],
+          [
+            136.88536,
+            35.216475
+          ],
+          [
+            136.885789,
+            35.216199
+          ],
+          [
+            136.886291,
+            35.2155
+          ],
+          [
+            136.886941,
+            35.214546
+          ],
+          [
+            136.888119,
+            35.212587
+          ],
+          [
+            136.888465,
+            35.212012
+          ],
+          [
+            136.88917,
+            35.211224
+          ],
+          [
+            136.891179,
+            35.20913
+          ],
+          [
+            136.891317,
+            35.208826
+          ],
+          [
+            136.891054,
+            35.20441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32167787",
+      "properties": {
+        "@id": "way/32167787",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "3号線鶴舞線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1067",
+        "name": "名古屋市営3号線鶴舞線",
+        "name:ja": "名古屋市営3号線鶴舞線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.891054,
+            35.20441
+          ],
+          [
+            136.8909661,
+            35.2033348
+          ],
+          [
+            136.890957,
+            35.203223
+          ],
+          [
+            136.890944,
+            35.202494
+          ],
+          [
+            136.890886,
+            35.201697
+          ],
+          [
+            136.890543,
+            35.196945
+          ],
+          [
+            136.890751,
+            35.192693
+          ],
+          [
+            136.890834,
+            35.191504
+          ],
+          [
+            136.890973,
+            35.189584
+          ],
+          [
+            136.8908735,
+            35.188595
+          ],
+          [
+            136.8903209,
+            35.1841539
+          ],
+          [
+            136.890281,
+            35.183833
+          ],
+          [
+            136.890129,
+            35.182796
+          ],
+          [
+            136.890073,
+            35.182216
+          ],
+          [
+            136.890087,
+            35.181705
+          ],
+          [
+            136.890311,
+            35.181239
+          ],
+          [
+            136.890643,
+            35.180825
+          ],
+          [
+            136.891128,
+            35.180466
+          ],
+          [
+            136.891902,
+            35.180134
+          ],
+          [
+            136.893534,
+            35.179789
+          ],
+          [
+            136.894016,
+            35.179685
+          ],
+          [
+            136.895139,
+            35.179443
+          ],
+          [
+            136.895803,
+            35.179125
+          ],
+          [
+            136.8963352,
+            35.1786462
+          ],
+          [
+            136.8967098,
+            35.1754768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32167788",
+      "properties": {
+        "@id": "way/32167788",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "3号線鶴舞線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1067",
+        "name": "名古屋市営3号線鶴舞線",
+        "name:ja": "名古屋市営3号線鶴舞線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8967098,
+            35.1754768
+          ],
+          [
+            136.8968482,
+            35.1743573
+          ],
+          [
+            136.8970155,
+            35.1729863
+          ],
+          [
+            136.8973414,
+            35.1698929
+          ],
+          [
+            136.897399,
+            35.1692978
+          ],
+          [
+            136.8974053,
+            35.1692416
+          ],
+          [
+            136.897468,
+            35.1686077
+          ],
+          [
+            136.8975521,
+            35.1679224
+          ],
+          [
+            136.8976628,
+            35.1669454
+          ],
+          [
+            136.8977914,
+            35.1657846
+          ],
+          [
+            136.8979583,
+            35.164024
+          ],
+          [
+            136.898195,
+            35.1618122
+          ],
+          [
+            136.8982402,
+            35.1610095
+          ],
+          [
+            136.8983214,
+            35.1598168
+          ],
+          [
+            136.898337,
+            35.1591346
+          ],
+          [
+            136.8983419,
+            35.1588635
+          ],
+          [
+            136.8983807,
+            35.1586529
+          ],
+          [
+            136.898431,
+            35.158514
+          ],
+          [
+            136.898597,
+            35.158356
+          ],
+          [
+            136.89872,
+            35.158252
+          ],
+          [
+            136.898805,
+            35.158194
+          ],
+          [
+            136.898949,
+            35.158135
+          ],
+          [
+            136.899153,
+            35.158084
+          ],
+          [
+            136.8994,
+            35.158031
+          ],
+          [
+            136.899585,
+            35.157984
+          ],
+          [
+            136.899801,
+            35.157954
+          ],
+          [
+            136.899998,
+            35.157927
+          ],
+          [
+            136.900391,
+            35.157884
+          ],
+          [
+            136.901263,
+            35.157799
+          ],
+          [
+            136.901675,
+            35.157754
+          ],
+          [
+            136.904033,
+            35.157572
+          ],
+          [
+            136.905448,
+            35.157475
+          ],
+          [
+            136.9059739,
+            35.1574354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32170670",
+      "properties": {
+        "@id": "way/32170670",
+        "KSJ2:LIN": "6号線桜通線",
+        "name": "名古屋市営地下鉄桜通線",
+        "name:ja": "名古屋市営地下鉄桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.936931,
+            35.109801
+          ],
+          [
+            136.937248,
+            35.111517
+          ],
+          [
+            136.937389,
+            35.112436
+          ],
+          [
+            136.937353,
+            35.112802
+          ],
+          [
+            136.937283,
+            35.113253
+          ],
+          [
+            136.937212,
+            35.113664
+          ],
+          [
+            136.937112,
+            35.114236
+          ],
+          [
+            136.936901,
+            35.11558
+          ],
+          [
+            136.936769,
+            35.116423
+          ],
+          [
+            136.936734,
+            35.116659
+          ],
+          [
+            136.936579,
+            35.117704
+          ],
+          [
+            136.936447,
+            35.118434
+          ],
+          [
+            136.936312,
+            35.119367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32170672",
+      "properties": {
+        "@id": "way/32170672",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "6号線桜通線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "name": "名古屋市営6号線桜通線",
+        "name:ja": "名古屋市営6号線桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.936312,
+            35.119367
+          ],
+          [
+            136.936196,
+            35.120168
+          ],
+          [
+            136.935769,
+            35.123039
+          ],
+          [
+            136.935508,
+            35.124624
+          ],
+          [
+            136.935362,
+            35.125571
+          ],
+          [
+            136.93513,
+            35.127292
+          ],
+          [
+            136.934678,
+            35.130147
+          ],
+          [
+            136.934467,
+            35.131577
+          ],
+          [
+            136.934311,
+            35.132484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32170704",
+      "properties": {
+        "@id": "way/32170704",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "6号線桜通線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "name": "名古屋市営6号線桜通線",
+        "name:ja": "名古屋市営6号線桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.881641,
+            35.170614
+          ],
+          [
+            136.881198,
+            35.170476
+          ],
+          [
+            136.880747,
+            35.170293
+          ],
+          [
+            136.880452,
+            35.170172
+          ],
+          [
+            136.880034,
+            35.169894
+          ],
+          [
+            136.879035,
+            35.169246
+          ],
+          [
+            136.878172,
+            35.168675
+          ],
+          [
+            136.877716,
+            35.16838
+          ],
+          [
+            136.877295,
+            35.168111
+          ],
+          [
+            136.876781,
+            35.167861
+          ],
+          [
+            136.876252,
+            35.167656
+          ],
+          [
+            136.875838,
+            35.16758
+          ],
+          [
+            136.875085,
+            35.167597
+          ],
+          [
+            136.872809,
+            35.167637
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32170708",
+      "properties": {
+        "@id": "way/32170708",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "6号線桜通線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "name": "名古屋市営6号線桜通線",
+        "name:ja": "名古屋市営6号線桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9544475,
+            35.1028655
+          ],
+          [
+            136.953993,
+            35.1030921
+          ],
+          [
+            136.9535617,
+            35.1033005
+          ],
+          [
+            136.9530961,
+            35.1035319
+          ],
+          [
+            136.952696,
+            35.1037085
+          ],
+          [
+            136.9524428,
+            35.1037915
+          ],
+          [
+            136.9521668,
+            35.103875
+          ],
+          [
+            136.9515744,
+            35.1039919
+          ],
+          [
+            136.9509114,
+            35.1041158
+          ],
+          [
+            136.9502698,
+            35.1042387
+          ],
+          [
+            136.9493848,
+            35.1044062
+          ],
+          [
+            136.9491432,
+            35.1044548
+          ],
+          [
+            136.9489419,
+            35.1044853
+          ],
+          [
+            136.948478,
+            35.1045764
+          ],
+          [
+            136.948088,
+            35.104678
+          ],
+          [
+            136.9474892,
+            35.1048193
+          ],
+          [
+            136.9469649,
+            35.1049511
+          ],
+          [
+            136.9458678,
+            35.1052254
+          ],
+          [
+            136.9448143,
+            35.1054899
+          ],
+          [
+            136.9444836,
+            35.1055668
+          ],
+          [
+            136.943794,
+            35.105699
+          ],
+          [
+            136.9431048,
+            35.1058077
+          ],
+          [
+            136.9424547,
+            35.1059076
+          ],
+          [
+            136.9419115,
+            35.1059786
+          ],
+          [
+            136.9412113,
+            35.1061064
+          ],
+          [
+            136.940548,
+            35.1062255
+          ],
+          [
+            136.9400738,
+            35.106328
+          ],
+          [
+            136.9393339,
+            35.1064962
+          ],
+          [
+            136.9384378,
+            35.1066987
+          ],
+          [
+            136.9378544,
+            35.1068322
+          ],
+          [
+            136.937564,
+            35.106895
+          ],
+          [
+            136.937349,
+            35.10696
+          ],
+          [
+            136.937198,
+            35.107031
+          ],
+          [
+            136.937062,
+            35.107111
+          ],
+          [
+            136.936957,
+            35.107246
+          ],
+          [
+            136.93674,
+            35.107636
+          ],
+          [
+            136.936675,
+            35.107792
+          ],
+          [
+            136.936604,
+            35.108018
+          ],
+          [
+            136.936625,
+            35.108279
+          ],
+          [
+            136.936751,
+            35.108833
+          ],
+          [
+            136.936931,
+            35.109801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32170713",
+      "properties": {
+        "@id": "way/32170713",
+        "KSJ2:LIN": "6号線桜通線",
+        "name": "名古屋市営地下鉄桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8895537,
+            35.1721983
+          ],
+          [
+            136.8884809,
+            35.1720149
+          ],
+          [
+            136.8845281,
+            35.1713868
+          ],
+          [
+            136.882941,
+            35.170974
+          ],
+          [
+            136.881641,
+            35.170614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32170743",
+      "properties": {
+        "@id": "way/32170743",
+        "KSJ2:LIN": "6号線桜通線",
+        "name": "名古屋市営地下鉄桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.928822,
+            35.173506
+          ],
+          [
+            136.927963,
+            35.173624
+          ],
+          [
+            136.9267959,
+            35.173834
+          ],
+          [
+            136.9250434,
+            35.1741245
+          ],
+          [
+            136.9238908,
+            35.1741785
+          ],
+          [
+            136.9221654,
+            35.1742326
+          ],
+          [
+            136.9204817,
+            35.1742444
+          ],
+          [
+            136.9169195,
+            35.1741847
+          ],
+          [
+            136.915435,
+            35.174173
+          ],
+          [
+            136.9124372,
+            35.1740448
+          ],
+          [
+            136.908899,
+            35.173791
+          ],
+          [
+            136.908508,
+            35.173765
+          ],
+          [
+            136.908376,
+            35.173756
+          ],
+          [
+            136.908158,
+            35.173737
+          ],
+          [
+            136.9069585,
+            35.1736552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32170749",
+      "properties": {
+        "@id": "way/32170749",
+        "KSJ2:LIN": "6号線桜通線",
+        "name": "名古屋市営地下鉄桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.936916,
+            35.168498
+          ],
+          [
+            136.937091,
+            35.169446
+          ],
+          [
+            136.937133,
+            35.169853
+          ],
+          [
+            136.937138,
+            35.169896
+          ],
+          [
+            136.937205,
+            35.17059
+          ],
+          [
+            136.936956,
+            35.170963
+          ],
+          [
+            136.936056,
+            35.171447
+          ],
+          [
+            136.9340884,
+            35.1723099
+          ],
+          [
+            136.9330252,
+            35.1727207
+          ],
+          [
+            136.9325402,
+            35.1728857
+          ],
+          [
+            136.9320123,
+            35.1730536
+          ],
+          [
+            136.9302032,
+            35.17333
+          ],
+          [
+            136.928822,
+            35.173506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32170752",
+      "properties": {
+        "@id": "way/32170752",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "6号線桜通線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "name": "名古屋市営6号線桜通線",
+        "name:ja": "名古屋市営6号線桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.934311,
+            35.132484
+          ],
+          [
+            136.934296,
+            35.132725
+          ],
+          [
+            136.933904,
+            35.135385
+          ],
+          [
+            136.933506,
+            35.138008
+          ],
+          [
+            136.9333955,
+            35.1394329
+          ],
+          [
+            136.9333411,
+            35.1402132
+          ],
+          [
+            136.93333,
+            35.1404832
+          ],
+          [
+            136.933366,
+            35.142965
+          ],
+          [
+            136.93343,
+            35.145574
+          ],
+          [
+            136.933446,
+            35.146011
+          ],
+          [
+            136.933501,
+            35.147491
+          ],
+          [
+            136.933561,
+            35.148294
+          ],
+          [
+            136.933596,
+            35.149357
+          ],
+          [
+            136.9336312,
+            35.1495321
+          ],
+          [
+            136.933758,
+            35.150344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32170759",
+      "properties": {
+        "@id": "way/32170759",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "6号線桜通線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "name": "名古屋市営6号線桜通線",
+        "name:ja": "名古屋市営6号線桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.933758,
+            35.150344
+          ],
+          [
+            136.93422,
+            35.153004
+          ],
+          [
+            136.934788,
+            35.156226
+          ],
+          [
+            136.935056,
+            35.157815
+          ],
+          [
+            136.935145,
+            35.158344
+          ],
+          [
+            136.935286,
+            35.15927
+          ],
+          [
+            136.935339,
+            35.159575
+          ],
+          [
+            136.935934,
+            35.162932
+          ],
+          [
+            136.936009,
+            35.163359
+          ],
+          [
+            136.936713,
+            35.167335
+          ],
+          [
+            136.936916,
+            35.168498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32170762",
+      "properties": {
+        "@id": "way/32170762",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "6号線桜通線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "name": "名古屋市営6号線桜通線",
+        "name:ja": "名古屋市営6号線桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9069585,
+            35.1736552
+          ],
+          [
+            136.8999196,
+            35.1732151
+          ],
+          [
+            136.8994288,
+            35.1731757
+          ],
+          [
+            136.8978643,
+            35.1730754
+          ],
+          [
+            136.8969737,
+            35.1730173
+          ],
+          [
+            136.8946838,
+            35.1727692
+          ],
+          [
+            136.892845,
+            35.1725682
+          ],
+          [
+            136.8895537,
+            35.1721983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32171897",
+      "properties": {
+        "@id": "way/32171897",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "上飯田線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "name": "名古屋市営上飯田線",
+        "name:ja": "名古屋市営上飯田線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.929681,
+            35.202714
+          ],
+          [
+            136.929732,
+            35.197226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32171899",
+      "properties": {
+        "@id": "way/32171899",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "上飯田線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "created_by": "Potlatch 0.10f",
+        "name": "名古屋市営上飯田線",
+        "name:ja": "名古屋市営上飯田線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.929732,
+            35.197226
+          ],
+          [
+            136.92979,
+            35.195205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43024200",
+      "properties": {
+        "@id": "way/43024200",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "1号線東山線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9191419,
+            35.1707035
+          ],
+          [
+            136.9196651,
+            35.1707344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43851495",
+      "properties": {
+        "@id": "way/43851495",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "3号線鶴舞線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1067",
+        "name": "名古屋市営3号線鶴舞線",
+        "name:ja": "名古屋市営3号線鶴舞線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9219393,
+            35.1501515
+          ],
+          [
+            136.921691,
+            35.150402
+          ],
+          [
+            136.921336,
+            35.150803
+          ],
+          [
+            136.921069,
+            35.151157
+          ],
+          [
+            136.920957,
+            35.151361
+          ],
+          [
+            136.920855,
+            35.151768
+          ],
+          [
+            136.920744,
+            35.15203
+          ],
+          [
+            136.920608,
+            35.152321
+          ],
+          [
+            136.920451,
+            35.152669
+          ],
+          [
+            136.920053,
+            35.153498
+          ],
+          [
+            136.919655,
+            35.154259
+          ],
+          [
+            136.919347,
+            35.154768
+          ],
+          [
+            136.919041,
+            35.155146
+          ],
+          [
+            136.91875,
+            35.155422
+          ],
+          [
+            136.918595,
+            35.155514
+          ],
+          [
+            136.918362,
+            35.155582
+          ],
+          [
+            136.918085,
+            35.15566
+          ],
+          [
+            136.917697,
+            35.155747
+          ],
+          [
+            136.917685,
+            35.155749
+          ],
+          [
+            136.91717,
+            35.155859
+          ],
+          [
+            136.915703,
+            35.156092
+          ],
+          [
+            136.9148,
+            35.156218
+          ],
+          [
+            136.91429,
+            35.156271
+          ],
+          [
+            136.913654,
+            35.156339
+          ],
+          [
+            136.912549,
+            35.156461
+          ],
+          [
+            136.911603,
+            35.156573
+          ],
+          [
+            136.911282,
+            35.156621
+          ],
+          [
+            136.9107,
+            35.15668
+          ],
+          [
+            136.909913,
+            35.156796
+          ],
+          [
+            136.909386,
+            35.1568982
+          ],
+          [
+            136.908421,
+            35.157091
+          ],
+          [
+            136.906872,
+            35.157292
+          ],
+          [
+            136.906741,
+            35.157308
+          ],
+          [
+            136.9061979,
+            35.157388
+          ],
+          [
+            136.9059739,
+            35.1574354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50534412",
+      "properties": {
+        "@id": "way/50534412",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "3号線鶴舞線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1067",
+        "name": "名古屋市営3号線鶴舞線",
+        "name:ja": "名古屋市営3号線鶴舞線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "1500"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.006831,
+            35.122823
+          ],
+          [
+            137.007596,
+            35.122579
+          ],
+          [
+            137.00867,
+            35.122225
+          ],
+          [
+            137.009972,
+            35.121792
+          ],
+          [
+            137.010131,
+            35.12174
+          ],
+          [
+            137.010622,
+            35.121594
+          ],
+          [
+            137.011069,
+            35.121341
+          ],
+          [
+            137.011685,
+            35.121058
+          ],
+          [
+            137.012253,
+            35.120877
+          ],
+          [
+            137.012738,
+            35.120787
+          ],
+          [
+            137.013631,
+            35.120752
+          ],
+          [
+            137.014199,
+            35.120731
+          ],
+          [
+            137.014743,
+            35.120758
+          ],
+          [
+            137.015893,
+            35.12084
+          ],
+          [
+            137.016474,
+            35.120881
+          ],
+          [
+            137.017813,
+            35.120992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/140760731",
+      "properties": {
+        "@id": "way/140760731",
+        "KSJ2:LIN": "1号線東山線",
+        "bridge": "viaduct",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.0216405,
+            35.1829457
+          ],
+          [
+            137.0218961,
+            35.1833834
+          ],
+          [
+            137.0220228,
+            35.1835969
+          ],
+          [
+            137.0221022,
+            35.1837212
+          ],
+          [
+            137.0221826,
+            35.1838225
+          ],
+          [
+            137.0222445,
+            35.1838832
+          ],
+          [
+            137.0222954,
+            35.1839281
+          ],
+          [
+            137.0224325,
+            35.1840265
+          ],
+          [
+            137.0225676,
+            35.1841104
+          ],
+          [
+            137.0226776,
+            35.1841617
+          ],
+          [
+            137.022778,
+            35.184194
+          ],
+          [
+            137.0229027,
+            35.1842224
+          ],
+          [
+            137.0230484,
+            35.1842403
+          ],
+          [
+            137.0233792,
+            35.1842471
+          ],
+          [
+            137.023715,
+            35.1842464
+          ],
+          [
+            137.024076,
+            35.1842334
+          ],
+          [
+            137.024317,
+            35.184192
+          ],
+          [
+            137.0244882,
+            35.1841198
+          ],
+          [
+            137.0246531,
+            35.1840248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/140760743",
+      "properties": {
+        "@id": "way/140760743",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.0246531,
+            35.1840248
+          ],
+          [
+            137.0247909,
+            35.1839414
+          ],
+          [
+            137.024912,
+            35.1838147
+          ],
+          [
+            137.0252246,
+            35.1833058
+          ],
+          [
+            137.0253239,
+            35.1831177
+          ],
+          [
+            137.0254814,
+            35.1828267
+          ],
+          [
+            137.0255637,
+            35.1826683
+          ],
+          [
+            137.0256073,
+            35.18249
+          ],
+          [
+            137.0256776,
+            35.1814762
+          ],
+          [
+            137.0257212,
+            35.1812505
+          ],
+          [
+            137.0257866,
+            35.1809238
+          ],
+          [
+            137.0258569,
+            35.1806862
+          ],
+          [
+            137.0260289,
+            35.1802981
+          ],
+          [
+            137.026167,
+            35.1800347
+          ],
+          [
+            137.0262881,
+            35.1798506
+          ],
+          [
+            137.0264601,
+            35.1796407
+          ],
+          [
+            137.0266588,
+            35.1793688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/151982398",
+      "properties": {
+        "@id": "way/151982398",
+        "KSJ2:LIN": "1号線東山線",
+        "bridge": "viaduct",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "no",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.022733,
+            35.1848711
+          ],
+          [
+            137.022685,
+            35.1847879
+          ],
+          [
+            137.0224174,
+            35.1842976
+          ],
+          [
+            137.0220228,
+            35.1835969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153365824",
+      "properties": {
+        "@id": "way/153365824",
+        "KSJ2:LIN": "1号線東山線",
+        "bridge": "viaduct",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "no",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.0219877,
+            35.1836098
+          ],
+          [
+            137.0223842,
+            35.1843086
+          ],
+          [
+            137.0226166,
+            35.1847354
+          ],
+          [
+            137.0227034,
+            35.1848841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154654067",
+      "properties": {
+        "@id": "way/154654067",
+        "KSJ2:INT": "3",
+        "KSJ2:INT_label": "公営鉄道",
+        "KSJ2:LIN": "6号線桜通線",
+        "KSJ2:OPC": "名古屋市",
+        "KSJ2:RAC": "12",
+        "KSJ2:RAC_label": "普通鉄道",
+        "name": "名古屋市営6号線桜通線",
+        "name:ja": "名古屋市営6号線桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9900877,
+            35.0980915
+          ],
+          [
+            136.9896209,
+            35.0983979
+          ],
+          [
+            136.9892605,
+            35.098698
+          ],
+          [
+            136.9851346,
+            35.1021623
+          ],
+          [
+            136.9844666,
+            35.1025224
+          ],
+          [
+            136.9839389,
+            35.1026706
+          ],
+          [
+            136.9832517,
+            35.1027662
+          ],
+          [
+            136.9828528,
+            35.1027927
+          ],
+          [
+            136.9819733,
+            35.1027513
+          ],
+          [
+            136.9787385,
+            35.1024383
+          ],
+          [
+            136.9773147,
+            35.1024794
+          ],
+          [
+            136.9762607,
+            35.1025002
+          ],
+          [
+            136.9745258,
+            35.1025671
+          ],
+          [
+            136.9718934,
+            35.1026896
+          ],
+          [
+            136.9702658,
+            35.1029202
+          ],
+          [
+            136.9695522,
+            35.1029374
+          ],
+          [
+            136.9687722,
+            35.1028883
+          ],
+          [
+            136.9667808,
+            35.1027427
+          ],
+          [
+            136.9650336,
+            35.1025858
+          ],
+          [
+            136.964343,
+            35.1024505
+          ],
+          [
+            136.9635898,
+            35.1022316
+          ],
+          [
+            136.9630066,
+            35.1019831
+          ],
+          [
+            136.9622642,
+            35.1017326
+          ],
+          [
+            136.9617872,
+            35.1016059
+          ],
+          [
+            136.9607854,
+            35.1014608
+          ],
+          [
+            136.9588565,
+            35.1012553
+          ],
+          [
+            136.9582436,
+            35.1012762
+          ],
+          [
+            136.9578617,
+            35.1013362
+          ],
+          [
+            136.9574627,
+            35.1014452
+          ],
+          [
+            136.9572446,
+            35.1015323
+          ],
+          [
+            136.9560186,
+            35.1020924
+          ],
+          [
+            136.9554349,
+            35.1023809
+          ],
+          [
+            136.9544475,
+            35.1028655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162157143",
+      "properties": {
+        "@id": "way/162157143",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営1号線東山線",
+        "name:ja": "名古屋市営1号線東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8544456,
+            35.1585594
+          ],
+          [
+            136.854456,
+            35.159119
+          ],
+          [
+            136.854488,
+            35.159658
+          ],
+          [
+            136.854553,
+            35.160759
+          ],
+          [
+            136.854577,
+            35.161323
+          ],
+          [
+            136.854609,
+            35.1622
+          ],
+          [
+            136.854633,
+            35.16264
+          ],
+          [
+            136.854657,
+            35.163085
+          ],
+          [
+            136.854697,
+            35.163717
+          ],
+          [
+            136.854693,
+            35.164085
+          ],
+          [
+            136.8546996,
+            35.1645431
+          ],
+          [
+            136.854721,
+            35.1648786
+          ],
+          [
+            136.8547551,
+            35.1652599
+          ],
+          [
+            136.854787,
+            35.1658109
+          ],
+          [
+            136.8548079,
+            35.1662973
+          ],
+          [
+            136.8550387,
+            35.1678147
+          ],
+          [
+            136.8551494,
+            35.1681432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/242175256",
+      "properties": {
+        "@id": "way/242175256",
+        "KSJ2:LIN": "6号線桜通線",
+        "name": "名古屋市営地下鉄桜通線",
+        "name:ja": "名古屋市営地下鉄桜通線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9992304,
+            35.0933021
+          ],
+          [
+            136.9980312,
+            35.0945815
+          ],
+          [
+            136.9975602,
+            35.095008
+          ],
+          [
+            136.9968478,
+            35.0955228
+          ],
+          [
+            136.9961786,
+            35.0958368
+          ],
+          [
+            136.9942943,
+            35.096533
+          ],
+          [
+            136.9900877,
+            35.0980915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303262050",
+      "properties": {
+        "@id": "way/303262050",
+        "KSJ2:LIN": "1号線東山線",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "name": "名古屋市営地下鉄東山線",
+        "name:ja": "名古屋市営地下鉄東山線",
+        "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+        "operator": "名古屋市",
+        "operator:ja": "名古屋市",
+        "railway": "subway",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+        "tunnel": "yes",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.97566,
+            35.1605662
+          ],
+          [
+            136.9752652,
+            35.1605596
+          ],
+          [
+            136.97455,
+            35.160508
+          ],
+          [
+            136.9742927,
+            35.160508
+          ],
+          [
+            136.973564,
+            35.160508
+          ],
+          [
+            136.972938,
+            35.160548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353832599",
+      "properties": {
+        "@id": "way/353832599",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "名古屋市交通局名港線",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8780567,
+            35.0991763
+          ],
+          [
+            136.8780549,
+            35.0988948
+          ],
+          [
+            136.8781405,
+            35.0985929
+          ],
+          [
+            136.8784061,
+            35.0982682
+          ],
+          [
+            136.8786127,
+            35.0981378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353832600",
+      "properties": {
+        "@id": "way/353832600",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "名古屋市交通局名港線",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8786127,
+            35.0981378
+          ],
+          [
+            136.8792111,
+            35.0981946
+          ],
+          [
+            136.8797044,
+            35.0982969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353832601",
+      "properties": {
+        "@id": "way/353832601",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "名古屋市交通局名港線",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8797044,
+            35.0982969
+          ],
+          [
+            136.8809965,
+            35.0987668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353832602",
+      "properties": {
+        "@id": "way/353832602",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "名古屋市交通局名港線",
+        "railway": "subway",
+        "service": "spur"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.8809965,
+            35.0987668
+          ],
+          [
+            136.8815842,
+            35.0987684
+          ],
+          [
+            136.8820232,
+            35.09863
+          ],
+          [
+            136.8826242,
+            35.0981471
+          ],
+          [
+            136.8827933,
+            35.0977762
+          ]
+        ]
+      }
+    }
+  ]
+}

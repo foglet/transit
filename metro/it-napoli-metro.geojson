@@ -1,0 +1,6764 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-27T19:51:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/132787505",
+      "properties": {
+        "@id": "way/132787505",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446007,
+            "reltags": {
+              "colour": "#0099CC",
+              "from": "Mostra",
+              "name": "Linea 6 (Mostra → Mergellina)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "6",
+              "route": "subway",
+              "to": "Mergellina",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168104,
+            "reltags": {
+              "colour": "#0099CC",
+              "from": "Mergellina",
+              "name": "Linea 6 (Mergellina → Mostra)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "6",
+              "route": "subway",
+              "to": "Mostra",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2179748,
+            40.8305626
+          ],
+          [
+            14.2090905,
+            40.8282813
+          ],
+          [
+            14.2084903,
+            40.8280877
+          ],
+          [
+            14.2068737,
+            40.8274864
+          ],
+          [
+            14.2060016,
+            40.827162
+          ],
+          [
+            14.205511,
+            40.8269901
+          ],
+          [
+            14.2051696,
+            40.826873
+          ],
+          [
+            14.2048891,
+            40.8267929
+          ],
+          [
+            14.2046003,
+            40.826735
+          ],
+          [
+            14.2045749,
+            40.8267302
+          ],
+          [
+            14.2045762,
+            40.8267305
+          ],
+          [
+            14.2041542,
+            40.8266514
+          ],
+          [
+            14.2037294,
+            40.8266141
+          ],
+          [
+            14.2000255,
+            40.826224
+          ],
+          [
+            14.1983762,
+            40.8260259
+          ],
+          [
+            14.1977711,
+            40.8259413
+          ],
+          [
+            14.1972052,
+            40.8258487
+          ],
+          [
+            14.1944436,
+            40.825307
+          ],
+          [
+            14.1941142,
+            40.8252433
+          ],
+          [
+            14.1937934,
+            40.8251325
+          ],
+          [
+            14.1935396,
+            40.8249506
+          ],
+          [
+            14.1933723,
+            40.8247517
+          ],
+          [
+            14.1932116,
+            40.8245376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183947324",
+      "properties": {
+        "@id": "way/183947324",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2308411,
+            40.8505658
+          ],
+          [
+            14.231708,
+            40.843874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183947331",
+      "properties": {
+        "@id": "way/183947331",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.231708,
+            40.843874
+          ],
+          [
+            14.2316961,
+            40.8434197
+          ],
+          [
+            14.2316012,
+            40.842964
+          ],
+          [
+            14.2312605,
+            40.8424884
+          ],
+          [
+            14.2308153,
+            40.84213
+          ],
+          [
+            14.2302375,
+            40.84182
+          ],
+          [
+            14.229545,
+            40.8416309
+          ],
+          [
+            14.2288111,
+            40.8415765
+          ],
+          [
+            14.2279164,
+            40.8416447
+          ],
+          [
+            14.2270307,
+            40.8418119
+          ],
+          [
+            14.2263864,
+            40.8420619
+          ],
+          [
+            14.2258237,
+            40.8424786
+          ],
+          [
+            14.2254487,
+            40.8430342
+          ],
+          [
+            14.225246,
+            40.8437935
+          ],
+          [
+            14.2251866,
+            40.845792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183947329",
+      "properties": {
+        "@id": "way/183947329",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2251866,
+            40.845792
+          ],
+          [
+            14.2252696,
+            40.8462219
+          ],
+          [
+            14.2254659,
+            40.8466273
+          ],
+          [
+            14.2258382,
+            40.8469413
+          ],
+          [
+            14.2262411,
+            40.8471564
+          ],
+          [
+            14.2269191,
+            40.8473654
+          ],
+          [
+            14.2274963,
+            40.8474506
+          ],
+          [
+            14.2280306,
+            40.8474595
+          ],
+          [
+            14.2286309,
+            40.8473999
+          ],
+          [
+            14.2292526,
+            40.8473601
+          ],
+          [
+            14.2299114,
+            40.8474027
+          ],
+          [
+            14.2304612,
+            40.8475533
+          ],
+          [
+            14.2332148,
+            40.8485755
+          ],
+          [
+            14.2338344,
+            40.8488368
+          ],
+          [
+            14.2344996,
+            40.849232
+          ],
+          [
+            14.2349792,
+            40.8496163
+          ],
+          [
+            14.2367088,
+            40.8511745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/164049494",
+      "properties": {
+        "@id": "way/164049494",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2554551,
+            40.8436117
+          ],
+          [
+            14.2557676,
+            40.8438588
+          ],
+          [
+            14.2616285,
+            40.84759
+          ],
+          [
+            14.2677844,
+            40.8515813
+          ],
+          [
+            14.2684031,
+            40.8517839
+          ],
+          [
+            14.269501,
+            40.8518868
+          ],
+          [
+            14.2700089,
+            40.851933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183947326",
+      "properties": {
+        "@id": "way/183947326",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2502417,
+            40.8488611
+          ],
+          [
+            14.2500658,
+            40.8484332
+          ],
+          [
+            14.2498845,
+            40.848014
+          ],
+          [
+            14.2497221,
+            40.8476216
+          ],
+          [
+            14.2495479,
+            40.8471372
+          ],
+          [
+            14.2493938,
+            40.8466904
+          ],
+          [
+            14.2493008,
+            40.8458825
+          ],
+          [
+            14.2492953,
+            40.8458346
+          ],
+          [
+            14.2492533,
+            40.845481
+          ],
+          [
+            14.2489714,
+            40.8428716
+          ],
+          [
+            14.2489406,
+            40.8424334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337969593",
+      "properties": {
+        "@id": "way/337969593",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2526604,
+            40.8396809
+          ],
+          [
+            14.2528932,
+            40.839742
+          ],
+          [
+            14.2531061,
+            40.839814
+          ],
+          [
+            14.2533901,
+            40.8399254
+          ],
+          [
+            14.2535096,
+            40.8399912
+          ],
+          [
+            14.2535938,
+            40.8400449
+          ],
+          [
+            14.2537542,
+            40.8402836
+          ],
+          [
+            14.253879,
+            40.8404762
+          ],
+          [
+            14.254068,
+            40.8408507
+          ],
+          [
+            14.2542057,
+            40.8411251
+          ],
+          [
+            14.2544886,
+            40.8416898
+          ],
+          [
+            14.2547755,
+            40.8422505
+          ],
+          [
+            14.2549128,
+            40.8425188
+          ],
+          [
+            14.2551184,
+            40.8429235
+          ],
+          [
+            14.2552172,
+            40.8431163
+          ],
+          [
+            14.2552648,
+            40.8432778
+          ],
+          [
+            14.2553166,
+            40.8434041
+          ],
+          [
+            14.2554551,
+            40.8436117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183947330",
+      "properties": {
+        "@id": "way/183947330",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2489406,
+            40.8424334
+          ],
+          [
+            14.2488882,
+            40.8420533
+          ],
+          [
+            14.2488534,
+            40.8418341
+          ],
+          [
+            14.2487823,
+            40.8414222
+          ],
+          [
+            14.2487622,
+            40.8410509
+          ],
+          [
+            14.2488412,
+            40.8404862
+          ],
+          [
+            14.2488898,
+            40.8402575
+          ],
+          [
+            14.2489595,
+            40.8401106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/326122527",
+      "properties": {
+        "@id": "way/326122527",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2489595,
+            40.8401106
+          ],
+          [
+            14.2490593,
+            40.839944
+          ],
+          [
+            14.2491835,
+            40.8397764
+          ],
+          [
+            14.2493294,
+            40.8396522
+          ],
+          [
+            14.2494659,
+            40.8395723
+          ],
+          [
+            14.249641,
+            40.8394775
+          ],
+          [
+            14.2498393,
+            40.8394168
+          ],
+          [
+            14.2501595,
+            40.8393837
+          ],
+          [
+            14.2505643,
+            40.8393797
+          ],
+          [
+            14.2507936,
+            40.8393949
+          ],
+          [
+            14.2511422,
+            40.8394324
+          ],
+          [
+            14.2514119,
+            40.8394678
+          ],
+          [
+            14.2517031,
+            40.8395105
+          ],
+          [
+            14.2520275,
+            40.8395585
+          ],
+          [
+            14.2522798,
+            40.839607
+          ],
+          [
+            14.2526604,
+            40.8396809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183947327",
+      "properties": {
+        "@id": "way/183947327",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2367088,
+            40.8511745
+          ],
+          [
+            14.2382992,
+            40.8525833
+          ],
+          [
+            14.239489,
+            40.853523
+          ],
+          [
+            14.240622,
+            40.8542558
+          ],
+          [
+            14.2418274,
+            40.8549371
+          ],
+          [
+            14.2433435,
+            40.8556671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183947338",
+      "properties": {
+        "@id": "way/183947338",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2433435,
+            40.8556671
+          ],
+          [
+            14.2437921,
+            40.8558778
+          ],
+          [
+            14.2443049,
+            40.8560399
+          ],
+          [
+            14.2448432,
+            40.8561523
+          ],
+          [
+            14.2453982,
+            40.8562415
+          ],
+          [
+            14.2482078,
+            40.8565643
+          ],
+          [
+            14.2488408,
+            40.8566051
+          ],
+          [
+            14.2494223,
+            40.8565872
+          ],
+          [
+            14.2500025,
+            40.856471
+          ],
+          [
+            14.2505188,
+            40.8562359
+          ],
+          [
+            14.251004,
+            40.8559099
+          ],
+          [
+            14.2513827,
+            40.8554859
+          ],
+          [
+            14.2516638,
+            40.8549764
+          ],
+          [
+            14.2518806,
+            40.8544374
+          ],
+          [
+            14.2520555,
+            40.8537719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183947328",
+      "properties": {
+        "@id": "way/183947328",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2520555,
+            40.8537719
+          ],
+          [
+            14.2521085,
+            40.8532445
+          ],
+          [
+            14.2520531,
+            40.8527627
+          ],
+          [
+            14.251939,
+            40.8522017
+          ],
+          [
+            14.2517207,
+            40.8515869
+          ],
+          [
+            14.2514856,
+            40.8510612
+          ],
+          [
+            14.250615,
+            40.8495213
+          ],
+          [
+            14.2502417,
+            40.8488611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/135037485",
+      "properties": {
+        "@id": "way/135037485",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.239224,
+            40.8932302
+          ],
+          [
+            14.2386529,
+            40.8935407
+          ],
+          [
+            14.2379801,
+            40.8938867
+          ],
+          [
+            14.2377228,
+            40.8939991
+          ],
+          [
+            14.2370782,
+            40.8942253
+          ],
+          [
+            14.2364263,
+            40.8944371
+          ],
+          [
+            14.2351841,
+            40.8948259
+          ],
+          [
+            14.234573,
+            40.8950155
+          ],
+          [
+            14.2340121,
+            40.8951842
+          ],
+          [
+            14.2336099,
+            40.8952946
+          ],
+          [
+            14.2331562,
+            40.8953758
+          ],
+          [
+            14.2327461,
+            40.8954167
+          ],
+          [
+            14.2325016,
+            40.8954258
+          ],
+          [
+            14.232258,
+            40.8954235
+          ],
+          [
+            14.2317685,
+            40.8953998
+          ],
+          [
+            14.2301892,
+            40.895283
+          ],
+          [
+            14.2291936,
+            40.8952051
+          ],
+          [
+            14.2286786,
+            40.8951403
+          ],
+          [
+            14.2284246,
+            40.8950894
+          ],
+          [
+            14.2281941,
+            40.8950268
+          ],
+          [
+            14.2279913,
+            40.8949615
+          ],
+          [
+            14.2277596,
+            40.8948653
+          ],
+          [
+            14.2275279,
+            40.8947564
+          ],
+          [
+            14.2272915,
+            40.8946249
+          ],
+          [
+            14.2270886,
+            40.8944879
+          ],
+          [
+            14.2269074,
+            40.8943427
+          ],
+          [
+            14.2267621,
+            40.8942175
+          ],
+          [
+            14.2266061,
+            40.8940614
+          ],
+          [
+            14.2235657,
+            40.8907559
+          ],
+          [
+            14.2226398,
+            40.8897523
+          ],
+          [
+            14.222454,
+            40.8895416
+          ],
+          [
+            14.2223357,
+            40.8893851
+          ],
+          [
+            14.2222464,
+            40.8892382
+          ],
+          [
+            14.2221574,
+            40.8890782
+          ],
+          [
+            14.2220724,
+            40.8889048
+          ],
+          [
+            14.2220249,
+            40.8887673
+          ],
+          [
+            14.2219716,
+            40.8885745
+          ],
+          [
+            14.2219439,
+            40.8883832
+          ],
+          [
+            14.2219221,
+            40.8881769
+          ],
+          [
+            14.221932,
+            40.8879154
+          ],
+          [
+            14.2219735,
+            40.8876747
+          ],
+          [
+            14.2220447,
+            40.8874475
+          ],
+          [
+            14.222104,
+            40.8872906
+          ],
+          [
+            14.2221851,
+            40.8871217
+          ],
+          [
+            14.2222899,
+            40.8869393
+          ],
+          [
+            14.2224144,
+            40.8867599
+          ],
+          [
+            14.2225469,
+            40.8866
+          ],
+          [
+            14.2227446,
+            40.8864027
+          ],
+          [
+            14.2229537,
+            40.8862186
+          ],
+          [
+            14.2231776,
+            40.8860634
+          ],
+          [
+            14.2234089,
+            40.8859154
+          ],
+          [
+            14.2274898,
+            40.8836374
+          ],
+          [
+            14.2276657,
+            40.8835387
+          ],
+          [
+            14.2278852,
+            40.8834146
+          ],
+          [
+            14.228077,
+            40.8832995
+          ],
+          [
+            14.2282569,
+            40.8831874
+          ],
+          [
+            14.2284329,
+            40.8830753
+          ],
+          [
+            14.2286108,
+            40.8829557
+          ],
+          [
+            14.2287809,
+            40.8828332
+          ],
+          [
+            14.2289608,
+            40.8827001
+          ],
+          [
+            14.2291031,
+            40.882594
+          ],
+          [
+            14.2293068,
+            40.8824251
+          ],
+          [
+            14.2295361,
+            40.8822352
+          ],
+          [
+            14.2297615,
+            40.8820394
+          ],
+          [
+            14.2299217,
+            40.8818899
+          ],
+          [
+            14.2300739,
+            40.8817315
+          ],
+          [
+            14.2303033,
+            40.8814893
+          ],
+          [
+            14.2304513,
+            40.88132
+          ],
+          [
+            14.2306114,
+            40.8811346
+          ],
+          [
+            14.2307597,
+            40.8809568
+          ],
+          [
+            14.2309179,
+            40.880749
+          ],
+          [
+            14.2311275,
+            40.88045
+          ],
+          [
+            14.2312286,
+            40.8802687
+          ],
+          [
+            14.231279,
+            40.8800785
+          ],
+          [
+            14.2314234,
+            40.8798489
+          ],
+          [
+            14.2315869,
+            40.8795416
+          ],
+          [
+            14.2317349,
+            40.8792392
+          ],
+          [
+            14.2319444,
+            40.878683
+          ],
+          [
+            14.2320574,
+            40.8782505
+          ],
+          [
+            14.2321215,
+            40.8779064
+          ],
+          [
+            14.2322234,
+            40.8774662
+          ],
+          [
+            14.2322824,
+            40.8769835
+          ],
+          [
+            14.2322878,
+            40.8766387
+          ],
+          [
+            14.2322556,
+            40.8762412
+          ],
+          [
+            14.2321858,
+            40.8758924
+          ],
+          [
+            14.2320839,
+            40.8754706
+          ],
+          [
+            14.2320088,
+            40.8750649
+          ],
+          [
+            14.2317674,
+            40.8732477
+          ],
+          [
+            14.2316548,
+            40.8728583
+          ],
+          [
+            14.2314938,
+            40.8724892
+          ],
+          [
+            14.2312792,
+            40.8721484
+          ],
+          [
+            14.2309842,
+            40.8717915
+          ],
+          [
+            14.2306516,
+            40.871471
+          ],
+          [
+            14.2294854,
+            40.8705396
+          ],
+          [
+            14.2289111,
+            40.8700316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29435973",
+      "properties": {
+        "@id": "way/29435973",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2430509,
+            40.8913469
+          ],
+          [
+            14.2423042,
+            40.8916324
+          ],
+          [
+            14.2419093,
+            40.8918141
+          ],
+          [
+            14.241463,
+            40.8920541
+          ],
+          [
+            14.2408671,
+            40.8923586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/135037484",
+      "properties": {
+        "@id": "way/135037484",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2408671,
+            40.8923586
+          ],
+          [
+            14.2404078,
+            40.8925991
+          ],
+          [
+            14.2397665,
+            40.8929437
+          ],
+          [
+            14.239224,
+            40.8932302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29467928",
+      "properties": {
+        "@id": "way/29467928",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.282378,
+            40.8551722
+          ],
+          [
+            14.2822916,
+            40.8556588
+          ],
+          [
+            14.2822045,
+            40.8561426
+          ],
+          [
+            14.2817809,
+            40.8584186
+          ],
+          [
+            14.2815187,
+            40.8598149
+          ],
+          [
+            14.2815119,
+            40.8600395
+          ],
+          [
+            14.2815212,
+            40.8601983
+          ],
+          [
+            14.281545,
+            40.8603706
+          ],
+          [
+            14.2815592,
+            40.8604344
+          ],
+          [
+            14.2815817,
+            40.8605359
+          ],
+          [
+            14.2816264,
+            40.8606775
+          ],
+          [
+            14.2816906,
+            40.8608283
+          ],
+          [
+            14.2817551,
+            40.8609399
+          ],
+          [
+            14.2818371,
+            40.8610642
+          ],
+          [
+            14.2819304,
+            40.8611667
+          ],
+          [
+            14.2821179,
+            40.8613554
+          ],
+          [
+            14.2822826,
+            40.8615193
+          ],
+          [
+            14.2824248,
+            40.8616302
+          ],
+          [
+            14.2826261,
+            40.86177
+          ],
+          [
+            14.2827769,
+            40.8618629
+          ],
+          [
+            14.2829978,
+            40.8619862
+          ],
+          [
+            14.2832548,
+            40.8621059
+          ],
+          [
+            14.2836418,
+            40.8622729
+          ],
+          [
+            14.2848503,
+            40.8628094
+          ],
+          [
+            14.2933632,
+            40.8665796
+          ],
+          [
+            14.2967367,
+            40.8680063
+          ],
+          [
+            14.2979758,
+            40.8684709
+          ],
+          [
+            14.2992555,
+            40.8689123
+          ],
+          [
+            14.3004625,
+            40.869284
+          ],
+          [
+            14.3014109,
+            40.869571
+          ],
+          [
+            14.301795,
+            40.8696895
+          ],
+          [
+            14.3022013,
+            40.8698027
+          ],
+          [
+            14.302513,
+            40.8698735
+          ],
+          [
+            14.3028101,
+            40.8699379
+          ],
+          [
+            14.303294,
+            40.8700315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25581153",
+      "properties": {
+        "@id": "way/25581153",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2718748,
+            40.851291
+          ],
+          [
+            14.2716959,
+            40.8512202
+          ],
+          [
+            14.2715518,
+            40.851141
+          ],
+          [
+            14.2714835,
+            40.8510908
+          ],
+          [
+            14.2713236,
+            40.8509426
+          ],
+          [
+            14.2707225,
+            40.8503972
+          ],
+          [
+            14.2705916,
+            40.8502784
+          ],
+          [
+            14.2704251,
+            40.8500393
+          ],
+          [
+            14.2702778,
+            40.8498748
+          ],
+          [
+            14.26941,
+            40.8490921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132994487",
+      "properties": {
+        "@id": "way/132994487",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2693745,
+            40.8493293
+          ],
+          [
+            14.2700578,
+            40.8499448
+          ],
+          [
+            14.2702046,
+            40.8500868
+          ],
+          [
+            14.270536,
+            40.8503902
+          ],
+          [
+            14.2711822,
+            40.8509794
+          ],
+          [
+            14.2713965,
+            40.851169
+          ],
+          [
+            14.2715256,
+            40.8512563
+          ],
+          [
+            14.2716429,
+            40.8513186
+          ],
+          [
+            14.2718024,
+            40.8513749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25581152",
+      "properties": {
+        "@id": "way/25581152",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2741246,
+            40.8506882
+          ],
+          [
+            14.2739054,
+            40.850749
+          ],
+          [
+            14.2728462,
+            40.8512657
+          ],
+          [
+            14.2727208,
+            40.8513078
+          ],
+          [
+            14.2725051,
+            40.8513349
+          ],
+          [
+            14.2723155,
+            40.8513355
+          ],
+          [
+            14.272076,
+            40.8513229
+          ],
+          [
+            14.2718748,
+            40.851291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132995781",
+      "properties": {
+        "@id": "way/132995781",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2718024,
+            40.8513749
+          ],
+          [
+            14.2720331,
+            40.8514232
+          ],
+          [
+            14.2722845,
+            40.851453
+          ],
+          [
+            14.2725049,
+            40.8514524
+          ],
+          [
+            14.2727438,
+            40.8514282
+          ],
+          [
+            14.2729189,
+            40.8513885
+          ],
+          [
+            14.2730748,
+            40.8513208
+          ],
+          [
+            14.2732541,
+            40.851235
+          ],
+          [
+            14.2739883,
+            40.8508839
+          ],
+          [
+            14.2741887,
+            40.8508164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/52008314",
+      "properties": {
+        "@id": "way/52008314",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2797839,
+            40.8515667
+          ],
+          [
+            14.2795684,
+            40.8515119
+          ],
+          [
+            14.2793601,
+            40.8514347
+          ],
+          [
+            14.2789996,
+            40.8512788
+          ],
+          [
+            14.2780812,
+            40.8507984
+          ],
+          [
+            14.277888,
+            40.8507019
+          ],
+          [
+            14.2776685,
+            40.850624
+          ],
+          [
+            14.2774667,
+            40.8505748
+          ],
+          [
+            14.2772414,
+            40.8505387
+          ],
+          [
+            14.2769918,
+            40.8505242
+          ],
+          [
+            14.2766236,
+            40.8505421
+          ],
+          [
+            14.2757383,
+            40.8505901
+          ],
+          [
+            14.274389,
+            40.8506579
+          ],
+          [
+            14.2741246,
+            40.8506882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25581642",
+      "properties": {
+        "@id": "way/25581642",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2838274,
+            40.8492885
+          ],
+          [
+            14.283187,
+            40.8499584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25581648",
+      "properties": {
+        "@id": "way/25581648",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.283187,
+            40.8499584
+          ],
+          [
+            14.2824569,
+            40.8507424
+          ],
+          [
+            14.2821469,
+            40.851047
+          ],
+          [
+            14.2819884,
+            40.85117
+          ],
+          [
+            14.281823,
+            40.8512727
+          ],
+          [
+            14.2816165,
+            40.8513806
+          ],
+          [
+            14.2814028,
+            40.8514664
+          ],
+          [
+            14.2812404,
+            40.8515197
+          ],
+          [
+            14.2810602,
+            40.851559
+          ],
+          [
+            14.2808857,
+            40.851592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25581151",
+      "properties": {
+        "@id": "way/25581151",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2808857,
+            40.851592
+          ],
+          [
+            14.2807464,
+            40.8516107
+          ],
+          [
+            14.2806113,
+            40.8516279
+          ],
+          [
+            14.2804363,
+            40.8516396
+          ],
+          [
+            14.2802601,
+            40.8516411
+          ],
+          [
+            14.2801173,
+            40.8516319
+          ],
+          [
+            14.2799383,
+            40.8516016
+          ],
+          [
+            14.2797839,
+            40.8515667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25581633",
+      "properties": {
+        "@id": "way/25581633",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2869459,
+            40.846211
+          ],
+          [
+            14.2866442,
+            40.8464754
+          ],
+          [
+            14.2862554,
+            40.8468304
+          ],
+          [
+            14.285352,
+            40.8476788
+          ],
+          [
+            14.2846643,
+            40.8483882
+          ],
+          [
+            14.2838274,
+            40.8492885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132995782",
+      "properties": {
+        "@id": "way/132995782",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2741887,
+            40.8508164
+          ],
+          [
+            14.2744148,
+            40.8507532
+          ],
+          [
+            14.27574,
+            40.8506807
+          ],
+          [
+            14.2766581,
+            40.8506301
+          ],
+          [
+            14.2769506,
+            40.8506173
+          ],
+          [
+            14.277124,
+            40.8506233
+          ],
+          [
+            14.2772889,
+            40.8506404
+          ],
+          [
+            14.2774533,
+            40.8506725
+          ],
+          [
+            14.2776254,
+            40.8507235
+          ],
+          [
+            14.2777906,
+            40.8507905
+          ],
+          [
+            14.2779857,
+            40.850886
+          ],
+          [
+            14.2784207,
+            40.851113
+          ],
+          [
+            14.279179,
+            40.851504
+          ],
+          [
+            14.2793956,
+            40.8516135
+          ],
+          [
+            14.2796305,
+            40.8517061
+          ],
+          [
+            14.2798607,
+            40.8517741
+          ],
+          [
+            14.2802162,
+            40.8518357
+          ],
+          [
+            14.2805568,
+            40.8518744
+          ],
+          [
+            14.2809973,
+            40.8519187
+          ],
+          [
+            14.281396,
+            40.8519547
+          ],
+          [
+            14.2817422,
+            40.8519875
+          ],
+          [
+            14.2819824,
+            40.8520197
+          ],
+          [
+            14.282114,
+            40.85205
+          ],
+          [
+            14.2822528,
+            40.8520997
+          ],
+          [
+            14.2823762,
+            40.8521661
+          ],
+          [
+            14.2824829,
+            40.8522378
+          ],
+          [
+            14.2825729,
+            40.8523109
+          ],
+          [
+            14.2826361,
+            40.8523921
+          ],
+          [
+            14.2826765,
+            40.8524713
+          ],
+          [
+            14.2827157,
+            40.852536
+          ],
+          [
+            14.2827533,
+            40.8526199
+          ],
+          [
+            14.2827733,
+            40.8526894
+          ],
+          [
+            14.282778,
+            40.852793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25581146",
+      "properties": {
+        "@id": "way/25581146",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2825031,
+            40.8544962
+          ],
+          [
+            14.282378,
+            40.8551722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25581147",
+      "properties": {
+        "@id": "way/25581147",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.282778,
+            40.852793
+          ],
+          [
+            14.2825031,
+            40.8544962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25581430",
+      "properties": {
+        "@id": "way/25581430",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2881293,
+            40.8452891
+          ],
+          [
+            14.2876673,
+            40.8456384
+          ],
+          [
+            14.2872371,
+            40.8459762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29450398",
+      "properties": {
+        "@id": "way/29450398",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2946814,
+            40.842369
+          ],
+          [
+            14.2924594,
+            40.8430321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201385092",
+      "properties": {
+        "@id": "way/201385092",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3008356,
+            40.841717
+          ],
+          [
+            14.300299,
+            40.8417479
+          ],
+          [
+            14.2991491,
+            40.8418048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25581429",
+      "properties": {
+        "@id": "way/25581429",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2885766,
+            40.8449646
+          ],
+          [
+            14.2881293,
+            40.8452891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29450399",
+      "properties": {
+        "@id": "way/29450399",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2924594,
+            40.8430321
+          ],
+          [
+            14.2909755,
+            40.8434527
+          ],
+          [
+            14.2906591,
+            40.8435664
+          ],
+          [
+            14.2903811,
+            40.843695
+          ],
+          [
+            14.2900648,
+            40.8438768
+          ],
+          [
+            14.2885766,
+            40.8449646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201385098",
+      "properties": {
+        "@id": "way/201385098",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2991491,
+            40.8418048
+          ],
+          [
+            14.2981156,
+            40.8418596
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201386289",
+      "properties": {
+        "@id": "way/201386289",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2981156,
+            40.8418596
+          ],
+          [
+            14.2965863,
+            40.8419357
+          ],
+          [
+            14.2960782,
+            40.8419989
+          ],
+          [
+            14.2957232,
+            40.8420721
+          ],
+          [
+            14.2953808,
+            40.8421708
+          ],
+          [
+            14.2946814,
+            40.842369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161923440",
+      "properties": {
+        "@id": "way/161923440",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3126768,
+            40.8433656
+          ],
+          [
+            14.3124634,
+            40.8432236
+          ],
+          [
+            14.3116831,
+            40.8428405
+          ],
+          [
+            14.3106296,
+            40.8423325
+          ],
+          [
+            14.3098885,
+            40.8419682
+          ],
+          [
+            14.3096502,
+            40.8418661
+          ],
+          [
+            14.309412,
+            40.8417672
+          ],
+          [
+            14.3091681,
+            40.8416827
+          ],
+          [
+            14.3088736,
+            40.8415924
+          ],
+          [
+            14.3085889,
+            40.8415158
+          ],
+          [
+            14.3083067,
+            40.8414536
+          ],
+          [
+            14.3079242,
+            40.8413977
+          ],
+          [
+            14.307602,
+            40.8413549
+          ],
+          [
+            14.3072131,
+            40.8413265
+          ],
+          [
+            14.3067964,
+            40.8413154
+          ],
+          [
+            14.3064138,
+            40.8413256
+          ],
+          [
+            14.3060231,
+            40.8413509
+          ],
+          [
+            14.305169,
+            40.8414149
+          ],
+          [
+            14.3035474,
+            40.8415384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/241766018",
+      "properties": {
+        "@id": "way/241766018",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3202435,
+            40.8457914
+          ],
+          [
+            14.3192039,
+            40.8455817
+          ],
+          [
+            14.3184806,
+            40.8454374
+          ],
+          [
+            14.3167974,
+            40.8451045
+          ],
+          [
+            14.3162196,
+            40.844983
+          ],
+          [
+            14.3158966,
+            40.8449029
+          ],
+          [
+            14.3156998,
+            40.8448348
+          ],
+          [
+            14.3153787,
+            40.8447099
+          ],
+          [
+            14.3148457,
+            40.844489
+          ],
+          [
+            14.3146815,
+            40.8444254
+          ],
+          [
+            14.3143177,
+            40.8442616
+          ],
+          [
+            14.313352,
+            40.8437732
+          ],
+          [
+            14.3131847,
+            40.8436798
+          ],
+          [
+            14.3130387,
+            40.8435969
+          ],
+          [
+            14.3126768,
+            40.8433656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29497563",
+      "properties": {
+        "@id": "way/29497563",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3018313,
+            40.8416601
+          ],
+          [
+            14.3015126,
+            40.8416777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29497566",
+      "properties": {
+        "@id": "way/29497566",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3015126,
+            40.8416777
+          ],
+          [
+            14.3011971,
+            40.8417027
+          ],
+          [
+            14.3008356,
+            40.841717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201387055",
+      "properties": {
+        "@id": "way/201387055",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3035474,
+            40.8415384
+          ],
+          [
+            14.3029233,
+            40.8415858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201387056",
+      "properties": {
+        "@id": "way/201387056",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3029233,
+            40.8415858
+          ],
+          [
+            14.3023901,
+            40.8416284
+          ],
+          [
+            14.3018313,
+            40.8416601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25581632",
+      "properties": {
+        "@id": "way/25581632",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2872371,
+            40.8459762
+          ],
+          [
+            14.2869459,
+            40.846211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161918310",
+      "properties": {
+        "@id": "way/161918310",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3301495,
+            40.8398679
+          ],
+          [
+            14.3304408,
+            40.8419223
+          ],
+          [
+            14.3306432,
+            40.8426546
+          ],
+          [
+            14.3310509,
+            40.8434176
+          ],
+          [
+            14.3318055,
+            40.8441365
+          ],
+          [
+            14.3362415,
+            40.8469379
+          ],
+          [
+            14.3366268,
+            40.8472654
+          ],
+          [
+            14.3378037,
+            40.8482912
+          ],
+          [
+            14.3381498,
+            40.848667
+          ],
+          [
+            14.3384043,
+            40.8490302
+          ],
+          [
+            14.3386299,
+            40.849397
+          ],
+          [
+            14.3388068,
+            40.8497595
+          ],
+          [
+            14.3389468,
+            40.8501525
+          ],
+          [
+            14.3390543,
+            40.8505872
+          ],
+          [
+            14.3391005,
+            40.8510422
+          ],
+          [
+            14.3391194,
+            40.8515331
+          ],
+          [
+            14.339012,
+            40.8523342
+          ],
+          [
+            14.3384384,
+            40.8555058
+          ],
+          [
+            14.3384075,
+            40.8568683
+          ],
+          [
+            14.3384418,
+            40.8585824
+          ],
+          [
+            14.3386989,
+            40.8602793
+          ],
+          [
+            14.3382875,
+            40.862319
+          ],
+          [
+            14.3372077,
+            40.8657813
+          ],
+          [
+            14.3356307,
+            40.8692094
+          ],
+          [
+            14.3341549,
+            40.8713809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/241191162",
+      "properties": {
+        "@id": "way/241191162",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3307048,
+            40.837464
+          ],
+          [
+            14.3306053,
+            40.8375771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/241191163",
+      "properties": {
+        "@id": "way/241191163",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.332563,
+            40.8362752
+          ],
+          [
+            14.3323462,
+            40.8363929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/241191185",
+      "properties": {
+        "@id": "way/241191185",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3323462,
+            40.8363929
+          ],
+          [
+            14.3316791,
+            40.836741
+          ],
+          [
+            14.3313134,
+            40.836954
+          ],
+          [
+            14.3311311,
+            40.8370744
+          ],
+          [
+            14.3308424,
+            40.8373219
+          ],
+          [
+            14.3307603,
+            40.8374009
+          ],
+          [
+            14.3307048,
+            40.837464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22776369",
+      "properties": {
+        "@id": "way/22776369",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3374969,
+            40.8334756
+          ],
+          [
+            14.3371935,
+            40.8336753
+          ],
+          [
+            14.3367815,
+            40.8339315
+          ],
+          [
+            14.3363801,
+            40.834188
+          ],
+          [
+            14.3360732,
+            40.8343831
+          ],
+          [
+            14.3357446,
+            40.8345872
+          ],
+          [
+            14.3354425,
+            40.8347789
+          ],
+          [
+            14.3352353,
+            40.8348905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/241191442",
+      "properties": {
+        "@id": "way/241191442",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3352353,
+            40.8348905
+          ],
+          [
+            14.3349594,
+            40.8350356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/241191159",
+      "properties": {
+        "@id": "way/241191159",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3306053,
+            40.8375771
+          ],
+          [
+            14.3304321,
+            40.8378201
+          ],
+          [
+            14.3303227,
+            40.8380102
+          ],
+          [
+            14.330191,
+            40.8383228
+          ],
+          [
+            14.3301242,
+            40.838552
+          ],
+          [
+            14.3300836,
+            40.8388264
+          ],
+          [
+            14.3300755,
+            40.8390463
+          ],
+          [
+            14.3300867,
+            40.8392785
+          ],
+          [
+            14.3301201,
+            40.8395889
+          ],
+          [
+            14.3301495,
+            40.8398679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/241191446",
+      "properties": {
+        "@id": "way/241191446",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3349594,
+            40.8350356
+          ],
+          [
+            14.3345509,
+            40.8352426
+          ],
+          [
+            14.3341648,
+            40.8354416
+          ],
+          [
+            14.333931,
+            40.8355569
+          ],
+          [
+            14.3337912,
+            40.8356335
+          ],
+          [
+            14.3336615,
+            40.8356998
+          ],
+          [
+            14.3334732,
+            40.835796
+          ],
+          [
+            14.3327934,
+            40.8361501
+          ],
+          [
+            14.332563,
+            40.8362752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/241766021",
+      "properties": {
+        "@id": "way/241766021",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3207822,
+            40.8459075
+          ],
+          [
+            14.3202435,
+            40.8457914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/241766026",
+      "properties": {
+        "@id": "way/241766026",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.32491,
+            40.8477808
+          ],
+          [
+            14.3248129,
+            40.8477329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/241766031",
+      "properties": {
+        "@id": "way/241766031",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3248129,
+            40.8477329
+          ],
+          [
+            14.3246218,
+            40.8476388
+          ],
+          [
+            14.3221102,
+            40.8464223
+          ],
+          [
+            14.3215009,
+            40.8461351
+          ],
+          [
+            14.3212681,
+            40.8460515
+          ],
+          [
+            14.3209159,
+            40.8459403
+          ],
+          [
+            14.3207822,
+            40.8459075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161918306",
+      "properties": {
+        "@id": "way/161918306",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.303294,
+            40.8700315
+          ],
+          [
+            14.3036437,
+            40.8700981
+          ],
+          [
+            14.3042231,
+            40.8702107
+          ],
+          [
+            14.3052745,
+            40.8704042
+          ],
+          [
+            14.3061002,
+            40.870552
+          ],
+          [
+            14.3071558,
+            40.8707562
+          ],
+          [
+            14.3081119,
+            40.8709319
+          ],
+          [
+            14.3085181,
+            40.8710015
+          ],
+          [
+            14.3089429,
+            40.8710583
+          ],
+          [
+            14.3093129,
+            40.8711011
+          ],
+          [
+            14.3101133,
+            40.871197
+          ],
+          [
+            14.3124054,
+            40.8714559
+          ],
+          [
+            14.3130016,
+            40.8715402
+          ],
+          [
+            14.3134038,
+            40.8716072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353033567",
+      "properties": {
+        "@id": "way/353033567",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3341549,
+            40.8713809
+          ],
+          [
+            14.3322403,
+            40.8724738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225987833",
+      "properties": {
+        "@id": "way/225987833",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3134038,
+            40.8716072
+          ],
+          [
+            14.3136861,
+            40.8716549
+          ],
+          [
+            14.3143734,
+            40.8717993
+          ],
+          [
+            14.3147822,
+            40.8719094
+          ],
+          [
+            14.3152748,
+            40.8720639
+          ],
+          [
+            14.3157483,
+            40.8722275
+          ],
+          [
+            14.3162675,
+            40.8724112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46607403",
+      "properties": {
+        "@id": "way/46607403",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3231382,
+            40.8767998
+          ],
+          [
+            14.3234554,
+            40.8769723
+          ],
+          [
+            14.3236797,
+            40.8770861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161918307",
+      "properties": {
+        "@id": "way/161918307",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3205351,
+            40.8750172
+          ],
+          [
+            14.3213589,
+            40.8755762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360122661",
+      "properties": {
+        "@id": "way/360122661",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3215394,
+            40.8756986
+          ],
+          [
+            14.3224877,
+            40.8763421
+          ],
+          [
+            14.3231382,
+            40.8767998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360122662",
+      "properties": {
+        "@id": "way/360122662",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3213589,
+            40.8755762
+          ],
+          [
+            14.3215394,
+            40.8756986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161918311",
+      "properties": {
+        "@id": "way/161918311",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3162675,
+            40.8724112
+          ],
+          [
+            14.3166696,
+            40.872579
+          ],
+          [
+            14.3172283,
+            40.8728443
+          ],
+          [
+            14.3179631,
+            40.8732232
+          ],
+          [
+            14.3193662,
+            40.874208
+          ],
+          [
+            14.3205351,
+            40.8750172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184189348",
+      "properties": {
+        "@id": "way/184189348",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "backward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3236797,
+            40.8770861
+          ],
+          [
+            14.323778,
+            40.8771321
+          ],
+          [
+            14.3240565,
+            40.8772411
+          ],
+          [
+            14.3243391,
+            40.8773255
+          ],
+          [
+            14.3246319,
+            40.8773865
+          ],
+          [
+            14.3249529,
+            40.8774298
+          ],
+          [
+            14.3252894,
+            40.8774493
+          ],
+          [
+            14.3255062,
+            40.8774435
+          ],
+          [
+            14.325689,
+            40.8774268
+          ],
+          [
+            14.3259896,
+            40.8773814
+          ],
+          [
+            14.3262741,
+            40.8773253
+          ],
+          [
+            14.3265184,
+            40.8772594
+          ],
+          [
+            14.3267511,
+            40.8771773
+          ],
+          [
+            14.3269856,
+            40.8770822
+          ],
+          [
+            14.3272632,
+            40.8769407
+          ],
+          [
+            14.327438,
+            40.8768306
+          ],
+          [
+            14.3275871,
+            40.8767249
+          ],
+          [
+            14.3277838,
+            40.8765618
+          ],
+          [
+            14.3279896,
+            40.8763702
+          ],
+          [
+            14.3282577,
+            40.8761201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161918309",
+      "properties": {
+        "@id": "way/161918309",
+        "@relations": [
+          {
+            "role": "backward",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3322403,
+            40.8724738
+          ],
+          [
+            14.3318616,
+            40.8728212
+          ],
+          [
+            14.3294857,
+            40.8750451
+          ],
+          [
+            14.3291957,
+            40.8753202
+          ],
+          [
+            14.3291107,
+            40.875396
+          ],
+          [
+            14.328977,
+            40.8755188
+          ],
+          [
+            14.3287261,
+            40.8757118
+          ],
+          [
+            14.328527,
+            40.8758797
+          ],
+          [
+            14.3282577,
+            40.8761201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/434789470",
+      "properties": {
+        "@id": "node/434789470",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446007,
+            "reltags": {
+              "colour": "#0099CC",
+              "from": "Mostra",
+              "name": "Linea 6 (Mostra → Mergellina)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "6",
+              "route": "subway",
+              "to": "Mergellina",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168104,
+            "reltags": {
+              "colour": "#0099CC",
+              "from": "Mergellina",
+              "name": "Linea 6 (Mergellina → Mostra)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "6",
+              "route": "subway",
+              "to": "Mostra",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1932116,
+          40.8245376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/663078056",
+      "properties": {
+        "@id": "node/663078056",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446007,
+            "reltags": {
+              "colour": "#0099CC",
+              "from": "Mostra",
+              "name": "Linea 6 (Mostra → Mergellina)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "6",
+              "route": "subway",
+              "to": "Mergellina",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168104,
+            "reltags": {
+              "colour": "#0099CC",
+              "from": "Mergellina",
+              "name": "Linea 6 (Mergellina → Mostra)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "6",
+              "route": "subway",
+              "to": "Mostra",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1983762,
+          40.8260259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/663077724",
+      "properties": {
+        "@id": "node/663077724",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446007,
+            "reltags": {
+              "colour": "#0099CC",
+              "from": "Mostra",
+              "name": "Linea 6 (Mostra → Mergellina)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "6",
+              "route": "subway",
+              "to": "Mergellina",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168104,
+            "reltags": {
+              "colour": "#0099CC",
+              "from": "Mergellina",
+              "name": "Linea 6 (Mergellina → Mostra)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "6",
+              "route": "subway",
+              "to": "Mostra",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2046003,
+          40.826735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/663078054",
+      "properties": {
+        "@id": "node/663078054",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446007,
+            "reltags": {
+              "colour": "#0099CC",
+              "from": "Mostra",
+              "name": "Linea 6 (Mostra → Mergellina)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "6",
+              "route": "subway",
+              "to": "Mergellina",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168104,
+            "reltags": {
+              "colour": "#0099CC",
+              "from": "Mergellina",
+              "name": "Linea 6 (Mergellina → Mostra)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "6",
+              "route": "subway",
+              "to": "Mostra",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2179748,
+          40.8305626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/434762989",
+      "properties": {
+        "@id": "node/434762989",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.231708,
+          40.843874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/434763004",
+      "properties": {
+        "@id": "node/434763004",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2251866,
+          40.845792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3036923663",
+      "properties": {
+        "@id": "node/3036923663",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2308411,
+          40.8505658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/435104388",
+      "properties": {
+        "@id": "node/435104388",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2242506,
+          40.8559111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1738657713",
+      "properties": {
+        "@id": "node/1738657713",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2489406,
+          40.8424334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1428260807",
+      "properties": {
+        "@id": "node/1428260807",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2554551,
+          40.8436117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/434763011",
+      "properties": {
+        "@id": "node/434763011",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2367088,
+          40.8511745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/434763015",
+      "properties": {
+        "@id": "node/434763015",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2433435,
+          40.8556671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/434763027",
+      "properties": {
+        "@id": "node/434763027",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2502417,
+          40.8488611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/434763023",
+      "properties": {
+        "@id": "node/434763023",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2520555,
+          40.8537719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3036923656",
+      "properties": {
+        "@id": "node/3036923656",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2204416,
+          40.861224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3036909925",
+      "properties": {
+        "@id": "node/3036909925",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2289111,
+          40.8700316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1738657712",
+      "properties": {
+        "@id": "node/1738657712",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2309179,
+          40.880749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/324415153",
+      "properties": {
+        "@id": "node/324415153",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2235657,
+          40.8907559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/614419534",
+      "properties": {
+        "@id": "node/614419534",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2397665,
+          40.8929437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/224814381",
+      "properties": {
+        "@id": "node/224814381",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.26941,
+          40.8490921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1757100177",
+      "properties": {
+        "@id": "node/1757100177",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 386098,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Piscinola",
+              "name": "Linea 1 (Piscinola → Garibaldi)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Garibaldi",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168102,
+            "reltags": {
+              "colour": "#000099",
+              "from": "Università",
+              "name": "Linea 1 (Garibaldi → Piscinola)",
+              "network": "Metronapoli",
+              "operator": "Metronapoli",
+              "ref": "1",
+              "route": "subway",
+              "to": "Piscinola",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2700089,
+          40.851933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1738681458",
+      "properties": {
+        "@id": "node/1738681458",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2740987,
+          40.8507717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/278841425",
+      "properties": {
+        "@id": "node/278841425",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2817809,
+          40.8584186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1306185157",
+      "properties": {
+        "@id": "node/1306185157",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3001703,
+          40.8416612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/229162892",
+      "properties": {
+        "@id": "node/229162892",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2872371,
+          40.8459762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/226041828",
+      "properties": {
+        "@id": "node/226041828",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446004,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 4 (Napoli Porta Nolana → Vesuvio de Meis)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Vesuvio de Meis",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168160,
+            "reltags": {
+              "colour": "#868F98",
+              "from": "Vesuvio de Meis",
+              "name": "Linea 4 (Vesuvio de Meis → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "4",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3141677,
+          40.8441717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/229162928",
+      "properties": {
+        "@id": "node/229162928",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3376809,
+          40.8330079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3036938366",
+      "properties": {
+        "@id": "node/3036938366",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3384384,
+          40.8555058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595644485",
+      "properties": {
+        "@id": "node/595644485",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2933537,
+          40.8666303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/611023894",
+      "properties": {
+        "@id": "node/611023894",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3382875,
+          40.862319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3588161277",
+      "properties": {
+        "@id": "node/3588161277",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3341549,
+          40.8713809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595644490",
+      "properties": {
+        "@id": "node/595644490",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 446001,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "Napoli Porta Nolana",
+              "name": "Linea 3 (Napoli Porta Nolana → San Giorgio a Cremano)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "San Giorgio a Cremano",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 2168125,
+            "reltags": {
+              "colour": "#FF7F00",
+              "from": "San Giorgio a Cremano",
+              "name": "Linea 3 (San Giorgio a Cremano → Napoli Porta Nolana)",
+              "network": "TPL Napoli",
+              "operator": "Circumvesuviana",
+              "ref": "3",
+              "route": "subway",
+              "to": "Napoli Porta Nolana",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3156269,
+          40.8722108
+        ]
+      }
+    }
+  ]
+}

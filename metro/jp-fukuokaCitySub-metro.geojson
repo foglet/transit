@@ -1,0 +1,2274 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-19T04:16:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23322477",
+      "properties": {
+        "@id": "way/23322477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.4022468,
+            33.5885707
+          ],
+          [
+            130.4017106,
+            33.5883058
+          ],
+          [
+            130.401542,
+            33.588217
+          ],
+          [
+            130.4014723,
+            33.5881471
+          ],
+          [
+            130.4013918,
+            33.5880309
+          ],
+          [
+            130.401365,
+            33.5879125
+          ],
+          [
+            130.4013778,
+            33.5878263
+          ],
+          [
+            130.404195,
+            33.5846598
+          ],
+          [
+            130.4050062,
+            33.5837426
+          ],
+          [
+            130.4057547,
+            33.5828962
+          ],
+          [
+            130.4057213,
+            33.5826132
+          ],
+          [
+            130.405499,
+            33.5824079
+          ],
+          [
+            130.40475,
+            33.5821258
+          ],
+          [
+            130.4040082,
+            33.5818996
+          ],
+          [
+            130.4034462,
+            33.5818054
+          ],
+          [
+            130.4028826,
+            33.5817757
+          ],
+          [
+            130.4008322,
+            33.5818778
+          ],
+          [
+            130.4000765,
+            33.5818169
+          ],
+          [
+            130.399388,
+            33.5816669
+          ],
+          [
+            130.3986824,
+            33.5814587
+          ],
+          [
+            130.3967089,
+            33.5807052
+          ],
+          [
+            130.396267,
+            33.5805365
+          ],
+          [
+            130.3932548,
+            33.5794318
+          ],
+          [
+            130.3925299,
+            33.5788824
+          ],
+          [
+            130.3921866,
+            33.5784187
+          ],
+          [
+            130.3917359,
+            33.5779263
+          ],
+          [
+            130.3914565,
+            33.5777464
+          ],
+          [
+            130.3910994,
+            33.5775901
+          ],
+          [
+            130.3907367,
+            33.5774917
+          ],
+          [
+            130.3895364,
+            33.5773008
+          ],
+          [
+            130.3882837,
+            33.5772542
+          ],
+          [
+            130.3869249,
+            33.5773755
+          ],
+          [
+            130.3860116,
+            33.5774571
+          ],
+          [
+            130.3837214,
+            33.5777093
+          ],
+          [
+            130.3818793,
+            33.5779971
+          ],
+          [
+            130.3803078,
+            33.5781149
+          ],
+          [
+            130.3792314,
+            33.5784327
+          ],
+          [
+            130.3789142,
+            33.5784868
+          ],
+          [
+            130.3787818,
+            33.5784915
+          ],
+          [
+            130.3769685,
+            33.5776204
+          ],
+          [
+            130.37592,
+            33.5771167
+          ],
+          [
+            130.370418,
+            33.5746524
+          ],
+          [
+            130.3694708,
+            33.5742281
+          ],
+          [
+            130.368053,
+            33.573484
+          ],
+          [
+            130.3680909,
+            33.5708785
+          ],
+          [
+            130.3678996,
+            33.5701735
+          ],
+          [
+            130.3677446,
+            33.5697485
+          ],
+          [
+            130.367605,
+            33.569323
+          ],
+          [
+            130.3674768,
+            33.5689528
+          ],
+          [
+            130.3672729,
+            33.5684869
+          ],
+          [
+            130.366745,
+            33.567864
+          ],
+          [
+            130.3662331,
+            33.5672538
+          ],
+          [
+            130.3658623,
+            33.5666986
+          ],
+          [
+            130.3656714,
+            33.566378
+          ],
+          [
+            130.3655153,
+            33.5661159
+          ],
+          [
+            130.3648145,
+            33.565007
+          ],
+          [
+            130.3633919,
+            33.5627395
+          ],
+          [
+            130.3630326,
+            33.5620871
+          ],
+          [
+            130.3626977,
+            33.5614335
+          ],
+          [
+            130.3620235,
+            33.5601123
+          ],
+          [
+            130.3617442,
+            33.5595703
+          ],
+          [
+            130.3612689,
+            33.558648
+          ],
+          [
+            130.361214,
+            33.5583171
+          ],
+          [
+            130.3612095,
+            33.5581525
+          ],
+          [
+            130.3612209,
+            33.5577839
+          ],
+          [
+            130.3612885,
+            33.557155
+          ],
+          [
+            130.3617303,
+            33.5531037
+          ],
+          [
+            130.3617681,
+            33.5526823
+          ],
+          [
+            130.3619181,
+            33.5510089
+          ],
+          [
+            130.3620908,
+            33.5489027
+          ],
+          [
+            130.3620987,
+            33.5484749
+          ],
+          [
+            130.3622093,
+            33.5480081
+          ],
+          [
+            130.3623061,
+            33.5476739
+          ],
+          [
+            130.3623683,
+            33.5474145
+          ],
+          [
+            130.3623881,
+            33.5473153
+          ],
+          [
+            130.3624046,
+            33.5472326
+          ],
+          [
+            130.3624254,
+            33.5471144
+          ],
+          [
+            130.362453,
+            33.5469646
+          ],
+          [
+            130.3624876,
+            33.5467571
+          ],
+          [
+            130.3625049,
+            33.5466419
+          ],
+          [
+            130.3624945,
+            33.5465179
+          ],
+          [
+            130.3624876,
+            33.5463162
+          ],
+          [
+            130.3623597,
+            33.5459618
+          ],
+          [
+            130.3621384,
+            33.5456506
+          ],
+          [
+            130.3618376,
+            33.5453941
+          ],
+          [
+            130.3611669,
+            33.5451492
+          ],
+          [
+            130.3582444,
+            33.545138
+          ],
+          [
+            130.3576723,
+            33.5451624
+          ],
+          [
+            130.3570245,
+            33.5452521
+          ],
+          [
+            130.3556163,
+            33.5456392
+          ],
+          [
+            130.3552683,
+            33.5457454
+          ],
+          [
+            130.3545797,
+            33.5459428
+          ],
+          [
+            130.3538903,
+            33.5461445
+          ],
+          [
+            130.3527828,
+            33.5464848
+          ],
+          [
+            130.351404,
+            33.5468923
+          ],
+          [
+            130.3497978,
+            33.5473711
+          ],
+          [
+            130.347386,
+            33.5480033
+          ],
+          [
+            130.3402291,
+            33.5498793
+          ],
+          [
+            130.3393343,
+            33.5500953
+          ],
+          [
+            130.3386571,
+            33.5502481
+          ],
+          [
+            130.337852,
+            33.5504414
+          ],
+          [
+            130.3288137,
+            33.552611
+          ],
+          [
+            130.3256079,
+            33.5526798
+          ],
+          [
+            130.3249002,
+            33.5527756
+          ],
+          [
+            130.3239289,
+            33.55307
+          ],
+          [
+            130.3231179,
+            33.5534049
+          ],
+          [
+            130.3226499,
+            33.5536371
+          ],
+          [
+            130.3218641,
+            33.5541616
+          ],
+          [
+            130.3208885,
+            33.5549815
+          ],
+          [
+            130.3202184,
+            33.5556137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174763963",
+      "properties": {
+        "@id": "way/174763963",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.4222496,
+            33.5900799
+          ],
+          [
+            130.4206539,
+            33.5901015
+          ],
+          [
+            130.4199122,
+            33.590118
+          ],
+          [
+            130.4186685,
+            33.5912724
+          ],
+          [
+            130.4146968,
+            33.5942983
+          ],
+          [
+            130.4144942,
+            33.5944514
+          ],
+          [
+            130.411533,
+            33.5967064
+          ],
+          [
+            130.4092484,
+            33.5967005
+          ],
+          [
+            130.406996,
+            33.5955833
+          ],
+          [
+            130.4045417,
+            33.5930097
+          ],
+          [
+            130.4033361,
+            33.5923832
+          ],
+          [
+            130.3992513,
+            33.5914611
+          ],
+          [
+            130.39868,
+            33.5913329
+          ],
+          [
+            130.3973837,
+            33.5910431
+          ],
+          [
+            130.3961762,
+            33.5907573
+          ],
+          [
+            130.3953058,
+            33.5902155
+          ],
+          [
+            130.3904297,
+            33.5891872
+          ],
+          [
+            130.3889418,
+            33.5888792
+          ],
+          [
+            130.3869816,
+            33.5886388
+          ],
+          [
+            130.3835377,
+            33.5890379
+          ],
+          [
+            130.3818623,
+            33.5893114
+          ],
+          [
+            130.3787075,
+            33.5903065
+          ],
+          [
+            130.3781533,
+            33.590336
+          ],
+          [
+            130.3740078,
+            33.5905568
+          ],
+          [
+            130.3706502,
+            33.5904942
+          ],
+          [
+            130.3699993,
+            33.5903289
+          ],
+          [
+            130.3696964,
+            33.590252
+          ],
+          [
+            130.36512,
+            33.5875601
+          ],
+          [
+            130.3623326,
+            33.5855594
+          ],
+          [
+            130.360304,
+            33.5841489
+          ],
+          [
+            130.3594731,
+            33.5836972
+          ],
+          [
+            130.3591724,
+            33.5835563
+          ],
+          [
+            130.3586957,
+            33.5833718
+          ],
+          [
+            130.357771,
+            33.5831014
+          ],
+          [
+            130.3504757,
+            33.581956
+          ],
+          [
+            130.3489066,
+            33.5814572
+          ],
+          [
+            130.3467262,
+            33.5813549
+          ],
+          [
+            130.3404206,
+            33.5808884
+          ],
+          [
+            130.3366113,
+            33.5825924
+          ],
+          [
+            130.3321177,
+            33.5832681
+          ],
+          [
+            130.3318965,
+            33.5832948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/210616062",
+      "properties": {
+        "@id": "way/210616062",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.3318965,
+            33.5832948
+          ],
+          [
+            130.3316771,
+            33.5832907
+          ],
+          [
+            130.3273184,
+            33.5835644
+          ],
+          [
+            130.3271162,
+            33.5835768
+          ],
+          [
+            130.326348,
+            33.5835559
+          ],
+          [
+            130.3243964,
+            33.5836301
+          ],
+          [
+            130.3240394,
+            33.5836754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44960415",
+      "properties": {
+        "@id": "way/44960415",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.4222496,
+            33.5900799
+          ],
+          [
+            130.4250743,
+            33.5900389
+          ],
+          [
+            130.4275979,
+            33.5879674
+          ],
+          [
+            130.4279983,
+            33.5879924
+          ],
+          [
+            130.4298219,
+            33.5881063
+          ],
+          [
+            130.4306589,
+            33.5889544
+          ],
+          [
+            130.4311588,
+            33.5898754
+          ],
+          [
+            130.4324309,
+            33.5922194
+          ],
+          [
+            130.4344264,
+            33.5956103
+          ],
+          [
+            130.4351641,
+            33.5965674
+          ],
+          [
+            130.4358464,
+            33.5970629
+          ],
+          [
+            130.4386858,
+            33.5984351
+          ],
+          [
+            130.4393859,
+            33.5986742
+          ],
+          [
+            130.4400682,
+            33.598755
+          ],
+          [
+            130.4407683,
+            33.5987644
+          ],
+          [
+            130.4423014,
+            33.5987783
+          ],
+          [
+            130.4429162,
+            33.5986925
+          ],
+          [
+            130.4470967,
+            33.5974253
+          ],
+          [
+            130.4484292,
+            33.5970929
+          ],
+          [
+            130.449346,
+            33.5968252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96379243",
+      "properties": {
+        "@id": "way/96379243",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1871205,
+            "reltags": {
+              "colour": "#0077CC",
+              "from": "Nakasu-Kawabata",
+              "name": "福岡市地下鉄箱崎線",
+              "name:en": "Fukuoka City Subway Hakozaki Line",
+              "name:ja": "福岡市地下鉄箱崎線",
+              "public_transport:version": "1",
+              "ref": "2号線(箱崎線)",
+              "route": "subway",
+              "to": "Kaizuki",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.406996,
+            33.5955833
+          ],
+          [
+            130.4095597,
+            33.5980814
+          ],
+          [
+            130.4138922,
+            33.6023592
+          ],
+          [
+            130.4156512,
+            33.6040874
+          ],
+          [
+            130.4157002,
+            33.6046505
+          ],
+          [
+            130.4157653,
+            33.6049356
+          ],
+          [
+            130.4159464,
+            33.6053269
+          ],
+          [
+            130.419817,
+            33.6099319
+          ],
+          [
+            130.4207146,
+            33.6111847
+          ],
+          [
+            130.4212875,
+            33.6121039
+          ],
+          [
+            130.4213091,
+            33.6123609
+          ],
+          [
+            130.4212444,
+            33.6126255
+          ],
+          [
+            130.4210811,
+            33.6131003
+          ],
+          [
+            130.4209174,
+            33.6134411
+          ],
+          [
+            130.4207074,
+            33.6137729
+          ],
+          [
+            130.4198543,
+            33.6151754
+          ],
+          [
+            130.4187201,
+            33.6173385
+          ],
+          [
+            130.4186516,
+            33.6176319
+          ],
+          [
+            130.4186512,
+            33.6180696
+          ],
+          [
+            130.4187222,
+            33.6183096
+          ],
+          [
+            130.4188583,
+            33.618637
+          ],
+          [
+            130.4193676,
+            33.6195985
+          ],
+          [
+            130.4199927,
+            33.6205911
+          ],
+          [
+            130.4206304,
+            33.6215762
+          ],
+          [
+            130.4213555,
+            33.6226522
+          ],
+          [
+            130.4224993,
+            33.6243495
+          ],
+          [
+            130.4231645,
+            33.6255397
+          ],
+          [
+            130.4238245,
+            33.6268252
+          ],
+          [
+            130.4241764,
+            33.6276533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175156933",
+      "properties": {
+        "@id": "way/175156933",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1871205,
+            "reltags": {
+              "colour": "#0077CC",
+              "from": "Nakasu-Kawabata",
+              "name": "福岡市地下鉄箱崎線",
+              "name:en": "Fukuoka City Subway Hakozaki Line",
+              "name:ja": "福岡市地下鉄箱崎線",
+              "public_transport:version": "1",
+              "ref": "2号線(箱崎線)",
+              "route": "subway",
+              "to": "Kaizuki",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.4241764,
+            33.6276533
+          ],
+          [
+            130.4243094,
+            33.6280111
+          ],
+          [
+            130.4244638,
+            33.6283586
+          ],
+          [
+            130.424871,
+            33.629541
+          ],
+          [
+            130.4251154,
+            33.6303555
+          ],
+          [
+            130.4251778,
+            33.6305635
+          ],
+          [
+            130.4252312,
+            33.6307733
+          ],
+          [
+            130.425304,
+            33.6313407
+          ],
+          [
+            130.4253785,
+            33.6317888
+          ],
+          [
+            130.4254513,
+            33.6322377
+          ],
+          [
+            130.4255181,
+            33.632711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232713783",
+      "properties": {
+        "@id": "way/232713783",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1871205,
+            "reltags": {
+              "colour": "#0077CC",
+              "from": "Nakasu-Kawabata",
+              "name": "福岡市地下鉄箱崎線",
+              "name:en": "Fukuoka City Subway Hakozaki Line",
+              "name:ja": "福岡市地下鉄箱崎線",
+              "public_transport:version": "1",
+              "ref": "2号線(箱崎線)",
+              "route": "subway",
+              "to": "Kaizuki",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.4241764,
+            33.6276533
+          ],
+          [
+            130.4243599,
+            33.6279955
+          ],
+          [
+            130.4245151,
+            33.6283446
+          ],
+          [
+            130.4249059,
+            33.6295333
+          ],
+          [
+            130.4250059,
+            33.6298503
+          ],
+          [
+            130.4251625,
+            33.6303468
+          ],
+          [
+            130.4252284,
+            33.6305557
+          ],
+          [
+            130.4252994,
+            33.6307599
+          ],
+          [
+            130.4255002,
+            33.631321
+          ],
+          [
+            130.4256198,
+            33.6317626
+          ],
+          [
+            130.4256865,
+            33.6322094
+          ],
+          [
+            130.4257343,
+            33.6326798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3002091447",
+      "properties": {
+        "@id": "node/3002091447",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3208885,
+          33.5549815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304848",
+      "properties": {
+        "@id": "node/3334304848",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.337852,
+          33.5504414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3002090751",
+      "properties": {
+        "@id": "node/3002090751",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3288137,
+          33.552611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304851",
+      "properties": {
+        "@id": "node/3334304851",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.347386,
+          33.5480033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304854",
+      "properties": {
+        "@id": "node/3334304854",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3552683,
+          33.5457454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304847",
+      "properties": {
+        "@id": "node/3334304847",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3623881,
+          33.5473153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304850",
+      "properties": {
+        "@id": "node/3334304850",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3617681,
+          33.5526823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304849",
+      "properties": {
+        "@id": "node/3334304849",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3617442,
+          33.5595703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304846",
+      "properties": {
+        "@id": "node/3334304846",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3656714,
+          33.566378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2206922913",
+      "properties": {
+        "@id": "node/2206922913",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3240394,
+          33.5836754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252530468",
+      "properties": {
+        "@id": "node/252530468",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3404206,
+          33.5808884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252530467",
+      "properties": {
+        "@id": "node/252530467",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3489066,
+          33.5814572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2580372380",
+      "properties": {
+        "@id": "node/2580372380",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3594731,
+          33.5836972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304845",
+      "properties": {
+        "@id": "node/3334304845",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.370418,
+          33.5746524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304852",
+      "properties": {
+        "@id": "node/3334304852",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3769685,
+          33.5776204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304853",
+      "properties": {
+        "@id": "node/3334304853",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3869249,
+          33.5773755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3332825599",
+      "properties": {
+        "@id": "node/3332825599",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3699993,
+          33.5903289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3332825684",
+      "properties": {
+        "@id": "node/3332825684",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3781533,
+          33.590336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304856",
+      "properties": {
+        "@id": "node/3334304856",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3967089,
+          33.5807052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/495499693",
+      "properties": {
+        "@id": "node/495499693",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4015198,
+          33.5819728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3334304855",
+      "properties": {
+        "@id": "node/3334304855",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4050062,
+          33.5837426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/526994811",
+      "properties": {
+        "@id": "node/526994811",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3904297,
+          33.5891872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2560973018",
+      "properties": {
+        "@id": "node/2560973018",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871203,
+            "reltags": {
+              "colour": "#008000",
+              "from": "Hashimoto",
+              "name": "福岡市地下鉄七隈線",
+              "name:en": "Fukuoka City Subway Nanakuma Line",
+              "name:ja": "福岡市地下鉄七隈線",
+              "public_transport:version": "1",
+              "ref": "3号線(七隈線)",
+              "route": "subway",
+              "to": "Tenjin",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4017106,
+          33.5883058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/526990152",
+      "properties": {
+        "@id": "node/526990152",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3992513,
+          33.5914611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252530449",
+      "properties": {
+        "@id": "node/252530449",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1871205,
+            "reltags": {
+              "colour": "#0077CC",
+              "from": "Nakasu-Kawabata",
+              "name": "福岡市地下鉄箱崎線",
+              "name:en": "Fukuoka City Subway Hakozaki Line",
+              "name:ja": "福岡市地下鉄箱崎線",
+              "public_transport:version": "1",
+              "ref": "2号線(箱崎線)",
+              "route": "subway",
+              "to": "Kaizuki",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.406996,
+          33.5955833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3332825597",
+      "properties": {
+        "@id": "node/3332825597",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4144942,
+          33.5944514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/473575925",
+      "properties": {
+        "@id": "node/473575925",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4206539,
+          33.5901015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3332825598",
+      "properties": {
+        "@id": "node/3332825598",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4311588,
+          33.5898754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2872661240",
+      "properties": {
+        "@id": "node/2872661240",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871205,
+            "reltags": {
+              "colour": "#0077CC",
+              "from": "Nakasu-Kawabata",
+              "name": "福岡市地下鉄箱崎線",
+              "name:en": "Fukuoka City Subway Hakozaki Line",
+              "name:ja": "福岡市地下鉄箱崎線",
+              "public_transport:version": "1",
+              "ref": "2号線(箱崎線)",
+              "route": "subway",
+              "to": "Kaizuki",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4095597,
+          33.5980814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2662859009",
+      "properties": {
+        "@id": "node/2662859009",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871205,
+            "reltags": {
+              "colour": "#0077CC",
+              "from": "Nakasu-Kawabata",
+              "name": "福岡市地下鉄箱崎線",
+              "name:en": "Fukuoka City Subway Hakozaki Line",
+              "name:ja": "福岡市地下鉄箱崎線",
+              "public_transport:version": "1",
+              "ref": "2号線(箱崎線)",
+              "route": "subway",
+              "to": "Kaizuki",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4138922,
+          33.6023592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252530561",
+      "properties": {
+        "@id": "node/252530561",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871205,
+            "reltags": {
+              "colour": "#0077CC",
+              "from": "Nakasu-Kawabata",
+              "name": "福岡市地下鉄箱崎線",
+              "name:en": "Fukuoka City Subway Hakozaki Line",
+              "name:ja": "福岡市地下鉄箱崎線",
+              "public_transport:version": "1",
+              "ref": "2号線(箱崎線)",
+              "route": "subway",
+              "to": "Kaizuki",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419817,
+          33.6099319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1894363939",
+      "properties": {
+        "@id": "node/1894363939",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871205,
+            "reltags": {
+              "colour": "#0077CC",
+              "from": "Nakasu-Kawabata",
+              "name": "福岡市地下鉄箱崎線",
+              "name:en": "Fukuoka City Subway Hakozaki Line",
+              "name:ja": "福岡市地下鉄箱崎線",
+              "public_transport:version": "1",
+              "ref": "2号線(箱崎線)",
+              "route": "subway",
+              "to": "Kaizuki",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4198543,
+          33.6151754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3085866863",
+      "properties": {
+        "@id": "node/3085866863",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871205,
+            "reltags": {
+              "colour": "#0077CC",
+              "from": "Nakasu-Kawabata",
+              "name": "福岡市地下鉄箱崎線",
+              "name:en": "Fukuoka City Subway Hakozaki Line",
+              "name:ja": "福岡市地下鉄箱崎線",
+              "public_transport:version": "1",
+              "ref": "2号線(箱崎線)",
+              "route": "subway",
+              "to": "Kaizuki",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4213555,
+          33.6226522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267598864",
+      "properties": {
+        "@id": "node/267598864",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871205,
+            "reltags": {
+              "colour": "#0077CC",
+              "from": "Nakasu-Kawabata",
+              "name": "福岡市地下鉄箱崎線",
+              "name:en": "Fukuoka City Subway Hakozaki Line",
+              "name:ja": "福岡市地下鉄箱崎線",
+              "public_transport:version": "1",
+              "ref": "2号線(箱崎線)",
+              "route": "subway",
+              "to": "Kaizuki",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4255437,
+          33.6320329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2560954531",
+      "properties": {
+        "@id": "node/2560954531",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1871204,
+            "reltags": {
+              "colour": "#FF4500",
+              "from": "Fukuokakūkō (Airport)",
+              "name": "福岡市地下鉄空港線",
+              "name:en": "Fukuoka City Subway Kūkō Line",
+              "name:ja": "福岡市地下鉄空港線",
+              "public_transport:version": "1",
+              "ref": "1号線(空港線)",
+              "route": "subway",
+              "to": "Meinohama",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4484292,
+          33.5970929
+        ]
+      }
+    }
+  ]
+}
