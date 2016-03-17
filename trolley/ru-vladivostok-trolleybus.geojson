@@ -1,0 +1,1640 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-20T05:20:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/178925209",
+      "properties": {
+        "@id": "way/178925209",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9106047,
+            43.1668951
+          ],
+          [
+            131.9098495,
+            43.1667551
+          ],
+          [
+            131.9092036,
+            43.1666402
+          ],
+          [
+            131.9088458,
+            43.1665709
+          ],
+          [
+            131.908414,
+            43.1664833
+          ],
+          [
+            131.9077395,
+            43.1663172
+          ],
+          [
+            131.9071854,
+            43.1661083
+          ],
+          [
+            131.9057339,
+            43.1654702
+          ],
+          [
+            131.9045528,
+            43.1650078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/200891146",
+      "properties": {
+        "@id": "way/200891146",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9056406,
+            43.1652118
+          ],
+          [
+            131.9058643,
+            43.1653058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27612627",
+      "properties": {
+        "@id": "way/27612627",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9045528,
+            43.1650078
+          ],
+          [
+            131.9046157,
+            43.1649161
+          ],
+          [
+            131.9047255,
+            43.1648501
+          ],
+          [
+            131.9056406,
+            43.1652118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122241978",
+      "properties": {
+        "@id": "way/122241978",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9148258,
+            43.1677861
+          ],
+          [
+            131.9142255,
+            43.167652
+          ],
+          [
+            131.9130373,
+            43.1673785
+          ],
+          [
+            131.9125978,
+            43.1672808
+          ],
+          [
+            131.9111341,
+            43.1669662
+          ],
+          [
+            131.9109605,
+            43.1669429
+          ],
+          [
+            131.9106047,
+            43.1668951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178925208",
+      "properties": {
+        "@id": "way/178925208",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9058643,
+            43.1653058
+          ],
+          [
+            131.9060516,
+            43.1653866
+          ],
+          [
+            131.906965,
+            43.1657797
+          ],
+          [
+            131.9080363,
+            43.1661642
+          ],
+          [
+            131.909127,
+            43.1664017
+          ],
+          [
+            131.9094594,
+            43.166472
+          ],
+          [
+            131.9099051,
+            43.1665535
+          ],
+          [
+            131.9110305,
+            43.1667196
+          ],
+          [
+            131.9112103,
+            43.166746
+          ],
+          [
+            131.9125059,
+            43.1670412
+          ],
+          [
+            131.9131223,
+            43.1671891
+          ],
+          [
+            131.9140901,
+            43.1674296
+          ],
+          [
+            131.9143508,
+            43.1674929
+          ],
+          [
+            131.9147621,
+            43.1675968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27612522",
+      "properties": {
+        "@id": "way/27612522",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9160812,
+            43.1679568
+          ],
+          [
+            131.9152688,
+            43.1678695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47971176",
+      "properties": {
+        "@id": "way/47971176",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9147621,
+            43.1675968
+          ],
+          [
+            131.9152175,
+            43.1677252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122241981",
+      "properties": {
+        "@id": "way/122241981",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9152688,
+            43.1678695
+          ],
+          [
+            131.9148258,
+            43.1677861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122241982",
+      "properties": {
+        "@id": "way/122241982",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9152175,
+            43.1677252
+          ],
+          [
+            131.9160812,
+            43.1679568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28287873",
+      "properties": {
+        "@id": "way/28287873",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9160812,
+            43.1679568
+          ],
+          [
+            131.916645,
+            43.1680604
+          ],
+          [
+            131.9185442,
+            43.1684924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122241980",
+      "properties": {
+        "@id": "way/122241980",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9185442,
+            43.1684924
+          ],
+          [
+            131.9204064,
+            43.1688177
+          ],
+          [
+            131.9213621,
+            43.1689959
+          ],
+          [
+            131.9215843,
+            43.1690365
+          ],
+          [
+            131.922159,
+            43.1691414
+          ],
+          [
+            131.9229156,
+            43.1692508
+          ],
+          [
+            131.922961,
+            43.1692574
+          ],
+          [
+            131.9236375,
+            43.1692475
+          ],
+          [
+            131.9246106,
+            43.1692218
+          ],
+          [
+            131.9246862,
+            43.1692198
+          ],
+          [
+            131.9255756,
+            43.1691883
+          ],
+          [
+            131.9260038,
+            43.1691732
+          ],
+          [
+            131.9262473,
+            43.1691609
+          ],
+          [
+            131.9266713,
+            43.1691458
+          ],
+          [
+            131.9272798,
+            43.1691228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28288107",
+      "properties": {
+        "@id": "way/28288107",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9325639,
+            43.1688719
+          ],
+          [
+            131.9326284,
+            43.1688103
+          ],
+          [
+            131.9327012,
+            43.1687404
+          ],
+          [
+            131.9328896,
+            43.1686399
+          ],
+          [
+            131.9330429,
+            43.1686286
+          ],
+          [
+            131.933139,
+            43.1686215
+          ],
+          [
+            131.9333192,
+            43.1686966
+          ],
+          [
+            131.933499,
+            43.1688215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28288186",
+      "properties": {
+        "@id": "way/28288186",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.932203,
+            43.169003
+          ],
+          [
+            131.9324176,
+            43.1689529
+          ],
+          [
+            131.9325639,
+            43.1688719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/28288195",
+      "properties": {
+        "@id": "way/28288195",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9325463,
+            43.1691971
+          ],
+          [
+            131.9323832,
+            43.1690781
+          ],
+          [
+            131.932203,
+            43.169003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122241976",
+      "properties": {
+        "@id": "way/122241976",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9330961,
+            43.1694854
+          ],
+          [
+            131.932933,
+            43.1694791
+          ],
+          [
+            131.9327871,
+            43.1694165
+          ],
+          [
+            131.9326579,
+            43.169316
+          ],
+          [
+            131.9325463,
+            43.1691971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122241977",
+      "properties": {
+        "@id": "way/122241977",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.933499,
+            43.1688215
+          ],
+          [
+            131.9335505,
+            43.1690218
+          ],
+          [
+            131.9335162,
+            43.1692096
+          ],
+          [
+            131.9333703,
+            43.1693598
+          ],
+          [
+            131.9332591,
+            43.169429
+          ],
+          [
+            131.9330961,
+            43.1694854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23824717",
+      "properties": {
+        "@id": "way/23824717",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9402362,
+            43.175176
+          ],
+          [
+            131.9397441,
+            43.1748482
+          ],
+          [
+            131.9381983,
+            43.1738877
+          ],
+          [
+            131.9373361,
+            43.1733541
+          ],
+          [
+            131.937281,
+            43.1733186
+          ],
+          [
+            131.9367118,
+            43.1729517
+          ],
+          [
+            131.9365802,
+            43.1728475
+          ],
+          [
+            131.9357795,
+            43.1722401
+          ],
+          [
+            131.9348075,
+            43.1714964
+          ],
+          [
+            131.9339711,
+            43.1708371
+          ],
+          [
+            131.9335763,
+            43.1704866
+          ],
+          [
+            131.933345,
+            43.1701802
+          ],
+          [
+            131.9332334,
+            43.1700112
+          ],
+          [
+            131.9331729,
+            43.1698606
+          ],
+          [
+            131.9331046,
+            43.1696669
+          ],
+          [
+            131.9330961,
+            43.1694854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30447121",
+      "properties": {
+        "@id": "way/30447121",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9272798,
+            43.1691228
+          ],
+          [
+            131.9275748,
+            43.1700198
+          ],
+          [
+            131.9277018,
+            43.170566
+          ],
+          [
+            131.9279107,
+            43.1713003
+          ],
+          [
+            131.9281123,
+            43.1718859
+          ],
+          [
+            131.9283665,
+            43.1723805
+          ],
+          [
+            131.9286279,
+            43.1727575
+          ],
+          [
+            131.9288102,
+            43.1730274
+          ],
+          [
+            131.9293743,
+            43.1736334
+          ],
+          [
+            131.9295225,
+            43.1737769
+          ],
+          [
+            131.9300047,
+            43.1742567
+          ],
+          [
+            131.9302917,
+            43.1745764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122241984",
+      "properties": {
+        "@id": "way/122241984",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9272798,
+            43.1691228
+          ],
+          [
+            131.9290983,
+            43.1690666
+          ],
+          [
+            131.9314522,
+            43.1690189
+          ],
+          [
+            131.9320844,
+            43.1690055
+          ],
+          [
+            131.932203,
+            43.169003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122242142",
+      "properties": {
+        "@id": "way/122242142",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9302917,
+            43.1745764
+          ],
+          [
+            131.9303373,
+            43.174633
+          ],
+          [
+            131.9306403,
+            43.1750297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122242145",
+      "properties": {
+        "@id": "way/122242145",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9302917,
+            43.1745764
+          ],
+          [
+            131.9312181,
+            43.1744005
+          ],
+          [
+            131.9312907,
+            43.1749674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40944954",
+      "properties": {
+        "@id": "way/40944954",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9306403,
+            43.1750297
+          ],
+          [
+            131.930731,
+            43.1750151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/203861407",
+      "properties": {
+        "@id": "way/203861407",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.930731,
+            43.1750151
+          ],
+          [
+            131.9312907,
+            43.1749674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122241985",
+      "properties": {
+        "@id": "way/122241985",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9402362,
+            43.175176
+          ],
+          [
+            131.9406813,
+            43.1753301
+          ],
+          [
+            131.9408038,
+            43.1755104
+          ],
+          [
+            131.9407411,
+            43.1756194
+          ],
+          [
+            131.9407101,
+            43.1756733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122241987",
+      "properties": {
+        "@id": "way/122241987",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.9407101,
+            43.1756733
+          ],
+          [
+            131.9405468,
+            43.175682
+          ],
+          [
+            131.9404052,
+            43.175584
+          ],
+          [
+            131.9403115,
+            43.1753374
+          ],
+          [
+            131.9402362,
+            43.175176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1366587626",
+      "properties": {
+        "@id": "node/1366587626",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9050031,
+          43.1652644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1880342981",
+      "properties": {
+        "@id": "node/1880342981",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9061147,
+          43.1652743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599901164",
+      "properties": {
+        "@id": "node/599901164",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9136651,
+          43.1676893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1037138729",
+      "properties": {
+        "@id": "node/1037138729",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9167427,
+          43.1680629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/599901160",
+      "properties": {
+        "@id": "node/599901160",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9320844,
+          43.1690055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1366589881",
+      "properties": {
+        "@id": "node/1366589881",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1670983,
+            "reltags": {
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1670984,
+            "reltags": {
+              "name": "Троллейбус 11: Больница - Автовокзал",
+              "ref": "11",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9314034,
+          43.1747183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/261715277",
+      "properties": {
+        "@id": "node/261715277",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9402177,
+          43.1750831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1948998371",
+      "properties": {
+        "@id": "node/1948998371",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1670979,
+            "reltags": {
+              "name": "Троллейбус 5: Автовокзал - Завод \"Варяг\"",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9376406,
+          43.173459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1948998372",
+      "properties": {
+        "@id": "node/1948998372",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1670978,
+            "reltags": {
+              "name": "Троллейбус 5: Завод \"Варяг\" - Автовокзал",
+              "ref": "5",
+              "route": "trolleybus",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9377945,
+          43.1737637
+        ]
+      }
+    }
+  ]
+}
