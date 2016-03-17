@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-31T09:37:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/369106290",
+      "properties": {
+        "@id": "way/369106290",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2728629,
+            "reltags": {
+              "name": "כרמלית",
+              "name:en": "Carmelit",
+              "name:he": "כרמלית",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9950428,
+            32.8126212
+          ],
+          [
+            34.9919063,
+            32.8096161
+          ],
+          [
+            34.9911114,
+            32.8081915
+          ],
+          [
+            34.9903924,
+            32.8074034
+          ],
+          [
+            34.9879087,
+            32.8046778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48525370",
+      "properties": {
+        "@id": "way/48525370",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2728629,
+            "reltags": {
+              "name": "כרמלית",
+              "name:en": "Carmelit",
+              "name:he": "כרמלית",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9997313,
+            32.8174901
+          ],
+          [
+            34.9950428,
+            32.8126212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/615947115",
+      "properties": {
+        "@id": "node/615947115",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2728629,
+            "reltags": {
+              "name": "כרמלית",
+              "name:en": "Carmelit",
+              "name:he": "כרמלית",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9879087,
+          32.8046778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/616484212",
+      "properties": {
+        "@id": "node/616484212",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2728629,
+            "reltags": {
+              "name": "כרמלית",
+              "name:en": "Carmelit",
+              "name:he": "כרמלית",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9919063,
+          32.8096161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/616484913",
+      "properties": {
+        "@id": "node/616484913",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2728629,
+            "reltags": {
+              "name": "כרמלית",
+              "name:en": "Carmelit",
+              "name:he": "כרמלית",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9903924,
+          32.8074034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3729320319",
+      "properties": {
+        "@id": "node/3729320319",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2728629,
+            "reltags": {
+              "name": "כרמלית",
+              "name:en": "Carmelit",
+              "name:he": "כרמלית",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9950428,
+          32.8126212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/616484210",
+      "properties": {
+        "@id": "node/616484210",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2728629,
+            "reltags": {
+              "name": "כרמלית",
+              "name:en": "Carmelit",
+              "name:he": "כרמלית",
+              "route": "subway",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9997313,
+          32.8174901
+        ]
+      }
+    }
+  ]
+}
