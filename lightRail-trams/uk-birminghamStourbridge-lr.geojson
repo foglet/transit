@@ -1,0 +1,456 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-12T10:06:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/27944095",
+      "properties": {
+        "@id": "way/27944095",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2773296,
+            "reltags": {
+              "from": "Stourbridge Junction",
+              "operator": "London Midland",
+              "ref": "72 (LM)",
+              "route": "light_rail",
+              "to": "Stourbridge Town",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.1345205,
+            52.4491914
+          ],
+          [
+            -2.1348845,
+            52.4498921
+          ],
+          [
+            -2.1351643,
+            52.4502576
+          ],
+          [
+            -2.1353904,
+            52.4504667
+          ],
+          [
+            -2.1355597,
+            52.4505955
+          ],
+          [
+            -2.1359198,
+            52.4508186
+          ],
+          [
+            -2.1363434,
+            52.4510151
+          ],
+          [
+            -2.1375337,
+            52.4513877
+          ],
+          [
+            -2.1380508,
+            52.4515985
+          ],
+          [
+            -2.1382766,
+            52.4517106
+          ],
+          [
+            -2.1384765,
+            52.4518225
+          ],
+          [
+            -2.1391564,
+            52.4524648
+          ],
+          [
+            -2.1397326,
+            52.4531284
+          ],
+          [
+            -2.1399342,
+            52.4533639
+          ],
+          [
+            -2.1407975,
+            52.4542604
+          ],
+          [
+            -2.1413182,
+            52.4548629
+          ],
+          [
+            -2.1415379,
+            52.4551963
+          ],
+          [
+            -2.1416545,
+            52.4553616
+          ],
+          [
+            -2.1418041,
+            52.4555044
+          ],
+          [
+            -2.1419647,
+            52.4556424
+          ],
+          [
+            -2.142011,
+            52.4556837
+          ],
+          [
+            -2.1421555,
+            52.4558143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27944096",
+      "properties": {
+        "@id": "way/27944096",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2773296,
+            "reltags": {
+              "from": "Stourbridge Junction",
+              "operator": "London Midland",
+              "ref": "72 (LM)",
+              "route": "light_rail",
+              "to": "Stourbridge Town",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.1344742,
+            52.4490885
+          ],
+          [
+            -2.1345205,
+            52.4491914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184353041",
+      "properties": {
+        "@id": "way/184353041",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2773296,
+            "reltags": {
+              "from": "Stourbridge Junction",
+              "operator": "London Midland",
+              "ref": "72 (LM)",
+              "route": "light_rail",
+              "to": "Stourbridge Town",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.1342244,
+            52.4481617
+          ],
+          [
+            -2.1342351,
+            52.4480521
+          ],
+          [
+            -2.1342462,
+            52.4478507
+          ],
+          [
+            -2.1342579,
+            52.4477007
+          ],
+          [
+            -2.134282,
+            52.4472944
+          ],
+          [
+            -2.1342849,
+            52.447222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206359159",
+      "properties": {
+        "@id": "way/206359159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2773296,
+            "reltags": {
+              "from": "Stourbridge Junction",
+              "operator": "London Midland",
+              "ref": "72 (LM)",
+              "route": "light_rail",
+              "to": "Stourbridge Town",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.1342244,
+            52.4481617
+          ],
+          [
+            -2.134234,
+            52.4483201
+          ],
+          [
+            -2.1342541,
+            52.4484509
+          ],
+          [
+            -2.1342889,
+            52.4485743
+          ],
+          [
+            -2.1343319,
+            52.4486937
+          ],
+          [
+            -2.134388,
+            52.4488188
+          ],
+          [
+            -2.1344742,
+            52.4490885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24269209",
+      "properties": {
+        "@id": "way/24269209",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 164916,
+            "reltags": {
+              "name": "Air-Rail",
+              "note": "designation as light_rail is for rendering purpose only in opnvkarte.de",
+              "route": "light_rail",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7325907,
+            52.4530118
+          ],
+          [
+            -1.7320843,
+            52.4532145
+          ],
+          [
+            -1.7319154,
+            52.4532448
+          ],
+          [
+            -1.7317513,
+            52.4532519
+          ],
+          [
+            -1.7314584,
+            52.4532339
+          ],
+          [
+            -1.7310846,
+            52.4531193
+          ],
+          [
+            -1.7306498,
+            52.4528989
+          ],
+          [
+            -1.7302259,
+            52.4526568
+          ],
+          [
+            -1.7297796,
+            52.4524162
+          ],
+          [
+            -1.7293976,
+            52.4521925
+          ],
+          [
+            -1.7290158,
+            52.4519689
+          ],
+          [
+            -1.7287398,
+            52.451785
+          ],
+          [
+            -1.7285188,
+            52.4516275
+          ],
+          [
+            -1.7281942,
+            52.4513633
+          ],
+          [
+            -1.7278869,
+            52.4511173
+          ],
+          [
+            -1.727636,
+            52.450919
+          ],
+          [
+            -1.7274205,
+            52.450747
+          ],
+          [
+            -1.727284,
+            52.4506461
+          ],
+          [
+            -1.7271985,
+            52.4505621
+          ],
+          [
+            -1.7270188,
+            52.4504608
+          ],
+          [
+            -1.7268992,
+            52.4504143
+          ],
+          [
+            -1.7267774,
+            52.4503921
+          ],
+          [
+            -1.7266701,
+            52.450384
+          ],
+          [
+            -1.7265227,
+            52.4503915
+          ],
+          [
+            -1.7263482,
+            52.4504248
+          ],
+          [
+            -1.7262168,
+            52.4504494
+          ],
+          [
+            -1.7260451,
+            52.4504935
+          ],
+          [
+            -1.725903,
+            52.4505507
+          ],
+          [
+            -1.7258037,
+            52.4506046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21281267",
+      "properties": {
+        "@id": "node/21281267",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2773296,
+            "reltags": {
+              "from": "Stourbridge Junction",
+              "operator": "London Midland",
+              "ref": "72 (LM)",
+              "route": "light_rail",
+              "to": "Stourbridge Town",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1419647,
+          52.4556424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1172981509",
+      "properties": {
+        "@id": "node/1172981509",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2773296,
+            "reltags": {
+              "from": "Stourbridge Junction",
+              "operator": "London Midland",
+              "ref": "72 (LM)",
+              "route": "light_rail",
+              "to": "Stourbridge Town",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1342462,
+          52.4478507
+        ]
+      }
+    }
+  ]
+}
