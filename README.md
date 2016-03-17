@@ -1,3 +1,3 @@
 # transit
 
-Transit routes from around the world.
+This repository contains transit routes from world cities.
