@@ -1,0 +1,720 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-11T21:26:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/165297872",
+      "properties": {
+        "@id": "way/165297872",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3316037,
+            60.3961777
+          ],
+          [
+            5.3318637,
+            60.396106
+          ],
+          [
+            5.3327311,
+            60.3958859
+          ],
+          [
+            5.3331689,
+            60.3957817
+          ],
+          [
+            5.333511,
+            60.3957065
+          ],
+          [
+            5.3339079,
+            60.3956264
+          ],
+          [
+            5.3343471,
+            60.3955561
+          ],
+          [
+            5.3346348,
+            60.395519
+          ],
+          [
+            5.3348446,
+            60.395497
+          ],
+          [
+            5.3352549,
+            60.3954716
+          ],
+          [
+            5.3357565,
+            60.3954332
+          ],
+          [
+            5.3361628,
+            60.3954069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/3498300",
+      "properties": {
+        "@id": "way/3498300",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3294846,
+            60.3966125
+          ],
+          [
+            5.3310374,
+            60.3963144
+          ],
+          [
+            5.3316037,
+            60.3961777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/3631382",
+      "properties": {
+        "@id": "way/3631382",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3285775,
+            60.3964216
+          ],
+          [
+            5.3294846,
+            60.3966125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297871",
+      "properties": {
+        "@id": "way/165297871",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3284594,
+            60.3964258
+          ],
+          [
+            5.3285223,
+            60.3963915
+          ],
+          [
+            5.3285828,
+            60.3963586
+          ],
+          [
+            5.3286666,
+            60.3963961
+          ],
+          [
+            5.3285433,
+            60.3964633
+          ],
+          [
+            5.3284594,
+            60.3964258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297874",
+      "properties": {
+        "@id": "way/165297874",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3426348,
+            60.3948205
+          ],
+          [
+            5.3426833,
+            60.3948316
+          ],
+          [
+            5.3427624,
+            60.3948571
+          ],
+          [
+            5.3427677,
+            60.3948508
+          ],
+          [
+            5.3427282,
+            60.3946878
+          ],
+          [
+            5.3427087,
+            60.3946895
+          ],
+          [
+            5.3426464,
+            60.3947362
+          ],
+          [
+            5.3426103,
+            60.3947507
+          ],
+          [
+            5.3424938,
+            60.3947607
+          ],
+          [
+            5.3425183,
+            60.3948305
+          ],
+          [
+            5.3426348,
+            60.3948205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297878",
+      "properties": {
+        "@id": "way/165297878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3375971,
+            60.3953343
+          ],
+          [
+            5.3379458,
+            60.3953066
+          ],
+          [
+            5.3386815,
+            60.3952217
+          ],
+          [
+            5.3391943,
+            60.3951638
+          ],
+          [
+            5.3398965,
+            60.3950743
+          ],
+          [
+            5.3406921,
+            60.3949655
+          ],
+          [
+            5.3417887,
+            60.3948608
+          ],
+          [
+            5.3421777,
+            60.3948223
+          ],
+          [
+            5.3425076,
+            60.3948011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297870",
+      "properties": {
+        "@id": "way/165297870",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3361937,
+            60.3953895
+          ],
+          [
+            5.3366657,
+            60.3953871
+          ],
+          [
+            5.33746,
+            60.3953467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297873",
+      "properties": {
+        "@id": "way/165297873",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3361628,
+            60.3954069
+          ],
+          [
+            5.3366657,
+            60.3953871
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297876",
+      "properties": {
+        "@id": "way/165297876",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.3348446,
+            60.395497
+          ],
+          [
+            5.3353784,
+            60.3954411
+          ],
+          [
+            5.3356568,
+            60.395414
+          ],
+          [
+            5.3358772,
+            60.3953987
+          ],
+          [
+            5.3361937,
+            60.3953895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165297877",
+      "properties": {
+        "@id": "way/165297877",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.33746,
+            60.3953467
+          ],
+          [
+            5.3375971,
+            60.3953343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/17345554",
+      "properties": {
+        "@id": "node/17345554",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3294846,
+          60.3966125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/17345555",
+      "properties": {
+        "@id": "node/17345555",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3318637,
+          60.396106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/17980710",
+      "properties": {
+        "@id": "node/17980710",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3285775,
+          60.3964216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282983736",
+      "properties": {
+        "@id": "node/282983736",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3343471,
+          60.3955561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282983738",
+      "properties": {
+        "@id": "node/282983738",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3375971,
+          60.3953343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768574459",
+      "properties": {
+        "@id": "node/1768574459",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5559352,
+            "reltags": {
+              "fixme": "Not completely public_transport:version=2 compliant. Needs alternate directions and a master relation",
+              "name": "Fløibanen",
+              "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 08:00-23:00",
+              "operator": "Fløibanen AS",
+              "public_transport:version": "2",
+              "route": "tram",
+              "tourism": "attraction",
+              "type": "route",
+              "website": "http://floyen.no/floibanen/",
+              "wheelchair": "yes"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3425076,
+          60.3948011
+        ]
+      }
+    }
+  ]
+}
