@@ -1,0 +1,2532 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-03-03T22:24:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/96840570",
+      "properties": {
+        "@id": "way/96840570",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5421712,
+            49.0116651
+          ],
+          [
+            2.5422194,
+            49.0112076
+          ],
+          [
+            2.542257,
+            49.0108347
+          ],
+          [
+            2.5422677,
+            49.0100078
+          ],
+          [
+            2.5422731,
+            49.0098143
+          ],
+          [
+            2.5423053,
+            49.009663
+          ],
+          [
+            2.5423549,
+            49.0095293
+          ],
+          [
+            2.5424407,
+            49.009392
+          ],
+          [
+            2.5425467,
+            49.0092829
+          ],
+          [
+            2.5427398,
+            49.0091387
+          ],
+          [
+            2.5428377,
+            49.0090753
+          ],
+          [
+            2.5430952,
+            49.0089733
+          ],
+          [
+            2.5433258,
+            49.0089276
+          ],
+          [
+            2.5435391,
+            49.0089031
+          ],
+          [
+            2.5438556,
+            49.0089031
+          ],
+          [
+            2.5448027,
+            49.0089524
+          ],
+          [
+            2.5461837,
+            49.0090192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96840575",
+      "properties": {
+        "@id": "way/96840575",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5461743,
+            49.0090481
+          ],
+          [
+            2.5447882,
+            49.0089821
+          ],
+          [
+            2.5438612,
+            49.0089323
+          ],
+          [
+            2.5435908,
+            49.0089355
+          ],
+          [
+            2.5433435,
+            49.0089622
+          ],
+          [
+            2.5430973,
+            49.0090145
+          ],
+          [
+            2.5428747,
+            49.0091045
+          ],
+          [
+            2.5427682,
+            49.0091642
+          ],
+          [
+            2.5426062,
+            49.0092893
+          ],
+          [
+            2.5424826,
+            49.0094244
+          ],
+          [
+            2.5423906,
+            49.009579
+          ],
+          [
+            2.5423393,
+            49.0097495
+          ],
+          [
+            2.5423248,
+            49.0100349
+          ],
+          [
+            2.5423079,
+            49.0109188
+          ],
+          [
+            2.5422682,
+            49.0113093
+          ],
+          [
+            2.5422336,
+            49.0116638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96840564",
+      "properties": {
+        "@id": "way/96840564",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5560492,
+            49.0098248
+          ],
+          [
+            2.554449,
+            49.00967
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96840565",
+      "properties": {
+        "@id": "way/96840565",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5494681,
+            49.0092657
+          ],
+          [
+            2.5492389,
+            49.0092486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853132",
+      "properties": {
+        "@id": "way/177853132",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5544578,
+            49.0096357
+          ],
+          [
+            2.5560488,
+            49.0097844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853156",
+      "properties": {
+        "@id": "way/177853156",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5492519,
+            49.009211
+          ],
+          [
+            2.5494719,
+            49.0092258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96840562",
+      "properties": {
+        "@id": "way/96840562",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5470225,
+            49.0090979
+          ],
+          [
+            2.5461743,
+            49.0090481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96840567",
+      "properties": {
+        "@id": "way/96840567",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5492389,
+            49.0092486
+          ],
+          [
+            2.548389,
+            49.0091888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96840573",
+      "properties": {
+        "@id": "way/96840573",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5483955,
+            49.0091559
+          ],
+          [
+            2.5492519,
+            49.009211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853138",
+      "properties": {
+        "@id": "way/177853138",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5461837,
+            49.0090192
+          ],
+          [
+            2.5470099,
+            49.0090648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853144",
+      "properties": {
+        "@id": "way/177853144",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.548389,
+            49.0091888
+          ],
+          [
+            2.5470225,
+            49.0090979
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853163",
+      "properties": {
+        "@id": "way/177853163",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5470099,
+            49.0090648
+          ],
+          [
+            2.5483955,
+            49.0091559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96840571",
+      "properties": {
+        "@id": "way/96840571",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5533828,
+            49.0095474
+          ],
+          [
+            2.5544578,
+            49.0096357
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853134",
+      "properties": {
+        "@id": "way/177853134",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.554449,
+            49.00967
+          ],
+          [
+            2.553382,
+            49.0095801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853142",
+      "properties": {
+        "@id": "way/177853142",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.553382,
+            49.0095801
+          ],
+          [
+            2.5514336,
+            49.0094138
+          ],
+          [
+            2.5494681,
+            49.0092657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853150",
+      "properties": {
+        "@id": "way/177853150",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5494719,
+            49.0092258
+          ],
+          [
+            2.5514216,
+            49.009375
+          ],
+          [
+            2.5533828,
+            49.0095474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96840813",
+      "properties": {
+        "@id": "way/96840813",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5682811,
+            49.0113836
+          ],
+          [
+            2.5679764,
+            49.0113661
+          ],
+          [
+            2.5676787,
+            49.0113309
+          ],
+          [
+            2.5674158,
+            49.0112376
+          ],
+          [
+            2.5672281,
+            49.0111127
+          ],
+          [
+            2.5668848,
+            49.0106378
+          ],
+          [
+            2.5665404,
+            49.010452
+          ],
+          [
+            2.566034,
+            49.0103547
+          ],
+          [
+            2.5642454,
+            49.0101826
+          ],
+          [
+            2.5638222,
+            49.0101419
+          ],
+          [
+            2.5625634,
+            49.0100796
+          ],
+          [
+            2.5613782,
+            49.0099737
+          ],
+          [
+            2.559775,
+            49.0098217
+          ],
+          [
+            2.5590801,
+            49.0098014
+          ],
+          [
+            2.5577146,
+            49.0099036
+          ],
+          [
+            2.5569509,
+            49.0099084
+          ],
+          [
+            2.5562635,
+            49.0098456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853136",
+      "properties": {
+        "@id": "way/177853136",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5562755,
+            49.0098072
+          ],
+          [
+            2.5568911,
+            49.009867
+          ],
+          [
+            2.5576896,
+            49.0098609
+          ],
+          [
+            2.5592096,
+            49.00974
+          ],
+          [
+            2.5598719,
+            49.0097339
+          ],
+          [
+            2.5613951,
+            49.0098755
+          ],
+          [
+            2.5638236,
+            49.0100941
+          ],
+          [
+            2.5660498,
+            49.0103106
+          ],
+          [
+            2.5665916,
+            49.0104073
+          ],
+          [
+            2.566932,
+            49.0105912
+          ],
+          [
+            2.5670685,
+            49.0107608
+          ],
+          [
+            2.5672714,
+            49.0110774
+          ],
+          [
+            2.5674819,
+            49.0112159
+          ],
+          [
+            2.567706,
+            49.0112944
+          ],
+          [
+            2.5679627,
+            49.0113292
+          ],
+          [
+            2.5682886,
+            49.0113482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853169",
+      "properties": {
+        "@id": "way/177853169",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5682886,
+            49.0113482
+          ],
+          [
+            2.5692218,
+            49.0114073
+          ],
+          [
+            2.5694809,
+            49.0113906
+          ],
+          [
+            2.569715,
+            49.0113433
+          ],
+          [
+            2.5699317,
+            49.0112683
+          ],
+          [
+            2.5701112,
+            49.0111818
+          ],
+          [
+            2.5702622,
+            49.011078
+          ],
+          [
+            2.5703805,
+            49.0109745
+          ],
+          [
+            2.5704658,
+            49.0108614
+          ],
+          [
+            2.5705293,
+            49.0107214
+          ],
+          [
+            2.570557,
+            49.0105843
+          ],
+          [
+            2.5706404,
+            49.0097944
+          ],
+          [
+            2.5707799,
+            49.0087369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96840563",
+      "properties": {
+        "@id": "way/96840563",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5562635,
+            49.0098456
+          ],
+          [
+            2.5560492,
+            49.0098248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853157",
+      "properties": {
+        "@id": "way/177853157",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5560488,
+            49.0097844
+          ],
+          [
+            2.5562755,
+            49.0098072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96839562",
+      "properties": {
+        "@id": "way/96839562",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5418599,
+            49.0135053
+          ],
+          [
+            2.5419036,
+            49.0132583
+          ],
+          [
+            2.5419563,
+            49.0129608
+          ],
+          [
+            2.5420369,
+            49.0126947
+          ],
+          [
+            2.5420644,
+            49.012485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96839565",
+      "properties": {
+        "@id": "way/96839565",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5422336,
+            49.0116638
+          ],
+          [
+            2.5421663,
+            49.0121483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853131",
+      "properties": {
+        "@id": "way/177853131",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5421663,
+            49.0121483
+          ],
+          [
+            2.5421428,
+            49.0122986
+          ],
+          [
+            2.542112,
+            49.0124953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853133",
+      "properties": {
+        "@id": "way/177853133",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5421428,
+            49.0122986
+          ],
+          [
+            2.5421013,
+            49.0123952
+          ],
+          [
+            2.5420644,
+            49.012485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853135",
+      "properties": {
+        "@id": "way/177853135",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.542112,
+            49.0124953
+          ],
+          [
+            2.5421013,
+            49.0123952
+          ],
+          [
+            2.5420892,
+            49.012295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853160",
+      "properties": {
+        "@id": "way/177853160",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.542112,
+            49.0124953
+          ],
+          [
+            2.5420818,
+            49.0126875
+          ],
+          [
+            2.5420943,
+            49.0129622
+          ],
+          [
+            2.5420903,
+            49.0132617
+          ],
+          [
+            2.5420617,
+            49.0135124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853161",
+      "properties": {
+        "@id": "way/177853161",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5420644,
+            49.012485
+          ],
+          [
+            2.5420892,
+            49.012295
+          ],
+          [
+            2.5421081,
+            49.0121506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853167",
+      "properties": {
+        "@id": "way/177853167",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5421081,
+            49.0121506
+          ],
+          [
+            2.5421712,
+            49.0116651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853146",
+      "properties": {
+        "@id": "way/177853146",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5684616,
+            49.0113929
+          ],
+          [
+            2.5682811,
+            49.0113836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/246104377",
+      "properties": {
+        "@id": "way/246104377",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5692424,
+            49.0114422
+          ],
+          [
+            2.5684616,
+            49.0113929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87854515",
+      "properties": {
+        "@id": "way/87854515",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5776558,
+            49.0026937
+          ],
+          [
+            2.5787817,
+            49.0028067
+          ],
+          [
+            2.578969,
+            49.002823
+          ],
+          [
+            2.5790945,
+            49.0028468
+          ],
+          [
+            2.5793515,
+            49.0029172
+          ],
+          [
+            2.5796523,
+            49.0030211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87854521",
+      "properties": {
+        "@id": "way/87854521",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5776409,
+            49.0028963
+          ],
+          [
+            2.5788472,
+            49.0029508
+          ],
+          [
+            2.5790261,
+            49.0029641
+          ],
+          [
+            2.5792191,
+            49.0030011
+          ],
+          [
+            2.5795692,
+            49.0031106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152634631",
+      "properties": {
+        "@id": "way/152634631",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5795692,
+            49.0031106
+          ],
+          [
+            2.5798025,
+            49.0031307
+          ],
+          [
+            2.580047,
+            49.0031507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152634725",
+      "properties": {
+        "@id": "way/152634725",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5799939,
+            49.0032585
+          ],
+          [
+            2.5798025,
+            49.0031307
+          ],
+          [
+            2.5796523,
+            49.0030211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31884117",
+      "properties": {
+        "@id": "way/31884117",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5715062,
+            49.0049408
+          ],
+          [
+            2.5715294,
+            49.004744
+          ],
+          [
+            2.571553,
+            49.0045475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853164",
+      "properties": {
+        "@id": "way/177853164",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5708287,
+            49.0087419
+          ],
+          [
+            2.5706834,
+            49.0097929
+          ],
+          [
+            2.5706567,
+            49.0100659
+          ],
+          [
+            2.5705988,
+            49.0105768
+          ],
+          [
+            2.5705776,
+            49.0107282
+          ],
+          [
+            2.5705387,
+            49.0108503
+          ],
+          [
+            2.5704494,
+            49.0109779
+          ],
+          [
+            2.5703435,
+            49.0110757
+          ],
+          [
+            2.5702,
+            49.0111725
+          ],
+          [
+            2.5699854,
+            49.0112815
+          ],
+          [
+            2.569744,
+            49.0113695
+          ],
+          [
+            2.5694881,
+            49.0114223
+          ],
+          [
+            2.5692424,
+            49.0114422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/246104375",
+      "properties": {
+        "@id": "way/246104375",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5843345,
+            49.004369
+          ],
+          [
+            2.5838348,
+            49.0043084
+          ],
+          [
+            2.5833965,
+            49.0042395
+          ],
+          [
+            2.5829585,
+            49.0041576
+          ],
+          [
+            2.5825978,
+            49.0040736
+          ],
+          [
+            2.5822472,
+            49.0039831
+          ],
+          [
+            2.5818718,
+            49.0038737
+          ],
+          [
+            2.5814503,
+            49.0037354
+          ],
+          [
+            2.5807965,
+            49.0035199
+          ],
+          [
+            2.5799939,
+            49.0032585
+          ],
+          [
+            2.5795692,
+            49.0031106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/246104376",
+      "properties": {
+        "@id": "way/246104376",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5796523,
+            49.0030211
+          ],
+          [
+            2.580047,
+            49.0031507
+          ],
+          [
+            2.5809237,
+            49.0034461
+          ],
+          [
+            2.5815618,
+            49.0036463
+          ],
+          [
+            2.5819598,
+            49.00377
+          ],
+          [
+            2.5822945,
+            49.0038629
+          ],
+          [
+            2.5826686,
+            49.0039494
+          ],
+          [
+            2.5830575,
+            49.0040333
+          ],
+          [
+            2.5834641,
+            49.004109
+          ],
+          [
+            2.5839028,
+            49.0041798
+          ],
+          [
+            2.584352,
+            49.0042265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96840817",
+      "properties": {
+        "@id": "way/96840817",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5707799,
+            49.0087369
+          ],
+          [
+            2.5708421,
+            49.0084187
+          ],
+          [
+            2.5710851,
+            49.007756
+          ],
+          [
+            2.5712085,
+            49.0072457
+          ],
+          [
+            2.571462,
+            49.005686
+          ],
+          [
+            2.5714947,
+            49.005485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853141",
+      "properties": {
+        "@id": "way/177853141",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5714947,
+            49.005485
+          ],
+          [
+            2.5715082,
+            49.0055897
+          ],
+          [
+            2.5715211,
+            49.0056902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853155",
+      "properties": {
+        "@id": "way/177853155",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5717389,
+            49.0045625
+          ],
+          [
+            2.5717088,
+            49.0047515
+          ],
+          [
+            2.5716808,
+            49.0049515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853159",
+      "properties": {
+        "@id": "way/177853159",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.571462,
+            49.005686
+          ],
+          [
+            2.5715082,
+            49.0055897
+          ],
+          [
+            2.5715539,
+            49.0054825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853162",
+      "properties": {
+        "@id": "way/177853162",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5716808,
+            49.0049515
+          ],
+          [
+            2.5716449,
+            49.0051708
+          ],
+          [
+            2.5715539,
+            49.0054825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853165",
+      "properties": {
+        "@id": "way/177853165",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5715539,
+            49.0054825
+          ],
+          [
+            2.5715211,
+            49.0056902
+          ],
+          [
+            2.5712769,
+            49.0072371
+          ],
+          [
+            2.5711285,
+            49.0077815
+          ],
+          [
+            2.5708976,
+            49.0084318
+          ],
+          [
+            2.5708287,
+            49.0087419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177853166",
+      "properties": {
+        "@id": "way/177853166",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3324677,
+            "reltags": {
+              "name": "CDGVAL Ligne 1",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 1",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5714947,
+            49.005485
+          ],
+          [
+            2.5714847,
+            49.0051643
+          ],
+          [
+            2.5715062,
+            49.0049408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152472784",
+      "properties": {
+        "@id": "way/152472784",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5854796,
+            49.0044618
+          ],
+          [
+            2.5849186,
+            49.0044222
+          ],
+          [
+            2.5843345,
+            49.004369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152472793",
+      "properties": {
+        "@id": "way/152472793",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.584352,
+            49.0042265
+          ],
+          [
+            2.5847682,
+            49.0042632
+          ],
+          [
+            2.585179,
+            49.0042962
+          ],
+          [
+            2.5855021,
+            49.0043147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152472803",
+      "properties": {
+        "@id": "way/152472803",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5855021,
+            49.0043147
+          ],
+          [
+            2.5862842,
+            49.0043477
+          ],
+          [
+            2.586885,
+            49.0043742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152472805",
+      "properties": {
+        "@id": "way/152472805",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5868597,
+            49.0045402
+          ],
+          [
+            2.5858048,
+            49.0044796
+          ],
+          [
+            2.5854796,
+            49.0044618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152634728",
+      "properties": {
+        "@id": "way/152634728",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5877043,
+            49.0044085
+          ],
+          [
+            2.5882033,
+            49.0044295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152634779",
+      "properties": {
+        "@id": "way/152634779",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.586885,
+            49.0043742
+          ],
+          [
+            2.5877043,
+            49.0044085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152634774",
+      "properties": {
+        "@id": "way/152634774",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5889513,
+            49.0044693
+          ],
+          [
+            2.589249,
+            49.0044851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152634612",
+      "properties": {
+        "@id": "way/152634612",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5882033,
+            49.0044295
+          ],
+          [
+            2.5889513,
+            49.0044693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152634664",
+      "properties": {
+        "@id": "way/152634664",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5888888,
+            49.0046558
+          ],
+          [
+            2.5881097,
+            49.0046083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152634708",
+      "properties": {
+        "@id": "way/152634708",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5876851,
+            49.0045876
+          ],
+          [
+            2.5868597,
+            49.0045402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152634790",
+      "properties": {
+        "@id": "way/152634790",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.5881097,
+            49.0046083
+          ],
+          [
+            2.5876851,
+            49.0045876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152634826",
+      "properties": {
+        "@id": "way/152634826",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 3324678,
+            "reltags": {
+              "name": "CDGVAL Ligne 2",
+              "network": "CDGVAL",
+              "operator": "Aéroports de Paris",
+              "ref": "CDGVAL Ligne 2 LISA",
+              "route": "tram",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.589241,
+            49.0046751
+          ],
+          [
+            2.5888888,
+            49.0046558
+          ]
+        ]
+      }
+    }
+  ]
+}

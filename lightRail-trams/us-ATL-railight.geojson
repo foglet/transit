@@ -1,0 +1,288 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/107530937",
+      "properties": {
+        "type": "way",
+        "id": "107530937",
+        "tags": {
+          "gauge": "1435",
+          "name": "The Plane Train",
+          "railway": "light_rail",
+          "tunnel": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.4188157,
+            33.6403618
+          ],
+          [
+            -84.42107,
+            33.6403392
+          ],
+          [
+            -84.4230709,
+            33.6406474
+          ],
+          [
+            -84.4247216,
+            33.6406411
+          ],
+          [
+            -84.4255319,
+            33.640638
+          ],
+          [
+            -84.4272471,
+            33.6406506
+          ],
+          [
+            -84.4281487,
+            33.640904
+          ],
+          [
+            -84.4293135,
+            33.6409069
+          ],
+          [
+            -84.4312849,
+            33.6409027
+          ],
+          [
+            -84.4326106,
+            33.6409154
+          ],
+          [
+            -84.4335458,
+            33.6409286
+          ],
+          [
+            -84.4347463,
+            33.640708
+          ],
+          [
+            -84.4358622,
+            33.6406772
+          ],
+          [
+            -84.4367155,
+            33.640678
+          ],
+          [
+            -84.43823,
+            33.6408985
+          ],
+          [
+            -84.4391392,
+            33.640921
+          ],
+          [
+            -84.4424199,
+            33.6408186
+          ],
+          [
+            -84.4439128,
+            33.6408294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1235734748",
+      "properties": {
+        "type": "node",
+        "id": "1235734748",
+        "tags": {
+          "name": "Concourse B",
+          "railway": "station"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4358622,
+          33.6406772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1235734753",
+      "properties": {
+        "type": "node",
+        "id": "1235734753",
+        "tags": {
+          "name": "Concourse D",
+          "railway": "station"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4293135,
+          33.6409069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1235734761",
+      "properties": {
+        "type": "node",
+        "id": "1235734761",
+        "tags": {
+          "name": "Concourse F",
+          "railway": "station"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4188157,
+          33.6403618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1235734762",
+      "properties": {
+        "type": "node",
+        "id": "1235734762",
+        "tags": {
+          "name": "Domestic Baggage Claim",
+          "railway": "station"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4439128,
+          33.6408294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1235734764",
+      "properties": {
+        "type": "node",
+        "id": "1235734764",
+        "tags": {
+          "name": "Concourse E",
+          "railway": "station"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4255319,
+          33.640638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1235734766",
+      "properties": {
+        "type": "node",
+        "id": "1235734766",
+        "tags": {
+          "name": "Concourse C",
+          "railway": "station"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4326106,
+          33.6409154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1235734767",
+      "properties": {
+        "type": "node",
+        "id": "1235734767",
+        "tags": {
+          "name": "Concourse A",
+          "railway": "station"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4391392,
+          33.640921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1728250429",
+      "properties": {
+        "type": "node",
+        "id": "1728250429",
+        "tags": {
+          "name": "Concourse T",
+          "railway": "station"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4424199,
+          33.6408186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3448635980",
+      "properties": {
+        "type": "node",
+        "id": "3448635980",
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "italian",
+          "name": "Villa Pizza"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4247216,
+          33.6406411
+        ]
+      }
+    }
+  ]
+}

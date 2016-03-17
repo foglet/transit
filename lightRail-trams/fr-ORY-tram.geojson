@@ -1,0 +1,1636 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-03-03T22:19:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/201571929",
+      "properties": {
+        "@id": "way/201571929",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.370939,
+            48.720299
+          ],
+          [
+            2.371002,
+            48.719072
+          ],
+          [
+            2.371013,
+            48.718977
+          ],
+          [
+            2.371033,
+            48.718873
+          ],
+          [
+            2.371063,
+            48.718766
+          ],
+          [
+            2.371105,
+            48.718671
+          ],
+          [
+            2.371167,
+            48.718556
+          ],
+          [
+            2.371262,
+            48.718428
+          ],
+          [
+            2.371385,
+            48.718288
+          ],
+          [
+            2.371525,
+            48.718142
+          ],
+          [
+            2.371634,
+            48.718024
+          ],
+          [
+            2.371727,
+            48.717908
+          ],
+          [
+            2.371798,
+            48.717796
+          ],
+          [
+            2.371873,
+            48.717631
+          ],
+          [
+            2.3723879,
+            48.7162187
+          ],
+          [
+            2.3724131,
+            48.7161522
+          ],
+          [
+            2.3724748,
+            48.7159818
+          ],
+          [
+            2.372613,
+            48.715592
+          ],
+          [
+            2.372649,
+            48.715404
+          ],
+          [
+            2.372554,
+            48.715225
+          ],
+          [
+            2.3725129,
+            48.7151691
+          ],
+          [
+            2.3721698,
+            48.7148721
+          ],
+          [
+            2.3717566,
+            48.7145305
+          ],
+          [
+            2.371479,
+            48.714301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353959097",
+      "properties": {
+        "@id": "way/353959097",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.370787,
+            48.723045
+          ],
+          [
+            2.370939,
+            48.720299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155171075",
+      "properties": {
+        "@id": "way/155171075",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3538341,
+            48.7397831
+          ],
+          [
+            2.353703,
+            48.7398187
+          ],
+          [
+            2.3536309,
+            48.7398382
+          ],
+          [
+            2.353515,
+            48.739884
+          ],
+          [
+            2.3534317,
+            48.7399626
+          ],
+          [
+            2.3533731,
+            48.7401289
+          ],
+          [
+            2.3533103,
+            48.7402915
+          ],
+          [
+            2.3530893,
+            48.7409914
+          ],
+          [
+            2.3529283,
+            48.7414376
+          ],
+          [
+            2.3527789,
+            48.7417367
+          ],
+          [
+            2.3526558,
+            48.7419046
+          ],
+          [
+            2.3525837,
+            48.7420009
+          ],
+          [
+            2.3525225,
+            48.742097
+          ],
+          [
+            2.3525527,
+            48.74217
+          ],
+          [
+            2.352633,
+            48.7422183
+          ],
+          [
+            2.3532758,
+            48.7424566
+          ],
+          [
+            2.3533404,
+            48.7425325
+          ],
+          [
+            2.3533261,
+            48.7425879
+          ],
+          [
+            2.3518332,
+            48.7442566
+          ],
+          [
+            2.3517667,
+            48.7444267
+          ],
+          [
+            2.3517911,
+            48.7445653
+          ],
+          [
+            2.3518746,
+            48.7446781
+          ],
+          [
+            2.3520145,
+            48.7447578
+          ],
+          [
+            2.3531817,
+            48.7452123
+          ],
+          [
+            2.3532249,
+            48.745259
+          ],
+          [
+            2.3532819,
+            48.7453515
+          ],
+          [
+            2.353325,
+            48.745448
+          ],
+          [
+            2.3533558,
+            48.7455191
+          ],
+          [
+            2.3533663,
+            48.7455997
+          ],
+          [
+            2.3533789,
+            48.7457141
+          ],
+          [
+            2.3533604,
+            48.7458289
+          ],
+          [
+            2.353325,
+            48.7459539
+          ],
+          [
+            2.3532625,
+            48.7460606
+          ],
+          [
+            2.3524906,
+            48.7469629
+          ],
+          [
+            2.3523623,
+            48.7471737
+          ],
+          [
+            2.3523252,
+            48.7473523
+          ],
+          [
+            2.3524022,
+            48.7475059
+          ],
+          [
+            2.3526731,
+            48.7477911
+          ],
+          [
+            2.3528894,
+            48.74789
+          ],
+          [
+            2.3532245,
+            48.748034
+          ],
+          [
+            2.3534389,
+            48.7481573
+          ],
+          [
+            2.3535568,
+            48.7482678
+          ],
+          [
+            2.3537874,
+            48.7489636
+          ],
+          [
+            2.3540196,
+            48.7496214
+          ],
+          [
+            2.3542986,
+            48.7500475
+          ],
+          [
+            2.3546227,
+            48.7505426
+          ],
+          [
+            2.354684,
+            48.7506871
+          ],
+          [
+            2.354661,
+            48.7507713
+          ],
+          [
+            2.3545957,
+            48.7508575
+          ],
+          [
+            2.3543436,
+            48.7511038
+          ],
+          [
+            2.3542034,
+            48.7512812
+          ],
+          [
+            2.3541691,
+            48.7513998
+          ],
+          [
+            2.3542004,
+            48.7515197
+          ],
+          [
+            2.3549519,
+            48.7520884
+          ],
+          [
+            2.3555827,
+            48.7526422
+          ],
+          [
+            2.3557402,
+            48.7527845
+          ],
+          [
+            2.3558653,
+            48.7528864
+          ],
+          [
+            2.355984,
+            48.7529829
+          ],
+          [
+            2.356098,
+            48.7530631
+          ],
+          [
+            2.3561704,
+            48.7531149
+          ],
+          [
+            2.3563352,
+            48.7531809
+          ],
+          [
+            2.3564631,
+            48.7532144
+          ],
+          [
+            2.3566387,
+            48.7532266
+          ],
+          [
+            2.3574351,
+            48.7532165
+          ],
+          [
+            2.3582562,
+            48.7532337
+          ],
+          [
+            2.3585628,
+            48.7531982
+          ],
+          [
+            2.3588709,
+            48.7531474
+          ],
+          [
+            2.359142,
+            48.7530885
+          ],
+          [
+            2.3594008,
+            48.7530133
+          ],
+          [
+            2.3596581,
+            48.7528904
+          ],
+          [
+            2.3606548,
+            48.7524191
+          ],
+          [
+            2.3607473,
+            48.7523978
+          ],
+          [
+            2.3608551,
+            48.7523866
+          ],
+          [
+            2.3609337,
+            48.7523866
+          ],
+          [
+            2.3610206,
+            48.7523925
+          ],
+          [
+            2.3612063,
+            48.7524222
+          ],
+          [
+            2.3614081,
+            48.7524902
+          ],
+          [
+            2.36163,
+            48.7525725
+          ],
+          [
+            2.3617215,
+            48.7526342
+          ],
+          [
+            2.3619603,
+            48.7528871
+          ],
+          [
+            2.3621036,
+            48.7529887
+          ],
+          [
+            2.3623162,
+            48.7530862
+          ],
+          [
+            2.3625904,
+            48.7531553
+          ],
+          [
+            2.3631034,
+            48.7531766
+          ],
+          [
+            2.3647507,
+            48.7532802
+          ],
+          [
+            2.3650846,
+            48.7533141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155171080",
+      "properties": {
+        "@id": "way/155171080",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3538341,
+            48.7397831
+          ],
+          [
+            2.3540643,
+            48.7398016
+          ],
+          [
+            2.354391,
+            48.7398278
+          ],
+          [
+            2.3575161,
+            48.7400785
+          ],
+          [
+            2.3578661,
+            48.7400877
+          ],
+          [
+            2.3579734,
+            48.7400804
+          ],
+          [
+            2.3585427,
+            48.7400416
+          ],
+          [
+            2.3592987,
+            48.7399985
+          ],
+          [
+            2.3600613,
+            48.7399463
+          ],
+          [
+            2.3616066,
+            48.7398406
+          ],
+          [
+            2.3631958,
+            48.7397506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353959096",
+      "properties": {
+        "@id": "way/353959096",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3701952,
+            48.7249712
+          ],
+          [
+            2.370529,
+            48.724136
+          ],
+          [
+            2.370568,
+            48.724014
+          ],
+          [
+            2.370616,
+            48.723848
+          ],
+          [
+            2.370677,
+            48.723588
+          ],
+          [
+            2.37072,
+            48.723387
+          ],
+          [
+            2.370754,
+            48.723225
+          ],
+          [
+            2.370787,
+            48.723045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201571928",
+      "properties": {
+        "@id": "way/201571928",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3681832,
+            48.7297182
+          ],
+          [
+            2.369635,
+            48.726301
+          ],
+          [
+            2.36985,
+            48.725812
+          ],
+          [
+            2.3701952,
+            48.7249712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251560435",
+      "properties": {
+        "@id": "way/251560435",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3650543,
+            48.7396061
+          ],
+          [
+            2.3652402,
+            48.7396008
+          ],
+          [
+            2.3654175,
+            48.7395935
+          ],
+          [
+            2.3662696,
+            48.7395639
+          ],
+          [
+            2.3694059,
+            48.7396072
+          ],
+          [
+            2.3695218,
+            48.7395979
+          ],
+          [
+            2.3696409,
+            48.7395702
+          ],
+          [
+            2.369718,
+            48.7395317
+          ],
+          [
+            2.3697857,
+            48.7394901
+          ],
+          [
+            2.3698441,
+            48.7394101
+          ],
+          [
+            2.3698838,
+            48.739079
+          ],
+          [
+            2.3698978,
+            48.7385708
+          ],
+          [
+            2.3699676,
+            48.7365784
+          ],
+          [
+            2.3700642,
+            48.7361751
+          ],
+          [
+            2.3707685,
+            48.7355244
+          ],
+          [
+            2.3710834,
+            48.7348589
+          ],
+          [
+            2.3716022,
+            48.7336414
+          ],
+          [
+            2.3724674,
+            48.7316109
+          ],
+          [
+            2.3724577,
+            48.7315272
+          ],
+          [
+            2.3724459,
+            48.7314965
+          ],
+          [
+            2.3724016,
+            48.731444
+          ],
+          [
+            2.3723681,
+            48.731408
+          ],
+          [
+            2.3723316,
+            48.7313793
+          ],
+          [
+            2.3722639,
+            48.7313346
+          ],
+          [
+            2.3722055,
+            48.7313085
+          ],
+          [
+            2.37215,
+            48.7313011
+          ],
+          [
+            2.3719688,
+            48.7312708
+          ],
+          [
+            2.3706414,
+            48.7310487
+          ],
+          [
+            2.3694389,
+            48.7308493
+          ],
+          [
+            2.3685658,
+            48.7306474
+          ],
+          [
+            2.3683915,
+            48.7305643
+          ],
+          [
+            2.3682493,
+            48.7304457
+          ],
+          [
+            2.3681501,
+            48.7303343
+          ],
+          [
+            2.3680911,
+            48.7302157
+          ],
+          [
+            2.3680696,
+            48.7300919
+          ],
+          [
+            2.3680969,
+            48.7299638
+          ],
+          [
+            2.3681832,
+            48.7297182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166825822",
+      "properties": {
+        "@id": "way/166825822",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3669013,
+            48.7884175
+          ],
+          [
+            2.3669198,
+            48.7877378
+          ],
+          [
+            2.3669801,
+            48.7864045
+          ],
+          [
+            2.3669955,
+            48.7860634
+          ],
+          [
+            2.3669469,
+            48.7858212
+          ],
+          [
+            2.3669601,
+            48.7857454
+          ],
+          [
+            2.3670165,
+            48.7848388
+          ],
+          [
+            2.3670905,
+            48.7836685
+          ],
+          [
+            2.3671425,
+            48.7828453
+          ],
+          [
+            2.3673196,
+            48.7796852
+          ],
+          [
+            2.3673891,
+            48.7785412
+          ],
+          [
+            2.3674652,
+            48.777287
+          ],
+          [
+            2.3676771,
+            48.7740877
+          ],
+          [
+            2.3676893,
+            48.7738731
+          ],
+          [
+            2.367694,
+            48.7737903
+          ],
+          [
+            2.3677117,
+            48.7734793
+          ],
+          [
+            2.3677192,
+            48.7733482
+          ],
+          [
+            2.3677889,
+            48.7721234
+          ],
+          [
+            2.3677924,
+            48.7720542
+          ],
+          [
+            2.3679572,
+            48.7690229
+          ],
+          [
+            2.3679819,
+            48.7687148
+          ],
+          [
+            2.3680137,
+            48.7681563
+          ],
+          [
+            2.3680338,
+            48.7678635
+          ],
+          [
+            2.3681545,
+            48.7654696
+          ],
+          [
+            2.3682563,
+            48.7638284
+          ],
+          [
+            2.368165,
+            48.7637448
+          ],
+          [
+            2.3678664,
+            48.7635154
+          ],
+          [
+            2.367829,
+            48.7634781
+          ],
+          [
+            2.3676836,
+            48.7633306
+          ],
+          [
+            2.367531,
+            48.763182
+          ],
+          [
+            2.3674384,
+            48.763097
+          ],
+          [
+            2.366952,
+            48.7626429
+          ],
+          [
+            2.365644,
+            48.7613944
+          ],
+          [
+            2.3646973,
+            48.7604644
+          ],
+          [
+            2.3645274,
+            48.7603199
+          ],
+          [
+            2.3644523,
+            48.7601563
+          ],
+          [
+            2.3644576,
+            48.7600201
+          ],
+          [
+            2.3645944,
+            48.7598963
+          ],
+          [
+            2.3647419,
+            48.7598415
+          ],
+          [
+            2.3652451,
+            48.7596898
+          ],
+          [
+            2.3654529,
+            48.7596166
+          ],
+          [
+            2.3656392,
+            48.759549
+          ],
+          [
+            2.3658356,
+            48.7595117
+          ],
+          [
+            2.3661292,
+            48.7595189
+          ],
+          [
+            2.3675671,
+            48.7595997
+          ],
+          [
+            2.367897,
+            48.7596015
+          ],
+          [
+            2.3680526,
+            48.7595661
+          ],
+          [
+            2.3682162,
+            48.7594689
+          ],
+          [
+            2.3682795,
+            48.7588534
+          ],
+          [
+            2.3683097,
+            48.7586888
+          ],
+          [
+            2.3683697,
+            48.7576061
+          ],
+          [
+            2.3684946,
+            48.7558771
+          ],
+          [
+            2.3685236,
+            48.7555523
+          ],
+          [
+            2.3685148,
+            48.7554753
+          ],
+          [
+            2.3684723,
+            48.7553948
+          ],
+          [
+            2.3683809,
+            48.7552968
+          ],
+          [
+            2.3681151,
+            48.7550869
+          ],
+          [
+            2.3667429,
+            48.7541332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251560436",
+      "properties": {
+        "@id": "way/251560436",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3631958,
+            48.7397506
+          ],
+          [
+            2.3650543,
+            48.7396061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144878195",
+      "properties": {
+        "@id": "way/144878195",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3667429,
+            48.7541332
+          ],
+          [
+            2.3656056,
+            48.7535047
+          ],
+          [
+            2.3653107,
+            48.753379
+          ],
+          [
+            2.3650846,
+            48.7533141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1806109232",
+      "properties": {
+        "@id": "node/1806109232",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3681832,
+          48.7297182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2680393665",
+      "properties": {
+        "@id": "node/2680393665",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3716022,
+          48.7336414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2680393667",
+      "properties": {
+        "@id": "node/2680393667",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3698978,
+          48.7385708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1806109260",
+      "properties": {
+        "@id": "node/1806109260",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3610206,
+          48.7523925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1805209450",
+      "properties": {
+        "@id": "node/1805209450",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3661292,
+          48.7595189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1806109258",
+      "properties": {
+        "@id": "node/1806109258",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3684946,
+          48.7558771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1805209483",
+      "properties": {
+        "@id": "node/1805209483",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3676836,
+          48.7633306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1883637798",
+      "properties": {
+        "@id": "node/1883637798",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3680137,
+          48.7681563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1883637788",
+      "properties": {
+        "@id": "node/1883637788",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3677924,
+          48.7720542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1883637776",
+      "properties": {
+        "@id": "node/1883637776",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3673891,
+          48.7785412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1883637794",
+      "properties": {
+        "@id": "node/1883637794",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3669198,
+          48.7877378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1883637818",
+      "properties": {
+        "@id": "node/1883637818",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3327947,
+            "reltags": {
+              "colour": "#B98B59",
+              "complete": "no",
+              "name": "T7 : Villejuif ↔ Athis-Mons",
+              "network": "RATP",
+              "operator": "RATP",
+              "ref": "T7",
+              "route": "tram",
+              "twitter": "T7_RATP",
+              "type": "route",
+              "wikipedia": "fr:Ligne 7 du tramway d'Île-de-France"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3670905,
+          48.7836685
+        ]
+      }
+    }
+  ]
+}

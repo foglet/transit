@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-03-03T22:09:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/207841056",
+      "properties": {
+        "@id": "way/207841056",
+        "layer": "-1",
+        "name": "DIA Automated Guideway Transit System",
+        "oneway": "yes",
+        "railway": "tram",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.6736611,
+            39.8668493
+          ],
+          [
+            -104.6738541,
+            39.8496105
+          ],
+          [
+            -104.6738611,
+            39.8489877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207841057",
+      "properties": {
+        "@id": "way/207841057",
+        "layer": "-1",
+        "name": "DIA Automated Guideway Transit System",
+        "oneway": "yes",
+        "railway": "tram",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.6738541,
+            39.8496105
+          ],
+          [
+            -104.6738476,
+            39.8496474
+          ],
+          [
+            -104.6738347,
+            39.8496733
+          ],
+          [
+            -104.673774,
+            39.8497828
+          ],
+          [
+            -104.6737638,
+            39.849812
+          ],
+          [
+            -104.6737596,
+            39.8498515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207841059",
+      "properties": {
+        "@id": "way/207841059",
+        "layer": "-1",
+        "name": "DIA Automated Guideway Transit System",
+        "railway": "tram",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.6737692,
+            39.8489871
+          ],
+          [
+            -104.6737596,
+            39.8498515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207841060",
+      "properties": {
+        "@id": "way/207841060",
+        "layer": "-1",
+        "name": "DIA Automated Guideway Transit System",
+        "oneway": "yes",
+        "railway": "tram",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.6737596,
+            39.8498515
+          ],
+          [
+            -104.6735693,
+            39.8668487
+          ]
+        ]
+      }
+    }
+  ]
+}
