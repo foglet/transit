@@ -8,10 +8,9 @@ Most files are labeled by two-letter country code, city/location, and how each w
 	fi-helsinki-tram	(Finland, Helsinki, search: route=tram)
 	kz-oskemen-railtram	(Kazakhstan, Oskemen, search: railway=tram)
 	mx-mxc-raillight	(Mexico, Mexico City, search: railway=light_rail)
-	ir-listowel-monorail	(Ireland, Listowel, route=monorail)
-	uk-LHR-monorai	 	(Ukraine, LHR (IATA airport code), route=monorail)
+	ir-listowel-monorail	(Ireland, Listowel, search: route=monorail)
+	uk-LHR-monorai	 	(Ukraine, LHR (IATA airport code), search: route=monorail)
 	ua2-donezVuhlehirsk-trolleybus	(Ukraine/two cities, Donez/Vulehirsk, search: route=trolleybus)
 	ru-smolensk-trolleywire (Russia, Smolensk, search: trolley_wire=yes)
-
-Ferry routes are generally named the same however they often cover a widespread area and the city is not so specific. 
+	au-australiaEast-ferry	(Australia, the east side of, route=ferry)
 
