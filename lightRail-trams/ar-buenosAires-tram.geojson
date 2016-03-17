@@ -1,0 +1,4992 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-31T09:00:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/311231061",
+      "properties": {
+        "@id": "way/311231061",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4582504,
+            -34.6858001
+          ],
+          [
+            -58.4580241,
+            -34.6859706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231062",
+      "properties": {
+        "@id": "way/311231062",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4583132,
+            -34.6858437
+          ],
+          [
+            -58.4580869,
+            -34.6860141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231077",
+      "properties": {
+        "@id": "way/311231077",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4656326,
+            -34.6795897
+          ],
+          [
+            -58.4657777,
+            -34.6797857
+          ],
+          [
+            -58.4658398,
+            -34.6799095
+          ],
+          [
+            -58.4658581,
+            -34.6799939
+          ],
+          [
+            -58.4658535,
+            -34.6800942
+          ],
+          [
+            -58.4658413,
+            -34.6801418
+          ],
+          [
+            -58.4658126,
+            -34.6802011
+          ],
+          [
+            -58.465772,
+            -34.6802664
+          ],
+          [
+            -58.4657197,
+            -34.6803177
+          ],
+          [
+            -58.4656476,
+            -34.6803811
+          ],
+          [
+            -58.4653233,
+            -34.6806148
+          ],
+          [
+            -58.4623709,
+            -34.682821
+          ],
+          [
+            -58.4599269,
+            -34.6846696
+          ],
+          [
+            -58.4591752,
+            -34.6852009
+          ],
+          [
+            -58.4583146,
+            -34.6858172
+          ],
+          [
+            -58.4581704,
+            -34.6859273
+          ],
+          [
+            -58.4577298,
+            -34.6862593
+          ],
+          [
+            -58.4576654,
+            -34.6863388
+          ],
+          [
+            -58.4576384,
+            -34.686418
+          ],
+          [
+            -58.4576351,
+            -34.6865147
+          ],
+          [
+            -58.4576553,
+            -34.6865928
+          ],
+          [
+            -58.4576882,
+            -34.6866838
+          ],
+          [
+            -58.4577566,
+            -34.686762
+          ],
+          [
+            -58.458222,
+            -34.6871998
+          ],
+          [
+            -58.4589441,
+            -34.6878814
+          ],
+          [
+            -58.4596346,
+            -34.6884974
+          ],
+          [
+            -58.4606142,
+            -34.6893804
+          ],
+          [
+            -58.4608114,
+            -34.6895515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231078",
+      "properties": {
+        "@id": "way/311231078",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4654947,
+            -34.6794652
+          ],
+          [
+            -58.4649346,
+            -34.6787792
+          ],
+          [
+            -58.4648864,
+            -34.6787188
+          ],
+          [
+            -58.4645456,
+            -34.6782593
+          ],
+          [
+            -58.4644416,
+            -34.6781326
+          ],
+          [
+            -58.4642391,
+            -34.6779312
+          ],
+          [
+            -58.4616684,
+            -34.6758029
+          ],
+          [
+            -58.4614649,
+            -34.675648
+          ],
+          [
+            -58.4611694,
+            -34.6754324
+          ],
+          [
+            -58.4606172,
+            -34.6749773
+          ],
+          [
+            -58.4605757,
+            -34.6749384
+          ],
+          [
+            -58.4601458,
+            -34.674564
+          ],
+          [
+            -58.4600219,
+            -34.6744572
+          ],
+          [
+            -58.4596959,
+            -34.6741762
+          ],
+          [
+            -58.4595805,
+            -34.6740931
+          ],
+          [
+            -58.459477,
+            -34.6740384
+          ],
+          [
+            -58.459376,
+            -34.6739981
+          ],
+          [
+            -58.4592877,
+            -34.6739691
+          ],
+          [
+            -58.4591893,
+            -34.6739471
+          ],
+          [
+            -58.459095,
+            -34.6739321
+          ],
+          [
+            -58.4590118,
+            -34.6739269
+          ],
+          [
+            -58.4589432,
+            -34.6739277
+          ],
+          [
+            -58.4587548,
+            -34.673931
+          ],
+          [
+            -58.4586601,
+            -34.6739265
+          ],
+          [
+            -58.4585789,
+            -34.6739169
+          ],
+          [
+            -58.4585009,
+            -34.6739017
+          ],
+          [
+            -58.4584177,
+            -34.6738722
+          ],
+          [
+            -58.4583521,
+            -34.6738321
+          ],
+          [
+            -58.4582715,
+            -34.6737665
+          ],
+          [
+            -58.4582174,
+            -34.6737061
+          ],
+          [
+            -58.4581819,
+            -34.6736482
+          ],
+          [
+            -58.4581378,
+            -34.673529
+          ],
+          [
+            -58.4581277,
+            -34.6734368
+          ],
+          [
+            -58.4581442,
+            -34.6731325
+          ],
+          [
+            -58.4581251,
+            -34.6729623
+          ],
+          [
+            -58.4580505,
+            -34.6727866
+          ],
+          [
+            -58.4579919,
+            -34.6726849
+          ],
+          [
+            -58.4578586,
+            -34.6725159
+          ],
+          [
+            -58.4574823,
+            -34.67215
+          ],
+          [
+            -58.4574306,
+            -34.6721015
+          ],
+          [
+            -58.4569591,
+            -34.6716588
+          ],
+          [
+            -58.4569209,
+            -34.6716231
+          ],
+          [
+            -58.4567775,
+            -34.6714884
+          ],
+          [
+            -58.4563319,
+            -34.6710839
+          ],
+          [
+            -58.4557302,
+            -34.6705237
+          ],
+          [
+            -58.4550413,
+            -34.6698414
+          ],
+          [
+            -58.4538926,
+            -34.6687727
+          ],
+          [
+            -58.453774,
+            -34.668687
+          ],
+          [
+            -58.45365,
+            -34.6686097
+          ],
+          [
+            -58.4535051,
+            -34.6685356
+          ],
+          [
+            -58.4528125,
+            -34.6682553
+          ],
+          [
+            -58.4527068,
+            -34.6682122
+          ],
+          [
+            -58.4526084,
+            -34.6681683
+          ],
+          [
+            -58.4525454,
+            -34.6681321
+          ],
+          [
+            -58.4524567,
+            -34.6680711
+          ],
+          [
+            -58.4521595,
+            -34.6678117
+          ],
+          [
+            -58.4520296,
+            -34.6676566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231079",
+      "properties": {
+        "@id": "way/311231079",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4520711,
+            -34.6676324
+          ],
+          [
+            -58.4521995,
+            -34.6677881
+          ],
+          [
+            -58.4523776,
+            -34.6679409
+          ],
+          [
+            -58.4525182,
+            -34.668054
+          ],
+          [
+            -58.4525843,
+            -34.6680998
+          ],
+          [
+            -58.4526582,
+            -34.6681412
+          ],
+          [
+            -58.4527379,
+            -34.6681789
+          ],
+          [
+            -58.4535381,
+            -34.6685034
+          ],
+          [
+            -58.4536629,
+            -34.6685673
+          ],
+          [
+            -58.4537904,
+            -34.6686439
+          ],
+          [
+            -58.4539264,
+            -34.6687431
+          ],
+          [
+            -58.4550786,
+            -34.6698151
+          ],
+          [
+            -58.4557676,
+            -34.6704974
+          ],
+          [
+            -58.4563688,
+            -34.6710572
+          ],
+          [
+            -58.4568088,
+            -34.6714671
+          ],
+          [
+            -58.4569513,
+            -34.6716025
+          ],
+          [
+            -58.4569878,
+            -34.6716369
+          ],
+          [
+            -58.4574566,
+            -34.6720814
+          ],
+          [
+            -58.4576114,
+            -34.6722283
+          ],
+          [
+            -58.4578505,
+            -34.672446
+          ],
+          [
+            -58.4579509,
+            -34.6725442
+          ],
+          [
+            -58.4580266,
+            -34.6726417
+          ],
+          [
+            -58.4581072,
+            -34.6727853
+          ],
+          [
+            -58.4581661,
+            -34.672944
+          ],
+          [
+            -58.458192,
+            -34.6731279
+          ],
+          [
+            -58.4581733,
+            -34.6734381
+          ],
+          [
+            -58.4581795,
+            -34.6735246
+          ],
+          [
+            -58.4582165,
+            -34.6735929
+          ],
+          [
+            -58.4582386,
+            -34.6736575
+          ],
+          [
+            -58.4583022,
+            -34.6737371
+          ],
+          [
+            -58.4583776,
+            -34.6737952
+          ],
+          [
+            -58.4584751,
+            -34.6738516
+          ],
+          [
+            -58.4585376,
+            -34.6738733
+          ],
+          [
+            -58.4586257,
+            -34.6738863
+          ],
+          [
+            -58.4587348,
+            -34.6738917
+          ],
+          [
+            -58.4590084,
+            -34.6738908
+          ],
+          [
+            -58.4591073,
+            -34.6738988
+          ],
+          [
+            -58.4592108,
+            -34.6739144
+          ],
+          [
+            -58.4593161,
+            -34.6739389
+          ],
+          [
+            -58.4594257,
+            -34.6739796
+          ],
+          [
+            -58.4595273,
+            -34.6740226
+          ],
+          [
+            -58.459616,
+            -34.67407
+          ],
+          [
+            -58.4596618,
+            -34.6741016
+          ],
+          [
+            -58.4597307,
+            -34.674156
+          ],
+          [
+            -58.4600504,
+            -34.6744327
+          ],
+          [
+            -58.4601814,
+            -34.6745459
+          ],
+          [
+            -58.4606053,
+            -34.6749181
+          ],
+          [
+            -58.4606537,
+            -34.6749608
+          ],
+          [
+            -58.4611913,
+            -34.6754079
+          ],
+          [
+            -58.4615431,
+            -34.6756594
+          ],
+          [
+            -58.46169,
+            -34.6757703
+          ],
+          [
+            -58.4642431,
+            -34.6778953
+          ],
+          [
+            -58.4643472,
+            -34.6779963
+          ],
+          [
+            -58.4644878,
+            -34.6781435
+          ],
+          [
+            -58.464572,
+            -34.6782457
+          ],
+          [
+            -58.4649196,
+            -34.6786974
+          ],
+          [
+            -58.4649609,
+            -34.6787548
+          ],
+          [
+            -58.4656326,
+            -34.6795897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320468679",
+      "properties": {
+        "@id": "way/320468679",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4607876,
+            -34.6895701
+          ],
+          [
+            -58.4605898,
+            -34.6893984
+          ],
+          [
+            -58.4596586,
+            -34.6885651
+          ],
+          [
+            -58.4589095,
+            -34.6878981
+          ],
+          [
+            -58.4581905,
+            -34.687221
+          ],
+          [
+            -58.4577106,
+            -34.6867646
+          ],
+          [
+            -58.4576486,
+            -34.6866848
+          ],
+          [
+            -58.4576199,
+            -34.6866061
+          ],
+          [
+            -58.4575994,
+            -34.6865256
+          ],
+          [
+            -58.4576078,
+            -34.6863938
+          ],
+          [
+            -58.4576404,
+            -34.6863204
+          ],
+          [
+            -58.4577078,
+            -34.6862339
+          ],
+          [
+            -58.4581549,
+            -34.6859052
+          ],
+          [
+            -58.4582965,
+            -34.6857993
+          ],
+          [
+            -58.4591558,
+            -34.6851735
+          ],
+          [
+            -58.4599049,
+            -34.6846496
+          ],
+          [
+            -58.4623442,
+            -34.6828076
+          ],
+          [
+            -58.4652952,
+            -34.6806024
+          ],
+          [
+            -58.4655999,
+            -34.6803698
+          ],
+          [
+            -58.4656949,
+            -34.6802913
+          ],
+          [
+            -58.4657325,
+            -34.6802512
+          ],
+          [
+            -58.4657673,
+            -34.6802049
+          ],
+          [
+            -58.4657976,
+            -34.6801564
+          ],
+          [
+            -58.4658144,
+            -34.6800865
+          ],
+          [
+            -58.4658195,
+            -34.6799975
+          ],
+          [
+            -58.4658054,
+            -34.6799289
+          ],
+          [
+            -58.465738,
+            -34.6797876
+          ],
+          [
+            -58.4656593,
+            -34.6796683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22788464",
+      "properties": {
+        "@id": "way/22788464",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4650938,
+            -34.6835728
+          ],
+          [
+            -58.4651832,
+            -34.6834817
+          ],
+          [
+            -58.4661557,
+            -34.6824912
+          ],
+          [
+            -58.4667045,
+            -34.6819122
+          ],
+          [
+            -58.4667692,
+            -34.6818418
+          ],
+          [
+            -58.4670395,
+            -34.681567
+          ],
+          [
+            -58.4671475,
+            -34.6814651
+          ],
+          [
+            -58.4672032,
+            -34.6814016
+          ],
+          [
+            -58.4672492,
+            -34.6813276
+          ],
+          [
+            -58.4672784,
+            -34.6812554
+          ],
+          [
+            -58.4672972,
+            -34.6811792
+          ],
+          [
+            -58.4673028,
+            -34.6810899
+          ],
+          [
+            -58.4672894,
+            -34.6810064
+          ],
+          [
+            -58.467268,
+            -34.6809466
+          ],
+          [
+            -58.4672391,
+            -34.6808893
+          ],
+          [
+            -58.4671976,
+            -34.6808295
+          ],
+          [
+            -58.4671506,
+            -34.680772
+          ],
+          [
+            -58.4670909,
+            -34.6807214
+          ],
+          [
+            -58.4668748,
+            -34.6805882
+          ],
+          [
+            -58.4667274,
+            -34.6805021
+          ],
+          [
+            -58.4663487,
+            -34.6802666
+          ],
+          [
+            -58.4662764,
+            -34.6802084
+          ],
+          [
+            -58.4661695,
+            -34.6801179
+          ],
+          [
+            -58.466054,
+            -34.6800157
+          ],
+          [
+            -58.4656326,
+            -34.6795897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/34138562",
+      "properties": {
+        "@id": "way/34138562",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4656593,
+            -34.6796683
+          ],
+          [
+            -58.4654947,
+            -34.6794652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231068",
+      "properties": {
+        "@id": "way/311231068",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4654098,
+            -34.6804892
+          ],
+          [
+            -58.4651746,
+            -34.6806587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231069",
+      "properties": {
+        "@id": "way/311231069",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4654622,
+            -34.6805466
+          ],
+          [
+            -58.465227,
+            -34.6807161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231076",
+      "properties": {
+        "@id": "way/311231076",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4656326,
+            -34.6795897
+          ],
+          [
+            -58.4654947,
+            -34.6794652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311232078",
+      "properties": {
+        "@id": "way/311232078",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4669354,
+            -34.6805906
+          ],
+          [
+            -58.4668048,
+            -34.6805143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231067",
+      "properties": {
+        "@id": "way/311231067",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4622664,
+            -34.6829272
+          ],
+          [
+            -58.4625156,
+            -34.6827458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231071",
+      "properties": {
+        "@id": "way/311231071",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4622049,
+            -34.6828749
+          ],
+          [
+            -58.462454,
+            -34.6826935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231063",
+      "properties": {
+        "@id": "way/311231063",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4600406,
+            -34.6745013
+          ],
+          [
+            -58.4601656,
+            -34.6746117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231064",
+      "properties": {
+        "@id": "way/311231064",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4601033,
+            -34.6744409
+          ],
+          [
+            -58.4602387,
+            -34.6745585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231075",
+      "properties": {
+        "@id": "way/311231075",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4645231,
+            -34.6782709
+          ],
+          [
+            -58.4644398,
+            -34.6781736
+          ],
+          [
+            -58.4643725,
+            -34.6780973
+          ],
+          [
+            -58.4643169,
+            -34.6780458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/324162350",
+      "properties": {
+        "@id": "way/324162350",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.464598,
+            -34.6782322
+          ],
+          [
+            -58.4645165,
+            -34.6781384
+          ],
+          [
+            -58.4644463,
+            -34.6780587
+          ],
+          [
+            -58.4643873,
+            -34.6780042
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311313249",
+      "properties": {
+        "@id": "way/311313249",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4553189,
+            -34.6526797
+          ],
+          [
+            -58.4552304,
+            -34.6526097
+          ],
+          [
+            -58.4552226,
+            -34.6526036
+          ],
+          [
+            -58.4550996,
+            -34.6525063
+          ],
+          [
+            -58.4549271,
+            -34.6523459
+          ],
+          [
+            -58.4548117,
+            -34.6522013
+          ],
+          [
+            -58.454756,
+            -34.6520897
+          ],
+          [
+            -58.4547226,
+            -34.6519906
+          ],
+          [
+            -58.4546935,
+            -34.6518603
+          ],
+          [
+            -58.4546747,
+            -34.65175
+          ],
+          [
+            -58.4546419,
+            -34.6516014
+          ],
+          [
+            -58.4546152,
+            -34.6515033
+          ],
+          [
+            -58.454566,
+            -34.6514
+          ],
+          [
+            -58.4544352,
+            -34.6511254
+          ],
+          [
+            -58.4543821,
+            -34.6509792
+          ],
+          [
+            -58.4543583,
+            -34.6508613
+          ],
+          [
+            -58.454331,
+            -34.6505789
+          ],
+          [
+            -58.454341,
+            -34.6504669
+          ],
+          [
+            -58.45437,
+            -34.6503806
+          ],
+          [
+            -58.454421,
+            -34.6502929
+          ],
+          [
+            -58.4544931,
+            -34.6502178
+          ],
+          [
+            -58.4545754,
+            -34.6501463
+          ],
+          [
+            -58.4547319,
+            -34.650028
+          ],
+          [
+            -58.4552398,
+            -34.6496337
+          ],
+          [
+            -58.4553162,
+            -34.6495722
+          ],
+          [
+            -58.455778,
+            -34.6491927
+          ],
+          [
+            -58.4562353,
+            -34.6487585
+          ],
+          [
+            -58.4565306,
+            -34.6484727
+          ],
+          [
+            -58.4566848,
+            -34.6483219
+          ],
+          [
+            -58.4576336,
+            -34.6474312
+          ],
+          [
+            -58.4586339,
+            -34.6464762
+          ],
+          [
+            -58.4595427,
+            -34.6455682
+          ],
+          [
+            -58.4603826,
+            -34.6447491
+          ],
+          [
+            -58.4606411,
+            -34.6445076
+          ],
+          [
+            -58.4609113,
+            -34.6442419
+          ],
+          [
+            -58.4610014,
+            -34.6441318
+          ],
+          [
+            -58.4611254,
+            -34.6439727
+          ],
+          [
+            -58.461277,
+            -34.6437392
+          ],
+          [
+            -58.4614205,
+            -34.6434833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311315540",
+      "properties": {
+        "@id": "way/311315540",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.461316,
+            -34.6437653
+          ],
+          [
+            -58.4612569,
+            -34.643842
+          ],
+          [
+            -58.4611563,
+            -34.643993
+          ],
+          [
+            -58.4610594,
+            -34.6441228
+          ],
+          [
+            -58.4610379,
+            -34.6441515
+          ],
+          [
+            -58.4609462,
+            -34.6442636
+          ],
+          [
+            -58.4606701,
+            -34.6445283
+          ],
+          [
+            -58.4604157,
+            -34.6447726
+          ],
+          [
+            -58.4595813,
+            -34.6455962
+          ],
+          [
+            -58.458666,
+            -34.6464996
+          ],
+          [
+            -58.4576659,
+            -34.6474554
+          ],
+          [
+            -58.4567179,
+            -34.6483454
+          ],
+          [
+            -58.4565639,
+            -34.648496
+          ],
+          [
+            -58.4562685,
+            -34.6487819
+          ],
+          [
+            -58.4558084,
+            -34.6492184
+          ],
+          [
+            -58.4553468,
+            -34.6495978
+          ],
+          [
+            -58.4552701,
+            -34.6496596
+          ],
+          [
+            -58.4547617,
+            -34.6500543
+          ],
+          [
+            -58.4546061,
+            -34.6501719
+          ],
+          [
+            -58.4545262,
+            -34.6502413
+          ],
+          [
+            -58.4544497,
+            -34.6503215
+          ],
+          [
+            -58.4544111,
+            -34.6503932
+          ],
+          [
+            -58.4543842,
+            -34.6504731
+          ],
+          [
+            -58.4543748,
+            -34.6505787
+          ],
+          [
+            -58.4544017,
+            -34.6508567
+          ],
+          [
+            -58.4544247,
+            -34.6509709
+          ],
+          [
+            -58.4544765,
+            -34.6511137
+          ],
+          [
+            -58.4545952,
+            -34.6513627
+          ],
+          [
+            -58.4546067,
+            -34.6513869
+          ],
+          [
+            -58.4546571,
+            -34.6514928
+          ],
+          [
+            -58.4546847,
+            -34.6515942
+          ],
+          [
+            -58.4547178,
+            -34.6517443
+          ],
+          [
+            -58.4547366,
+            -34.6518546
+          ],
+          [
+            -58.4547652,
+            -34.6519825
+          ],
+          [
+            -58.4547974,
+            -34.652078
+          ],
+          [
+            -58.4548505,
+            -34.6521845
+          ],
+          [
+            -58.4549619,
+            -34.652324
+          ],
+          [
+            -58.4551312,
+            -34.6524814
+          ],
+          [
+            -58.4552407,
+            -34.652568
+          ],
+          [
+            -58.4552728,
+            -34.6525934
+          ],
+          [
+            -58.4553492,
+            -34.6526538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/22788442",
+      "properties": {
+        "@id": "way/22788442",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4618932,
+            -34.6429929
+          ],
+          [
+            -58.4615534,
+            -34.6432724
+          ],
+          [
+            -58.4615093,
+            -34.643335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311315537",
+      "properties": {
+        "@id": "way/311315537",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4614205,
+            -34.6434833
+          ],
+          [
+            -58.4615093,
+            -34.643335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311315539",
+      "properties": {
+        "@id": "way/311315539",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4614205,
+            -34.6434833
+          ],
+          [
+            -58.4613769,
+            -34.6436109
+          ],
+          [
+            -58.461316,
+            -34.6437653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231065",
+      "properties": {
+        "@id": "way/311231065",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4576561,
+            -34.672229
+          ],
+          [
+            -58.4575023,
+            -34.6720885
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311231066",
+      "properties": {
+        "@id": "way/311231066",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4575864,
+            -34.6722794
+          ],
+          [
+            -58.4574325,
+            -34.6721389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23651420",
+      "properties": {
+        "@id": "way/23651420",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4505101,
+            -34.6656707
+          ],
+          [
+            -58.4506404,
+            -34.6656862
+          ],
+          [
+            -58.450767,
+            -34.6657055
+          ],
+          [
+            -58.4509175,
+            -34.6657451
+          ],
+          [
+            -58.4510861,
+            -34.6658094
+          ],
+          [
+            -58.4512129,
+            -34.6658861
+          ],
+          [
+            -58.4513494,
+            -34.6659892
+          ],
+          [
+            -58.4514649,
+            -34.6661043
+          ],
+          [
+            -58.4515206,
+            -34.666182
+          ],
+          [
+            -58.451563,
+            -34.6662586
+          ],
+          [
+            -58.4516145,
+            -34.6663647
+          ],
+          [
+            -58.4516835,
+            -34.6665618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142307329",
+      "properties": {
+        "@id": "way/142307329",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4503998,
+            -34.6656943
+          ],
+          [
+            -58.4498838,
+            -34.6656512
+          ],
+          [
+            -58.4495448,
+            -34.6656351
+          ],
+          [
+            -58.4493029,
+            -34.6656111
+          ],
+          [
+            -58.4492,
+            -34.6655929
+          ],
+          [
+            -58.4491308,
+            -34.6655781
+          ],
+          [
+            -58.4488709,
+            -34.6654757
+          ],
+          [
+            -58.4485141,
+            -34.665321
+          ],
+          [
+            -58.4451862,
+            -34.6639122
+          ],
+          [
+            -58.4450972,
+            -34.6638662
+          ],
+          [
+            -58.4450161,
+            -34.663811
+          ],
+          [
+            -58.444951,
+            -34.6637303
+          ],
+          [
+            -58.4449291,
+            -34.6636653
+          ],
+          [
+            -58.4449194,
+            -34.6635863
+          ],
+          [
+            -58.4449509,
+            -34.6635198
+          ],
+          [
+            -58.4449929,
+            -34.6634666
+          ],
+          [
+            -58.4452982,
+            -34.6632157
+          ],
+          [
+            -58.4461898,
+            -34.662507
+          ],
+          [
+            -58.4462831,
+            -34.6624374
+          ],
+          [
+            -58.4463396,
+            -34.6623926
+          ],
+          [
+            -58.4464032,
+            -34.6623497
+          ],
+          [
+            -58.4465803,
+            -34.6622107
+          ],
+          [
+            -58.4473913,
+            -34.6615798
+          ],
+          [
+            -58.4482819,
+            -34.6609164
+          ],
+          [
+            -58.4487226,
+            -34.6605247
+          ],
+          [
+            -58.4488178,
+            -34.6604399
+          ],
+          [
+            -58.449047,
+            -34.6602541
+          ],
+          [
+            -58.4497521,
+            -34.6597076
+          ],
+          [
+            -58.4498449,
+            -34.6596384
+          ],
+          [
+            -58.4500423,
+            -34.6594813
+          ],
+          [
+            -58.4509871,
+            -34.6587332
+          ],
+          [
+            -58.4524518,
+            -34.6575901
+          ],
+          [
+            -58.4525671,
+            -34.657502
+          ],
+          [
+            -58.4534715,
+            -34.6567931
+          ],
+          [
+            -58.4539319,
+            -34.6564398
+          ],
+          [
+            -58.4564845,
+            -34.6544382
+          ],
+          [
+            -58.4566387,
+            -34.6543173
+          ],
+          [
+            -58.4566882,
+            -34.654261
+          ],
+          [
+            -58.4567468,
+            -34.6541981
+          ],
+          [
+            -58.4567811,
+            -34.6541196
+          ],
+          [
+            -58.4567864,
+            -34.6540886
+          ],
+          [
+            -58.4567928,
+            -34.6540514
+          ],
+          [
+            -58.4567861,
+            -34.6539709
+          ],
+          [
+            -58.4567561,
+            -34.6539065
+          ],
+          [
+            -58.4566993,
+            -34.6538338
+          ],
+          [
+            -58.4553189,
+            -34.6526797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/205340673",
+      "properties": {
+        "@id": "way/205340673",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4553492,
+            -34.6526538
+          ],
+          [
+            -58.4567336,
+            -34.6538112
+          ],
+          [
+            -58.4567953,
+            -34.6538902
+          ],
+          [
+            -58.4568292,
+            -34.6539631
+          ],
+          [
+            -58.4568367,
+            -34.6540527
+          ],
+          [
+            -58.4568237,
+            -34.6541283
+          ],
+          [
+            -58.4567856,
+            -34.6542155
+          ],
+          [
+            -58.4567233,
+            -34.6542824
+          ],
+          [
+            -58.4566717,
+            -34.654341
+          ],
+          [
+            -58.4565146,
+            -34.6544642
+          ],
+          [
+            -58.4539619,
+            -34.6564659
+          ],
+          [
+            -58.4535015,
+            -34.6568193
+          ],
+          [
+            -58.452597,
+            -34.6575282
+          ],
+          [
+            -58.4524817,
+            -34.6576163
+          ],
+          [
+            -58.4510172,
+            -34.6587593
+          ],
+          [
+            -58.4500681,
+            -34.6595038
+          ],
+          [
+            -58.4498682,
+            -34.6596603
+          ],
+          [
+            -58.4497754,
+            -34.6597295
+          ],
+          [
+            -58.4490774,
+            -34.6602799
+          ],
+          [
+            -58.4488492,
+            -34.6604649
+          ],
+          [
+            -58.448753,
+            -34.6605504
+          ],
+          [
+            -58.4483129,
+            -34.6609418
+          ],
+          [
+            -58.4474177,
+            -34.6616032
+          ],
+          [
+            -58.4466034,
+            -34.6622342
+          ],
+          [
+            -58.44643,
+            -34.6623709
+          ],
+          [
+            -58.4463707,
+            -34.6624157
+          ],
+          [
+            -58.4463123,
+            -34.66246
+          ],
+          [
+            -58.4459576,
+            -34.6627301
+          ],
+          [
+            -58.4459276,
+            -34.6628045
+          ],
+          [
+            -58.4459283,
+            -34.6628603
+          ],
+          [
+            -58.445944,
+            -34.6629161
+          ],
+          [
+            -58.4459777,
+            -34.6629734
+          ],
+          [
+            -58.4460248,
+            -34.6630381
+          ],
+          [
+            -58.4463609,
+            -34.6633177
+          ],
+          [
+            -58.4472321,
+            -34.66403
+          ],
+          [
+            -58.4486132,
+            -34.6651444
+          ],
+          [
+            -58.4490754,
+            -34.6655092
+          ],
+          [
+            -58.4491059,
+            -34.6655271
+          ],
+          [
+            -58.4491597,
+            -34.665555
+          ],
+          [
+            -58.4492496,
+            -34.6655785
+          ],
+          [
+            -58.4493114,
+            -34.6655882
+          ],
+          [
+            -58.4494043,
+            -34.6655962
+          ],
+          [
+            -58.4497879,
+            -34.6656155
+          ],
+          [
+            -58.4499369,
+            -34.6656235
+          ],
+          [
+            -58.4505101,
+            -34.6656707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323919724",
+      "properties": {
+        "@id": "way/323919724",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4516395,
+            -34.6665615
+          ],
+          [
+            -58.4515575,
+            -34.6663421
+          ],
+          [
+            -58.4514877,
+            -34.6662193
+          ],
+          [
+            -58.4514288,
+            -34.6661263
+          ],
+          [
+            -58.451315,
+            -34.6660137
+          ],
+          [
+            -58.4511963,
+            -34.6659214
+          ],
+          [
+            -58.4510402,
+            -34.6658328
+          ],
+          [
+            -58.4508965,
+            -34.665776
+          ],
+          [
+            -58.450752,
+            -34.6657372
+          ],
+          [
+            -58.4505759,
+            -34.6657097
+          ],
+          [
+            -58.4503998,
+            -34.6656943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142307322",
+      "properties": {
+        "@id": "way/142307322",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4520296,
+            -34.6676566
+          ],
+          [
+            -58.4519451,
+            -34.6675215
+          ],
+          [
+            -58.4518768,
+            -34.6674006
+          ],
+          [
+            -58.4518446,
+            -34.6673118
+          ],
+          [
+            -58.451745,
+            -34.6669379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323919725",
+      "properties": {
+        "@id": "way/323919725",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4516835,
+            -34.6665618
+          ],
+          [
+            -58.4517929,
+            -34.6669471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323925175",
+      "properties": {
+        "@id": "way/323925175",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.451745,
+            -34.6669379
+          ],
+          [
+            -58.4516395,
+            -34.6665615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323925176",
+      "properties": {
+        "@id": "way/323925176",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "forward",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4517929,
+            -34.6669471
+          ],
+          [
+            -58.4518844,
+            -34.6672719
+          ],
+          [
+            -58.4519099,
+            -34.6673464
+          ],
+          [
+            -58.4519781,
+            -34.6674813
+          ],
+          [
+            -58.4520711,
+            -34.6676324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265828763",
+      "properties": {
+        "@id": "way/265828763",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4486407,
+            -34.6654025
+          ],
+          [
+            -58.4483717,
+            -34.6652866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265828753",
+      "properties": {
+        "@id": "way/265828753",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4486067,
+            -34.6651597
+          ],
+          [
+            -58.4484758,
+            -34.6650518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265875124",
+      "properties": {
+        "@id": "way/265875124",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4466537,
+            -34.6621157
+          ],
+          [
+            -58.4464641,
+            -34.6622674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265875125",
+      "properties": {
+        "@id": "way/265875125",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4466903,
+            -34.662145
+          ],
+          [
+            -58.4465022,
+            -34.6622909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311252172",
+      "properties": {
+        "@id": "way/311252172",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4501761,
+            -34.6594448
+          ],
+          [
+            -58.4500037,
+            -34.6595813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311252174",
+      "properties": {
+        "@id": "way/311252174",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4487227,
+            -34.6604966
+          ],
+          [
+            -58.4488932,
+            -34.6603624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311252175",
+      "properties": {
+        "@id": "way/311252175",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4501193,
+            -34.6593962
+          ],
+          [
+            -58.4499469,
+            -34.6595327
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311252177",
+      "properties": {
+        "@id": "way/311252177",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4487811,
+            -34.660546
+          ],
+          [
+            -58.4489503,
+            -34.6604106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311252170",
+      "properties": {
+        "@id": "way/311252170",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4566324,
+            -34.6544043
+          ],
+          [
+            -58.45648,
+            -34.6545222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311252171",
+      "properties": {
+        "@id": "way/311252171",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4565689,
+            -34.6543487
+          ],
+          [
+            -58.4564165,
+            -34.6544666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311252173",
+      "properties": {
+        "@id": "way/311252173",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4539257,
+            -34.6565187
+          ],
+          [
+            -58.4540432,
+            -34.6564265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311252176",
+      "properties": {
+        "@id": "way/311252176",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4538654,
+            -34.6564667
+          ],
+          [
+            -58.4539829,
+            -34.6563745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311315536",
+      "properties": {
+        "@id": "way/311315536",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "platform",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.455475,
+            -34.649468
+          ],
+          [
+            -58.455251,
+            -34.6496456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/244887001",
+      "properties": {
+        "@id": "node/244887001",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4581549,
+          -34.6859052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268624720",
+      "properties": {
+        "@id": "node/268624720",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4607876,
+          -34.6895701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168223875",
+      "properties": {
+        "@id": "node/3168223875",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4581704,
+          -34.6859273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168223876",
+      "properties": {
+        "@id": "node/3168223876",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4608114,
+          -34.6895515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1620471656",
+      "properties": {
+        "@id": "node/1620471656",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4651832,
+          -34.6834817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2426019622",
+      "properties": {
+        "@id": "node/2426019622",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4668748,
+          -34.6805882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168223877",
+      "properties": {
+        "@id": "node/3168223877",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4652952,
+          -34.6806024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168223878",
+      "properties": {
+        "@id": "node/3168223878",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4653233,
+          -34.6806148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168223879",
+      "properties": {
+        "@id": "node/3168223879",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4623442,
+          -34.6828076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168223880",
+      "properties": {
+        "@id": "node/3168223880",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4623709,
+          -34.682821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/477663208",
+      "properties": {
+        "@id": "node/477663208",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4601458,
+          -34.674564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1620492730",
+      "properties": {
+        "@id": "node/1620492730",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4644416,
+          -34.6781326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168223874",
+      "properties": {
+        "@id": "node/3168223874",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4601814,
+          -34.6745459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168223882",
+      "properties": {
+        "@id": "node/3168223882",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4644878,
+          -34.6781435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/256207137",
+      "properties": {
+        "@id": "node/256207137",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4618932,
+          -34.6429929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483032114",
+      "properties": {
+        "@id": "node/483032114",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4574823,
+          -34.67215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168223873",
+      "properties": {
+        "@id": "node/3168223873",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4576114,
+          -34.6722283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/244887026",
+      "properties": {
+        "@id": "node/244887026",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4550413,
+          -34.6698414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168223881",
+      "properties": {
+        "@id": "node/3168223881",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4550786,
+          -34.6698151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1557575321",
+      "properties": {
+        "@id": "node/1557575321",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4485141,
+          -34.665321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/244886882",
+      "properties": {
+        "@id": "node/244886882",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4488492,
+          -34.6604649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/479178311",
+      "properties": {
+        "@id": "node/479178311",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4466034,
+          -34.6622342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483031326",
+      "properties": {
+        "@id": "node/483031326",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4500681,
+          -34.6595038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2714458523",
+      "properties": {
+        "@id": "node/2714458523",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4486132,
+          -34.6651444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168267816",
+      "properties": {
+        "@id": "node/3168267816",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4465803,
+          -34.6622107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168492644",
+      "properties": {
+        "@id": "node/3168492644",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4500423,
+          -34.6594813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168492646",
+      "properties": {
+        "@id": "node/3168492646",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4488178,
+          -34.6604399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/244886875",
+      "properties": {
+        "@id": "node/244886875",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4565146,
+          -34.6544642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483031325",
+      "properties": {
+        "@id": "node/483031325",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4539619,
+          -34.6564659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168492645",
+      "properties": {
+        "@id": "node/3168492645",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4564845,
+          -34.6544382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3168494268",
+      "properties": {
+        "@id": "node/3168494268",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4539319,
+          -34.6564398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/244886854",
+      "properties": {
+        "@id": "node/244886854",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926404,
+            "reltags": {
+              "from": "Centro Cívico",
+              "name": "Premetro (Centro Cívico -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926418,
+            "reltags": {
+              "from": "General Savio",
+              "name": "Premetro (General Savio -> Intendente Saguier)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Intendente Saguier",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4553162,
+          -34.6495722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3169259671",
+      "properties": {
+        "@id": "node/3169259671",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 1926405,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> Centro Cívico)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "Centro Cívico",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 1926419,
+            "reltags": {
+              "from": "Intendente Saguier",
+              "name": "Premetro (Intendente Saguier -> General Savio)",
+              "public_transport:version": "2",
+              "ref": "P",
+              "route": "tram",
+              "to": "General Savio",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4553468,
+          -34.6495978
+        ]
+      }
+    }
+  ]
+}
