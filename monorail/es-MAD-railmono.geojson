@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-03-04T01:19:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/133882076",
+      "properties": {
+        "@id": "way/133882076",
+        "designation": "APM T4 - T4S",
+        "layer": "-2",
+        "railway": "monorail",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.59203,
+            40.4913335
+          ],
+          [
+            -3.5862132,
+            40.4913385
+          ],
+          [
+            -3.585747,
+            40.4915147
+          ],
+          [
+            -3.5854257,
+            40.4918384
+          ],
+          [
+            -3.5847017,
+            40.493302
+          ],
+          [
+            -3.5842221,
+            40.4938835
+          ],
+          [
+            -3.5836682,
+            40.4942863
+          ],
+          [
+            -3.583139,
+            40.4944019
+          ],
+          [
+            -3.5826538,
+            40.4944236
+          ],
+          [
+            -3.5668707,
+            40.4944759
+          ]
+        ]
+      }
+    }
+  ]
+}

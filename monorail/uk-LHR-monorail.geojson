@@ -1,0 +1,1157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/42433440",
+      "properties": {
+        "@id": "way/42433440",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5621384,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5621386,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4862836,
+            51.470852
+          ],
+          [
+            -0.4859947,
+            51.4708494
+          ],
+          [
+            -0.4852371,
+            51.4708469
+          ],
+          [
+            -0.4838432,
+            51.4708422
+          ],
+          [
+            -0.4813366,
+            51.4708546
+          ],
+          [
+            -0.4807654,
+            51.470853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377300373",
+      "properties": {
+        "@id": "way/377300373",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5621383,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5621385,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4862842,
+            51.4711148
+          ],
+          [
+            -0.4859772,
+            51.471115
+          ],
+          [
+            -0.4852547,
+            51.4711125
+          ],
+          [
+            -0.4838344,
+            51.4711078
+          ],
+          [
+            -0.4823241,
+            51.4711152
+          ],
+          [
+            -0.4822117,
+            51.4711274
+          ],
+          [
+            -0.4820978,
+            51.471143
+          ],
+          [
+            -0.4819693,
+            51.4711555
+          ],
+          [
+            -0.4818518,
+            51.4711611
+          ],
+          [
+            -0.4813224,
+            51.4711637
+          ],
+          [
+            -0.4807969,
+            51.4711622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377300813",
+      "properties": {
+        "@id": "way/377300813",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5621384,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5621386,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4807654,
+            51.470853
+          ],
+          [
+            -0.4780643,
+            51.4708454
+          ],
+          [
+            -0.4766704,
+            51.4708407
+          ],
+          [
+            -0.4760899,
+            51.4708398
+          ],
+          [
+            -0.4755397,
+            51.4708404
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377300814",
+      "properties": {
+        "@id": "way/377300814",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5621383,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5621385,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4807969,
+            51.4711622
+          ],
+          [
+            -0.480676,
+            51.4711532
+          ],
+          [
+            -0.4805447,
+            51.4711356
+          ],
+          [
+            -0.480448,
+            51.4711242
+          ],
+          [
+            -0.4803697,
+            51.4711174
+          ],
+          [
+            -0.4780819,
+            51.4711111
+          ],
+          [
+            -0.4766616,
+            51.4711063
+          ],
+          [
+            -0.4760724,
+            51.4711054
+          ],
+          [
+            -0.4755573,
+            51.4711059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529774305",
+      "properties": {
+        "@id": "node/529774305",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 5621384,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop_exit_only",
+            "rel": 5621386,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4859947,
+          51.4708494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3806727276",
+      "properties": {
+        "@id": "node/3806727276",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 5621383,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop_entry_only",
+            "rel": 5621385,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4859772,
+          51.471115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529774311",
+      "properties": {
+        "@id": "node/529774311",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5621384,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 5621386,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4813366,
+          51.4708546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3806727278",
+      "properties": {
+        "@id": "node/3806727278",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5621383,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 5621385,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4813224,
+          51.4711637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529774314",
+      "properties": {
+        "@id": "node/529774314",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 5621384,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop_entry_only",
+            "rel": 5621386,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4760899,
+          51.4708398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3806727280",
+      "properties": {
+        "@id": "node/3806727280",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 5621383,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop_exit_only",
+            "rel": 5621385,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4760724,
+          51.4711054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42433440",
+      "properties": {
+        "@id": "way/42433440",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5621384,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5621386,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4862836,
+            51.470852
+          ],
+          [
+            -0.4859947,
+            51.4708494
+          ],
+          [
+            -0.4852371,
+            51.4708469
+          ],
+          [
+            -0.4838432,
+            51.4708422
+          ],
+          [
+            -0.4813366,
+            51.4708546
+          ],
+          [
+            -0.4807654,
+            51.470853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377300373",
+      "properties": {
+        "@id": "way/377300373",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5621383,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5621385,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4862842,
+            51.4711148
+          ],
+          [
+            -0.4859772,
+            51.471115
+          ],
+          [
+            -0.4852547,
+            51.4711125
+          ],
+          [
+            -0.4838344,
+            51.4711078
+          ],
+          [
+            -0.4823241,
+            51.4711152
+          ],
+          [
+            -0.4822117,
+            51.4711274
+          ],
+          [
+            -0.4820978,
+            51.471143
+          ],
+          [
+            -0.4819693,
+            51.4711555
+          ],
+          [
+            -0.4818518,
+            51.4711611
+          ],
+          [
+            -0.4813224,
+            51.4711637
+          ],
+          [
+            -0.4807969,
+            51.4711622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377300813",
+      "properties": {
+        "@id": "way/377300813",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5621384,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5621386,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4807654,
+            51.470853
+          ],
+          [
+            -0.4780643,
+            51.4708454
+          ],
+          [
+            -0.4766704,
+            51.4708407
+          ],
+          [
+            -0.4760899,
+            51.4708398
+          ],
+          [
+            -0.4755397,
+            51.4708404
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/377300814",
+      "properties": {
+        "@id": "way/377300814",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5621383,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5621385,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4807969,
+            51.4711622
+          ],
+          [
+            -0.480676,
+            51.4711532
+          ],
+          [
+            -0.4805447,
+            51.4711356
+          ],
+          [
+            -0.480448,
+            51.4711242
+          ],
+          [
+            -0.4803697,
+            51.4711174
+          ],
+          [
+            -0.4780819,
+            51.4711111
+          ],
+          [
+            -0.4766616,
+            51.4711063
+          ],
+          [
+            -0.4760724,
+            51.4711054
+          ],
+          [
+            -0.4755573,
+            51.4711059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529774305",
+      "properties": {
+        "@id": "node/529774305",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 5621384,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop_exit_only",
+            "rel": 5621386,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4859947,
+          51.4708494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3806727276",
+      "properties": {
+        "@id": "node/3806727276",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 5621383,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop_entry_only",
+            "rel": 5621385,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4859772,
+          51.471115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529774311",
+      "properties": {
+        "@id": "node/529774311",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5621384,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 5621386,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4813366,
+          51.4708546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3806727278",
+      "properties": {
+        "@id": "node/3806727278",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5621383,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop",
+            "rel": 5621385,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4813224,
+          51.4711637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/529774314",
+      "properties": {
+        "@id": "node/529774314",
+        "@relations": [
+          {
+            "role": "stop_exit_only",
+            "rel": 5621384,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop_entry_only",
+            "rel": 5621386,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4760899,
+          51.4708398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3806727280",
+      "properties": {
+        "@id": "node/3806727280",
+        "@relations": [
+          {
+            "role": "stop_entry_only",
+            "rel": 5621383,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people arriving in Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates C52-C66",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates A1-A23",
+              "type": "route"
+            }
+          },
+          {
+            "role": "stop_exit_only",
+            "rel": 5621385,
+            "reltags": {
+              "access": "destination",
+              "access:note": "transit only allowed for people departing from Terminal 5B or 5C",
+              "airside": "yes",
+              "from": "Gates A1-A23",
+              "name": "Track Transit System",
+              "operator": "Heathrow Airport",
+              "route": "monorail",
+              "to": "Gates C52-C66",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4760724,
+          51.4711054
+        ]
+      }
+    }
+  ]
+}

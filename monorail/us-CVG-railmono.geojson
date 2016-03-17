@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-03-03T23:28:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/235290521",
+      "properties": {
+        "@id": "way/235290521",
+        "name": "Cincinnati Airport People Mover",
+        "operator": "Kenton County Airport Board",
+        "railway": "monorail",
+        "tunnel": "yes",
+        "wikipedia": "en:Cincinnati Airport People Mover"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.6561595,
+            39.0545947
+          ],
+          [
+            -84.6562404,
+            39.0545114
+          ],
+          [
+            -84.6562496,
+            39.05337
+          ],
+          [
+            -84.6561635,
+            39.0533117
+          ],
+          [
+            -84.6562507,
+            39.053245
+          ],
+          [
+            -84.6562683,
+            39.0510727
+          ],
+          [
+            -84.656185,
+            39.0510079
+          ]
+        ]
+      }
+    }
+  ]
+}

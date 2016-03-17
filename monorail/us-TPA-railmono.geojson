@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-03-03T23:18:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/46431836",
+      "properties": {
+        "@id": "way/46431836",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "3",
+        "railway": "monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5340891,
+            27.9803152
+          ],
+          [
+            -82.5323185,
+            27.9825011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46431851",
+      "properties": {
+        "@id": "way/46431851",
+        "bridge": "yes",
+        "electrified": "yes",
+        "layer": "3",
+        "railway": "monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5377356,
+            27.9800834
+          ],
+          [
+            -82.5352652,
+            27.9800443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/232751983",
+      "properties": {
+        "@id": "way/232751983",
+        "electrified": "yes",
+        "railway": "monorail",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.534685,
+            27.9808032
+          ],
+          [
+            -82.5347038,
+            27.9799694
+          ],
+          [
+            -82.5347437,
+            27.9789087
+          ],
+          [
+            -82.5347435,
+            27.978912
+          ],
+          [
+            -82.5351866,
+            27.9787755
+          ],
+          [
+            -82.535412,
+            27.9786713
+          ],
+          [
+            -82.5354656,
+            27.9773732
+          ],
+          [
+            -82.5352617,
+            27.9769942
+          ],
+          [
+            -82.5343283,
+            27.9769753
+          ],
+          [
+            -82.5340065,
+            27.9773448
+          ],
+          [
+            -82.5340065,
+            27.9785955
+          ],
+          [
+            -82.5341889,
+            27.9787376
+          ],
+          [
+            -82.5347437,
+            27.9789087
+          ]
+        ]
+      }
+    }
+  ]
+}

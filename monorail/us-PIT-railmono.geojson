@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-03-03T23:20:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/240095807",
+      "properties": {
+        "@id": "way/240095807",
+        "layer": "-1",
+        "name": "Pittsburgh International Airport People Movers",
+        "railway": "monorail",
+        "tunnel": "yes",
+        "wikipedia": "en:Pittsburgh International Airport People Movers"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2460914,
+            40.4957725
+          ],
+          [
+            -80.2495859,
+            40.4958284
+          ],
+          [
+            -80.2545018,
+            40.4959071
+          ]
+        ]
+      }
+    }
+  ]
+}

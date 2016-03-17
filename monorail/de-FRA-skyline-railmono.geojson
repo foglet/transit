@@ -1,0 +1,1657 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-03-03T22:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23353053",
+      "properties": {
+        "@id": "way/23353053",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5685644,
+            50.0480559
+          ],
+          [
+            8.5685987,
+            50.0480967
+          ],
+          [
+            8.5689907,
+            50.0486314
+          ],
+          [
+            8.5692265,
+            50.0489442
+          ],
+          [
+            8.5692916,
+            50.0490148
+          ],
+          [
+            8.5693658,
+            50.0490876
+          ],
+          [
+            8.5694398,
+            50.0491414
+          ],
+          [
+            8.5695285,
+            50.0491967
+          ],
+          [
+            8.5695943,
+            50.0492297
+          ],
+          [
+            8.5696704,
+            50.0492658
+          ],
+          [
+            8.5697567,
+            50.0493007
+          ],
+          [
+            8.5698564,
+            50.0493329
+          ],
+          [
+            8.5699806,
+            50.0493675
+          ],
+          [
+            8.5712524,
+            50.0496707
+          ],
+          [
+            8.5713932,
+            50.0496963
+          ],
+          [
+            8.571529,
+            50.0497043
+          ],
+          [
+            8.5717844,
+            50.0497078
+          ],
+          [
+            8.5719147,
+            50.049715
+          ],
+          [
+            8.5720289,
+            50.0497309
+          ],
+          [
+            8.5721627,
+            50.049763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23353070",
+      "properties": {
+        "@id": "way/23353070",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "crossover",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5685987,
+            50.0480967
+          ],
+          [
+            8.5686281,
+            50.0481685
+          ],
+          [
+            8.5686242,
+            50.0482169
+          ],
+          [
+            8.568619,
+            50.0482478
+          ],
+          [
+            8.5686021,
+            50.0482878
+          ],
+          [
+            8.5686047,
+            50.0483246
+          ],
+          [
+            8.5686147,
+            50.0483671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23353072",
+      "properties": {
+        "@id": "way/23353072",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "crossover",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5686785,
+            50.0484636
+          ],
+          [
+            8.5687541,
+            50.0485114
+          ],
+          [
+            8.5688308,
+            50.0485423
+          ],
+          [
+            8.5689126,
+            50.048569
+          ],
+          [
+            8.5689477,
+            50.0485907
+          ],
+          [
+            8.5689907,
+            50.0486314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23353079",
+      "properties": {
+        "@id": "way/23353079",
+        "bridge": "yes",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "crossover",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5737261,
+            50.0501755
+          ],
+          [
+            8.57382,
+            50.0502298
+          ],
+          [
+            8.5738603,
+            50.0502754
+          ],
+          [
+            8.5738828,
+            50.0503057
+          ],
+          [
+            8.573946,
+            50.0503644
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23353082",
+      "properties": {
+        "@id": "way/23353082",
+        "bridge": "yes",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "crossover",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5742109,
+            50.0504762
+          ],
+          [
+            8.5742792,
+            50.0504829
+          ],
+          [
+            8.5743767,
+            50.0504888
+          ],
+          [
+            8.5744637,
+            50.050504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55955629",
+      "properties": {
+        "@id": "way/55955629",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5874362,
+            50.0523086
+          ],
+          [
+            8.5868212,
+            50.0521706
+          ],
+          [
+            8.5863144,
+            50.0520494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55955630",
+      "properties": {
+        "@id": "way/55955630",
+        "bridge": "yes",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "crossover",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5858982,
+            50.0518671
+          ],
+          [
+            8.5859476,
+            50.0518859
+          ],
+          [
+            8.5859816,
+            50.0519051
+          ],
+          [
+            8.586022,
+            50.0519333
+          ],
+          [
+            8.5860661,
+            50.0519683
+          ],
+          [
+            8.5861403,
+            50.0520076
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55955631",
+      "properties": {
+        "@id": "way/55955631",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "yard",
+        "start_date": "1994",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5927281,
+            50.0525985
+          ],
+          [
+            8.5933193,
+            50.052574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55955632",
+      "properties": {
+        "@id": "way/55955632",
+        "bridge": "yes",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5733091,
+            50.0500397
+          ],
+          [
+            8.5734734,
+            50.0500798
+          ],
+          [
+            8.5736054,
+            50.0501253
+          ],
+          [
+            8.5736975,
+            50.050164
+          ],
+          [
+            8.5737261,
+            50.0501755
+          ],
+          [
+            8.5739655,
+            50.0502761
+          ],
+          [
+            8.5744637,
+            50.050504
+          ],
+          [
+            8.5746047,
+            50.0505662
+          ],
+          [
+            8.5746598,
+            50.0505884
+          ],
+          [
+            8.5747167,
+            50.0506101
+          ],
+          [
+            8.574862,
+            50.0506549
+          ],
+          [
+            8.5750272,
+            50.050684
+          ],
+          [
+            8.5763197,
+            50.0510059
+          ],
+          [
+            8.5765177,
+            50.0510464
+          ],
+          [
+            8.5767335,
+            50.0510807
+          ],
+          [
+            8.5768917,
+            50.0510923
+          ],
+          [
+            8.5770303,
+            50.0510985
+          ],
+          [
+            8.5771896,
+            50.0511004
+          ],
+          [
+            8.5773119,
+            50.0510942
+          ],
+          [
+            8.5774711,
+            50.0510812
+          ],
+          [
+            8.5776628,
+            50.0510542
+          ],
+          [
+            8.5778547,
+            50.0510174
+          ],
+          [
+            8.5780618,
+            50.0509669
+          ],
+          [
+            8.5793854,
+            50.0506335
+          ],
+          [
+            8.579518,
+            50.0506066
+          ],
+          [
+            8.5796636,
+            50.0505842
+          ],
+          [
+            8.579806,
+            50.0505666
+          ],
+          [
+            8.5800001,
+            50.0505565
+          ],
+          [
+            8.5801637,
+            50.050558
+          ],
+          [
+            8.5803045,
+            50.0505646
+          ],
+          [
+            8.5804562,
+            50.0505816
+          ],
+          [
+            8.5806808,
+            50.0506221
+          ],
+          [
+            8.5809126,
+            50.0506732
+          ],
+          [
+            8.5811368,
+            50.0507265
+          ],
+          [
+            8.5817343,
+            50.0508685
+          ],
+          [
+            8.5846549,
+            50.0515827
+          ],
+          [
+            8.585564,
+            50.0518031
+          ],
+          [
+            8.585736,
+            50.0518361
+          ],
+          [
+            8.5858982,
+            50.0518671
+          ],
+          [
+            8.5860922,
+            50.0519112
+          ],
+          [
+            8.5863565,
+            50.0519752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55955633",
+      "properties": {
+        "@id": "way/55955633",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5863565,
+            50.0519752
+          ],
+          [
+            8.5868821,
+            50.0520984
+          ],
+          [
+            8.5874736,
+            50.0522371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55955635",
+      "properties": {
+        "@id": "way/55955635",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5721089,
+            50.049878
+          ],
+          [
+            8.5719724,
+            50.0498454
+          ],
+          [
+            8.5718943,
+            50.0498322
+          ],
+          [
+            8.5717936,
+            50.0498208
+          ],
+          [
+            8.5716405,
+            50.0498134
+          ],
+          [
+            8.571482,
+            50.0498086
+          ],
+          [
+            8.571354,
+            50.0498038
+          ],
+          [
+            8.5712336,
+            50.0497884
+          ],
+          [
+            8.5711016,
+            50.0497643
+          ],
+          [
+            8.5697462,
+            50.049433
+          ],
+          [
+            8.5696463,
+            50.0493973
+          ],
+          [
+            8.5695414,
+            50.0493542
+          ],
+          [
+            8.5694247,
+            50.0492918
+          ],
+          [
+            8.5693149,
+            50.0492256
+          ],
+          [
+            8.569237,
+            50.0491663
+          ],
+          [
+            8.56917,
+            50.0491088
+          ],
+          [
+            8.569118,
+            50.0490555
+          ],
+          [
+            8.569045,
+            50.048978
+          ],
+          [
+            8.5686785,
+            50.0484636
+          ],
+          [
+            8.5686147,
+            50.0483671
+          ],
+          [
+            8.5684072,
+            50.0481026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55955637",
+      "properties": {
+        "@id": "way/55955637",
+        "bridge": "yes",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "yard",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5874736,
+            50.0522371
+          ],
+          [
+            8.5876737,
+            50.0522857
+          ],
+          [
+            8.5884425,
+            50.0524738
+          ],
+          [
+            8.5893567,
+            50.0526862
+          ],
+          [
+            8.589707,
+            50.0527631
+          ],
+          [
+            8.5898323,
+            50.0527921
+          ],
+          [
+            8.5899423,
+            50.0528052
+          ],
+          [
+            8.59007,
+            50.0528121
+          ],
+          [
+            8.5902095,
+            50.0528104
+          ],
+          [
+            8.5903357,
+            50.0528036
+          ],
+          [
+            8.5916665,
+            50.0527119
+          ],
+          [
+            8.5919386,
+            50.0526862
+          ],
+          [
+            8.592077,
+            50.0526689
+          ],
+          [
+            8.5921695,
+            50.0526548
+          ],
+          [
+            8.5922444,
+            50.0526384
+          ],
+          [
+            8.5923487,
+            50.0526223
+          ],
+          [
+            8.5924568,
+            50.0526097
+          ],
+          [
+            8.5926013,
+            50.0526006
+          ],
+          [
+            8.5927281,
+            50.0525985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125031812",
+      "properties": {
+        "@id": "way/125031812",
+        "bridge": "yes",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "yard",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5923871,
+            50.0527174
+          ],
+          [
+            8.5921516,
+            50.0527137
+          ],
+          [
+            8.5919001,
+            50.0527296
+          ],
+          [
+            8.5903178,
+            50.0528435
+          ],
+          [
+            8.590185,
+            50.0528527
+          ],
+          [
+            8.5900758,
+            50.0528497
+          ],
+          [
+            8.5899951,
+            50.0528456
+          ],
+          [
+            8.5899067,
+            50.052837
+          ],
+          [
+            8.5898225,
+            50.0528271
+          ],
+          [
+            8.589739,
+            50.0528113
+          ],
+          [
+            8.5896758,
+            50.0527959
+          ],
+          [
+            8.5895068,
+            50.0527588
+          ],
+          [
+            8.5884762,
+            50.0525163
+          ],
+          [
+            8.5882088,
+            50.0524496
+          ],
+          [
+            8.5879218,
+            50.0524047
+          ],
+          [
+            8.5876932,
+            50.0523677
+          ],
+          [
+            8.5874362,
+            50.0523086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125031825",
+      "properties": {
+        "@id": "way/125031825",
+        "bridge": "yes",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "yard",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5923871,
+            50.0527174
+          ],
+          [
+            8.5927391,
+            50.0527076
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125031855",
+      "properties": {
+        "@id": "way/125031855",
+        "bridge": "yes",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5863144,
+            50.0520494
+          ],
+          [
+            8.5861403,
+            50.0520076
+          ],
+          [
+            8.5858262,
+            50.05193
+          ],
+          [
+            8.5857269,
+            50.0519027
+          ],
+          [
+            8.5855324,
+            50.0518386
+          ],
+          [
+            8.5853681,
+            50.0517919
+          ],
+          [
+            8.5817134,
+            50.0509001
+          ],
+          [
+            8.5810314,
+            50.0507377
+          ],
+          [
+            8.5806471,
+            50.0506598
+          ],
+          [
+            8.5804653,
+            50.0506394
+          ],
+          [
+            8.5803259,
+            50.0506305
+          ],
+          [
+            8.5801802,
+            50.0506301
+          ],
+          [
+            8.5800314,
+            50.0506331
+          ],
+          [
+            8.5798615,
+            50.0506491
+          ],
+          [
+            8.5797241,
+            50.0506663
+          ],
+          [
+            8.5796164,
+            50.0506891
+          ],
+          [
+            8.5781816,
+            50.0510483
+          ],
+          [
+            8.5779664,
+            50.0511006
+          ],
+          [
+            8.5777624,
+            50.0511409
+          ],
+          [
+            8.5776026,
+            50.0511663
+          ],
+          [
+            8.5774663,
+            50.0511787
+          ],
+          [
+            8.5773481,
+            50.0511861
+          ],
+          [
+            8.577216,
+            50.0511863
+          ],
+          [
+            8.5770486,
+            50.051174
+          ],
+          [
+            8.5769315,
+            50.0511652
+          ],
+          [
+            8.576763,
+            50.0511439
+          ],
+          [
+            8.5766052,
+            50.0511153
+          ],
+          [
+            8.5764463,
+            50.0510846
+          ],
+          [
+            8.5747122,
+            50.0506564
+          ],
+          [
+            8.5746144,
+            50.050632
+          ],
+          [
+            8.5745175,
+            50.0506026
+          ],
+          [
+            8.574441,
+            50.0505746
+          ],
+          [
+            8.5743656,
+            50.050543
+          ],
+          [
+            8.5742109,
+            50.0504762
+          ],
+          [
+            8.573946,
+            50.0503644
+          ],
+          [
+            8.5738422,
+            50.050308
+          ],
+          [
+            8.5737045,
+            50.050259
+          ],
+          [
+            8.5735215,
+            50.0502155
+          ],
+          [
+            8.5732724,
+            50.0501561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125031876",
+      "properties": {
+        "@id": "way/125031876",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "yard",
+        "start_date": "1994",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5933248,
+            50.0526285
+          ],
+          [
+            8.5927336,
+            50.052653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125031887",
+      "properties": {
+        "@id": "way/125031887",
+        "bridge": "yes",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "yard",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5927336,
+            50.052653
+          ],
+          [
+            8.5926138,
+            50.0526648
+          ],
+          [
+            8.5925188,
+            50.0526827
+          ],
+          [
+            8.5923871,
+            50.0527174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/138025723",
+      "properties": {
+        "@id": "way/138025723",
+        "name": "Squaire Metro",
+        "railway": "monorail",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5616988,
+            50.0515467
+          ],
+          [
+            8.5621381,
+            50.0516336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152367124",
+      "properties": {
+        "@id": "way/152367124",
+        "bridge": "yes",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "yard",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5879218,
+            50.0524047
+          ],
+          [
+            8.5878695,
+            50.0523834
+          ],
+          [
+            8.5877977,
+            50.0523544
+          ],
+          [
+            8.5877548,
+            50.0523236
+          ],
+          [
+            8.5876737,
+            50.0522857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191990760",
+      "properties": {
+        "@id": "way/191990760",
+        "bridge": "yes",
+        "layer": "3",
+        "name": "Squaire Metro",
+        "railway": "monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5621381,
+            50.0516336
+          ],
+          [
+            8.5623235,
+            50.0517056
+          ],
+          [
+            8.562574,
+            50.051813
+          ],
+          [
+            8.5628497,
+            50.0519552
+          ],
+          [
+            8.5631426,
+            50.0520865
+          ],
+          [
+            8.5633764,
+            50.052178
+          ],
+          [
+            8.5637099,
+            50.0522739
+          ],
+          [
+            8.5640286,
+            50.0523521
+          ],
+          [
+            8.5644502,
+            50.0524322
+          ],
+          [
+            8.5647774,
+            50.0524711
+          ],
+          [
+            8.5652006,
+            50.0524991
+          ],
+          [
+            8.5654439,
+            50.0525278
+          ],
+          [
+            8.5658461,
+            50.0525915
+          ],
+          [
+            8.5660237,
+            50.0526217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388220789",
+      "properties": {
+        "@id": "way/388220789",
+        "electrified": "rail",
+        "layer": "2",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "service": "yard",
+        "start_date": "1994",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5927391,
+            50.0527076
+          ],
+          [
+            8.5933303,
+            50.052683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388220790",
+      "properties": {
+        "@id": "way/388220790",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5725928,
+            50.0499935
+          ],
+          [
+            8.5722923,
+            50.0499218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388220791",
+      "properties": {
+        "@id": "way/388220791",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5732724,
+            50.0501561
+          ],
+          [
+            8.5731774,
+            50.0501333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388220792",
+      "properties": {
+        "@id": "way/388220792",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.573197,
+            50.0500122
+          ],
+          [
+            8.5733091,
+            50.0500397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388220793",
+      "properties": {
+        "@id": "way/388220793",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5723539,
+            50.0498088
+          ],
+          [
+            8.5726411,
+            50.0498776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388220794",
+      "properties": {
+        "@id": "way/388220794",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5721627,
+            50.049763
+          ],
+          [
+            8.5723539,
+            50.0498088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388220795",
+      "properties": {
+        "@id": "way/388220795",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5722923,
+            50.0499218
+          ],
+          [
+            8.5721089,
+            50.049878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388220796",
+      "properties": {
+        "@id": "way/388220796",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5731774,
+            50.0501333
+          ],
+          [
+            8.5728639,
+            50.0500582
+          ],
+          [
+            8.5725928,
+            50.0499935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388220797",
+      "properties": {
+        "@id": "way/388220797",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5679855,
+            50.0472344
+          ],
+          [
+            8.5683398,
+            50.0477372
+          ],
+          [
+            8.5685644,
+            50.0480559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388220798",
+      "properties": {
+        "@id": "way/388220798",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5726411,
+            50.0498776
+          ],
+          [
+            8.5729351,
+            50.0499481
+          ],
+          [
+            8.573197,
+            50.0500122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388220799",
+      "properties": {
+        "@id": "way/388220799",
+        "addr:floor": "4",
+        "electrified": "rail",
+        "level": "3",
+        "monorail": "rubber_tyres",
+        "monorail:note": "Technically this is not a monorail, as the \"rail\" is only for guidance and the vehicles run on rubber tyres.",
+        "name": "Sky Line",
+        "operator": "Fraport",
+        "railway": "monorail",
+        "start_date": "1994",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5684072,
+            50.0481026
+          ],
+          [
+            8.5681929,
+            50.047792
+          ],
+          [
+            8.5678453,
+            50.0472883
+          ]
+        ]
+      }
+    }
+  ]
+}

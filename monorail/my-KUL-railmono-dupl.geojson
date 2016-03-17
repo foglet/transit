@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-03-04T00:58:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/26746023",
+      "properties": {
+        "@id": "way/26746023",
+        "bridge": "yes",
+        "railway": "monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.7070265,
+            2.7503587
+          ],
+          [
+            101.706426,
+            2.7513032
+          ],
+          [
+            101.7061944,
+            2.7517638
+          ],
+          [
+            101.7060974,
+            2.7519457
+          ],
+          [
+            101.7057138,
+            2.7525219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26746025",
+      "properties": {
+        "@id": "way/26746025",
+        "bridge": "yes",
+        "railway": "monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.7120865,
+            2.746966
+          ],
+          [
+            101.7112717,
+            2.7464096
+          ],
+          [
+            101.7108988,
+            2.74618
+          ],
+          [
+            101.710749,
+            2.7461129
+          ],
+          [
+            101.7105685,
+            2.7460542
+          ],
+          [
+            101.7103754,
+            2.7460472
+          ],
+          [
+            101.7102102,
+            2.7460696
+          ],
+          [
+            101.7100157,
+            2.7461409
+          ],
+          [
+            101.7097736,
+            2.7463114
+          ],
+          [
+            101.7096519,
+            2.746454
+          ],
+          [
+            101.7079948,
+            2.7489354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26746027",
+      "properties": {
+        "@id": "way/26746027",
+        "created_by": "Potlatch 0.10b",
+        "layer": "-1",
+        "railway": "monorail",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.7079948,
+            2.7489354
+          ],
+          [
+            101.7070265,
+            2.7503587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/297941972",
+      "properties": {
+        "@id": "way/297941972",
+        "bridge": "yes",
+        "railway": "monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.7120925,
+            2.746939
+          ],
+          [
+            101.7109366,
+            2.7461576
+          ],
+          [
+            101.7107267,
+            2.7460584
+          ],
+          [
+            101.7105839,
+            2.7460206
+          ],
+          [
+            101.7103908,
+            2.7460025
+          ],
+          [
+            101.7102452,
+            2.7460151
+          ],
+          [
+            101.7100661,
+            2.7460654
+          ],
+          [
+            101.7098758,
+            2.7461688
+          ],
+          [
+            101.7097204,
+            2.7462918
+          ],
+          [
+            101.7095595,
+            2.7464973
+          ],
+          [
+            101.7079578,
+            2.7488993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/297941973",
+      "properties": {
+        "@id": "way/297941973",
+        "bridge": "yes",
+        "layer": "-1",
+        "railway": "monorail",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.7079578,
+            2.7488993
+          ],
+          [
+            101.7069998,
+            2.7503359
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/297941974",
+      "properties": {
+        "@id": "way/297941974",
+        "bridge": "yes",
+        "railway": "monorail"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.7056284,
+            2.7524518
+          ],
+          [
+            101.7062478,
+            2.7514376
+          ],
+          [
+            101.7064418,
+            2.7511787
+          ],
+          [
+            101.7069998,
+            2.7503359
+          ]
+        ]
+      }
+    }
+  ]
+}
