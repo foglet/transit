@@ -1,0 +1,7219 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-18T06:20:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/188088007",
+      "properties": {
+        "@id": "way/188088007",
+        "area": "yes",
+        "highway": "service",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60.6625239,
+              41.5612752
+            ],
+            [
+              60.6622349,
+              41.5617376
+            ],
+            [
+              60.6620403,
+              41.5619321
+            ],
+            [
+              60.6617762,
+              41.5620707
+            ],
+            [
+              60.6617938,
+              41.5617661
+            ],
+            [
+              60.6619357,
+              41.5615491
+            ],
+            [
+              60.6622647,
+              41.5611661
+            ],
+            [
+              60.6625693,
+              41.5611342
+            ],
+            [
+              60.6625239,
+              41.5612752
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31149155",
+      "properties": {
+        "@id": "way/31149155",
+        "bridge": "yes",
+        "frequency": "0",
+        "highway": "primary",
+        "layer": "1",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6317767,
+            41.5454215
+          ],
+          [
+            60.6317362,
+            41.546317
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31149156",
+      "properties": {
+        "@id": "way/31149156",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6317362,
+            41.546317
+          ],
+          [
+            60.6317107,
+            41.5473113
+          ],
+          [
+            60.6317898,
+            41.5475201
+          ],
+          [
+            60.6320099,
+            41.5476618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31149186",
+      "properties": {
+        "@id": "way/31149186",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6319696,
+            41.5424257
+          ],
+          [
+            60.6319579,
+            41.5425674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50344938",
+      "properties": {
+        "@id": "way/50344938",
+        "frequency": "0",
+        "highway": "residential",
+        "source": "GPS",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3630338,
+            41.3857865
+          ],
+          [
+            60.3628785,
+            41.3856117
+          ],
+          [
+            60.3627525,
+            41.3853339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/98114073",
+      "properties": {
+        "@id": "way/98114073",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3662816,
+            41.3962122
+          ],
+          [
+            60.3657183,
+            41.3957992
+          ],
+          [
+            60.3655912,
+            41.3957061
+          ],
+          [
+            60.365153,
+            41.3952003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107849015",
+      "properties": {
+        "@id": "way/107849015",
+        "frequency": "0",
+        "highway": "primary",
+        "lanes": "4",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6261529,
+            41.5492553
+          ],
+          [
+            60.6261631,
+            41.5491058
+          ],
+          [
+            60.6262183,
+            41.5489537
+          ],
+          [
+            60.6265948,
+            41.5485923
+          ],
+          [
+            60.6271673,
+            41.5482711
+          ],
+          [
+            60.6282717,
+            41.5477826
+          ],
+          [
+            60.62857,
+            41.5476922
+          ],
+          [
+            60.6290413,
+            41.5476285
+          ],
+          [
+            60.6310771,
+            41.5476513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108408332",
+      "properties": {
+        "@id": "way/108408332",
+        "frequency": "0",
+        "highway": "primary",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3662816,
+            41.3962122
+          ],
+          [
+            60.3867159,
+            41.4043692
+          ],
+          [
+            60.3877632,
+            41.4047872
+          ],
+          [
+            60.3991201,
+            41.4093673
+          ],
+          [
+            60.4157492,
+            41.416073
+          ],
+          [
+            60.4203669,
+            41.4179349
+          ],
+          [
+            60.4211844,
+            41.4184267
+          ],
+          [
+            60.4232192,
+            41.4203231
+          ],
+          [
+            60.4420735,
+            41.4376131
+          ],
+          [
+            60.4448684,
+            41.44025
+          ],
+          [
+            60.4606251,
+            41.4551756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110132999",
+      "properties": {
+        "@id": "way/110132999",
+        "frequency": "0",
+        "highway": "primary",
+        "lanes": "4",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6310568,
+            41.5519137
+          ],
+          [
+            60.6306498,
+            41.5519001
+          ],
+          [
+            60.630517,
+            41.5518972
+          ],
+          [
+            60.6262857,
+            41.5518054
+          ],
+          [
+            60.6261879,
+            41.5518033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176307",
+      "properties": {
+        "@id": "way/110176307",
+        "frequency": "0",
+        "highway": "primary",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6014483,
+            41.5353876
+          ],
+          [
+            60.6015573,
+            41.5360376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176308",
+      "properties": {
+        "@id": "way/110176308",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6020355,
+            41.5404555
+          ],
+          [
+            60.6021053,
+            41.5408215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176322",
+      "properties": {
+        "@id": "way/110176322",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6010507,
+            41.5348989
+          ],
+          [
+            60.600825,
+            41.5347019
+          ],
+          [
+            60.6006465,
+            41.5345411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176329",
+      "properties": {
+        "@id": "way/110176329",
+        "frequency": "0",
+        "highway": "primary",
+        "junction": "roundabout",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6012763,
+            41.5346081
+          ],
+          [
+            60.6015144,
+            41.5345987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176339",
+      "properties": {
+        "@id": "way/110176339",
+        "frequency": "0",
+        "highway": "primary",
+        "junction": "roundabout",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6015993,
+            41.5410701
+          ],
+          [
+            60.6016044,
+            41.5409477
+          ],
+          [
+            60.601727,
+            41.5408406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176348",
+      "properties": {
+        "@id": "way/110176348",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6006465,
+            41.5345411
+          ],
+          [
+            60.6009671,
+            41.5346269
+          ],
+          [
+            60.6012763,
+            41.5346081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176350",
+      "properties": {
+        "@id": "way/110176350",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6018548,
+            41.5407985
+          ],
+          [
+            60.6020355,
+            41.5404555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176366",
+      "properties": {
+        "@id": "way/110176366",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6014483,
+            41.5353876
+          ],
+          [
+            60.6012554,
+            41.5350741
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176368",
+      "properties": {
+        "@id": "way/110176368",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6022121,
+            41.5409975
+          ],
+          [
+            60.6025554,
+            41.5412074
+          ],
+          [
+            60.6090905,
+            41.5431164
+          ],
+          [
+            60.6097605,
+            41.5433121
+          ],
+          [
+            60.6147554,
+            41.5447712
+          ],
+          [
+            60.6153591,
+            41.5448038
+          ],
+          [
+            60.6155677,
+            41.544815
+          ],
+          [
+            60.6169716,
+            41.5447859
+          ],
+          [
+            60.625067,
+            41.5446978
+          ],
+          [
+            60.6259888,
+            41.5443856
+          ],
+          [
+            60.6300564,
+            41.5430418
+          ],
+          [
+            60.6316328,
+            41.5425235
+          ],
+          [
+            60.6317804,
+            41.542475
+          ],
+          [
+            60.6319696,
+            41.5424257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176374",
+      "properties": {
+        "@id": "way/110176374",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6015811,
+            41.5350628
+          ],
+          [
+            60.6014483,
+            41.5353876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110266758",
+      "properties": {
+        "@id": "way/110266758",
+        "frequency": "0",
+        "highway": "primary",
+        "lanes": "4",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6320099,
+            41.5476618
+          ],
+          [
+            60.6337507,
+            41.5477312
+          ],
+          [
+            60.6352167,
+            41.547795
+          ],
+          [
+            60.6361675,
+            41.5480309
+          ],
+          [
+            60.6364855,
+            41.5482977
+          ],
+          [
+            60.6365348,
+            41.5483821
+          ],
+          [
+            60.6366347,
+            41.548553
+          ],
+          [
+            60.6366156,
+            41.5497212
+          ],
+          [
+            60.6365821,
+            41.5506737
+          ],
+          [
+            60.6365457,
+            41.5517109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113406204",
+      "properties": {
+        "@id": "way/113406204",
+        "frequency": "0",
+        "highway": "residential",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3600237,
+            41.3864701
+          ],
+          [
+            60.359231,
+            41.385128
+          ],
+          [
+            60.3585388,
+            41.3840041
+          ],
+          [
+            60.3570261,
+            41.3816787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113406224",
+      "properties": {
+        "@id": "way/113406224",
+        "frequency": "0",
+        "highway": "residential",
+        "source": "GPS",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3627525,
+            41.3853339
+          ],
+          [
+            60.362047,
+            41.3836533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169264292",
+      "properties": {
+        "@id": "way/169264292",
+        "bridge": "yes",
+        "frequency": "0",
+        "highway": "primary",
+        "layer": "1",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6316353,
+            41.5463098
+          ],
+          [
+            60.6316692,
+            41.5454014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169264293",
+      "properties": {
+        "@id": "way/169264293",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6316692,
+            41.5454014
+          ],
+          [
+            60.6317408,
+            41.5438836
+          ],
+          [
+            60.6317651,
+            41.5426954
+          ],
+          [
+            60.6317704,
+            41.5426326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169264294",
+      "properties": {
+        "@id": "way/169264294",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6310771,
+            41.5476513
+          ],
+          [
+            60.6314054,
+            41.547568
+          ],
+          [
+            60.6315599,
+            41.5474778
+          ],
+          [
+            60.6316051,
+            41.547159
+          ],
+          [
+            60.6316353,
+            41.5463098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175848989",
+      "properties": {
+        "@id": "way/175848989",
+        "frequency": "0",
+        "highway": "primary",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6365457,
+            41.5517109
+          ],
+          [
+            60.6365462,
+            41.5519803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175848990",
+      "properties": {
+        "@id": "way/175848990",
+        "frequency": "0",
+        "highway": "primary",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6261879,
+            41.5518033
+          ],
+          [
+            60.6261822,
+            41.5515299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175997491",
+      "properties": {
+        "@id": "way/175997491",
+        "frequency": "0",
+        "highway": "primary",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5102686,
+            41.5005716
+          ],
+          [
+            60.5119224,
+            41.5020591
+          ],
+          [
+            60.5131831,
+            41.503193
+          ],
+          [
+            60.5205829,
+            41.5098481
+          ],
+          [
+            60.5211242,
+            41.5101672
+          ],
+          [
+            60.521677,
+            41.5104357
+          ],
+          [
+            60.5247109,
+            41.5113606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175997494",
+      "properties": {
+        "@id": "way/175997494",
+        "bridge": "yes",
+        "frequency": "0",
+        "highway": "primary",
+        "layer": "1",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5094808,
+            41.499863
+          ],
+          [
+            60.5102686,
+            41.5005716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175997513",
+      "properties": {
+        "@id": "way/175997513",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3658377,
+            41.395037
+          ],
+          [
+            60.3660226,
+            41.3955942
+          ],
+          [
+            60.3661853,
+            41.3959321
+          ],
+          [
+            60.3662816,
+            41.3962122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175997525",
+      "properties": {
+        "@id": "way/175997525",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.365153,
+            41.3952003
+          ],
+          [
+            60.3648871,
+            41.3946952
+          ],
+          [
+            60.3645838,
+            41.394119
+          ],
+          [
+            60.364429,
+            41.393825
+          ],
+          [
+            60.364174,
+            41.3933976
+          ],
+          [
+            60.3635918,
+            41.392422
+          ],
+          [
+            60.3632343,
+            41.3918229
+          ],
+          [
+            60.363167,
+            41.39171
+          ],
+          [
+            60.3623027,
+            41.3903516
+          ],
+          [
+            60.3616405,
+            41.3892882
+          ],
+          [
+            60.361345,
+            41.3888137
+          ],
+          [
+            60.3610374,
+            41.3883196
+          ],
+          [
+            60.3609232,
+            41.3881112
+          ],
+          [
+            60.3600237,
+            41.3864701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176155274",
+      "properties": {
+        "@id": "way/176155274",
+        "bridge": "yes",
+        "frequency": "0",
+        "highway": "primary",
+        "layer": "1",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.4606251,
+            41.4551756
+          ],
+          [
+            60.4611664,
+            41.455718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176155275",
+      "properties": {
+        "@id": "way/176155275",
+        "frequency": "0",
+        "highway": "primary",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.4611664,
+            41.455718
+          ],
+          [
+            60.4683536,
+            41.4625475
+          ],
+          [
+            60.4706061,
+            41.4646102
+          ],
+          [
+            60.486648,
+            41.4792638
+          ],
+          [
+            60.5010653,
+            41.4922484
+          ],
+          [
+            60.5069417,
+            41.4975792
+          ],
+          [
+            60.508422,
+            41.4989107
+          ],
+          [
+            60.5094808,
+            41.499863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176155287",
+      "properties": {
+        "@id": "way/176155287",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3630338,
+            41.3857865
+          ],
+          [
+            60.3635205,
+            41.3871243
+          ],
+          [
+            60.3635399,
+            41.3872561
+          ],
+          [
+            60.363616,
+            41.3877722
+          ],
+          [
+            60.3637087,
+            41.3884016
+          ],
+          [
+            60.3637287,
+            41.3885376
+          ],
+          [
+            60.3639277,
+            41.389888
+          ],
+          [
+            60.3658377,
+            41.395037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642727",
+      "properties": {
+        "@id": "way/184642727",
+        "frequency": "0",
+        "highway": "tertiary",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3584494,
+            41.3816143
+          ],
+          [
+            60.358756,
+            41.3817227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642731",
+      "properties": {
+        "@id": "way/184642731",
+        "frequency": "0",
+        "highway": "primary",
+        "lanes": "4",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6261822,
+            41.5515299
+          ],
+          [
+            60.6278278,
+            41.551435
+          ],
+          [
+            60.6261529,
+            41.5492553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642733",
+      "properties": {
+        "@id": "way/184642733",
+        "frequency": "0",
+        "highway": "primary",
+        "junction": "roundabout",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.601727,
+            41.5408406
+          ],
+          [
+            60.6018548,
+            41.5407985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642735",
+      "properties": {
+        "@id": "way/184642735",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6317993,
+            41.5519143
+          ],
+          [
+            60.6310568,
+            41.5519137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642740",
+      "properties": {
+        "@id": "way/184642740",
+        "frequency": "0",
+        "highway": "tertiary",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3570261,
+            41.3816787
+          ],
+          [
+            60.3584494,
+            41.3816143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642745",
+      "properties": {
+        "@id": "way/184642745",
+        "frequency": "0",
+        "highway": "primary",
+        "junction": "roundabout",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.601635,
+            41.5411773
+          ],
+          [
+            60.6015993,
+            41.5410701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642747",
+      "properties": {
+        "@id": "way/184642747",
+        "frequency": "0",
+        "highway": "primary",
+        "junction": "roundabout",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6021053,
+            41.5412193
+          ],
+          [
+            60.6019366,
+            41.5412767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642757",
+      "properties": {
+        "@id": "way/184642757",
+        "frequency": "0",
+        "highway": "primary",
+        "junction": "roundabout",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6021053,
+            41.5408215
+          ],
+          [
+            60.6022075,
+            41.5409171
+          ],
+          [
+            60.6022121,
+            41.5409975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642759",
+      "properties": {
+        "@id": "way/184642759",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6319579,
+            41.5425674
+          ],
+          [
+            60.6319169,
+            41.5426319
+          ],
+          [
+            60.6318756,
+            41.5438159
+          ],
+          [
+            60.6317767,
+            41.5454215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642764",
+      "properties": {
+        "@id": "way/184642764",
+        "frequency": "0",
+        "highway": "primary",
+        "junction": "roundabout",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6015144,
+            41.5345987
+          ],
+          [
+            60.6016982,
+            41.5347019
+          ],
+          [
+            60.6017358,
+            41.5348614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642766",
+      "properties": {
+        "@id": "way/184642766",
+        "frequency": "0",
+        "highway": "primary",
+        "junction": "roundabout",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6019366,
+            41.5412767
+          ],
+          [
+            60.601773,
+            41.5412385
+          ],
+          [
+            60.601635,
+            41.5411773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642773",
+      "properties": {
+        "@id": "way/184642773",
+        "frequency": "0",
+        "highway": "primary",
+        "junction": "roundabout",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6012554,
+            41.5350741
+          ],
+          [
+            60.6011426,
+            41.5350084
+          ],
+          [
+            60.6010507,
+            41.5348989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642776",
+      "properties": {
+        "@id": "way/184642776",
+        "frequency": "0",
+        "highway": "primary",
+        "lanes": "4",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6365462,
+            41.5519803
+          ],
+          [
+            60.6363536,
+            41.5519757
+          ],
+          [
+            60.6340979,
+            41.5519425
+          ],
+          [
+            60.6322689,
+            41.5519142
+          ],
+          [
+            60.6322102,
+            41.5519128
+          ],
+          [
+            60.6317993,
+            41.5519143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642781",
+      "properties": {
+        "@id": "way/184642781",
+        "frequency": "0",
+        "highway": "primary",
+        "junction": "roundabout",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6017358,
+            41.5348614
+          ],
+          [
+            60.6016952,
+            41.5349329
+          ],
+          [
+            60.6016523,
+            41.5350084
+          ],
+          [
+            60.6015811,
+            41.5350628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642783",
+      "properties": {
+        "@id": "way/184642783",
+        "frequency": "0",
+        "highway": "tertiary",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.358756,
+            41.3817227
+          ],
+          [
+            60.3590113,
+            41.3817569
+          ],
+          [
+            60.3599652,
+            41.3817155
+          ],
+          [
+            60.360778,
+            41.3817644
+          ],
+          [
+            60.3610662,
+            41.3817966
+          ],
+          [
+            60.361265,
+            41.3818037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642790",
+      "properties": {
+        "@id": "way/184642790",
+        "frequency": "0",
+        "highway": "primary",
+        "oneway": "yes",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6317704,
+            41.5426326
+          ],
+          [
+            60.6316227,
+            41.5426798
+          ],
+          [
+            60.625345,
+            41.5447527
+          ],
+          [
+            60.6248339,
+            41.5448436
+          ],
+          [
+            60.6155687,
+            41.544993
+          ],
+          [
+            60.615129,
+            41.5450034
+          ],
+          [
+            60.6094842,
+            41.5433536
+          ],
+          [
+            60.6025091,
+            41.541315
+          ],
+          [
+            60.6021053,
+            41.5412193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185255184",
+      "properties": {
+        "@id": "way/185255184",
+        "bridge": "yes",
+        "frequency": "0",
+        "highway": "residential",
+        "source": "GPS",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.362047,
+            41.3836533
+          ],
+          [
+            60.3619921,
+            41.3835225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185255185",
+      "properties": {
+        "@id": "way/185255185",
+        "frequency": "0",
+        "highway": "residential",
+        "source": "GPS",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3619921,
+            41.3835225
+          ],
+          [
+            60.3618142,
+            41.383102
+          ],
+          [
+            60.3616099,
+            41.3825688
+          ],
+          [
+            60.361265,
+            41.3818037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186586902",
+      "properties": {
+        "@id": "way/186586902",
+        "bridge": "yes",
+        "frequency": "0",
+        "highway": "primary",
+        "layer": "1",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5798534,
+            41.5281647
+          ],
+          [
+            60.5804196,
+            41.5283458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186586903",
+      "properties": {
+        "@id": "way/186586903",
+        "frequency": "0",
+        "highway": "primary",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5804196,
+            41.5283458
+          ],
+          [
+            60.5806902,
+            41.5284287
+          ],
+          [
+            60.5832394,
+            41.5292112
+          ],
+          [
+            60.5874939,
+            41.5305172
+          ],
+          [
+            60.5898822,
+            41.5312503
+          ],
+          [
+            60.591259,
+            41.5316711
+          ],
+          [
+            60.5927775,
+            41.5321351
+          ],
+          [
+            60.5937702,
+            41.5324385
+          ],
+          [
+            60.5950354,
+            41.5328251
+          ],
+          [
+            60.5965408,
+            41.5332852
+          ],
+          [
+            60.5988221,
+            41.5339823
+          ],
+          [
+            60.5999759,
+            41.5343357
+          ],
+          [
+            60.6006465,
+            41.5345411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186592629",
+      "properties": {
+        "@id": "way/186592629",
+        "frequency": "0",
+        "highway": "primary",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5428433,
+            41.516822
+          ],
+          [
+            60.5429439,
+            41.5168529
+          ],
+          [
+            60.5500626,
+            41.5190379
+          ],
+          [
+            60.5588516,
+            41.5217356
+          ],
+          [
+            60.5621916,
+            41.5227607
+          ],
+          [
+            60.5622592,
+            41.5227815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186592630",
+      "properties": {
+        "@id": "way/186592630",
+        "bridge": "yes",
+        "frequency": "0",
+        "highway": "primary",
+        "layer": "1",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5643297,
+            41.523417
+          ],
+          [
+            60.5648849,
+            41.5235874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186592631",
+      "properties": {
+        "@id": "way/186592631",
+        "bridge": "yes",
+        "frequency": "0",
+        "highway": "primary",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5424381,
+            41.516695
+          ],
+          [
+            60.5428433,
+            41.516822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186592632",
+      "properties": {
+        "@id": "way/186592632",
+        "frequency": "0",
+        "highway": "primary",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5648849,
+            41.5235874
+          ],
+          [
+            60.5701186,
+            41.5251937
+          ],
+          [
+            60.5742867,
+            41.526473
+          ],
+          [
+            60.5780153,
+            41.5276094
+          ],
+          [
+            60.5790194,
+            41.5279169
+          ],
+          [
+            60.5798534,
+            41.5281647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186593976",
+      "properties": {
+        "@id": "way/186593976",
+        "bridge": "yes",
+        "frequency": "0",
+        "highway": "primary",
+        "layer": "1",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5247109,
+            41.5113606
+          ],
+          [
+            60.5252375,
+            41.5115212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186593977",
+      "properties": {
+        "@id": "way/186593977",
+        "frequency": "0",
+        "highway": "primary",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5252375,
+            41.5115212
+          ],
+          [
+            60.5362896,
+            41.5148905
+          ],
+          [
+            60.5365978,
+            41.5149845
+          ],
+          [
+            60.5423988,
+            41.5166835
+          ],
+          [
+            60.5424381,
+            41.516695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186597407",
+      "properties": {
+        "@id": "way/186597407",
+        "bridge": "yes",
+        "frequency": "0",
+        "highway": "primary",
+        "layer": "1",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5622592,
+            41.5227815
+          ],
+          [
+            60.5624331,
+            41.5228349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186597408",
+      "properties": {
+        "@id": "way/186597408",
+        "frequency": "0",
+        "highway": "primary",
+        "nat_reg": "P158",
+        "ref": "P158",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5624331,
+            41.5228349
+          ],
+          [
+            60.5629911,
+            41.5230062
+          ],
+          [
+            60.5643297,
+            41.523417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188088001",
+      "properties": {
+        "@id": "way/188088001",
+        "highway": "service",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6622349,
+            41.5617376
+          ],
+          [
+            60.6636111,
+            41.5626075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188088004",
+      "properties": {
+        "@id": "way/188088004",
+        "highway": "service",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6613606,
+            41.5624907
+          ],
+          [
+            60.6616176,
+            41.5622293
+          ],
+          [
+            60.6617583,
+            41.5620903
+          ],
+          [
+            60.6617762,
+            41.5620707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188088005",
+      "properties": {
+        "@id": "way/188088005",
+        "highway": "service",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6620403,
+            41.5619321
+          ],
+          [
+            60.6631481,
+            41.5624564
+          ],
+          [
+            60.6630324,
+            41.5626577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188088006",
+      "properties": {
+        "@id": "way/188088006",
+        "highway": "service",
+        "trolley_wire": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6625239,
+            41.5612752
+          ],
+          [
+            60.663934,
+            41.5619511
+          ],
+          [
+            60.6640437,
+            41.562138
+          ],
+          [
+            60.6636111,
+            41.5626075
+          ],
+          [
+            60.6630324,
+            41.5626577
+          ],
+          [
+            60.6628636,
+            41.5628264
+          ],
+          [
+            60.662617,
+            41.5631093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253369634",
+      "properties": {
+        "@id": "way/253369634",
+        "frequency": "0",
+        "highway": "primary",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6019733,
+            41.5395563
+          ],
+          [
+            60.6020355,
+            41.5404555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253369635",
+      "properties": {
+        "@id": "way/253369635",
+        "bridge": "yes",
+        "frequency": "0",
+        "highway": "primary",
+        "trolley_wire": "yes",
+        "voltage": "550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6015573,
+            41.5360376
+          ],
+          [
+            60.6019733,
+            41.5395563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108408332",
+      "properties": {
+        "@id": "way/108408332",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3662816,
+            41.3962122
+          ],
+          [
+            60.3867159,
+            41.4043692
+          ],
+          [
+            60.3877632,
+            41.4047872
+          ],
+          [
+            60.3991201,
+            41.4093673
+          ],
+          [
+            60.4157492,
+            41.416073
+          ],
+          [
+            60.4203669,
+            41.4179349
+          ],
+          [
+            60.4211844,
+            41.4184267
+          ],
+          [
+            60.4232192,
+            41.4203231
+          ],
+          [
+            60.4420735,
+            41.4376131
+          ],
+          [
+            60.4448684,
+            41.44025
+          ],
+          [
+            60.4606251,
+            41.4551756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113406204",
+      "properties": {
+        "@id": "way/113406204",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3600237,
+            41.3864701
+          ],
+          [
+            60.359231,
+            41.385128
+          ],
+          [
+            60.3585388,
+            41.3840041
+          ],
+          [
+            60.3570261,
+            41.3816787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642727",
+      "properties": {
+        "@id": "way/184642727",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3584494,
+            41.3816143
+          ],
+          [
+            60.358756,
+            41.3817227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642740",
+      "properties": {
+        "@id": "way/184642740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3570261,
+            41.3816787
+          ],
+          [
+            60.3584494,
+            41.3816143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185255185",
+      "properties": {
+        "@id": "way/185255185",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3619921,
+            41.3835225
+          ],
+          [
+            60.3618142,
+            41.383102
+          ],
+          [
+            60.3616099,
+            41.3825688
+          ],
+          [
+            60.361265,
+            41.3818037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642783",
+      "properties": {
+        "@id": "way/184642783",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.358756,
+            41.3817227
+          ],
+          [
+            60.3590113,
+            41.3817569
+          ],
+          [
+            60.3599652,
+            41.3817155
+          ],
+          [
+            60.360778,
+            41.3817644
+          ],
+          [
+            60.3610662,
+            41.3817966
+          ],
+          [
+            60.361265,
+            41.3818037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50344938",
+      "properties": {
+        "@id": "way/50344938",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3630338,
+            41.3857865
+          ],
+          [
+            60.3628785,
+            41.3856117
+          ],
+          [
+            60.3627525,
+            41.3853339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113406224",
+      "properties": {
+        "@id": "way/113406224",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3627525,
+            41.3853339
+          ],
+          [
+            60.362047,
+            41.3836533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185255184",
+      "properties": {
+        "@id": "way/185255184",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.362047,
+            41.3836533
+          ],
+          [
+            60.3619921,
+            41.3835225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/98114073",
+      "properties": {
+        "@id": "way/98114073",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3662816,
+            41.3962122
+          ],
+          [
+            60.3657183,
+            41.3957992
+          ],
+          [
+            60.3655912,
+            41.3957061
+          ],
+          [
+            60.365153,
+            41.3952003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175997513",
+      "properties": {
+        "@id": "way/175997513",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3658377,
+            41.395037
+          ],
+          [
+            60.3660226,
+            41.3955942
+          ],
+          [
+            60.3661853,
+            41.3959321
+          ],
+          [
+            60.3662816,
+            41.3962122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175997525",
+      "properties": {
+        "@id": "way/175997525",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.365153,
+            41.3952003
+          ],
+          [
+            60.3648871,
+            41.3946952
+          ],
+          [
+            60.3645838,
+            41.394119
+          ],
+          [
+            60.364429,
+            41.393825
+          ],
+          [
+            60.364174,
+            41.3933976
+          ],
+          [
+            60.3635918,
+            41.392422
+          ],
+          [
+            60.3632343,
+            41.3918229
+          ],
+          [
+            60.363167,
+            41.39171
+          ],
+          [
+            60.3623027,
+            41.3903516
+          ],
+          [
+            60.3616405,
+            41.3892882
+          ],
+          [
+            60.361345,
+            41.3888137
+          ],
+          [
+            60.3610374,
+            41.3883196
+          ],
+          [
+            60.3609232,
+            41.3881112
+          ],
+          [
+            60.3600237,
+            41.3864701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176155287",
+      "properties": {
+        "@id": "way/176155287",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.3630338,
+            41.3857865
+          ],
+          [
+            60.3635205,
+            41.3871243
+          ],
+          [
+            60.3635399,
+            41.3872561
+          ],
+          [
+            60.363616,
+            41.3877722
+          ],
+          [
+            60.3637087,
+            41.3884016
+          ],
+          [
+            60.3637287,
+            41.3885376
+          ],
+          [
+            60.3639277,
+            41.389888
+          ],
+          [
+            60.3658377,
+            41.395037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176155275",
+      "properties": {
+        "@id": "way/176155275",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.4611664,
+            41.455718
+          ],
+          [
+            60.4683536,
+            41.4625475
+          ],
+          [
+            60.4706061,
+            41.4646102
+          ],
+          [
+            60.486648,
+            41.4792638
+          ],
+          [
+            60.5010653,
+            41.4922484
+          ],
+          [
+            60.5069417,
+            41.4975792
+          ],
+          [
+            60.508422,
+            41.4989107
+          ],
+          [
+            60.5094808,
+            41.499863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176155274",
+      "properties": {
+        "@id": "way/176155274",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.4606251,
+            41.4551756
+          ],
+          [
+            60.4611664,
+            41.455718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175997491",
+      "properties": {
+        "@id": "way/175997491",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5102686,
+            41.5005716
+          ],
+          [
+            60.5119224,
+            41.5020591
+          ],
+          [
+            60.5131831,
+            41.503193
+          ],
+          [
+            60.5205829,
+            41.5098481
+          ],
+          [
+            60.5211242,
+            41.5101672
+          ],
+          [
+            60.521677,
+            41.5104357
+          ],
+          [
+            60.5247109,
+            41.5113606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186593977",
+      "properties": {
+        "@id": "way/186593977",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5252375,
+            41.5115212
+          ],
+          [
+            60.5362896,
+            41.5148905
+          ],
+          [
+            60.5365978,
+            41.5149845
+          ],
+          [
+            60.5423988,
+            41.5166835
+          ],
+          [
+            60.5424381,
+            41.516695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175997494",
+      "properties": {
+        "@id": "way/175997494",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5094808,
+            41.499863
+          ],
+          [
+            60.5102686,
+            41.5005716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186593976",
+      "properties": {
+        "@id": "way/186593976",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5247109,
+            41.5113606
+          ],
+          [
+            60.5252375,
+            41.5115212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186592631",
+      "properties": {
+        "@id": "way/186592631",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5424381,
+            41.516695
+          ],
+          [
+            60.5428433,
+            41.516822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186592629",
+      "properties": {
+        "@id": "way/186592629",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5428433,
+            41.516822
+          ],
+          [
+            60.5429439,
+            41.5168529
+          ],
+          [
+            60.5500626,
+            41.5190379
+          ],
+          [
+            60.5588516,
+            41.5217356
+          ],
+          [
+            60.5621916,
+            41.5227607
+          ],
+          [
+            60.5622592,
+            41.5227815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186586903",
+      "properties": {
+        "@id": "way/186586903",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5804196,
+            41.5283458
+          ],
+          [
+            60.5806902,
+            41.5284287
+          ],
+          [
+            60.5832394,
+            41.5292112
+          ],
+          [
+            60.5874939,
+            41.5305172
+          ],
+          [
+            60.5898822,
+            41.5312503
+          ],
+          [
+            60.591259,
+            41.5316711
+          ],
+          [
+            60.5927775,
+            41.5321351
+          ],
+          [
+            60.5937702,
+            41.5324385
+          ],
+          [
+            60.5950354,
+            41.5328251
+          ],
+          [
+            60.5965408,
+            41.5332852
+          ],
+          [
+            60.5988221,
+            41.5339823
+          ],
+          [
+            60.5999759,
+            41.5343357
+          ],
+          [
+            60.6006465,
+            41.5345411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186592632",
+      "properties": {
+        "@id": "way/186592632",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5648849,
+            41.5235874
+          ],
+          [
+            60.5701186,
+            41.5251937
+          ],
+          [
+            60.5742867,
+            41.526473
+          ],
+          [
+            60.5780153,
+            41.5276094
+          ],
+          [
+            60.5790194,
+            41.5279169
+          ],
+          [
+            60.5798534,
+            41.5281647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186592630",
+      "properties": {
+        "@id": "way/186592630",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5643297,
+            41.523417
+          ],
+          [
+            60.5648849,
+            41.5235874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186597407",
+      "properties": {
+        "@id": "way/186597407",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5622592,
+            41.5227815
+          ],
+          [
+            60.5624331,
+            41.5228349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186597408",
+      "properties": {
+        "@id": "way/186597408",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5624331,
+            41.5228349
+          ],
+          [
+            60.5629911,
+            41.5230062
+          ],
+          [
+            60.5643297,
+            41.523417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186586902",
+      "properties": {
+        "@id": "way/186586902",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.5798534,
+            41.5281647
+          ],
+          [
+            60.5804196,
+            41.5283458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176348",
+      "properties": {
+        "@id": "way/110176348",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6006465,
+            41.5345411
+          ],
+          [
+            60.6009671,
+            41.5346269
+          ],
+          [
+            60.6012763,
+            41.5346081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642773",
+      "properties": {
+        "@id": "way/184642773",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6012554,
+            41.5350741
+          ],
+          [
+            60.6011426,
+            41.5350084
+          ],
+          [
+            60.6010507,
+            41.5348989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253369634",
+      "properties": {
+        "@id": "way/253369634",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6019733,
+            41.5395563
+          ],
+          [
+            60.6020355,
+            41.5404555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176322",
+      "properties": {
+        "@id": "way/110176322",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6010507,
+            41.5348989
+          ],
+          [
+            60.600825,
+            41.5347019
+          ],
+          [
+            60.6006465,
+            41.5345411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176307",
+      "properties": {
+        "@id": "way/110176307",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6014483,
+            41.5353876
+          ],
+          [
+            60.6015573,
+            41.5360376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176329",
+      "properties": {
+        "@id": "way/110176329",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6012763,
+            41.5346081
+          ],
+          [
+            60.6015144,
+            41.5345987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176366",
+      "properties": {
+        "@id": "way/110176366",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6014483,
+            41.5353876
+          ],
+          [
+            60.6012554,
+            41.5350741
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176374",
+      "properties": {
+        "@id": "way/110176374",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6015811,
+            41.5350628
+          ],
+          [
+            60.6014483,
+            41.5353876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642764",
+      "properties": {
+        "@id": "way/184642764",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6015144,
+            41.5345987
+          ],
+          [
+            60.6016982,
+            41.5347019
+          ],
+          [
+            60.6017358,
+            41.5348614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642781",
+      "properties": {
+        "@id": "way/184642781",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6017358,
+            41.5348614
+          ],
+          [
+            60.6016952,
+            41.5349329
+          ],
+          [
+            60.6016523,
+            41.5350084
+          ],
+          [
+            60.6015811,
+            41.5350628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253369635",
+      "properties": {
+        "@id": "way/253369635",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          },
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6015573,
+            41.5360376
+          ],
+          [
+            60.6019733,
+            41.5395563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176368",
+      "properties": {
+        "@id": "way/110176368",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6022121,
+            41.5409975
+          ],
+          [
+            60.6025554,
+            41.5412074
+          ],
+          [
+            60.6090905,
+            41.5431164
+          ],
+          [
+            60.6097605,
+            41.5433121
+          ],
+          [
+            60.6147554,
+            41.5447712
+          ],
+          [
+            60.6153591,
+            41.5448038
+          ],
+          [
+            60.6155677,
+            41.544815
+          ],
+          [
+            60.6169716,
+            41.5447859
+          ],
+          [
+            60.625067,
+            41.5446978
+          ],
+          [
+            60.6259888,
+            41.5443856
+          ],
+          [
+            60.6300564,
+            41.5430418
+          ],
+          [
+            60.6316328,
+            41.5425235
+          ],
+          [
+            60.6317804,
+            41.542475
+          ],
+          [
+            60.6319696,
+            41.5424257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642790",
+      "properties": {
+        "@id": "way/184642790",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6317704,
+            41.5426326
+          ],
+          [
+            60.6316227,
+            41.5426798
+          ],
+          [
+            60.625345,
+            41.5447527
+          ],
+          [
+            60.6248339,
+            41.5448436
+          ],
+          [
+            60.6155687,
+            41.544993
+          ],
+          [
+            60.615129,
+            41.5450034
+          ],
+          [
+            60.6094842,
+            41.5433536
+          ],
+          [
+            60.6025091,
+            41.541315
+          ],
+          [
+            60.6021053,
+            41.5412193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176308",
+      "properties": {
+        "@id": "way/110176308",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6020355,
+            41.5404555
+          ],
+          [
+            60.6021053,
+            41.5408215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176339",
+      "properties": {
+        "@id": "way/110176339",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6015993,
+            41.5410701
+          ],
+          [
+            60.6016044,
+            41.5409477
+          ],
+          [
+            60.601727,
+            41.5408406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110176350",
+      "properties": {
+        "@id": "way/110176350",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6018548,
+            41.5407985
+          ],
+          [
+            60.6020355,
+            41.5404555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642733",
+      "properties": {
+        "@id": "way/184642733",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.601727,
+            41.5408406
+          ],
+          [
+            60.6018548,
+            41.5407985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642745",
+      "properties": {
+        "@id": "way/184642745",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.601635,
+            41.5411773
+          ],
+          [
+            60.6015993,
+            41.5410701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642747",
+      "properties": {
+        "@id": "way/184642747",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6021053,
+            41.5412193
+          ],
+          [
+            60.6019366,
+            41.5412767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642757",
+      "properties": {
+        "@id": "way/184642757",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6021053,
+            41.5408215
+          ],
+          [
+            60.6022075,
+            41.5409171
+          ],
+          [
+            60.6022121,
+            41.5409975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642766",
+      "properties": {
+        "@id": "way/184642766",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6019366,
+            41.5412767
+          ],
+          [
+            60.601773,
+            41.5412385
+          ],
+          [
+            60.601635,
+            41.5411773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31149155",
+      "properties": {
+        "@id": "way/31149155",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6317767,
+            41.5454215
+          ],
+          [
+            60.6317362,
+            41.546317
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31149186",
+      "properties": {
+        "@id": "way/31149186",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6319696,
+            41.5424257
+          ],
+          [
+            60.6319579,
+            41.5425674
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169264292",
+      "properties": {
+        "@id": "way/169264292",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6316353,
+            41.5463098
+          ],
+          [
+            60.6316692,
+            41.5454014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169264293",
+      "properties": {
+        "@id": "way/169264293",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6316692,
+            41.5454014
+          ],
+          [
+            60.6317408,
+            41.5438836
+          ],
+          [
+            60.6317651,
+            41.5426954
+          ],
+          [
+            60.6317704,
+            41.5426326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642759",
+      "properties": {
+        "@id": "way/184642759",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6319579,
+            41.5425674
+          ],
+          [
+            60.6319169,
+            41.5426319
+          ],
+          [
+            60.6318756,
+            41.5438159
+          ],
+          [
+            60.6317767,
+            41.5454215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31149156",
+      "properties": {
+        "@id": "way/31149156",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6317362,
+            41.546317
+          ],
+          [
+            60.6317107,
+            41.5473113
+          ],
+          [
+            60.6317898,
+            41.5475201
+          ],
+          [
+            60.6320099,
+            41.5476618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107849015",
+      "properties": {
+        "@id": "way/107849015",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6261529,
+            41.5492553
+          ],
+          [
+            60.6261631,
+            41.5491058
+          ],
+          [
+            60.6262183,
+            41.5489537
+          ],
+          [
+            60.6265948,
+            41.5485923
+          ],
+          [
+            60.6271673,
+            41.5482711
+          ],
+          [
+            60.6282717,
+            41.5477826
+          ],
+          [
+            60.62857,
+            41.5476922
+          ],
+          [
+            60.6290413,
+            41.5476285
+          ],
+          [
+            60.6310771,
+            41.5476513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110132999",
+      "properties": {
+        "@id": "way/110132999",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6310568,
+            41.5519137
+          ],
+          [
+            60.6306498,
+            41.5519001
+          ],
+          [
+            60.630517,
+            41.5518972
+          ],
+          [
+            60.6262857,
+            41.5518054
+          ],
+          [
+            60.6261879,
+            41.5518033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110266758",
+      "properties": {
+        "@id": "way/110266758",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6320099,
+            41.5476618
+          ],
+          [
+            60.6337507,
+            41.5477312
+          ],
+          [
+            60.6352167,
+            41.547795
+          ],
+          [
+            60.6361675,
+            41.5480309
+          ],
+          [
+            60.6364855,
+            41.5482977
+          ],
+          [
+            60.6365348,
+            41.5483821
+          ],
+          [
+            60.6366347,
+            41.548553
+          ],
+          [
+            60.6366156,
+            41.5497212
+          ],
+          [
+            60.6365821,
+            41.5506737
+          ],
+          [
+            60.6365457,
+            41.5517109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169264294",
+      "properties": {
+        "@id": "way/169264294",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6310771,
+            41.5476513
+          ],
+          [
+            60.6314054,
+            41.547568
+          ],
+          [
+            60.6315599,
+            41.5474778
+          ],
+          [
+            60.6316051,
+            41.547159
+          ],
+          [
+            60.6316353,
+            41.5463098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642731",
+      "properties": {
+        "@id": "way/184642731",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459290,
+            "reltags": {
+              "from": "Ургенч",
+              "name": "Троллейбус №2: Ургенч - Хива",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Хива",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6261822,
+            41.5515299
+          ],
+          [
+            60.6278278,
+            41.551435
+          ],
+          [
+            60.6261529,
+            41.5492553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642776",
+      "properties": {
+        "@id": "way/184642776",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6365462,
+            41.5519803
+          ],
+          [
+            60.6363536,
+            41.5519757
+          ],
+          [
+            60.6340979,
+            41.5519425
+          ],
+          [
+            60.6322689,
+            41.5519142
+          ],
+          [
+            60.6322102,
+            41.5519128
+          ],
+          [
+            60.6317993,
+            41.5519143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175848990",
+      "properties": {
+        "@id": "way/175848990",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6261879,
+            41.5518033
+          ],
+          [
+            60.6261822,
+            41.5515299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184642735",
+      "properties": {
+        "@id": "way/184642735",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6317993,
+            41.5519143
+          ],
+          [
+            60.6310568,
+            41.5519137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175848989",
+      "properties": {
+        "@id": "way/175848989",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2459291,
+            "reltags": {
+              "frequency": "0",
+              "from": "Хива",
+              "name": "Троллейбус №2: Хива - Ургенч",
+              "operator": "Хоразм троллейбус",
+              "ref": "2",
+              "route": "trolleybus",
+              "to": "Ургенч",
+              "trolley_wire": "yes",
+              "type": "route",
+              "voltage": "550",
+              "wikipedia": "ru:Ургенчский_троллейбус",
+              "wikipedia:ru": "Ургенчский_троллейбус"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            60.6365457,
+            41.5517109
+          ],
+          [
+            60.6365462,
+            41.5519803
+          ]
+        ]
+      }
+    }
+  ]
+}
