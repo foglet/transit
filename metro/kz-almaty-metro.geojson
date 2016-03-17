@@ -1,0 +1,420 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-01-27T21:37:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/244967942",
+      "properties": {
+        "@id": "way/244967942",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5555280,
+            "reltags": {
+              "colour": "red",
+              "name": "Бірінші бағыт",
+              "name:kk": "Бірінші бағыт",
+              "name:ru": "Первая линия",
+              "operator": "КГП «Метрополитен»",
+              "public_transport:version": "2",
+              "route": "subway",
+              "type": "route",
+              "website": "metroalmaty.kz",
+              "wikipedia:en": "Almaty Metro",
+              "wikipedia:ru": "Алма-Атинский_метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.9446138,
+            43.2709642
+          ],
+          [
+            76.9444435,
+            43.2598521
+          ],
+          [
+            76.9453376,
+            43.2508241
+          ],
+          [
+            76.950608,
+            43.2427507
+          ],
+          [
+            76.9496403,
+            43.2418865
+          ],
+          [
+            76.9289227,
+            43.2413007
+          ],
+          [
+            76.9171962,
+            43.2403447
+          ],
+          [
+            76.8976467,
+            43.238576
+          ],
+          [
+            76.8781545,
+            43.2370913
+          ],
+          [
+            76.8775297,
+            43.2368743
+          ],
+          [
+            76.8772582,
+            43.2367727
+          ],
+          [
+            76.8767375,
+            43.2365843
+          ],
+          [
+            76.8757029,
+            43.236169
+          ],
+          [
+            76.8741773,
+            43.2353957
+          ],
+          [
+            76.8730776,
+            43.2347741
+          ],
+          [
+            76.8719457,
+            43.2339988
+          ],
+          [
+            76.8707871,
+            43.2331192
+          ],
+          [
+            76.8699444,
+            43.2324821
+          ],
+          [
+            76.868888,
+            43.231683
+          ],
+          [
+            76.8681018,
+            43.2310915
+          ],
+          [
+            76.8673044,
+            43.2304852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3464799078",
+      "properties": {
+        "@id": "node/3464799078",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5555280,
+            "reltags": {
+              "colour": "red",
+              "name": "Бірінші бағыт",
+              "name:kk": "Бірінші бағыт",
+              "name:ru": "Первая линия",
+              "operator": "КГП «Метрополитен»",
+              "public_transport:version": "2",
+              "route": "subway",
+              "type": "route",
+              "website": "metroalmaty.kz",
+              "wikipedia:en": "Almaty Metro",
+              "wikipedia:ru": "Алма-Атинский_метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8673044,
+          43.2304852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3464799079",
+      "properties": {
+        "@id": "node/3464799079",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5555280,
+            "reltags": {
+              "colour": "red",
+              "name": "Бірінші бағыт",
+              "name:kk": "Бірінші бағыт",
+              "name:ru": "Первая линия",
+              "operator": "КГП «Метрополитен»",
+              "public_transport:version": "2",
+              "route": "subway",
+              "type": "route",
+              "website": "metroalmaty.kz",
+              "wikipedia:en": "Almaty Metro",
+              "wikipedia:ru": "Алма-Атинский_метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8772582,
+          43.2367727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2522351050",
+      "properties": {
+        "@id": "node/2522351050",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5555280,
+            "reltags": {
+              "colour": "red",
+              "name": "Бірінші бағыт",
+              "name:kk": "Бірінші бағыт",
+              "name:ru": "Первая линия",
+              "operator": "КГП «Метрополитен»",
+              "public_transport:version": "2",
+              "route": "subway",
+              "type": "route",
+              "website": "metroalmaty.kz",
+              "wikipedia:en": "Almaty Metro",
+              "wikipedia:ru": "Алма-Атинский_метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8976467,
+          43.238576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2522351055",
+      "properties": {
+        "@id": "node/2522351055",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5555280,
+            "reltags": {
+              "colour": "red",
+              "name": "Бірінші бағыт",
+              "name:kk": "Бірінші бағыт",
+              "name:ru": "Первая линия",
+              "operator": "КГП «Метрополитен»",
+              "public_transport:version": "2",
+              "route": "subway",
+              "type": "route",
+              "website": "metroalmaty.kz",
+              "wikipedia:en": "Almaty Metro",
+              "wikipedia:ru": "Алма-Атинский_метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9171962,
+          43.2403447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2522351052",
+      "properties": {
+        "@id": "node/2522351052",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5555280,
+            "reltags": {
+              "colour": "red",
+              "name": "Бірінші бағыт",
+              "name:kk": "Бірінші бағыт",
+              "name:ru": "Первая линия",
+              "operator": "КГП «Метрополитен»",
+              "public_transport:version": "2",
+              "route": "subway",
+              "type": "route",
+              "website": "metroalmaty.kz",
+              "wikipedia:en": "Almaty Metro",
+              "wikipedia:ru": "Алма-Атинский_метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9289227,
+          43.2413007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2522351049",
+      "properties": {
+        "@id": "node/2522351049",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5555280,
+            "reltags": {
+              "colour": "red",
+              "name": "Бірінші бағыт",
+              "name:kk": "Бірінші бағыт",
+              "name:ru": "Первая линия",
+              "operator": "КГП «Метрополитен»",
+              "public_transport:version": "2",
+              "route": "subway",
+              "type": "route",
+              "website": "metroalmaty.kz",
+              "wikipedia:en": "Almaty Metro",
+              "wikipedia:ru": "Алма-Атинский_метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.950608,
+          43.2427507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2522351051",
+      "properties": {
+        "@id": "node/2522351051",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5555280,
+            "reltags": {
+              "colour": "red",
+              "name": "Бірінші бағыт",
+              "name:kk": "Бірінші бағыт",
+              "name:ru": "Первая линия",
+              "operator": "КГП «Метрополитен»",
+              "public_transport:version": "2",
+              "route": "subway",
+              "type": "route",
+              "website": "metroalmaty.kz",
+              "wikipedia:en": "Almaty Metro",
+              "wikipedia:ru": "Алма-Атинский_метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9453376,
+          43.2508241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2522351053",
+      "properties": {
+        "@id": "node/2522351053",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5555280,
+            "reltags": {
+              "colour": "red",
+              "name": "Бірінші бағыт",
+              "name:kk": "Бірінші бағыт",
+              "name:ru": "Первая линия",
+              "operator": "КГП «Метрополитен»",
+              "public_transport:version": "2",
+              "route": "subway",
+              "type": "route",
+              "website": "metroalmaty.kz",
+              "wikipedia:en": "Almaty Metro",
+              "wikipedia:ru": "Алма-Атинский_метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9444435,
+          43.2598521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2522351054",
+      "properties": {
+        "@id": "node/2522351054",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 5555280,
+            "reltags": {
+              "colour": "red",
+              "name": "Бірінші бағыт",
+              "name:kk": "Бірінші бағыт",
+              "name:ru": "Первая линия",
+              "operator": "КГП «Метрополитен»",
+              "public_transport:version": "2",
+              "route": "subway",
+              "type": "route",
+              "website": "metroalmaty.kz",
+              "wikipedia:en": "Almaty Metro",
+              "wikipedia:ru": "Алма-Атинский_метрополитен"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9446138,
+          43.2709642
+        ]
+      }
+    }
+  ]
+}

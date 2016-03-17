@@ -1,0 +1,1517 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-16T08:51:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/320760762",
+      "properties": {
+        "@id": "way/320760762",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9281965,
+            35.1331325
+          ],
+          [
+            126.9281009,
+            35.1333036
+          ],
+          [
+            126.9278436,
+            35.1337211
+          ],
+          [
+            126.9276242,
+            35.1340651
+          ],
+          [
+            126.9271892,
+            35.1347218
+          ],
+          [
+            126.9265606,
+            35.1354691
+          ],
+          [
+            126.9253932,
+            35.1367874
+          ],
+          [
+            126.9237712,
+            35.1382695
+          ],
+          [
+            126.922902,
+            35.1394062
+          ],
+          [
+            126.922356,
+            35.1402171
+          ],
+          [
+            126.9213404,
+            35.1414698
+          ],
+          [
+            126.9206236,
+            35.1424719
+          ],
+          [
+            126.9204839,
+            35.1428008
+          ],
+          [
+            126.9204888,
+            35.1450449
+          ],
+          [
+            126.9195332,
+            35.1471807
+          ],
+          [
+            126.9187726,
+            35.1480777
+          ],
+          [
+            126.9170024,
+            35.1491743
+          ],
+          [
+            126.915474,
+            35.1501957
+          ],
+          [
+            126.9147815,
+            35.1506393
+          ],
+          [
+            126.9123192,
+            35.1522928
+          ],
+          [
+            126.9100288,
+            35.1537794
+          ],
+          [
+            126.9097926,
+            35.1539244
+          ],
+          [
+            126.9075288,
+            35.1554727
+          ],
+          [
+            126.9050558,
+            35.1570472
+          ],
+          [
+            126.9043423,
+            35.1565209
+          ],
+          [
+            126.9032265,
+            35.1556832
+          ],
+          [
+            126.9021215,
+            35.1548674
+          ],
+          [
+            126.9017218,
+            35.1545606
+          ],
+          [
+            126.9014616,
+            35.1543455
+          ],
+          [
+            126.9003941,
+            35.1535078
+          ],
+          [
+            126.9000508,
+            35.1532139
+          ],
+          [
+            126.8978859,
+            35.1525657
+          ],
+          [
+            126.8957056,
+            35.1518542
+          ],
+          [
+            126.8955672,
+            35.1518098
+          ],
+          [
+            126.8941607,
+            35.1513542
+          ],
+          [
+            126.8927605,
+            35.1509068
+          ],
+          [
+            126.8919183,
+            35.15067
+          ],
+          [
+            126.8911244,
+            35.1506875
+          ],
+          [
+            126.8902232,
+            35.1510165
+          ],
+          [
+            126.8892469,
+            35.1516437
+          ],
+          [
+            126.8885495,
+            35.152442
+          ],
+          [
+            126.8872191,
+            35.1535297
+          ],
+          [
+            126.8860979,
+            35.153578
+          ],
+          [
+            126.8843362,
+            35.153317
+          ],
+          [
+            126.884038,
+            35.1532665
+          ],
+          [
+            126.8827452,
+            35.1530779
+          ],
+          [
+            126.8814079,
+            35.1528265
+          ],
+          [
+            126.8788184,
+            35.1523323
+          ],
+          [
+            126.8768144,
+            35.1519385
+          ],
+          [
+            126.8764956,
+            35.1518762
+          ],
+          [
+            126.8746556,
+            35.1517183
+          ],
+          [
+            126.8724482,
+            35.1516376
+          ],
+          [
+            126.8695433,
+            35.1515735
+          ],
+          [
+            126.8666627,
+            35.1515033
+          ],
+          [
+            126.8645544,
+            35.1514156
+          ],
+          [
+            126.8623872,
+            35.1511086
+          ],
+          [
+            126.8621617,
+            35.1510861
+          ],
+          [
+            126.8598311,
+            35.1506814
+          ],
+          [
+            126.8585836,
+            35.1504728
+          ],
+          [
+            126.8567975,
+            35.1502094
+          ],
+          [
+            126.8555047,
+            35.1498673
+          ],
+          [
+            126.8522975,
+            35.1485524
+          ],
+          [
+            126.8496253,
+            35.1472926
+          ],
+          [
+            126.8486298,
+            35.14681
+          ],
+          [
+            126.84642,
+            35.1457117
+          ],
+          [
+            126.8430619,
+            35.1440317
+          ],
+          [
+            126.8415321,
+            35.1432469
+          ],
+          [
+            126.8390708,
+            35.1420095
+          ],
+          [
+            126.836815,
+            35.1409453
+          ],
+          [
+            126.8357207,
+            35.1404934
+          ],
+          [
+            126.8338646,
+            35.1401951
+          ],
+          [
+            126.8322606,
+            35.1401995
+          ],
+          [
+            126.8307881,
+            35.140461
+          ],
+          [
+            126.8285216,
+            35.141033
+          ],
+          [
+            126.8262003,
+            35.1416418
+          ],
+          [
+            126.8246003,
+            35.1420946
+          ],
+          [
+            126.821446,
+            35.1426122
+          ],
+          [
+            126.8183641,
+            35.1430798
+          ],
+          [
+            126.8153627,
+            35.1435114
+          ],
+          [
+            126.8116505,
+            35.1440314
+          ],
+          [
+            126.8114091,
+            35.1440641
+          ],
+          [
+            126.8097569,
+            35.1441519
+          ],
+          [
+            126.8068923,
+            35.144051
+          ],
+          [
+            126.8034591,
+            35.1437659
+          ],
+          [
+            126.8025149,
+            35.1436781
+          ],
+          [
+            126.799999,
+            35.1434588
+          ],
+          [
+            126.7996019,
+            35.1434413
+          ],
+          [
+            126.7976119,
+            35.1432526
+          ],
+          [
+            126.7968716,
+            35.1430552
+          ],
+          [
+            126.7961045,
+            35.1425859
+          ],
+          [
+            126.7946507,
+            35.1413883
+          ],
+          [
+            126.7935885,
+            35.1402609
+          ],
+          [
+            126.7925425,
+            35.1387387
+          ],
+          [
+            126.7917784,
+            35.137576
+          ],
+          [
+            126.7916252,
+            35.137313
+          ],
+          [
+            126.7904772,
+            35.1355626
+          ],
+          [
+            126.7896189,
+            35.134207
+          ],
+          [
+            126.7885194,
+            35.1324461
+          ],
+          [
+            126.788311,
+            35.1321517
+          ],
+          [
+            126.7877574,
+            35.1313905
+          ],
+          [
+            126.7861408,
+            35.1307606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133325301",
+      "properties": {
+        "@id": "way/133325301",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.7609728,
+            35.1211765
+          ],
+          [
+            126.7615628,
+            35.1217645
+          ],
+          [
+            126.7619931,
+            35.1220791
+          ],
+          [
+            126.7625081,
+            35.1224081
+          ],
+          [
+            126.7633122,
+            35.1231205
+          ],
+          [
+            126.7640533,
+            35.123772
+          ],
+          [
+            126.764425,
+            35.1240197
+          ],
+          [
+            126.7650093,
+            35.1242544
+          ],
+          [
+            126.7655854,
+            35.1244067
+          ],
+          [
+            126.7674769,
+            35.1245976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133325320",
+      "properties": {
+        "@id": "way/133325320",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.7674769,
+            35.1245976
+          ],
+          [
+            126.7696229,
+            35.12479
+          ],
+          [
+            126.7742895,
+            35.1251537
+          ],
+          [
+            126.7756969,
+            35.1253756
+          ],
+          [
+            126.7768844,
+            35.1257892
+          ],
+          [
+            126.782111,
+            35.1285891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/133325289",
+      "properties": {
+        "@id": "way/133325289",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.782111,
+            35.1285891
+          ],
+          [
+            126.7851091,
+            35.1301838
+          ],
+          [
+            126.7861408,
+            35.1307606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137187224",
+      "properties": {
+        "@id": "way/137187224",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9353282,
+            35.1135063
+          ],
+          [
+            126.935327,
+            35.1135804
+          ],
+          [
+            126.9352539,
+            35.1147361
+          ],
+          [
+            126.934736,
+            35.1160398
+          ],
+          [
+            126.9339754,
+            35.1180567
+          ],
+          [
+            126.9337452,
+            35.1185458
+          ],
+          [
+            126.9335403,
+            35.1197536
+          ],
+          [
+            126.9334287,
+            35.1204633
+          ],
+          [
+            126.9331122,
+            35.121358
+          ],
+          [
+            126.9325489,
+            35.1228764
+          ],
+          [
+            126.9323376,
+            35.1234516
+          ],
+          [
+            126.932282,
+            35.1236624
+          ],
+          [
+            126.932204,
+            35.1238552
+          ],
+          [
+            126.9315962,
+            35.1256081
+          ],
+          [
+            126.9308978,
+            35.1272933
+          ],
+          [
+            126.9299617,
+            35.1292163
+          ],
+          [
+            126.9290403,
+            35.1313235
+          ],
+          [
+            126.9281965,
+            35.1331325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137187217",
+      "properties": {
+        "@id": "way/137187217",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9354559,
+            35.1064328
+          ],
+          [
+            126.9355407,
+            35.1080083
+          ],
+          [
+            126.9352617,
+            35.1101323
+          ],
+          [
+            126.9352617,
+            35.1102727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137187218",
+      "properties": {
+        "@id": "way/137187218",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9352617,
+            35.1101323
+          ],
+          [
+            126.9353261,
+            35.1080961
+          ],
+          [
+            126.9352617,
+            35.1064109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137187221",
+      "properties": {
+        "@id": "way/137187221",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9344678,
+            35.1077275
+          ],
+          [
+            126.9347617,
+            35.1087167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137187222",
+      "properties": {
+        "@id": "way/137187222",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.934854,
+            35.1076748
+          ],
+          [
+            126.9350472,
+            35.1094126
+          ],
+          [
+            126.9350544,
+            35.1096629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137187225",
+      "properties": {
+        "@id": "way/137187225",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.935648,
+            35.1065513
+          ],
+          [
+            126.9357553,
+            35.1079908
+          ],
+          [
+            126.9352617,
+            35.1102727
+          ],
+          [
+            126.9352094,
+            35.1104282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137187220",
+      "properties": {
+        "@id": "way/137187220",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9353282,
+            35.1135063
+          ],
+          [
+            126.9354978,
+            35.1134323
+          ],
+          [
+            126.9362488,
+            35.112502
+          ],
+          [
+            126.9364848,
+            35.1112031
+          ],
+          [
+            126.9363775,
+            35.1103078
+          ],
+          [
+            126.9360771,
+            35.1094302
+          ],
+          [
+            126.9358411,
+            35.1089211
+          ],
+          [
+            126.9358411,
+            35.1084472
+          ],
+          [
+            126.9360353,
+            35.1065382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137187223",
+      "properties": {
+        "@id": "way/137187223",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9340306,
+            35.1066298
+          ],
+          [
+            126.9340595,
+            35.1073636
+          ],
+          [
+            126.9342543,
+            35.1077845
+          ],
+          [
+            126.9345965,
+            35.1082716
+          ],
+          [
+            126.9347617,
+            35.1087167
+          ],
+          [
+            126.9349613,
+            35.1092546
+          ],
+          [
+            126.9350544,
+            35.1096629
+          ],
+          [
+            126.9351974,
+            35.1102903
+          ],
+          [
+            126.9352094,
+            35.1104282
+          ],
+          [
+            126.9353261,
+            35.1117648
+          ],
+          [
+            126.9353282,
+            35.1135063
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173669",
+      "properties": {
+        "@id": "node/355173669",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7696229,
+          35.12479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173666",
+      "properties": {
+        "@id": "node/355173666",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.788311,
+          35.1321517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173675",
+      "properties": {
+        "@id": "node/355173675",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7996019,
+          35.1434413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173671",
+      "properties": {
+        "@id": "node/355173671",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8415321,
+          35.1432469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173677",
+      "properties": {
+        "@id": "node/355173677",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8116505,
+          35.1440314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173673",
+      "properties": {
+        "@id": "node/355173673",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8486298,
+          35.14681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173764",
+      "properties": {
+        "@id": "node/355173764",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8585836,
+          35.1504728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173762",
+      "properties": {
+        "@id": "node/355173762",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8694561,
+          35.1515415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173768",
+      "properties": {
+        "@id": "node/355173768",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8768144,
+          35.1519385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173756",
+      "properties": {
+        "@id": "node/355173756",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9281965,
+          35.1331325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173751",
+      "properties": {
+        "@id": "node/355173751",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.922902,
+          35.1394062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173758",
+      "properties": {
+        "@id": "node/355173758",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9340306,
+          35.1066298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173754",
+      "properties": {
+        "@id": "node/355173754",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.932282,
+          35.1236624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173766",
+      "properties": {
+        "@id": "node/355173766",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8843362,
+          35.153317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173781",
+      "properties": {
+        "@id": "node/355173781",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8955672,
+          35.1518098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173770",
+      "properties": {
+        "@id": "node/355173770",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9017218,
+          35.1545606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173782",
+      "properties": {
+        "@id": "node/355173782",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.915474,
+          35.1501957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173785",
+      "properties": {
+        "@id": "node/355173785",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9100288,
+          35.1537794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/355173753",
+      "properties": {
+        "@id": "node/355173753",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3140335,
+            "reltags": {
+              "name": "광주광역시 지하철1호선(Gwangju Subway)",
+              "ref": "1",
+              "route": "subway",
+              "source": "Naver, daum, mappy, 아이나비",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9195332,
+          35.1471807
+        ]
+      }
+    }
+  ]
+}
