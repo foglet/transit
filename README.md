@@ -6,7 +6,7 @@ This repository contains transit routes from the world's cities. It is divided b
 
 Most files are from OpenStreetMap (OSM) queried via overpass-turbo.eu. Search parameters:
 
-	route=ferry (ferry)
+	route=ferry (ferry, in filename) 
 	route=funicular (funicular) or railway=funicular (railfun)
 	route=light_rail or (lr) railway=light_rail (raillight)
 	route=tram (tram) or railway=tram (railtram)
