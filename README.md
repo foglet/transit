@@ -9,14 +9,14 @@ Most files are from [OpenStreetMap](http://www.openstreetmap.org) (OSM) queried 
 	route=ferry,
 	route=funicular or railway=funicular,
 	route=light_rail or railway=light_rail,
-	route=tram or  railway=tram,
+	route=tram or railway=tram,
 	route=subway or railway=subway,
 	route=monorail or railway=monorail,
 	route=trolley_bus or trolley_wire=yes
 
 #### Naming Convention
 
-Most files are labeled by two-letter country code, city/location, and by transit type. For example,
+Files are generally labeled by two-letter country code, city/location, and by transit type. For example,
 
 	ch-lausanne-lr.geojson		(Switzerland, Lausanne, lightrail)
 	fi-helsinki-tram.geojson	(Finland, Helsinki, tram)
