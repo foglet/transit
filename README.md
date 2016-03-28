@@ -6,13 +6,13 @@ This repository contains transit routes from the world's cities. It is divided b
 
 Most files are from OpenStreetMap (OSM) queried via overpass-turbo.eu. Search parameters:
 
-	route=ferry (ferry, in filename) 
-	route=funicular (funicular) or railway=funicular (railfun)
-	route=light_rail or (lr) railway=light_rail (raillight)
-	route=tram (tram) or railway=tram (railtram)
-	route=subway (metro) or railway=subway
-	route=monorail (monorail) or railway=monorail (railmono)
-	route=trolley_bus (trolley) or trolley_wire=yes (trolleyes)
+	route=ferry,
+	route=funicular or railway=funicular,
+	route=light_rail or railway=light_rail,
+	route=tram or  railway=tram,
+	route=subway or railway=subway,
+	route=monorail or railway=monorail,
+	route=trolley_bus or trolley_wire=yes
 
 #### Naming Convention
 
@@ -20,4 +20,3 @@ Most files are labeled by two-letter country code, city/location, and the query 
 
 	ch-lausanne-lr.geojson		(Switzerland, Lausanne, lightrail)
 	fi-helsinki-tram.geojson	(Finland, Helsinki, tram)
-
