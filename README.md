@@ -16,7 +16,7 @@ Most files are from [OpenStreetMap](http://www.openstreetmap.org) (OSM) queried 
 
 #### Naming Convention
 
-Most files are labeled by two-letter country code, city/location, and the query parameter tag from above. For example,
+Most files are labeled by two-letter country code, city/location, and by transit type. For example,
 
 	ch-lausanne-lr.geojson		(Switzerland, Lausanne, lightrail)
 	fi-helsinki-tram.geojson	(Finland, Helsinki, tram)
