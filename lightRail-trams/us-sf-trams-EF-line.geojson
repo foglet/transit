@@ -11,6 +11,7 @@
             "role": "",
             "rel": 2007933,
             "reltags": {
+              "colour": "#f0e68c",
               "from": "17th St & Castro St",
               "name": "F-Market & Wharves: Inbound to Fisherman's Wharf",
               "operator": "San Francisco Municipal Railway",
@@ -318,6 +319,7 @@
             "role": "",
             "rel": 2007934,
             "reltags": {
+              "colour": "#f0e68c",
               "from": "Jones St & Beach St",
               "name": "F-Market & Wharves: Outbound to Castro",
               "operator": "San Francisco Municipal Railway",
@@ -665,6 +667,7 @@
             "role": "",
             "rel": 2007934,
             "reltags": {
+              "colour": "#f0e68c",
               "from": "Jones St & Beach St",
               "name": "F-Market & Wharves: Outbound to Castro",
               "operator": "San Francisco Municipal Railway",
@@ -712,6 +715,7 @@
             "role": "",
             "rel": 2007934,
             "reltags": {
+              "colour": "#f0e68c",
               "from": "Jones St & Beach St",
               "name": "F-Market & Wharves: Outbound to Castro",
               "operator": "San Francisco Municipal Railway",
@@ -763,6 +767,7 @@
             "role": "",
             "rel": 2007934,
             "reltags": {
+              "colour": "#f0e68c",
               "from": "Jones St & Beach St",
               "name": "F-Market & Wharves: Outbound to Castro",
               "operator": "San Francisco Municipal Railway",
@@ -806,10 +811,27 @@
             "role": "",
             "rel": 2007933,
             "reltags": {
+              "colour": "#f0e68c",
               "from": "17th St & Castro St",
               "name": "F-Market & Wharves: Inbound to Fisherman's Wharf",
               "operator": "San Francisco Municipal Railway",
               "ref": "F",
+              "route": "tram",
+              "to": "Jones St & Beach St",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5953000,
+            "reltags": {
+              "colour": "#1E9999",
+              "from": "4th St & King St",
+              "name": "E-Embarcadero: Inbound to Fisherman's Wharf",
+              "note": "Needs proper platforms",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
               "route": "tram",
               "to": "Jones St & Beach St",
               "type": "route"
@@ -909,8 +931,8 @@
             37.8008283
           ],
           [
-            -122.3991447,
-            37.800912
+            -122.3991461,
+            37.8009134
           ],
           [
             -122.3992274,
@@ -1041,8 +1063,8 @@
             37.8084133
           ],
           [
-            -122.4116048,
-            37.8085077
+            -122.411617,
+            37.8085097
           ],
           [
             -122.4123826,
@@ -1069,12 +1091,12 @@
             37.8086276
           ],
           [
-            -122.4130203,
-            37.80862
+            -122.4130511,
+            37.8086141
           ],
           [
-            -122.4134561,
-            37.8085647
+            -122.4134666,
+            37.8085613
           ],
           [
             -122.4154798,
@@ -1137,6 +1159,918 @@
     },
     {
       "type": "Feature",
+      "id": "way/25025892",
+      "properties": {
+        "@id": "way/25025892",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5953000,
+            "reltags": {
+              "colour": "#1E9999",
+              "from": "4th St & King St",
+              "name": "E-Embarcadero: Inbound to Fisherman's Wharf",
+              "note": "Needs proper platforms",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "Jones St & Beach St",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3979174,
+            37.7727453
+          ],
+          [
+            -122.3977245,
+            37.7732862
+          ],
+          [
+            -122.3976876,
+            37.7733664
+          ],
+          [
+            -122.3976503,
+            37.7734307
+          ],
+          [
+            -122.3976058,
+            37.7734895
+          ],
+          [
+            -122.3975472,
+            37.7735506
+          ],
+          [
+            -122.3974798,
+            37.7736101
+          ],
+          [
+            -122.3974092,
+            37.773665
+          ],
+          [
+            -122.397133,
+            37.7738821
+          ],
+          [
+            -122.3966775,
+            37.7742435
+          ],
+          [
+            -122.3963619,
+            37.7744857
+          ],
+          [
+            -122.3957565,
+            37.774945
+          ],
+          [
+            -122.3952384,
+            37.7753427
+          ],
+          [
+            -122.3944632,
+            37.7759569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160312612",
+      "properties": {
+        "@id": "way/160312612",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5953001,
+            "reltags": {
+              "FIXME": "Needs proper platforms added",
+              "colour": "#1E9999",
+              "from": "Jones St & Beach St",
+              "name": "E-Embarcadero: Outbound to Caltrain",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "4th St & King St",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3945287,
+            37.7759994
+          ],
+          [
+            -122.3952993,
+            37.7753908
+          ],
+          [
+            -122.3958002,
+            37.7749899
+          ],
+          [
+            -122.3964018,
+            37.7745125
+          ],
+          [
+            -122.396717,
+            37.7742667
+          ],
+          [
+            -122.3971697,
+            37.7739107
+          ],
+          [
+            -122.3974456,
+            37.7736904
+          ],
+          [
+            -122.397517,
+            37.7736334
+          ],
+          [
+            -122.3975837,
+            37.773575
+          ],
+          [
+            -122.3976493,
+            37.7735113
+          ],
+          [
+            -122.3977025,
+            37.7734506
+          ],
+          [
+            -122.397754,
+            37.7733856
+          ],
+          [
+            -122.3978044,
+            37.7733065
+          ],
+          [
+            -122.3978436,
+            37.7732312
+          ],
+          [
+            -122.3978774,
+            37.7731524
+          ],
+          [
+            -122.3980169,
+            37.772769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396435906",
+      "properties": {
+        "@id": "way/396435906",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5953001,
+            "reltags": {
+              "FIXME": "Needs proper platforms added",
+              "colour": "#1E9999",
+              "from": "Jones St & Beach St",
+              "name": "E-Embarcadero: Outbound to Caltrain",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "4th St & King St",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3899662,
+            37.7907035
+          ],
+          [
+            -122.3897592,
+            37.7905393
+          ],
+          [
+            -122.3887181,
+            37.7897075
+          ],
+          [
+            -122.3886385,
+            37.7896366
+          ],
+          [
+            -122.3885675,
+            37.7895667
+          ],
+          [
+            -122.3884883,
+            37.7894831
+          ],
+          [
+            -122.3884155,
+            37.7893927
+          ],
+          [
+            -122.3883526,
+            37.7893003
+          ],
+          [
+            -122.3882938,
+            37.7892105
+          ],
+          [
+            -122.3882402,
+            37.7891113
+          ],
+          [
+            -122.3881959,
+            37.7890134
+          ],
+          [
+            -122.3881553,
+            37.7889074
+          ],
+          [
+            -122.3881187,
+            37.7887904
+          ],
+          [
+            -122.3880205,
+            37.7884119
+          ],
+          [
+            -122.3879671,
+            37.7882058
+          ],
+          [
+            -122.3879367,
+            37.7880752
+          ],
+          [
+            -122.3879177,
+            37.7879493
+          ],
+          [
+            -122.3879019,
+            37.7878177
+          ],
+          [
+            -122.387895,
+            37.7876914
+          ],
+          [
+            -122.3878931,
+            37.7875665
+          ],
+          [
+            -122.3878992,
+            37.7874243
+          ],
+          [
+            -122.3883325,
+            37.781647
+          ],
+          [
+            -122.3883458,
+            37.7815238
+          ],
+          [
+            -122.3883592,
+            37.7814082
+          ],
+          [
+            -122.3883804,
+            37.7813027
+          ],
+          [
+            -122.388404,
+            37.7811991
+          ],
+          [
+            -122.3884383,
+            37.7810956
+          ],
+          [
+            -122.3884785,
+            37.7809991
+          ],
+          [
+            -122.3885263,
+            37.7809025
+          ],
+          [
+            -122.388579,
+            37.7808133
+          ],
+          [
+            -122.3886368,
+            37.7807267
+          ],
+          [
+            -122.3887057,
+            37.7806405
+          ],
+          [
+            -122.3887816,
+            37.780556
+          ],
+          [
+            -122.3888586,
+            37.7804804
+          ],
+          [
+            -122.3889498,
+            37.7803956
+          ],
+          [
+            -122.3890391,
+            37.7803191
+          ],
+          [
+            -122.3896719,
+            37.7798111
+          ],
+          [
+            -122.3908136,
+            37.7789123
+          ],
+          [
+            -122.3909984,
+            37.7787639
+          ],
+          [
+            -122.3912442,
+            37.7785606
+          ],
+          [
+            -122.3913965,
+            37.778435
+          ],
+          [
+            -122.3915436,
+            37.7783212
+          ],
+          [
+            -122.3920237,
+            37.7779714
+          ],
+          [
+            -122.3921929,
+            37.7778462
+          ],
+          [
+            -122.3923512,
+            37.7777242
+          ],
+          [
+            -122.3929319,
+            37.7772688
+          ],
+          [
+            -122.3938725,
+            37.7765238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396435909",
+      "properties": {
+        "@id": "way/396435909",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5953000,
+            "reltags": {
+              "colour": "#1E9999",
+              "from": "4th St & King St",
+              "name": "E-Embarcadero: Inbound to Fisherman's Wharf",
+              "note": "Needs proper platforms",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "Jones St & Beach St",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3938188,
+            37.7764772
+          ],
+          [
+            -122.3928953,
+            37.777237
+          ],
+          [
+            -122.3923165,
+            37.777695
+          ],
+          [
+            -122.3921552,
+            37.7778194
+          ],
+          [
+            -122.391991,
+            37.7779438
+          ],
+          [
+            -122.3916839,
+            37.7781701
+          ],
+          [
+            -122.3913543,
+            37.7784042
+          ],
+          [
+            -122.3911552,
+            37.778552
+          ],
+          [
+            -122.3909386,
+            37.7787181
+          ],
+          [
+            -122.3907548,
+            37.7788636
+          ],
+          [
+            -122.3896128,
+            37.7797647
+          ],
+          [
+            -122.3892169,
+            37.7800764
+          ],
+          [
+            -122.3891027,
+            37.7801703
+          ],
+          [
+            -122.3889803,
+            37.7802768
+          ],
+          [
+            -122.3888931,
+            37.7803559
+          ],
+          [
+            -122.3888035,
+            37.7804451
+          ],
+          [
+            -122.3887298,
+            37.780524
+          ],
+          [
+            -122.3886542,
+            37.7806131
+          ],
+          [
+            -122.3885868,
+            37.780705
+          ],
+          [
+            -122.3885276,
+            37.7807927
+          ],
+          [
+            -122.3884747,
+            37.780884
+          ],
+          [
+            -122.3884242,
+            37.7809838
+          ],
+          [
+            -122.388381,
+            37.7810838
+          ],
+          [
+            -122.388344,
+            37.7811882
+          ],
+          [
+            -122.3883127,
+            37.7812948
+          ],
+          [
+            -122.3882868,
+            37.7814059
+          ],
+          [
+            -122.3882677,
+            37.7815206
+          ],
+          [
+            -122.388253,
+            37.7816447
+          ],
+          [
+            -122.3878333,
+            37.7871735
+          ],
+          [
+            -122.3878188,
+            37.7874192
+          ],
+          [
+            -122.3878214,
+            37.7875684
+          ],
+          [
+            -122.3878281,
+            37.7876977
+          ],
+          [
+            -122.3878419,
+            37.7878249
+          ],
+          [
+            -122.387859,
+            37.7879577
+          ],
+          [
+            -122.3878844,
+            37.7880872
+          ],
+          [
+            -122.3879144,
+            37.788215
+          ],
+          [
+            -122.3880376,
+            37.7886934
+          ],
+          [
+            -122.3880645,
+            37.7887979
+          ],
+          [
+            -122.3880974,
+            37.7889191
+          ],
+          [
+            -122.3881323,
+            37.7890283
+          ],
+          [
+            -122.3881728,
+            37.7891288
+          ],
+          [
+            -122.3882254,
+            37.7892349
+          ],
+          [
+            -122.3882789,
+            37.789329
+          ],
+          [
+            -122.3883447,
+            37.7894256
+          ],
+          [
+            -122.3884203,
+            37.7895194
+          ],
+          [
+            -122.3885007,
+            37.7896082
+          ],
+          [
+            -122.3885746,
+            37.7896813
+          ],
+          [
+            -122.388659,
+            37.7897525
+          ],
+          [
+            -122.3897006,
+            37.7905846
+          ],
+          [
+            -122.3899037,
+            37.7907506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160312613",
+      "properties": {
+        "@id": "way/160312613",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5953001,
+            "reltags": {
+              "FIXME": "Needs proper platforms added",
+              "colour": "#1E9999",
+              "from": "Jones St & Beach St",
+              "name": "E-Embarcadero: Outbound to Caltrain",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "4th St & King St",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3938725,
+            37.7765238
+          ],
+          [
+            -122.3942174,
+            37.7762524
+          ],
+          [
+            -122.3942532,
+            37.7762243
+          ],
+          [
+            -122.3945287,
+            37.7759994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160312615",
+      "properties": {
+        "@id": "way/160312615",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5953000,
+            "reltags": {
+              "colour": "#1E9999",
+              "from": "4th St & King St",
+              "name": "E-Embarcadero: Inbound to Fisherman's Wharf",
+              "note": "Needs proper platforms",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "Jones St & Beach St",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3944632,
+            37.7759569
+          ],
+          [
+            -122.3941942,
+            37.7761767
+          ],
+          [
+            -122.3941595,
+            37.7762045
+          ],
+          [
+            -122.3940066,
+            37.7763269
+          ],
+          [
+            -122.3938188,
+            37.7764772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/29480530",
+      "properties": {
+        "@id": "way/29480530",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5953000,
+            "reltags": {
+              "colour": "#1E9999",
+              "from": "4th St & King St",
+              "name": "E-Embarcadero: Inbound to Fisherman's Wharf",
+              "note": "Needs proper platforms",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "Jones St & Beach St",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3899037,
+            37.7907506
+          ],
+          [
+            -122.3899988,
+            37.7908559
+          ],
+          [
+            -122.3900676,
+            37.7909432
+          ],
+          [
+            -122.3901259,
+            37.7910065
+          ],
+          [
+            -122.3902353,
+            37.7911193
+          ],
+          [
+            -122.390323,
+            37.7912195
+          ],
+          [
+            -122.3904054,
+            37.7913227
+          ],
+          [
+            -122.3904748,
+            37.7914227
+          ],
+          [
+            -122.3905359,
+            37.7915255
+          ],
+          [
+            -122.3905924,
+            37.7916307
+          ],
+          [
+            -122.3906377,
+            37.791728
+          ],
+          [
+            -122.3907405,
+            37.7919746
+          ],
+          [
+            -122.3907822,
+            37.7920623
+          ],
+          [
+            -122.3908308,
+            37.7921482
+          ],
+          [
+            -122.3908848,
+            37.7922277
+          ],
+          [
+            -122.3909448,
+            37.7923084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160312619",
+      "properties": {
+        "@id": "way/160312619",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5953001,
+            "reltags": {
+              "FIXME": "Needs proper platforms added",
+              "colour": "#1E9999",
+              "from": "Jones St & Beach St",
+              "name": "E-Embarcadero: Outbound to Caltrain",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "4th St & King St",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3910993,
+            37.7922765
+          ],
+          [
+            -122.3909679,
+            37.791896
+          ],
+          [
+            -122.39092,
+            37.7917772
+          ],
+          [
+            -122.3908653,
+            37.7916576
+          ],
+          [
+            -122.3908061,
+            37.7915492
+          ],
+          [
+            -122.3907474,
+            37.791449
+          ],
+          [
+            -122.3906788,
+            37.7913432
+          ],
+          [
+            -122.3906084,
+            37.7912452
+          ],
+          [
+            -122.3905244,
+            37.7911388
+          ],
+          [
+            -122.390439,
+            37.7910426
+          ],
+          [
+            -122.3903561,
+            37.7909652
+          ],
+          [
+            -122.3902743,
+            37.7908942
+          ],
+          [
+            -122.3902158,
+            37.7908493
+          ],
+          [
+            -122.3901442,
+            37.7908062
+          ],
+          [
+            -122.3900506,
+            37.7907553
+          ],
+          [
+            -122.3899662,
+            37.7907035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/27570913",
       "properties": {
         "@id": "way/27570913",
@@ -1145,12 +2079,29 @@
             "role": "",
             "rel": 2007934,
             "reltags": {
+              "colour": "#f0e68c",
               "from": "Jones St & Beach St",
               "name": "F-Market & Wharves: Outbound to Castro",
               "operator": "San Francisco Municipal Railway",
               "ref": "F",
               "route": "tram",
               "to": "17th St & Castro St",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5953001,
+            "reltags": {
+              "FIXME": "Needs proper platforms added",
+              "colour": "#1E9999",
+              "from": "Jones St & Beach St",
+              "name": "E-Embarcadero: Outbound to Caltrain",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "4th St & King St",
               "type": "route"
             }
           }
@@ -1248,8 +2199,8 @@
             37.800985
           ],
           [
-            -122.3991724,
-            37.8008886
+            -122.3991784,
+            37.8008949
           ],
           [
             -122.3991036,
@@ -1376,12 +2327,29 @@
             "role": "",
             "rel": 2007934,
             "reltags": {
+              "colour": "#f0e68c",
               "from": "Jones St & Beach St",
               "name": "F-Market & Wharves: Outbound to Castro",
               "operator": "San Francisco Municipal Railway",
               "ref": "F",
               "route": "tram",
               "to": "17th St & Castro St",
+              "type": "route"
+            }
+          },
+          {
+            "role": "",
+            "rel": 5953001,
+            "reltags": {
+              "FIXME": "Needs proper platforms added",
+              "colour": "#1E9999",
+              "from": "Jones St & Beach St",
+              "name": "E-Embarcadero: Outbound to Caltrain",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "4th St & King St",
               "type": "route"
             }
           }
@@ -1495,6 +2463,118 @@
     },
     {
       "type": "Feature",
+      "id": "way/27571804",
+      "properties": {
+        "@id": "way/27571804",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5953000,
+            "reltags": {
+              "colour": "#1E9999",
+              "from": "4th St & King St",
+              "name": "E-Embarcadero: Inbound to Fisherman's Wharf",
+              "note": "Needs proper platforms",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "Jones St & Beach St",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3926366,
+            37.7938991
+          ],
+          [
+            -122.3930299,
+            37.7942542
+          ],
+          [
+            -122.3931488,
+            37.7943628
+          ],
+          [
+            -122.3932456,
+            37.7944455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30831796",
+      "properties": {
+        "@id": "way/30831796",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5953001,
+            "reltags": {
+              "FIXME": "Needs proper platforms added",
+              "colour": "#1E9999",
+              "from": "Jones St & Beach St",
+              "name": "E-Embarcadero: Outbound to Caltrain",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "4th St & King St",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3925413,
+            37.7937635
+          ],
+          [
+            -122.3922413,
+            37.7934713
+          ],
+          [
+            -122.3919391,
+            37.7932104
+          ],
+          [
+            -122.391499,
+            37.7928658
+          ],
+          [
+            -122.3913821,
+            37.7927571
+          ],
+          [
+            -122.3912564,
+            37.7926403
+          ],
+          [
+            -122.3911868,
+            37.7925334
+          ],
+          [
+            -122.3911799,
+            37.7925227
+          ],
+          [
+            -122.3910993,
+            37.7922765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/93448545",
       "properties": {
         "@id": "way/93448545",
@@ -1503,6 +2583,7 @@
             "role": "",
             "rel": 2007934,
             "reltags": {
+              "colour": "#f0e68c",
               "from": "Jones St & Beach St",
               "name": "F-Market & Wharves: Outbound to Castro",
               "operator": "San Francisco Municipal Railway",
@@ -1566,6 +2647,56 @@
     },
     {
       "type": "Feature",
+      "id": "way/93448546",
+      "properties": {
+        "@id": "way/93448546",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5953000,
+            "reltags": {
+              "colour": "#1E9999",
+              "from": "4th St & King St",
+              "name": "E-Embarcadero: Inbound to Fisherman's Wharf",
+              "note": "Needs proper platforms",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
+              "route": "tram",
+              "to": "Jones St & Beach St",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3914599,
+            37.7928835
+          ],
+          [
+            -122.391499,
+            37.792913
+          ],
+          [
+            -122.3921006,
+            37.7933995
+          ],
+          [
+            -122.3925122,
+            37.7937868
+          ],
+          [
+            -122.3926366,
+            37.7938991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/93448549",
       "properties": {
         "@id": "way/93448549",
@@ -1574,6 +2705,7 @@
             "role": "",
             "rel": 2007933,
             "reltags": {
+              "colour": "#f0e68c",
               "from": "17th St & Castro St",
               "name": "F-Market & Wharves: Inbound to Fisherman's Wharf",
               "operator": "San Francisco Municipal Railway",
@@ -1637,101 +2769,105 @@
     },
     {
       "type": "Feature",
-      "id": "node/1578907655",
+      "id": "way/122595682",
       "properties": {
-        "@id": "node/1578907655",
+        "@id": "way/122595682",
         "@relations": [
           {
-            "role": "stop",
-            "rel": 1959009,
+            "role": "",
+            "rel": 5953001,
             "reltags": {
-              "from": "Powell St & Market St",
-              "name": "60-Powell/Hyde: Outbound to Fisherman's Wharf",
-              "nextbus:agency": "sf-muni",
-              "nextbus:route": "60",
-              "operator": "Muni",
-              "railway": "tram",
-              "ref": "60",
+              "FIXME": "Needs proper platforms added",
+              "colour": "#1E9999",
+              "from": "Jones St & Beach St",
+              "name": "E-Embarcadero: Outbound to Caltrain",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
               "route": "tram",
-              "to": "Hyde St & Beach St",
-              "tram": "cable_car",
-              "type": "route"
-            }
-          },
-          {
-            "role": "stop",
-            "rel": 1959010,
-            "reltags": {
-              "from": "Powell St & Market St",
-              "name": "59-Powell/Mason: Outbound to Fisherman's Wharf",
-              "nextbus:agency": "sf-muni",
-              "nextbus:route": "59",
-              "operator": "Muni",
-              "railway": "tram",
-              "ref": "59",
-              "route": "tram",
-              "to": "Taylor St & Bay St",
-              "tram": "cable_car",
+              "to": "4th St & King St",
               "type": "route"
             }
           }
         ]
       },
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -122.4077233,
-          37.7848521
+          [
+            -122.3933084,
+            37.79444
+          ],
+          [
+            -122.3929907,
+            37.7941735
+          ],
+          [
+            -122.3925996,
+            37.7938167
+          ],
+          [
+            -122.3925413,
+            37.7937635
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/3396505661",
+      "id": "way/160312620",
       "properties": {
-        "@id": "node/3396505661",
+        "@id": "way/160312620",
         "@relations": [
           {
-            "role": "stop",
-            "rel": 3433157,
+            "role": "",
+            "rel": 5953000,
             "reltags": {
-              "from": "Taylor St & Bay St",
-              "name": "59-Powell/Mason: Inbound to Downtown",
-              "nextbus:agency": "sf-muni",
-              "nextbus:route": "59",
-              "operator": "Muni",
-              "railway": "tram",
-              "ref": "59",
+              "colour": "#1E9999",
+              "from": "4th St & King St",
+              "name": "E-Embarcadero: Inbound to Fisherman's Wharf",
+              "note": "Needs proper platforms",
+              "operator": "San Francisco Municipal Railway",
+              "public_transport:version": "2",
+              "ref": "E",
               "route": "tram",
-              "to": "Powell St & Market St",
-              "tram": "cable_car",
-              "type": "route"
-            }
-          },
-          {
-            "role": "stop",
-            "rel": 3433158,
-            "reltags": {
-              "from": "Hyde St & Beach St",
-              "name": "60-Powell/Hyde: Inbound to Downtown",
-              "nextbus:agency": "sf-muni",
-              "nextbus:route": "60",
-              "operator": "Muni",
-              "railway": "tram",
-              "ref": "60",
-              "route": "tram",
-              "to": "Powell St & Market St",
-              "tram": "cable_car",
+              "to": "Jones St & Beach St",
               "type": "route"
             }
           }
         ]
       },
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -122.4076957,
-          37.7848553
+          [
+            -122.3909448,
+            37.7923084
+          ],
+          [
+            -122.3910128,
+            37.7923912
+          ],
+          [
+            -122.3911302,
+            37.7925444
+          ],
+          [
+            -122.391145,
+            37.7925635
+          ],
+          [
+            -122.3912036,
+            37.792639
+          ],
+          [
+            -122.3913087,
+            37.7927452
+          ],
+          [
+            -122.3914599,
+            37.7928835
+          ]
         ]
       }
     }
